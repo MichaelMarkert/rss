@@ -1,8 +1,6 @@
 import json
-
 import requests
 from bs4 import BeautifulSoup
-from tqdm import tqdm
 
 BASE_URL = "https://huggingface.co/papers"
 
@@ -31,7 +29,7 @@ def extract_abstraction(url):
     return abstract, datetime_str
 
 
-for h3 in tqdm(h3s):
+for h3 in h3s:
     a = h3.find("a")
     title = a.text
     link = a["href"]
