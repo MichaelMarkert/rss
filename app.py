@@ -3,13 +3,10 @@ import requests
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://huggingface.co/papers"
-
 page = requests.get(BASE_URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
-
 h3s = soup.find_all("h3")
-
 papers = []
 
 
@@ -46,7 +43,7 @@ feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hugging Face Papers",
     "home_page_url": BASE_URL,
-    "feed_url": "https://example.org/feed.json",
+    "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_papers.json",
     "items": sorted(
         [
             {
@@ -63,5 +60,5 @@ feed = {
     ),
 }
 
-with open("feed.json", "w") as f:
+with open("hf_papers.json", "w") as f:
     json.dump(feed, f)
