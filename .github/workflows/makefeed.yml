@@ -1,8 +1,8 @@
-name: 03 - Python Script Workflow
+name: Makefeed
 
 on:
   schedule:
-  - cron: "0 2 * * MON-FRI" # Runs at 02:00 UTC
+  - cron: "0 5,17 * * *" # Runs at 02:00 UTC
   workflow_dispatch:
 
 jobs:
