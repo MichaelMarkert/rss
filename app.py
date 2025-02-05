@@ -1,7 +1,6 @@
 import json
 import requests
 from bs4 import BeautifulSoup
-import locale
 from datetime import datetime
 
 ## HF papers
@@ -116,8 +115,6 @@ with open("hf_blog.json", "w") as f:
 
 ## Museumsbund Stellenportal
 
-locale.setlocale(locale.LC_TIME, 'de_DE.UTF-8')
-
 BASE_URL = "https://www.museumsbund.de/stellenangebote/"
 page = requests.get(BASE_URL)
 soup = BeautifulSoup(page.content, "html.parser")
@@ -130,13 +127,25 @@ def extract_abstraction(url):
     soup = BeautifulSoup(page.content, "html.parser")
 
     date = soup.find("h4", "content__sidebar-title").text
-    date = date.replace("Veröffentlicht am ","").lstrip()
-    dt = datetime.strptime(date, '%d. %B %Y')
-    date_published = dt.strftime('%Y-%m-%dT%H:%M:%S+00:00')
+    date_published = date.replace("Veröffentlicht am ","").lstrip()
     site_text = soup.find("div","content__main entry-content")
     site_text = site_text.get_text("\n",strip=True)
     return site_text, date_published
 
+def strdate2datetime(date_str):
+    german_months = {
+        'Januar': 1, 'Februar': 2, 'März': 3, 'April': 4, 'Mai': 5, 'Juni': 6,
+        'Juli': 7, 'August': 8, 'September': 9, 'Oktober': 10, 'November': 11, 'Dezember': 12
+    }
+    try:
+        day, month, year = date_str.split()
+        day = day.replace('.', '')
+        month_num = german_months[month]
+        dt = datetime(int(year), month_num, int(day))
+        return dt.strftime('%Y-%m-%dT%H:%M:%S+00:00')
+    except (ValueError, KeyError) as e:
+        print(f"Error parsing date '{date_str}': {e}")
+        return None
 
 for h3 in h3s:
     title = h3.text
@@ -161,7 +170,7 @@ feed = {
                 "title": p["title"].strip(),
                 "content_text": p["abstract"].strip(),
                 "url": p["url"],
-                "date_published": p["date_published"],
+                "date_published": strdate2date(p["date_published"]).strip(),
             }
             for p in papers
         ],
