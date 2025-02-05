@@ -4,11 +4,10 @@ Different RSS feeds generated from websites parsed with [Beautiful Soup](https:/
 
 ## Available feeds
 
-- [Hugginface Blog](https://github.com/MichaelMarkert/rss/blob/main/hf_blog.json)
-- [Hugginface Papers](https://github.com/MichaelMarkert/rss/blob/main/hf_papers.json)
-- [Hugginface Trending Posts](https://github.com/MichaelMarkert/rss/blob/main/hf_posts.json)
-
-- [Museumsbund Stellenmarkt](https://github.com/MichaelMarkert/rss/blob/main/mb_jobs.json)
+- [Hugginface Blog](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_blog.json)
+- [Hugginface Papers](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_papers.json)
+- [Hugginface Trending Posts](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_posts.json)
+- [Museumsbund Stellenmarkt](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/mb_jobs.json)
 
 ## License
 
