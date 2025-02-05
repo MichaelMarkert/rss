@@ -119,25 +119,13 @@ soup = BeautifulSoup(page.content, "html.parser")
 articles = soup.find_all("article")
 entries = []
 
-def extract_abstraction(url):
-    page = requests.get(url)
-    soup = BeautifulSoup(page.content, "html.parser")
-
-    date = soup.find("div", "mb-6 flex items-center gap-x-4 text-base")
-    if date:
-        span = date.find('span')
-        if span:
-            date = span.text.replace("Published\n","").lstrip()
-    return date
-
 for article in articles:
     a = article.find("a")
     title = article.find("span").text
     link = a["href"]
     url = f"https://huggingface.co{link}"
-    #date = extract_abstraction(url)  
     abstract = article.select_one("div.relative > div.relative.overflow-hidden").get_text("\n", strip=True)
-    entries.append({"title": title, "url": url, "abstract": abstract, "date_published": date})
+    entries.append({"title": title, "url": url, "abstract": abstract})
 
 posts_feed = {
     "version": "https://jsonfeed.org/version/1",
@@ -151,7 +139,7 @@ posts_feed = {
                 "title": p["title"].strip(),
                 "content_text": p["abstract"].strip(),
                 "url": p["url"],
-                "date_published": p["date_published"],
+                "date_published": datetime.now().isoformat(),
             }
             for p in entries
         ],
