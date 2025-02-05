@@ -95,7 +95,7 @@ feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hugging Face Blog",
     "home_page_url": BASE_URL,
-    "feed_url": "https://example.org/feed.json",
+    "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_blog.json",
     "items": 
         [
             {
