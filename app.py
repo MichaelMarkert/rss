@@ -67,10 +67,9 @@ with open("hf_papers.json", "w") as f:
 
 BASE_URL = "https://huggingface.co/blog"
 page = requests.get(BASE_URL)
+
 soup = BeautifulSoup(page.content, "html.parser")
-
 h2s = soup.find_all("h2")
-
 papers = []
 
 def extract_abstraction(url):
@@ -84,8 +83,7 @@ def extract_abstraction(url):
             date = span.text.replace("Published\n","").lstrip()
     return date
 
-
-for h2 in tqdm(h2s):
+for h2 in h2s:
     a = h2.find_parents("a",limit=1)[0]
     title = h2.text
     link = a["href"]
@@ -110,7 +108,6 @@ feed = {
             for p in papers
         ],
 }
-
 
 with open("hf_blog.json", "w") as f:
     json.dump(feed, f)
