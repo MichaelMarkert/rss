@@ -43,7 +43,7 @@ for h3 in h3s:
 papers_feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hugging Face Papers",
-    "home_page_url": BASE_URL,
+    "home_page_url": "https://huggingface.co/",
     "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_papers.json",
     "items": sorted(
         [
@@ -94,7 +94,7 @@ for h2 in h2s:
 blog_feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hugging Face Blog",
-    "home_page_url": BASE_URL,
+    "home_page_url": "https://huggingface.co/",
     "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_blog.json",
     "items": 
         [
@@ -130,8 +130,8 @@ for article in articles:
 posts_feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hugging Face Posts",
-    "home_page_url": BASE_URL,
-    "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_blog.json",
+    "home_page_url": "https://huggingface.co/",
+    "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_posts.json",
     "items": 
         [
             {
@@ -192,8 +192,8 @@ for h3 in h3s:
 mb_jobs_feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Museumsbund Stellenportal",
-    "home_page_url": BASE_URL,
-    "feed_url": "https://example.org/feed.json",
+    "home_page_url": "https://www.museumsbund.de/",
+    "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/mb_jobs.json",
     "items": 
         [
             {
