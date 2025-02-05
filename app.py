@@ -1,6 +1,8 @@
 import json
 import requests
 from bs4 import BeautifulSoup
+import locale
+from datetime import datetime
 
 ## HF papers
 
@@ -114,6 +116,8 @@ with open("hf_blog.json", "w") as f:
 
 ## Museumsbund Stellenportal
 
+locale.setlocale(locale.LC_TIME, 'de_DE.UTF-8')
+
 BASE_URL = "https://www.museumsbund.de/stellenangebote/"
 page = requests.get(BASE_URL)
 soup = BeautifulSoup(page.content, "html.parser")
@@ -126,7 +130,9 @@ def extract_abstraction(url):
     soup = BeautifulSoup(page.content, "html.parser")
 
     date = soup.find("h4", "content__sidebar-title").text
-    date_published = date.replace("Veröffentlicht am ","").lstrip()
+    date = date.replace("Veröffentlicht am ","").lstrip()
+    dt = datetime.strptime(date, '%d. %B %Y')
+    date_published = dt.strftime('%Y-%m-%dT%H:%M:%S+00:00')
     site_text = soup.find("div","content__main entry-content")
     site_text = site_text.get_text("\n",strip=True)
     return site_text, date_published
