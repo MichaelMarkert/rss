@@ -10,7 +10,7 @@ page = requests.get(BASE_URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
 h3s = soup.find_all("h3")
-papers = []
+entries = []
 
 def extract_abstraction(url):
     page = requests.get(url)
@@ -38,9 +38,9 @@ for h3 in h3s:
         print(f"Failed to extract abstract for {url}: {e}")
         abstract, datetime_str = "", None
 
-    papers.append({"title": title, "url": url, "abstract": abstract, "date_published": datetime_str})
+    entries.append({"title": title, "url": url, "abstract": abstract, "date_published": datetime_str})
 
-feed = {
+papers_feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hugging Face Papers",
     "home_page_url": BASE_URL,
@@ -54,15 +54,12 @@ feed = {
                 "url": p["url"],
                 **({"date_published": p["date_published"]} if p["date_published"] else {}),
             }
-            for p in papers
+            for p in entries
         ],
         key=lambda x: x.get("date_published", ""),
         reverse=True,
     ),
 }
-
-with open("hf_papers.json", "w") as f:
-    json.dump(feed, f)
 
 ## HF Blog
 
@@ -71,7 +68,7 @@ page = requests.get(BASE_URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
 h2s = soup.find_all("h2")
-papers = []
+entries = []
 
 def extract_abstraction(url):
     page = requests.get(url)
@@ -86,15 +83,65 @@ def extract_abstraction(url):
 
 for h2 in h2s:
     a = h2.find_parents("a",limit=1)[0]
+    i_url = a.find("img", "object-cover")["src"]
+    i_url = f"https://huggingface.co{i_url}"
     title = h2.text
     link = a["href"]
     url = f"https://huggingface.co{link}"
     date = extract_abstraction(url)  
-    papers.append({"title": title, "url": url, "abstract": abstract, "date_published": date})
+    entries.append({"title": title, "i_url": i_url, "url": url, "abstract": abstract, "date_published": date})
 
-feed = {
+blog_feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hugging Face Blog",
+    "home_page_url": BASE_URL,
+    "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_blog.json",
+    "items": 
+        [
+            {
+                "id": p["url"],
+                "image": p["i_url"],
+                "title": p["title"].strip(),
+                "content_text": p["abstract"].strip(),
+                "url": p["url"],
+                "date_published": p["date_published"],
+            }
+            for p in entries
+        ],
+}
+
+## HF Posts
+
+BASE_URL = "https://huggingface.co/posts?sort=trending"
+page = requests.get(BASE_URL)
+
+soup = BeautifulSoup(page.content, "html.parser")
+articles = soup.find_all("article")
+entries = []
+
+def extract_abstraction(url):
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, "html.parser")
+
+    date = soup.find("div", "mb-6 flex items-center gap-x-4 text-base")
+    if date:
+        span = date.find('span')
+        if span:
+            date = span.text.replace("Published\n","").lstrip()
+    return date
+
+for article in articles:
+    a = article.find("a")
+    title = article.find("span").text
+    link = a["href"]
+    url = f"https://huggingface.co{link}"
+    #date = extract_abstraction(url)  
+    abstract = article.select_one("div.relative > div.relative.overflow-hidden").get_text("\n", strip=True)
+    entries.append({"title": title, "url": url, "abstract": abstract, "date_published": date})
+
+posts_feed = {
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hugging Face Posts",
     "home_page_url": BASE_URL,
     "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_blog.json",
     "items": 
@@ -106,12 +153,9 @@ feed = {
                 "url": p["url"],
                 "date_published": p["date_published"],
             }
-            for p in papers
+            for p in entries
         ],
 }
-
-with open("hf_blog.json", "w") as f:
-    json.dump(feed, f)
 
 ## Museumsbund Stellenportal
 
@@ -120,7 +164,7 @@ page = requests.get(BASE_URL)
 soup = BeautifulSoup(page.content, "html.parser")
 
 h3s = soup.find_all("h3", "teaser__headline--job")
-papers = []
+entries = []
 
 def extract_abstraction(url):
     page = requests.get(url)
@@ -154,11 +198,10 @@ for h3 in h3s:
     url = link
     whodate = h3.find_next("div", "teaser__excerpt teaser__text p-summary e-content").text.replace("\n","")
     whodate = ' '.join(whodate.split())
-    print(whodate)
     site_text, date_published = extract_abstraction(url)  
-    papers.append({"title": title, "url": url, "abstract": whodate + " | " + site_text, "date_published": date_published})
+    entries.append({"title": title, "url": url, "abstract": whodate + " | " + site_text, "date_published": date_published})
 
-feed = {
+mb_jobs_feed = {
     "version": "https://jsonfeed.org/version/1",
     "title": "Museumsbund Stellenportal",
     "home_page_url": BASE_URL,
@@ -172,9 +215,16 @@ feed = {
                 "url": p["url"],
                 "date_published": strdate2datetime(p["date_published"]).strip(),
             }
-            for p in papers
+            for p in entries
         ],
 }
 
+
+with open("hf_papers.json", "w") as f:
+    json.dump(papers_feed, f)
+with open("hf_blog.json", "w") as f:
+    json.dump(blog_feed, f)
+with open("hf_posts.json", "w") as f:
+    json.dump(posts_feed, f)
 with open("mb_jobs.json", "w") as f:
-    json.dump(feed, f)
+   json.dump(mb_jobs_feed, f)
