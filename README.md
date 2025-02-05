@@ -1,12 +1,8 @@
-# hugging-face-papers-rss
+# RSS feeds from website generator
 
-An RSS feed for Hugging Face Papers.
+RSS feeds for Hugging Face Papers, Huggin Face Blogs, Museumsbund Stellenportal.
 
-Subscribe using:
-
-```
-https://jamesg.blog/hf-papers.xml
-```
+JSON files generated two times daily using Github Actions.
 
 ## License
 
