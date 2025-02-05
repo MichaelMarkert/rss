@@ -170,7 +170,7 @@ feed = {
                 "title": p["title"].strip(),
                 "content_text": p["abstract"].strip(),
                 "url": p["url"],
-                "date_published": strdate2date(p["date_published"]).strip(),
+                "date_published": strdate2datetime(p["date_published"]).strip(),
             }
             for p in papers
         ],
