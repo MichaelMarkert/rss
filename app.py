@@ -159,7 +159,7 @@ def extract_abstraction(url):
     soup = BeautifulSoup(page.content, "html.parser")
 
     date = soup.find("h4", "content__sidebar-title").text
-    date_published = date.replace("Veröffentlicht am ","").lstrip()
+    date_published = date.replace("Veröffentlicht am ","").replace("VerĂ¶ffentlicht am ","").lstrip()
     site_text = soup.find("div","content__main entry-content")
     site_text = site_text.get_text("\n",strip=True)
     return site_text, date_published
