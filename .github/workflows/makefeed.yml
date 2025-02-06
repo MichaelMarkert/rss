@@ -19,7 +19,7 @@ jobs:
           python-version: 3.11 # Install the python version needed
 
       - name: Install Python dependencies
-        run: python -m pip install --upgrade pip requests bs4
+        run: python -m pip install --upgrade pip requests bs4 rfeed
 
       - name: Run python
         run: python app.py
@@ -30,6 +30,7 @@ jobs:
           git config --global user.email 'actions@github.com'
           git add hf_papers.json
           git add hf_blog.json
+          git add hf_blog.xml
           git add hf_posts.json
           git add mb_jobs.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update .json files" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update .json and .xml files" && git push)
