@@ -211,8 +211,8 @@ def generate_mb_jobs():
         day, month, year = date_str.split()
         day = day.replace('.', '')
         month_num = german_months[month]
-        dt = datetime(int(year), month_num, int(day))
-        return dt.strftime('%Y-%m-%dT%H:%M:%S+00:00')
+        date = datetime(int(year), month_num, int(day))
+        return date
 
     for h3 in h3s:
         title = h3.text
@@ -223,7 +223,7 @@ def generate_mb_jobs():
         whodate = ' '.join(whodate.split())
         site_text, date_published = extract_abstraction(url)  
         try:
-            date_published = strdate2datetime(date_published).strip()
+            date_published = strdate2datetime(date_published)
         except:
             date_published = ""
         entries.append({"title": title, "image_url": "", "url": url, "abstract": whodate + " | " + site_text, "date_published": date_published})
@@ -241,19 +241,37 @@ def generate_mb_jobs():
                     "title": p["title"].strip(),
                     "content_text": p["abstract"].strip(),
                     "url": p["url"],
-                    "date_published": p["date_published"],
+                    "date_published": p["date_published"].isoformat(),
                 }
                 for p in entries
             ],
     }
     if not mb_jobs_feed['items']:
         mb_jobs_feed['items'] = [{"id": "1","title": "Something is wrong - no hf papers feed generated","date_published": datetime.now().isoformat(),}]
-    return mb_jobs_feed
+
+    rss_mb_jobs_feed = Feed(
+        title = "Hugging Face Blog",
+        link = "https://huggingface.co/",
+        description = "This is a website scraping RSS feed for the HuggingFace Blog.",
+        items = [
+            Item(
+                title = p["title"].strip(),
+                description = p["abstract"].strip(),
+                pubDate = p["date_published"],
+                link = p["url"],
+                guid = Guid(p["url"]),
+            )
+            for p in entries
+        ]
+    )
+    rss_mb_jobs_feed = rss_mb_jobs_feed.rss()
+
+    return mb_jobs_feed, rss_mb_jobs_feed
 
 papers_feed = generate_hf_papers()
 blog_feed, rss_blog_feed = generate_hf_blog()
 posts_feed = generate_hf_posts()
-mb_jobs_feed = generate_mb_jobs()
+mb_jobs_feed, rss_mb_jobs_feed = generate_mb_jobs()
 
 with open("hf_papers.json", "w") as f:
     json.dump(papers_feed, f)
@@ -265,3 +283,5 @@ with open("hf_posts.json", "w") as f:
     json.dump(posts_feed, f)
 with open("mb_jobs.json", "w") as f:
    json.dump(mb_jobs_feed, f)
+with open("mb_jobs.xml", "w") as f:
+    f.write(rss_mb_jobs_feed)
