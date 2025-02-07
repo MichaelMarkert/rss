@@ -223,7 +223,7 @@ def generate_hf_posts():
     
     return posts_feed, rss_posts_feed
 
-## Museumsbund Stellenportal
+# Museumsbund Stellenportal
 def generate_mb_jobs():
     BASE_URL = "https://www.museumsbund.de/stellenangebote/"
     page = requests.get(BASE_URL)
@@ -306,10 +306,63 @@ def generate_mb_jobs():
 
     return mb_jobs_feed, rss_mb_jobs_feed
 
+# Wikidate Death List
+def generate_wd_death_list():
+    url = "https://qlever.cs.uni-freiburg.de/api/wikidata?query=PREFIX+wd%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX+wdt%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX+wd%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX+wdt%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fperson_id+%3Fperson+%3Fdate+%28GROUP_CONCAT%28%3Fprofession%3B+SEPARATOR%3D%22%2C+%22%29+AS+%3Fprofessions%29+WHERE+%7B%0A++%3Fperson_id+wdt%3AP31+wd%3AQ5+.%0A++%3Fperson_id+wdt%3AP106+%3Fprofession_id+.%0A++%3Fperson_id+wdt%3AP570+%3Fdate+.%0A++BIND+%28YEAR%28NOW%28%29%29+-+70+AS+%3FyearToCheck%29%0A++FILTER+%28YEAR%28%3Fdate%29+%3D+%3FyearToCheck+%26%26+MONTH%28%3Fdate%29+%3D+MONTH%28NOW%28%29%29+%26%26+DAY%28%3Fdate%29+%3D+DAY%28NOW%28%29%29%29%0A++%3Fprofession_id+rdfs%3Alabel+%3Fprofession+.%0A++%3Fperson_id+rdfs%3Alabel+%3Fperson+.%0A++FILTER+%28LANG%28%3Fperson%29+%3D+%22en%22%29+.%0A++%0A++FILTER+%28LANG%28%3Fprofession%29+%3D+%22en%22%29%0A%7D%0AGROUP+BY+%3Fperson_id+%3Fperson+%3Fdate%0AORDER+BY+%3Fperson%0A"
+    response = requests.get(url)
+    data = response.json()
+    now = datetime.now()
+    
+    entries = []
+
+    for result in data['results']['bindings']:
+        entries.append({"title": result['person']['value'], "image_url": "", "url": result['person_id']['value'], "abstract": result['professions']['value'] + " | " + result['date']['value'], "date_published": now})
+    
+    wd_death_feed = {
+        "version": "https://jsonfeed.org/version/1",
+        "title": "Wikidata Death List",
+        "home_page_url": "https://wikidata.org",
+        "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/mb_jobs.json",
+        "items": 
+            [
+                {
+                    "id": p["url"],
+                    "image": p["image_url"],
+                    "title": p["title"].strip(),
+                    "content_text": p["abstract"],
+                    "url": p["url"],
+                    "date_published": p["date_published"].isoformat(),
+                }
+                for p in entries
+            ],
+    }
+    if not wd_death_feed['items']:
+        wd_death_feed['items'] = [{"id": "1","title": "Something is wrong - no Museumsbund jobs feed generated","date_published": datetime.now().isoformat(),}]
+
+    rss_wd_death_feed = Feed(
+        title = "Museumsbund Stellenportal",
+        link = "https://huggingface.co/",
+        description = "This is a website scraping RSS feed for the Museumsbund Stellenportal.",
+        items = [
+            Item(
+                title = p["title"].strip(),
+                description = p["abstract"].strip(),
+                pubDate = p["date_published"],
+                link = p["url"],
+                guid = Guid(p["url"]),
+            )
+            for p in entries
+        ]
+    )
+    rss_wd_death_feed = rss_wd_death_feed.rss()
+
+    return wd_death_feed, rss_wd_death_feed   
+
 papers_feed, rss_papers_feed = generate_hf_papers()
 blog_feed, rss_blog_feed = generate_hf_blog()
 posts_feed, rss_posts_feed = generate_hf_posts()
 mb_jobs_feed, rss_mb_jobs_feed = generate_mb_jobs()
+wd_death_feed, rss_wd_death_feed = generate_wd_death_list()
 
 with open("hf_papers.json", "w") as f:
     json.dump(papers_feed, f)
@@ -327,3 +380,7 @@ with open("mb_jobs.json", "w") as f:
    json.dump(mb_jobs_feed, f)
 with open("mb_jobs.xml", "w") as f:
     f.write(rss_mb_jobs_feed)
+with open("wd_death.json", "w") as f:
+   json.dump(wd_death_feed, f)
+with open("wd_death.xml", "w") as f:
+    f.write(rss_wd_death_feed)
