@@ -316,7 +316,7 @@ def generate_wd_death_list():
     entries = []
 
     for result in data['results']['bindings']:
-        entries.append({"title": result['person']['value'], "image_url": "", "url": result['person_id']['value'], "abstract": result['professions']['value'] + " | " + result['date']['value'], "date_published": now})
+        entries.append({"title": result['person']['value'], "image_url": "", "url": result['person_id']['value'], "abstract": result['professions']['value'] + " | " + result['date']['value'].split("T")[0], "date_published": now})
     
     wd_death_feed = {
         "version": "https://jsonfeed.org/version/1",
