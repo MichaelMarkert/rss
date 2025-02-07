@@ -29,9 +29,11 @@ jobs:
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add hf_papers.json
+          git add hf_papers.xml
           git add hf_blog.json
           git add hf_blog.xml
           git add hf_posts.json
+          git add hf_posts.xml
           git add mb_jobs.json
           git add mb_jobs.xml
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update .json and .xml files" && git push)

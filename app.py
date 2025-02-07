@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from rfeed import *
 from xml.etree import ElementTree as ET
+import textwrap
 
 ## HF papers
 def generate_hf_papers():
@@ -21,13 +22,12 @@ def generate_hf_papers():
 
         time_element = soup.find("time")
         datetime_str = time_element.get("datetime") if time_element else None
-        if datetime_str and not datetime_str.endswith("Z"):
-            datetime_str = f"{datetime_str}Z"
+        date = datetime.strptime(datetime_str, "%Y-%m-%dT%H:%M:%S")
 
         if abstract.startswith("Abstract\n"):
             abstract = abstract[len("Abstract\n") :]
         abstract = abstract.replace("\n", " ")
-        return abstract, datetime_str
+        return abstract, date
 
     for h3 in h3s:
         a = h3.find("a")
@@ -35,12 +35,12 @@ def generate_hf_papers():
         link = a["href"]
         url = f"https://huggingface.co{link}"
         try:
-            abstract, datetime_str = extract_abstraction(url)
+            abstract, date = extract_abstraction(url)
         except Exception as e:
             print(f"Failed to extract abstract for {url}: {e}")
-            abstract, datetime_str = "", None
+            abstract, date = "", ""
 
-        entries.append({"title": title, "image_url": "", "url": url, "abstract": abstract, "date_published": datetime_str})
+        entries.append({"title": title, "image_url": "", "url": url, "abstract": abstract, "date_published": date})
 
     papers_feed = {
         "version": "https://jsonfeed.org/version/1",
@@ -55,14 +55,32 @@ def generate_hf_papers():
                     "title": p["title"].strip(),
                     "content_text": p["abstract"].strip(),
                     "url": p["url"],
-                    "date_published": p["date_published"],
+                    "date_published": p["date_published"].isoformat(),
                 }
                 for p in entries
             ],
     }
     if not papers_feed['items']:
         papers_feed['items'] = [{"id": "1","title": "Something is wrong - no hf papers feed generated","date_published": datetime.now().isoformat(),}] 
-    return papers_feed
+    
+    rss_papers_feed = Feed(
+        title = "Hugging Face Papers",
+        link = "https://huggingface.co/",
+        description = "This is a website scraping RSS feed for the HuggingFace Papers.",
+        items = [
+            Item(
+                title = p["title"].strip(),
+                description = p["abstract"].strip(),
+                pubDate = p["date_published"],
+                link = p["url"],
+                guid = Guid(p["url"]),
+            )
+            for p in entries
+        ]
+    )
+    rss_papers_feed = rss_papers_feed.rss()
+    
+    return papers_feed, rss_papers_feed
 
 ## HF Blog
 def generate_hf_blog():
@@ -77,9 +95,10 @@ def generate_hf_blog():
         page = requests.get(url)
         article = BeautifulSoup(page.content, "html.parser")
 
-        abstract = article.select_one("div.blog-content").get_text("\n", strip=True)[:1000]
+        abstract = article.select_one("div.blog-content").get_text("\n", strip=True)
+        abstract = textwrap.shorten(abstract, width=1000, placeholder="...")
 
-        date = soup.find("div", "mb-6 flex items-center gap-x-4 text-base")
+        date = article.find("div", "mb-6 flex items-center gap-x-4 text-base")
         if date:
             span = date.find('span')
             if span:
@@ -119,13 +138,13 @@ def generate_hf_blog():
                     "title": p["title"].strip(),
                     "content_text": p["abstract"].strip(),
                     "url": p["url"],
-                    "date_published": p["date_published"],
+                    "date_published": p["date_published"].isoformat(),
                 }
                 for p in entries
             ],
     }
     if not blog_feed['items']:
-        blog_feed['items'] = [{"id": "1","title": "Something is wrong - no hf papers feed generated","date_published": datetime.now().isoformat(),}] 
+        blog_feed['items'] = [{"id": "1","title": "Something is wrong - no hf blog feed generated","date_published": datetime.now().isoformat(),}] 
 
     rss_blog_feed = Feed(
         title = "Hugging Face Blog",
@@ -160,8 +179,9 @@ def generate_hf_posts():
         title = article.find("span").text
         link = a["href"]
         url = f"https://huggingface.co{link}"
-        abstract = article.select_one("div.relative > div.relative.overflow-hidden").get_text("\n", strip=True)[:500]
-        entries.append({"title": title, "image_url": "", "url": url, "abstract": abstract, "date_published": datetime.now().isoformat()})
+        abstract = article.select_one("div.relative > div.relative.overflow-hidden").get_text("\n", strip=True)
+        abstract = textwrap.shorten(abstract, width=1000, placeholder="...")
+        entries.append({"title": title, "image_url": "", "url": url, "abstract": abstract, "date_published": datetime.now()})
 
     posts_feed = {
         "version": "https://jsonfeed.org/version/1",
@@ -176,14 +196,32 @@ def generate_hf_posts():
                     "title": p["title"].strip(),
                     "content_text": p["abstract"].strip(),
                     "url": p["url"],
-                    "date_published": p["date_published"],
+                    "date_published": p["date_published"].isoformat(),
                 }
                 for p in entries
             ],
     }
     if not posts_feed['items']:
         posts_feed['items'] = [{"id": "1","title": "Something is wrong - no hf papers feed generated","date_published": datetime.now().isoformat(),}]
-    return posts_feed
+    
+    rss_posts_feed = Feed(
+        title = "Hugging Face Posts",
+        link = "https://huggingface.co/",
+        description = "This is a website scraping RSS feed for the Hugginface trending posts.",
+        items = [
+            Item(
+                title = p["title"].strip(),
+                description = p["abstract"].strip(),
+                pubDate = p["date_published"],
+                link = p["url"],
+                guid = Guid(p["url"]),
+            )
+            for p in entries
+        ]
+    )
+    rss_posts_feed = rss_posts_feed.rss()
+    
+    return posts_feed, rss_posts_feed
 
 ## Museumsbund Stellenportal
 def generate_mb_jobs():
@@ -247,12 +285,12 @@ def generate_mb_jobs():
             ],
     }
     if not mb_jobs_feed['items']:
-        mb_jobs_feed['items'] = [{"id": "1","title": "Something is wrong - no hf papers feed generated","date_published": datetime.now().isoformat(),}]
+        mb_jobs_feed['items'] = [{"id": "1","title": "Something is wrong - no Museumsbund jobs feed generated","date_published": datetime.now().isoformat(),}]
 
     rss_mb_jobs_feed = Feed(
-        title = "Hugging Face Blog",
+        title = "Museumsbund Stellenportal",
         link = "https://huggingface.co/",
-        description = "This is a website scraping RSS feed for the HuggingFace Blog.",
+        description = "This is a website scraping RSS feed for the Museumsbund Stellenportal.",
         items = [
             Item(
                 title = p["title"].strip(),
@@ -268,19 +306,23 @@ def generate_mb_jobs():
 
     return mb_jobs_feed, rss_mb_jobs_feed
 
-papers_feed = generate_hf_papers()
+papers_feed, rss_papers_feed = generate_hf_papers()
 blog_feed, rss_blog_feed = generate_hf_blog()
-posts_feed = generate_hf_posts()
+posts_feed, rss_posts_feed = generate_hf_posts()
 mb_jobs_feed, rss_mb_jobs_feed = generate_mb_jobs()
 
 with open("hf_papers.json", "w") as f:
     json.dump(papers_feed, f)
+with open("hf_papers.xml", "w") as f:
+    f.write(rss_papers_feed)
 with open("hf_blog.json", "w") as f:
     json.dump(blog_feed, f)
 with open("hf_blog.xml", "w") as f:
     f.write(rss_blog_feed)
 with open("hf_posts.json", "w") as f:
     json.dump(posts_feed, f)
+with open("hf_posts.xml", "w") as f:
+    f.write(rss_posts_feed)
 with open("mb_jobs.json", "w") as f:
    json.dump(mb_jobs_feed, f)
 with open("mb_jobs.xml", "w") as f:
