@@ -289,7 +289,7 @@ def generate_mb_jobs():
 
     rss_mb_jobs_feed = Feed(
         title = "Museumsbund Stellenportal",
-        link = "https://huggingface.co/",
+        link = "https://www.museumsbund.de/",
         description = "This is a website scraping RSS feed for the Museumsbund Stellenportal.",
         items = [
             Item(
@@ -337,12 +337,12 @@ def generate_wd_death_list():
             ],
     }
     if not wd_death_feed['items']:
-        wd_death_feed['items'] = [{"id": "1","title": "Something is wrong - no Museumsbund jobs feed generated","date_published": datetime.now().isoformat(),}]
+        wd_death_feed['items'] = [{"id": "1","title": "Something is wrong - no Wikidata feed generated","date_published": datetime.now().isoformat(),}]
 
     rss_wd_death_feed = Feed(
-        title = "Museumsbund Stellenportal",
-        link = "https://huggingface.co/",
-        description = "This is a website scraping RSS feed for the Museumsbund Stellenportal.",
+        title = "Wikidata Death List",
+        link = "https://wikidata.org",
+        description = "This is a website scraping RSS feed for wikidata entries of people that died 70 years ago.",
         items = [
             Item(
                 title = p["title"].strip(),
