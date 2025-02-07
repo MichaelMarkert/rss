@@ -19,7 +19,7 @@ Different RSS feeds generated from websites parsed with [Beautiful Soup](https:/
 - **Huggingface Papers**: [JSON Feed](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_papers.json), [RSS XML](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_papers.xml)
 - **Huggingface Trending Posts**: [JSON Feed](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_posts.json), [RSS XML](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/hf_posts.xml)
 - **Museumsbund Stellenmarkt**: [JSON Feed](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/mb_jobs.json), [RSS XML](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/mb_jobs.xml)
-- **Wikidata Liste mit genau vor 70 Jahren verstorbenen Menschen und ihren Berufen**: [JSON Feed](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/wd_death.json), [RSS XML](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/wd_death.xml)
+- **Wikidata [QLever](https://qlever.cs.uni-freiburg.de/wikidata) query for all people that died exactly 70 years ago, with their professions**: [JSON Feed](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/wd_death.json), [RSS XML](https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/wd_death.xml)
 
 ## License
 
