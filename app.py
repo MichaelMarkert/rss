@@ -320,7 +320,7 @@ def generate_wd_death_list():
     
     wd_death_feed = {
         "version": "https://jsonfeed.org/version/1",
-        "title": "Wikidata Death List",
+        "title": "Wikidata 70yrs expired list",
         "home_page_url": "https://wikidata.org",
         "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/mb_jobs.json",
         "items": 
@@ -340,7 +340,7 @@ def generate_wd_death_list():
         wd_death_feed['items'] = [{"id": "1","title": "Something is wrong - no Wikidata feed generated","date_published": datetime.now().isoformat(),}]
 
     rss_wd_death_feed = Feed(
-        title = "Wikidata Death List",
+        title = "Wikidata 70yrs expired list",
         link = "https://wikidata.org",
         description = "This is a website scraping RSS feed for wikidata entries of people that died 70 years ago.",
         items = [
@@ -380,7 +380,7 @@ with open("mb_jobs.json", "w") as f:
    json.dump(mb_jobs_feed, f)
 with open("mb_jobs.xml", "w") as f:
     f.write(rss_mb_jobs_feed)
-with open("wd_death.json", "w") as f:
+with open("wd_70yrsexp.json", "w") as f:
    json.dump(wd_death_feed, f)
-with open("wd_death.xml", "w") as f:
+with open("wd_70yrsexp.xml", "w") as f:
     f.write(rss_wd_death_feed)
