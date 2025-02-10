@@ -38,7 +38,7 @@ def generate_hf_papers():
             abstract, date = extract_abstraction(url)
         except Exception as e:
             print(f"Failed to extract abstract for {url}: {e}")
-            abstract, date = "", ""
+            abstract, date = "", datetime.now()
 
         entries.append({"title": title, "image_url": "", "url": url, "abstract": abstract, "date_published": date})
 
@@ -122,7 +122,7 @@ def generate_hf_blog():
         try:
             abstract, date = extract_abstract_date(url)  
         except:
-            abstract, date = "", ""
+            abstract, date = "", datetime.now()
         entries.append({"title": title, "image_url": i_url, "url": url, "abstract": abstract, "date_published": date})
 
     blog_feed = {
@@ -263,7 +263,7 @@ def generate_mb_jobs():
         try:
             date_published = strdate2datetime(date_published)
         except:
-            date_published = ""
+            date_published = datetime.now()
         entries.append({"title": title, "image_url": "", "url": url, "abstract": whodate + " | " + site_text, "date_published": date_published})
 
     mb_jobs_feed = {
