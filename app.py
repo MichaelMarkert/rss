@@ -358,29 +358,47 @@ def generate_wd_death_list():
 
     return wd_death_feed, rss_wd_death_feed   
 
-papers_feed, rss_papers_feed = generate_hf_papers()
-blog_feed, rss_blog_feed = generate_hf_blog()
-posts_feed, rss_posts_feed = generate_hf_posts()
-mb_jobs_feed, rss_mb_jobs_feed = generate_mb_jobs()
-wd_death_feed, rss_wd_death_feed = generate_wd_death_list()
+try:
+    papers_feed, rss_papers_feed = generate_hf_papers()
+    with open("hf_papers.json", "w") as f:
+        json.dump(papers_feed, f)
+    with open("hf_papers.xml", "w") as f:
+        f.write(rss_papers_feed)
+except Exception as e:
+    print(e.message,e.args)
 
-with open("hf_papers.json", "w") as f:
-    json.dump(papers_feed, f)
-with open("hf_papers.xml", "w") as f:
-    f.write(rss_papers_feed)
-with open("hf_blog.json", "w") as f:
-    json.dump(blog_feed, f)
-with open("hf_blog.xml", "w") as f:
-    f.write(rss_blog_feed)
-with open("hf_posts.json", "w") as f:
-    json.dump(posts_feed, f)
-with open("hf_posts.xml", "w") as f:
-    f.write(rss_posts_feed)
-with open("mb_jobs.json", "w") as f:
-   json.dump(mb_jobs_feed, f)
-with open("mb_jobs.xml", "w") as f:
-    f.write(rss_mb_jobs_feed)
-with open("wd_70yrsexp.json", "w") as f:
-   json.dump(wd_death_feed, f)
-with open("wd_70yrsexp.xml", "w") as f:
-    f.write(rss_wd_death_feed)
+try:
+    blog_feed, rss_blog_feed = generate_hf_blog()
+    with open("hf_blog.json", "w") as f:
+        json.dump(blog_feed, f)
+    with open("hf_blog.xml", "w") as f:
+        f.write(rss_blog_feed)
+except Exception as e:
+    print(e.message,e.args)
+
+try:
+    posts_feed, rss_posts_feed = generate_hf_posts()
+    with open("hf_posts.json", "w") as f:
+        json.dump(posts_feed, f)
+    with open("hf_posts.xml", "w") as f:
+        f.write(rss_posts_feed)
+except Exception as e:
+    print(e.message,e.args)
+
+try:
+    mb_jobs_feed, rss_mb_jobs_feed = generate_mb_jobs()
+    with open("mb_jobs.json", "w") as f:
+        json.dump(mb_jobs_feed, f)
+    with open("mb_jobs.xml", "w") as f:
+        f.write(rss_mb_jobs_feed)
+except Exception as e:
+    print(e.message,e.args)
+
+try:
+    wd_death_feed, rss_wd_death_feed = generate_wd_death_list()
+    with open("wd_70yrsexp.json", "w") as f:
+        json.dump(wd_death_feed, f)
+    with open("wd_70yrsexp.xml", "w") as f:
+        f.write(rss_wd_death_feed)
+except Exception as e:
+    print(e.message,e.args)
