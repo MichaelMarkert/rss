@@ -364,8 +364,8 @@ try:
         json.dump(papers_feed, f)
     with open("hf_papers.xml", "w") as f:
         f.write(rss_papers_feed)
-except Exception as e:
-    print(e.message,e.args)
+except:
+    print("hf_papers_feed not generated")
 
 try:
     blog_feed, rss_blog_feed = generate_hf_blog()
@@ -373,8 +373,8 @@ try:
         json.dump(blog_feed, f)
     with open("hf_blog.xml", "w") as f:
         f.write(rss_blog_feed)
-except Exception as e:
-    print(e.message,e.args)
+except:
+    print("hf_blog_feed not generated")
 
 try:
     posts_feed, rss_posts_feed = generate_hf_posts()
@@ -382,8 +382,8 @@ try:
         json.dump(posts_feed, f)
     with open("hf_posts.xml", "w") as f:
         f.write(rss_posts_feed)
-except Exception as e:
-    print(e.message,e.args)
+except:
+    print("hf_posts_feed not generated")
 
 try:
     mb_jobs_feed, rss_mb_jobs_feed = generate_mb_jobs()
@@ -391,8 +391,8 @@ try:
         json.dump(mb_jobs_feed, f)
     with open("mb_jobs.xml", "w") as f:
         f.write(rss_mb_jobs_feed)
-except Exception as e:
-    print(e.message,e.args)
+except:
+    print("mb_jobs_feed not generated")
 
 try:
     wd_death_feed, rss_wd_death_feed = generate_wd_death_list()
@@ -400,5 +400,5 @@ try:
         json.dump(wd_death_feed, f)
     with open("wd_70yrsexp.xml", "w") as f:
         f.write(rss_wd_death_feed)
-except Exception as e:
-    print(e.message,e.args)
+except:
+    print("wd_70yrsexp_feed not generated")
