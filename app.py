@@ -5,6 +5,8 @@ from datetime import datetime
 from rfeed import *
 from xml.etree import ElementTree as ET
 import textwrap
+import sys
+from SPARQLWrapper import SPARQLWrapper, JSON
 
 ## HF papers
 def generate_hf_papers():
@@ -308,15 +310,52 @@ def generate_mb_jobs():
 
 # Wikidate Death List
 def generate_wd_death_list():
-    url = "https://qlever.cs.uni-freiburg.de/api/wikidata?query=PREFIX+wd%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX+wdt%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fperson_id+%3Fperson+%3Fdate+%28GROUP_CONCAT%28%3Fprofession%3B+separator%3D%22%2C+%22%29+AS+%3Fprofessions%29+WHERE+%7B%0A++%3Fperson_id+wdt%3AP31+wd%3AQ5+.%0A++%3Fperson_id+rdfs%3Alabel+%3Fperson+.%0A++%3Fperson_id+wdt%3AP570+%3Fdate.%0A++%0A++OPTIONAL+%7B+%3Fperson_id+wdt%3AP106+%3Fprofession_id+.%0A++++%3Fprofession_id+rdfs%3Alabel+%3Fprofession+.%0A++++FILTER%28LANG%28%3Fprofession%29+%3D+%22en%22%29%0A+%7D%0A++%0A++BIND%28YEAR%28NOW%28%29%29+-+70+as+%3FyearToCheck%29%0A++FILTER%28YEAR%28%3Fdate%29+%3D+%3FyearToCheck+%26%26+%0A+++++++++MONTH%28%3Fdate%29+%3D+MONTH%28NOW%28%29%29+%26%26+%0A+++++++++DAY%28%3Fdate%29+%3D+DAY%28NOW%28%29%29%29%0A++FILTER+%28LANG%28%3Fperson%29+%3D+%22en%22%29+.%0A%0A++%0A%7D%0AGROUP+BY+%3Fperson_id+%3Fperson+%3Fdate+%3Fprofessions+%0AOrder+BY+%3Fperson"
-    response = requests.get(url)
-    data = response.json()
     now = datetime.now()
+    date = now.replace(year=now.year - 70)
+    date1 = date.strftime("%Y-%m-%dT00:00:00Z")
+    date2 = date.strftime("%Y-%m-%dT23:59:59Z")
+
+    #kicked QLever because of 503s, replaced by wikidata sparql using sparqlwrapper and start and end dates to avoid timeouts
+    #url = "https://qlever.cs.uni-freiburg.de/api/wikidata?query=PREFIX+wd%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX+wdt%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fperson_id+%3Fperson+%3Fdate+%28GROUP_CONCAT%28%3Fprofession%3B+separator%3D%22%2C+%22%29+AS+%3Fprofessions%29+WHERE+%7B%0A++%3Fperson_id+wdt%3AP31+wd%3AQ5+.%0A++%3Fperson_id+rdfs%3Alabel+%3Fperson+.%0A++%3Fperson_id+wdt%3AP570+%3Fdate.%0A++%0A++OPTIONAL+%7B+%3Fperson_id+wdt%3AP106+%3Fprofession_id+.%0A++++%3Fprofession_id+rdfs%3Alabel+%3Fprofession+.%0A++++FILTER%28LANG%28%3Fprofession%29+%3D+%22en%22%29%0A+%7D%0A++%0A++BIND%28YEAR%28NOW%28%29%29+-+70+as+%3FyearToCheck%29%0A++FILTER%28YEAR%28%3Fdate%29+%3D+%3FyearToCheck+%26%26+%0A+++++++++MONTH%28%3Fdate%29+%3D+MONTH%28NOW%28%29%29+%26%26+%0A+++++++++DAY%28%3Fdate%29+%3D+DAY%28NOW%28%29%29%29%0A++FILTER+%28LANG%28%3Fperson%29+%3D+%22en%22%29+.%0A%0A++%0A%7D%0AGROUP+BY+%3Fperson_id+%3Fperson+%3Fdate+%3Fprofessions+%0AOrder+BY+%3Fperson"
+    #response = requests.get(url)
+    #data = response.json()
+
+    endpoint_url = "https://query.wikidata.org/sparql"
+
+    query = f"""SELECT DISTINCT ?person ?personLabel ?date (GROUP_CONCAT(DISTINCT ?professionLabel; separator=", ") as ?professions) WHERE {{
+            ?person wdt:P31 wd:Q5;
+                    wdt:P570 ?date.
+            
+            OPTIONAL {{
+                ?person wdt:P106 ?profession.
+                ?profession rdfs:label ?professionLabel.
+                FILTER(LANG(?professionLabel) = "en")
+            }}
+            
+            FILTER(?date >= "{date1}"^^xsd:dateTime &&
+                    ?date <= "{date2}"^^xsd:dateTime)
+            
+            SERVICE wikibase:label {{ bd:serviceParam wikibase:language "de,en". }}
+            }}
+            GROUP BY ?person ?personLabel ?date
+            ORDER BY ?personLabel
+            """
+
+
+    def get_results(endpoint_url, query):
+        user_agent = "Michael_Markert Python/%s.%s" % (sys.version_info[0], sys.version_info[1])
+        sparql = SPARQLWrapper(endpoint_url, agent=user_agent)
+        sparql.setQuery(query)
+        sparql.setReturnFormat(JSON)
+        return sparql.query().convert()
+
+
+    data = get_results(endpoint_url, query)
     
     entries = []
 
     for result in data['results']['bindings']:
-        entries.append({"title": result['person']['value'], "image_url": "", "url": result['person_id']['value'], "abstract": result['professions']['value'] + " | " + result['date']['value'].split("T")[0], "date_published": now})
+        entries.append({"title": result['personLabel']['value'], "image_url": "", "url": result['person']['value'], "abstract": result['professions']['value'] + " | " + result['date']['value'].split("T")[0], "date_published": now})
     
     wd_death_feed = {
         "version": "https://jsonfeed.org/version/1",

@@ -19,7 +19,7 @@ jobs:
           python-version: 3.11 # Install the python version needed
 
       - name: Install Python dependencies
-        run: python -m pip install --upgrade pip requests bs4 rfeed
+        run: python -m pip install --upgrade pip requests bs4 rfeed sparqlwrapper
 
       - name: Run python
         run: python app.py
