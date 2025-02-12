@@ -416,8 +416,9 @@ def generate_gnd_death_list():
                 professions.append(profession)
         except:
             pass
+        professions = ', '.join(professions)
 
-        entries.append({"title": result['preferredName'], "image_url": "", "url": result['id'], "abstract": str(professions) + " | " + result['dateOfDeath'][0], "date_published": now})
+        entries.append({"title": result['preferredName'], "image_url": "", "url": result['id'], "abstract": professions + " | " + result['dateOfDeath'][0], "date_published": now})
     
     gnd_death_feed = {
         "version": "https://jsonfeed.org/version/1",
