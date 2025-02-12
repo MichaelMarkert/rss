@@ -381,7 +381,7 @@ def generate_wd_death_list():
     rss_wd_death_feed = Feed(
         title = "Wikidata 70yrs expired list",
         link = "https://wikidata.org",
-        description = "This is a website scraping RSS feed for wikidata entries of people that died 70 years ago.",
+        description = "This is a RSS feed for wikidata entries of people that died 70 years ago.",
         items = [
             Item(
                 title = p["title"].strip(),
@@ -396,6 +396,68 @@ def generate_wd_death_list():
     rss_wd_death_feed = rss_wd_death_feed.rss()
 
     return wd_death_feed, rss_wd_death_feed   
+
+def generate_gnd_death_list():
+    now = datetime.now()
+    date = now.replace(year=now.year - 70)
+    date_lobid = date.strftime("%Y-%m-%d")
+
+    url = "https://lobid.org/gnd/search?q=dateOfDeath%3A" + date_lobid + "&filter=%2B(type%3APerson)&format=json"
+    response = requests.get(url)
+    data = response.json()
+
+    entries = []
+
+    for result in data['member']:
+        professions = []
+        try:
+            for profession in result['professionOrOccupation']:
+                profession = profession['label']
+                professions.append(profession)
+        except:
+            pass
+
+        entries.append({"title": result['preferredName'], "image_url": "", "url": result['id'], "abstract": str(professions) + " | " + result['dateOfDeath'][0], "date_published": now})
+    
+    gnd_death_feed = {
+        "version": "https://jsonfeed.org/version/1",
+        "title": "GND 70yrs expired list",
+        "home_page_url": "https://lobid.org",
+        "feed_url": "https://raw.githubusercontent.com/MichaelMarkert/rss/refs/heads/main/gnd_70yrsexp.json",
+        "items": 
+            [
+                {
+                    "id": p["url"],
+                    "image": p["image_url"],
+                    "title": p["title"].strip(),
+                    "content_text": p["abstract"],
+                    "url": p["url"],
+                    "date_published": p["date_published"].isoformat(),
+                }
+                for p in entries
+            ],
+    }
+    if not gnd_death_feed['items']:
+        gnd_death_feed['items'] = [{"id": "1","title": "Something is wrong - no GND feed generated","date_published": datetime.now().isoformat(),}]
+
+    rss_gnd_death_feed = Feed(
+        title = "GND 70yrs expired list",
+        link = "https://lobid.org",
+        description = "This is a RSS feed for GND entries of people that died 70 years ago.",
+        items = [
+            Item(
+                title = p["title"].strip(),
+                description = p["abstract"].strip(),
+                pubDate = p["date_published"],
+                link = p["url"],
+                guid = Guid(p["url"]),
+            )
+            for p in entries
+        ]
+    )
+    rss_gnd_death_feed = rss_gnd_death_feed.rss()
+
+    return gnd_death_feed, rss_gnd_death_feed 
 
 try:
     papers_feed, rss_papers_feed = generate_hf_papers()
@@ -441,3 +503,12 @@ try:
         f.write(rss_wd_death_feed)
 except:
     print("wd_70yrsexp_feed not generated")
+
+try:
+    gnd_death_feed, rss_gnd_death_feed = generate_gnd_death_list()
+    with open("gnd_70yrsexp.json", "w") as f:
+        json.dump(gnd_death_feed, f)
+    with open("gnd_70yrsexp.xml", "w") as f:
+        f.write(rss_gnd_death_feed)
+except:
+    print("gnd_70yrsexp_feed not generated")

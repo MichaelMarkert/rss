@@ -20,6 +20,8 @@ Different RSS feeds generated from websites parsed with [Beautiful Soup](https:/
 - **Huggingface Trending Posts**: [JSON Feed](https://michaelmarkert.github.io/rss/hf_posts.json), [RSS XML](https://michaelmarkert.github.io/rss/hf_posts.xml)
 - **Museumsbund Stellenmarkt**: [JSON Feed](https://michaelmarkert.github.io/rss/mb_jobs.json), [RSS XML](https://michaelmarkert.github.io/rss/mb_jobs.xml)
 - **Wikidata SPARQL query for all people that died exactly 70 years ago, with their professions** ([example query for 1955-02-10](https://w.wiki/D2tg)): [JSON Feed](https://michaelmarkert.github.io/rss/wd_70yrsexp.json), [RSS XML](https://michaelmarkert.github.io/rss/wd_70yrsexp.xml)
+- **Lobid-GND query for all people that dies exactly 70 years ago, with their professions**:
+[JSON Feed](https://michaelmarkert.github.io/rss/gnd_70yrsexp.json), [RSS XML](https://michaelmarkert.github.io/rss/gnd_70yrsexp.xml)
 
 ## License
 
