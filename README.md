@@ -25,6 +25,10 @@ Different RSS feeds generated from websites parsed with [Beautiful Soup](https:/
 - **Lobid-GND query for all people that dies exactly 70 years ago, with their professions**:
 [JSON Feed](https://michaelmarkert.github.io/rss/gnd_70yrsexp.json), [RSS XML](https://michaelmarkert.github.io/rss/gnd_70yrsexp.xml)
 
+## Status of feeds
+
+wd_70yrsexp_feed not generated, 2025-02-13T13:16:59.
+
 ## License
 
 This project is licensed under an [MIT license](LICENSE).
