@@ -322,7 +322,7 @@ def generate_wd_death_list():
     #response = requests.get(url)
     #data = response.json()
 
-    endpoint_url = "https://query.wikidata.org/sparqls"
+    endpoint_url = "https://query.wikidata.org/sparql"
 
     query = f"""SELECT DISTINCT ?person ?personLabel ?date (GROUP_CONCAT(DISTINCT ?professionLabel; separator=", ") as ?professions) WHERE {{
             ?person wdt:P31 wd:Q5;
