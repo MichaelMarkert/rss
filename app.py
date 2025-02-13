@@ -8,6 +8,7 @@ import textwrap
 import sys
 from SPARQLWrapper import SPARQLWrapper, JSON
 
+exceptions = []
 ## HF papers
 def generate_hf_papers():
     BASE_URL = "https://huggingface.co/papers"
@@ -40,6 +41,7 @@ def generate_hf_papers():
             abstract, date = extract_abstraction(url)
         except Exception as e:
             print(f"Failed to extract abstract for {url}: {e}")
+            exceptions.append(f"Failed to extract abstract for {url}: {e}")
             abstract, date = "", datetime.now()
 
         entries.append({"title": title, "image_url": "", "url": url, "abstract": abstract, "date_published": date})
@@ -320,7 +322,7 @@ def generate_wd_death_list():
     #response = requests.get(url)
     #data = response.json()
 
-    endpoint_url = "https://query.wikidata.org/sparql"
+    endpoint_url = "https://query.wikidata.org/sparqls"
 
     query = f"""SELECT DISTINCT ?person ?personLabel ?date (GROUP_CONCAT(DISTINCT ?professionLabel; separator=", ") as ?professions) WHERE {{
             ?person wdt:P31 wd:Q5;
@@ -468,6 +470,7 @@ try:
         f.write(rss_papers_feed)
 except:
     print("hf_papers_feed not generated")
+    exceptions.append("hf_papers_feed not generated")
 
 try:
     blog_feed, rss_blog_feed = generate_hf_blog()
@@ -477,6 +480,7 @@ try:
         f.write(rss_blog_feed)
 except:
     print("hf_blog_feed not generated")
+    exceptions.append("hf_blog_feed not generated")
 
 try:
     posts_feed, rss_posts_feed = generate_hf_posts()
@@ -486,6 +490,7 @@ try:
         f.write(rss_posts_feed)
 except:
     print("hf_posts_feed not generated")
+    exceptions.append("hf_posts_feed not generated")
 
 try:
     mb_jobs_feed, rss_mb_jobs_feed = generate_mb_jobs()
@@ -495,6 +500,7 @@ try:
         f.write(rss_mb_jobs_feed)
 except:
     print("mb_jobs_feed not generated")
+    exceptions.append("mb_jobs_feed not generated")
 
 try:
     wd_death_feed, rss_wd_death_feed = generate_wd_death_list()
@@ -504,6 +510,7 @@ try:
         f.write(rss_wd_death_feed)
 except:
     print("wd_70yrsexp_feed not generated")
+    exceptions.append("wd_70yrsexp_feed not generated")
 
 try:
     gnd_death_feed, rss_gnd_death_feed = generate_gnd_death_list()
@@ -513,3 +520,15 @@ try:
         f.write(rss_gnd_death_feed)
 except:
     print("gnd_70yrsexp_feed not generated")
+    exceptions.append("gnd_70yrsexp_feed not generated")
+
+
+date = datetime.strftime(datetime.now(), "%Y-%m-%dT%H:%M:%S")
+with open("README_template.md", 'r', encoding='utf-8') as file:
+    content = file.read()
+updated = content.replace("datetime.now", date)
+if exceptions:
+    updated = updated.replace("Everything is running",", ".join(exceptions))
+
+with open("README.md", 'w', encoding='utf-8') as file:
+    file.write(updated)
