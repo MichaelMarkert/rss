@@ -1,5 +1,500 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>2 Mitarbeiter/innen für den allgemeinen Museumsdienst (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/2-mitarbeiter-innen-fuer-den-allgemeinen-museumsdienst-m-w-d/</link><description>Porzellanikon – Staatliches Museum für Porzellan, Selb und Hohenberg a.d. Eger Bewerbungsende: 28.03.2025 | Wir suchen zur Verstärkung unseres Teams im Referat für Bildung und Vermittlung eine/n
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Software Developer / Data Scientist (m/f/d)</title><link>https://www.museumsbund.de/stellenangebote/software-developer-data-scientist-m-f-d/</link><description>Museum of Natural History Görlitz, Görlitz Bewerbungsende: 01.04.2025 | The Senckenberg Gesellschaft für Naturforschung (SGN) was founded in 1817 and is one of the most important research institutions in the field of biodiversity. At its twelve locations throughout Germany, scientists from over 40 nations conduct cutting-edge research at an international level. At the Görlitz site, the renowned Senckenberg Museum of Natural History is located in a historic town with a region that is particularly close to nature and well worth living in.
+The Senckenberg Gesellschaft für Naturforschung
+with its head institute in Frankfurt (Main) is seeking the following person for the
+Senckenberg Museum of Natural History Görlitz:
+Software Developer / Data Scientist (m/f/d)
+for the ERC Project CARBONWEB
+Are you passionate about software development, data science, and cutting-edge ecological research? The Senckenberg Gesellschaft für Naturforschung invites you to become part of an exciting international project at the Senckenberg Museum of Natural History Görlitz. We are seeking a motivated Software Developer / Data Scientist
+(m/f/d)
+(80% of a full-time position) to support the ERC-funded project CARBONWEB, ideally starting May 1st, 2025.
+About the Project
+Soil food webs drive 90% of terrestrial primary production and regulate
+one of the largest carbon pools on Earth –
+yet they remain poorly understood. The CARBONWEB project aims to fill this gap by analysing soil food web dynamics and their role in global biogeochemistry. Our research integrates data from the global Soil BON monitoring network, controlled experiments, and modelling.
+Your role will be pivotal in developing
+data infrastructure
+and automating
+data and image exchange processes.
+You will collaborate with international researchers, database developers of Edaphobase (https://www.edaphobase.org), and Dr.
+Clement Schneider
+(expert in invertebrate image analysis).
+Your Tasks
+Develop an
+SQL database
+for project data and images
+Create an
+interface
+for direct data and image uploads (mobile or web app)
+Automate data exchange among the
+image annotation interface, project SQL database, and Edaphobase
+Establish automated pipelines to
+detect, classify, and measure soil invertebrates
+using existing and newly developed software
+Implement
+(semi-)automated data quality control
+procedures
+Contribute to the
+development of the project’s website
+Your Profile
+Master’s degree in Computer Science or equivalent background and experience
+Strong programming skills in Python or other modern software development languages
+Experience in data management and SQL databases
+Knowledge of deep learning algorithms and image processing
+Good spoken and written English skills
+Ability to work in an interdisciplinary team
+Additional Advantages
+Experience in mobile/web application development
+Background in scientific data processing or ecological modelling
+Good spoken and written German skills
+What is awaiting you?
+An exciting, responsible and rewarding role in a world-renowned research organisation with motivated and professional peers
+Collaboration with
+leading scientists and software developers
+Flexible working hours
+and
+remote work options – Family-friendly working conditions
+(certified by „audit berufundfamilie“) –
+Senckenberg badge
+with free admission to all Senckenberg museums –
+Company pension scheme – Annual special payment
+(according to TV-L) –
+30 days of vacation
+per year
+Location and Contract Details
+Place of employment:
+Görlitz, Saxony (Germany)
+Employment scope:
+Part-time (80% of full-time position)
+Contract duration:
+Fixed-term for
+3 years
+(starting ideally May 1st, 2025)
+Salary:
+Planned salary group E
+13 TV-L
+(in accordance with German public sector agreements)
+Diversity and Inclusion
+Senckenberg is committed to diversity. We benefit from the different expertise, perspectives and personalities of our staff and welcome every application from qualified candidates, irrespective of age, gender, ethnic or cultural origin, religion and ideology, sexual orientation and identity or disability. Women are particularly encouraged to apply, as they are underrepresented in the field of this position; in the case of equal qualifications and suitability they will be given preference. Applicants with a severe disability will be given special consideration in case of equal suitability. Senckenberg actively supports the compatibility of work and family and places great emphasis on an equal and inclusive work culture.
+You would like to apply?
+Submit your application as a single PDF document, including:
+Cover letter (1 page) detailing your
+experience, skills, motivation and fit for this role
+CV
+Copies of academic certificates
+Reference #08-25005 should be mentioned in your application.
+Application deadline: April 1
+st
+, 2025
+Send your application to:
+recruiting@senckenberg.de
+Or apply online:
+https://www.senckenberg.de/de/karriere/bewerbung/
+Senckenberg Gesellschaft für Naturforschung
+Senckenberganlage 25
+60325 Frankfurt am Main
+E-Mail:
+recruiting@senckenberg.de
+For specific questions about this role, please contact Dr. Clement Schneider at
+clement.schneider@senckenberg.de
+.
+Join us in advancing ecological research through innovative technology! We look forward to your application!
+For further information about the Senckenberg Gesellschaft für Naturforschung please visit www.senckenberg.de
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 01.04.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/software-developer-data-scientist-m-f-d/</guid></item><item><title>Sachbearbeiter/-in (m/w/d) Projektmanagement  für Presse- und Öffentlichkeitsarbeit und projektbezogene Verwaltungstätigkeiten</title><link>https://www.museumsbund.de/stellenangebote/sachbearbeiter-in-m-w-d-projektmanagement-fuer-presse-und-oeffentlichkeitsarbeit-und-projektbezogene-verwaltungstaetigkeiten/</link><description>Bauernhofmuseum Jexhof, Schöngeising Bewerbungsende: 31.03.2025 | Sachbearbeiter/-in (m/w/d) Projektmanagement
+für Presse- und Öffentlichkeitsarbeit und projektbezogene Verwaltungstätigkeiten
+für die Stabsstelle Wirtschaft und Regionales im Landkreis
+in Vollzeit oder auch 2 Teilzeitkräfte, wobei eine Wochenarbeitszeit von 39 Stunden erreicht werden und eine Besetzung am Nachmittag sichergestellt werden muss
+Das Aufgabengebiet der ausgeschriebenen Stelle betrifft den
+Digitalen Erinnerungsort zum Olympia-Attentat 1972
+sowie das Bauernhofmuseum
+Jexhof
+. Der Landkreis hat 2022 einen Digitalen Erinnerungsort in Form einer Website und einer App geschaffen. Seither wird dieser durch Veranstaltungen und Aktionen im Bildungsbereich verbreitet. Der Jexhof ist seit 1987 in der Trägerschaft des Landkreises als Museum geöffnet. Er ist ein wichtiger Kultur- und Begegnungsort für Bürgerinnen und Bürger. Das vielseitige Programm wird verwaltungstechnisch im Landratsamt betreut.
+Der Stabstelle Wirtschaft und Regionales sind neben diesen beiden Fachbereichen auch die Wirtschaftsförderung, das Regionalmanagement sowie das Agenda21-Büro zugeordnet.
+IHRE AUFGABEN
+Presse- und Öffentlichkeitsarbeit für beide Fachbereiche u.a. durch Pressemitteilungen, Social Media-Beiträge, Aufsetzen von Reden
+Steuerung von Website/App, App-Führungen vor Ort
+Fördermittelakquise und -abwicklung
+Veranstaltungsplanung und -durchführung sowie Vor- und Nachbereitung von Terminen
+Budget-Planung und Controlling
+Kommunikation im Namen der Projekte mit Personen aus Politik, Kultur, Wirtschaft
+IHR PROFIL
+Hochschulstudium Medien- und Kommunikationsmanagement/Eventmanagement/Public Management oder Verwaltungswissenschaften oder BWL mit Fokus auf Marketing und Eventmanagement, Beschäftigtenlehrgang II oder Verwaltungsfachwirte
+Interesse an regionaler Geschichte des Landkreises
+Affinität für digitale Medien und grundsätzliches Verständnis von diesen
+Gespür für sensible Themen und deren Vermittlung
+Strategisches Denken und vorausschauende Planung
+Bereitschaft zum Arbeiten am Abend oder am Wochenende (bei Veranstaltungen)
+UNSER ANGEBOT
+Bezahlung nach Entgeltgruppe 11 TVöD VKA
+Jahressonderzahlungen lt. Tabelle
+Zahlung der Großraum- und (optional) Kinderzulage
+30 Tage Urlaub + 24./31.12, Faschingsdienstag frei
+ein unbefristetes Arbeitsverhältnis
+WIR BIETEN ZUSÄTZLICH
+außerdem bieten wir umfangreiche Sozialleistungen wie eigene Kinderferienbetreuung, Betriebsrente, Mobile Arbeit, wo möglich, Betriebssport, ÖPNV-Zuschuss
+Nur im Haupthaus:
+eigene Kantine, Parkhaus mit kostenlosen E-Ladesäulen
+Wir legen Wert auf Chancengleichheit und Inklusion.
+Schwerbehinderte Personen und ihnen nach § 2 Abs. 3 SGB IX gleichgestellte Menschen werden bei entsprechender Eignung bevorzugt berücksichtigt (bitte Nachweis beifügen).
+Vorstellungsgespräche werden in KW 17/18 stattfinden.
+Bewerbungen bis zum
+31.03.2025
+bitte ausschließlich über unser digitales Bewerberportal.
+Referenz-Nr.: 2025/RM/36
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 31.03.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/sachbearbeiter-in-m-w-d-projektmanagement-fuer-presse-und-oeffentlichkeitsarbeit-und-projektbezogene-verwaltungstaetigkeiten/</guid></item><item><title>Bibliothekar*in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/bibliothekarin-m-w-d-19/</link><description>Senckenberg Museum für Naturkunde Görlitz, Görlitz Bewerbungsende: 22.04.2025 | Die Senckenberg Gesellschaft für Naturforschung (SGN) wurde 1817 gegründet und zählt zu den wichtigsten Forschungseinrichtungen rund um die biologische Vielfalt. An den zwölf Standorten in ganz Deutschland betreiben Wissenschaftler*innen aus über 40 Nationen modernste Forschung auf internationaler Ebene. Am Standort Görlitz befindet sich das renommierte Senckenberg Museum für Naturkunde in einer historischen Stadt mit einer lebenswerten, besonders naturnahen Region.
+Die Senckenberg Gesellschaft für Naturforschung mit Hauptsitz in Frankfurt am Main sucht zum nächstmöglichen Zeitpunkt für das Senckenberg Museum für Naturkunde Görlitz für die wissenschaftliche Bibliothek der
+Abteilung Museum und Handlungsorientiertes Lernen
+am Standort
+Görlitz
+eine*n
+Bibliothekar*in (m/w/d)
+(Teilzeit 75 %, 30 Stunden/Woche)
+Wir suchen eine engagierte, verantwortungsbewusste und serviceorientierte Persönlichkeit (m/w/d) für unsere wissenschaftliche Bibliothek am Senckenberg Museum für Naturkunde. Sie tragen im Team Verantwortung für den Bibliotheksalltag und sorgen für einen reibungslosen, nutzer*innenfreundlichen Betrieb. Dabei arbeiten Sie eng mit unseren Wissenschaftler*innen sowie nationalen und internationalen Partner*innen zusammen.
+Die Aufgaben definieren sich je nach Qualifikation und Erfahrung wie folgt:
+Organisation und Mitverantwortung für das Bibliotheksteam, bestehend aus einer*einem Fachangestellten und ehrenamtlichen Mitwirkenden
+Pflege und Katalogisierung des Bestands nach RDA im Verbundsystem HeBIS bzw. FOLIO mit PICA
+Management von Ausleihe (OUS) und Erwerbung (ACQ)
+Planung und Durchführung von zielgruppengerechten Veranstaltungen in der Bibliothek
+Betreuung und Unterstützung von Studierenden, Auszubildenden im Praktikum sowie weiteren Nutzer*innen
+Mitarbeit an Drittmittelprojekten und der Weiterentwicklung der wissenschaftlichen Bibliothek
+Vorbereitung und Begleitung des Umzugs der wissenschaftlichen Bibliothek in den neuen Senckenberg-Campus
+Ihre Qualifikationen
+Abgeschlossene Ausbildung als Fachangestellte*r (m/w/d) für Medien- und Informationsdienste oder ein (Fach-)Hochschulstudium im Bereich Bibliotheks- und Informationsmanagement bzw. eine vergleichbare Qualifikation
+Fundierte Erfahrung mit Bibliotheksverwaltungssystemen, insbesondere PICA und in der Verbundkatalogisierung
+Sicherer Umgang mit MS-Office-Programmen (Word, Excel, PowerPoint)
+Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift
+Hohe Serviceorientierung, Organisationsgeschick und Teamgeist
+Freude am Umgang mit Menschen sowie ausgeprägte Kommunikationsfähigkeit
+Bereitschaft zur Weiterbildung und Offenheit für neue Ideen
+Wir bieten
+eine verantwortungsvolle und abwechslungsreiche Tätigkeit in einer weltweit anerkannten Forschungseinrichtung
+selbstständiges Handeln in einem internationalen, motivierten und professionellen Umfeld
+flexible Arbeitszeiten – Unterstützung bei der Kinderbetreuung oder bei der Pflege von Familienangehörigen (zertifiziert durch das „audit berufundfamilie“) – einen Dienstausweis in Verbindung mit kostenfreiem Eintritt in zahlreiche städtischen Museen – eine tarifliche Jahressonderzahlung – tariflichen Urlaubsanspruch – betriebliche Altersvorsorge
+Ort: Görlitz
+Beschäftigungsumfang: Teilzeit 75% (30 Stunden/Woche)
+Vertragsart: Zunächst befristet für 2 Jahre, mit der Möglichkeit zur Entfristung
+Vergütung: Tarifvertrag der Länder TV-L E 6 – E 9 (je nach Qualifikation und Erfahrung)
+Senckenberg engagiert sich für Vielfalt. Wir profitieren von den unterschiedlichen Expertisen, Perspektiven und Persönlichkeiten unserer Mitarbeiter*innen und freuen uns über jede Bewerbung qualifizierter Kandidat*innen, unabhängig von Alter, Geschlecht oder geschlechtlicher Identität, ethnischer oder kultureller Herkunft, Religion und Weltanschauung, sexueller Orientierung und Identität oder Behinderung. Bewerber*innen mit einer Schwerbehinderung werden bei gleicher Eignung besonders berücksichtigt. Senckenberg unterstützt aktiv die Vereinbarkeit von Beruf und Familie und legt großen Wert auf eine gleichberechtigte und inklusive Kultur der Zusammenarbeit.
+Sie möchten sich bewerben?
+Dann senden Sie uns Ihre vollständigen und aussagekräftigen
+Bewerbungsunterlagen (Anschreiben, detaillierter Lebenslauf, Ausbildungs- und Arbeitszeugnisse) in elektronischer Form
+(als zusammenhängende PDF-Datei
+)
+bitte
+stets
+unter Angabe der Referenznummer #08-25007 „Bibliothekar*in (m/w/d)“ bis zum 22.04.2025
+an
+recruiting@senckenberg.de
+oder bewerben Sie sich direkt auf unserer Homepage über das online Bewerbungsformular unter
+https://www.senckenberg.de/de/karriere/bewerbung/
+.
+Senckenberg Gesellschaft für Naturforschung
+Senckenberganlage 25
+60325 Frankfurt a. M.
+E-Mail:
+recruiting@senckenberg.de
+Für fachliche Rückfragen zur Stelle steht Ihnen Frau Kristin Baber unter
+kristin.baber@senckenberg.de
+sehr gerne zur Verfügung.
+Wir freuen uns auf Ihre Bewerbung!
+Weitere Informationen über die Senckenberg Gesellschaft für Naturforschung finden Sie unter
+www.senckenberg.de
+.
+https://hi-lusatia.de/
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 22.04.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/bibliothekarin-m-w-d-19/</guid></item><item><title>Restaurierungspraktikant:in (m/w/d) zur Vorbereitung auf ein Hochschulstudium</title><link>https://www.museumsbund.de/stellenangebote/102649/</link><description>Hamburger Bahnhof - Nationalgalerie der Gegenwart der Staatlichen Museen zu Berlin, Berlin Bewerbungsende: 02.04.2025 | Beim Hamburger Bahnhof – Nationalgalerie der Gegenwart der Staatlichen Museen zu Berlin sind zwei Stellen als
+Restaurierungspraktikant:in (m/w/d) zur Vorbereitung auf ein Hochschulstudium
+zu besetzen. Die Nationalgalerie der Staatlichen Museen zu Berlin betreut im Hamburger Bahnhof – Nationalgalerie der Gegenwart eine der weltweit größten und wichtigsten öffentlichen Sammlungen für moderne und zeitgenössische Kunst von den 1960er Jahren bis in die Gegenwart.
+Die Voraussetzungen für die Bewerbung sind in den Studienordnungen der jeweiligen Fachhochschulen/Akademien geregelt. Die Länge des Praktikums, in der Regel ein Jahr, richtet sich nach den Anforderungen der Hochschulen. Eine Verlängerung ist nicht möglich. Es besteht die Möglichkeit, Leistungen nach dem Bundesbildungsförderungsgesetz zu beantragen.
+Bewerbungsfrist: 4 Wochen
+Vertragsbeginn: 01.09.2025
+Befristung: befristet bis 31.08.2026
+Wochenstunden: 39 h
+Vergütung: 300,- EUR/Monat
+Arbeitsort: Invalidenstr. 50-51, 10557 Berlin
+Ihre Aufgaben
+Kennenlernen sämtlicher Bereiche der Konservierung / Restaurierung / Kunsttechnologie und Mitarbeit in der täglichen Praxis
+Mitarbeiten beim musealen Konservieren und Restaurieren von zeitgenössischen Kunstwerken
+Mitwirken im Bereich präventiver Konservierung im Museum
+Assistieren beim Dokumentieren zeitgenössischer Kunstwerke
+Unterstützen bei der restauratorischen Betreuung des Ausstellungsprogramms des Hamburger Bahnhofs – Nationalgalerie der Gegenwart
+Ihr Profil
+allgemeine Hochschulreife (zu Vertragsbeginn)
+Interesse an restauratorischen und konservatorischen Arbeiten, an zeitgenössischer Kunst, an Museen und dem Arbeiten im musealen Kontext
+sehr gutes naturwissenschaftliches Verständnis
+überdurchschnittliche feinmotorische Geschicklichkeit und Umsicht sowie ausgeprägte Fähigkeit zu lösungsorientiertem Denken
+sehr gute Deutschkenntnisse in Wort und Schrift
+Erwünscht
+praktische Vorkenntnisse durch Schulpraktika oder Leistungskurse der Schule und idealerweise Nachweis eines Berufsberatungsgesprächs
+hohes Maß an Motivation
+ausgeprägte Teamfähigkeit
+Wir bieten Ihnen
+Einblicke in eine international renommierte Sammlung
+Mitarbeit in einem engagierten Team
+Vorbereitung auf die Bewerbung für ein restauratorisches Hochschulstudium
+Praktikumsplatz mitten in Berlin
+Mitarbeit in der größten Kultureinrichtung Deutschlands und einer der bedeutendsten weltweit
+Wir fördern und begrüßen
+aktiv eine Kultur der Wertschätzung
+Chancengerechtigkeit und Vielfalt
+Bewerbungen aller Menschen, unabhängig von Alter, Geschlecht, Nationalität, kultureller und sozialer Herkunft, Religion oder Weltanschauung, Behinderung,
+sexueller Identität
+Bewerbungen von Black, Indigenous and People of Color sowie Menschen mit Migrations- und Fluchtgeschichte
+Menschen mit Schwerbehinderung und ihnen Gleichgestellte, die bei gleicher Eignung besonders berücksichtigt werden
+Fragen zum Aufgabengebiet
+Frau Sartorius
++49 30 266 424 662
+Frau Rieß
++49 30 397 834 51
+Fragen zum Bewerbungsverfahren
+Frau Schneider
++49 30 266 411 665
+Ihre Bewerbung enthält
+Angabe der Kennziffer:
+SMB-HB-2-2025
+Anschreiben
+Lebenslauf
+Bestätigung der Teilnahme an einer Studienberatung
+Prüfungszeugnisse bzw. Urkunden
+ggf. Arbeitszeugnisse
+ggf. Dokumentation von Arbeitsproben
+Bewerben Sie sich jetzt!
+Ihre Daten werden im Rahmen des Bewerbungsverfahrens gespeichert und verarbeitet. Weitere Informationen:
+www.preussischer-kulturbesitz.de/karriere/datenschutz.html
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 02.04.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/102649/</guid></item><item><title>Vorstudienpraktikant:in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/102647/</link><description>Vorderasiatisches Museum der Staatlichen Museen zu Berlin, Berlin Bewerbungsende: 02.04.2025 | Beim Vorderasiatischen Museum der Staatlichen Museen zu Berlin ist eine Stelle als
+Vorstudienpraktikant:in (m/w/d)
+zur Vorbereitung auf ein Hochschulstudium zu besetzen. Das Vorderasiatische Museum gehört zu den bedeutendsten Museen mesopotamischer Altertümer in der Welt; seine Sammlung mit über 206.000 inventarisierten Objekten vermittelt einen Eindruck von der 6.000 Jahre umfassenden kulturhistorischen Entwicklung in Vorderasien.
+Die Voraussetzungen für die Bewerbung sind in den Studienordnungen der jeweiligen Fachhochschulen/Akademien geregelt. Die Länge des Praktikums, in der Regel ein Jahr, richtet sich nach den Anforderungen der Hochschulen. Eine Verlängerung ist nicht möglich. Es besteht die Möglichkeit, Leistungen nach dem Bundesbildungsförderungsgesetz zu beantragen.
+Bewerbungsfrist: bis 02.04.2025
+Vertragsbeginn: 01.09.2025
+Befristung: befristet bis 31.08.2026
+Wochenstunden: 39 h
+Vergütung: 300,00 EUR brutto monatlich
+Arbeitsort: Geschwister-Scholl-Straße 6, 10117 Berlin
+Ihre Aufgaben
+Kennenlernen sämtlicher Bereiche der Konservierung / Restaurierung / Kunsttechnologie und Mitarbeit in der täglichen Praxis
+Mitarbeiten beim musealen Konservieren und Restaurieren von archäologischen Objekten, insbesondere aus Glas und Keramik
+Mitwirken im Bereich präventiver Konservierung im Museum
+Assistieren beim Dokumentieren archäologischer Objekte
+Unterstützen bei der restauratorischen Betreuung des Ausstellungsprogramms des Vorderasiatischen Museums
+Ihr Profil
+allgemeine Hochschulreife (zu Vertragsbeginn)
+Interesse an restauratorischen und konservatorischen Arbeiten, an archäologischen Objekten, vorzugsweise aus Glas oder Keramik, an Museen und dem Arbeiten im musealen Kontext
+sehr gutes naturwissenschaftliches Verständnis
+überdurchschnittliche feinmotorische Geschicklichkeit und Umsicht sowie ausgeprägte Fähigkeit zu lösungsorientiertem Denken
+sehr gute Deutschkenntnisse in Wort und Schrift
+Erwünscht
+praktische Vorkenntnisse durch Schulpraktika oder Leistungskurse der Schule und idealerweise Nachweis eines Berufsberatungsgesprächs
+hohes Maß an Motivation
+ausgeprägte Teamfähigkeit
+Wir bieten Ihnen
+Einblicke in eine international renommierte Sammlung
+Mitarbeit in einem engagierten und kollegialen Team
+Vorbereitung auf die Bewerbung für ein restauratorisches Hochschulstudium
+Praktikumsplatz in zentraler Lage Berlins
+Mitarbeit in der größten Kultureinrichtung Deutschlands und einer der bedeutendsten weltweit
+Wir fördern und begrüßen
+aktiv eine Kultur der Wertschätzung
+Chancengerechtigkeit und Vielfalt
+Bewerbungen aller Menschen, unabhängig von Alter, Geschlecht, Nationalität, kultureller und sozialer Herkunft, Religion oder Weltanschauung, Behinderung,
+sexueller Identität
+Bewerbungen von Black, Indigenous and People of Color sowie Menschen mit Migrations- und Fluchtgeschichte
+Menschen mit Schwerbehinderung und ihnen Gleichgestellte, die bei gleicher Eignung besonders berücksichtigt werden
+Fragen zum Aufgabengebiet
+Sonja Radujkovic
++49 30 / 266 – 42 5620
+Fragen zum Bewerbungsverfahren
+Monique Cziha
++49 30 / 266 – 41 1630
+Ihre Bewerbung enthält
+Angabe der Kennziffer:
+SMB-VAM-3-2025
+Anschreiben
+Lebenslauf
+Bestätigung der Teilnahme an einer Studienbescheinigung
+Prüfungszeugnisse bzw. Urkunden
+ggf. Praktikumszeugnisse
+Bewerben Sie sich jetzt!
+Ihre Daten werden im Rahmen des Bewerbungsverfahrens gespeichert und verarbeitet. Weitere Informationen:
+www.preussischer-kulturbesitz.de/karriere/datenschutz.html
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 02.04.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/102647/</guid></item><item><title>Restaurierungspraktikant:in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/restaurierungspraktikantin-m-w-d-2/</link><description>Kunstgewerbemuseum, Berlin Bewerbungsende: 03.04.2025 | Beim Kunstgewerbemuseum ist eine Stelle als
+Restaurierungspraktikant:in (m/w/d)
+zur Vorbereitung auf ein Hochschulstudium zu besetzen. Das Kunstgewerbemuseum beherbergt weltberühmte Zeugnisse des europäischen Kunsthandwerks und Designs vom Mittelalter bis zur Gegenwart. Es sammelt, erforscht und vermittelt die Prozesse des Entwurfs, der Produktion und der Anwendung beziehungsweise Aneignung dieser künstlerisch gestalteten Objekte und widmet sich darüber hinaus dem Verhältnis des Menschen zu seiner gestalteten Umwelt aus unterschiedlichen Perspektiven.
+Die Voraussetzungen für die Bewerbung sind in den Studienordnungen der jeweiligen Fachhochschulen/Akademien geregelt. Die Länge des Praktikums, in der Regel ein Jahr, richtet sich nach den Anforderungen der Hochschulen. Eine Verlängerung ist nicht möglich.
+Es besteht die Möglichkeit, Leistungen nach dem Bundesbildungsförderungsgesetz zu beantragen.
+Bewerbungsfrist: 03.04.2025
+Vertragsbeginn: 01.09.2025
+Befristung: befristet bis 31.08.2026
+Wochenstunden: 39 h
+Vergütung: 300,00 Euro brutto je Monat
+Arbeitsort: Tiergartenstr. 6, 10785 Berlin
+Ihre Aufgaben
+Kennenlernen sämtlicher Bereiche der Konservierung / Restaurierung / Kunsttechnologie
+Mitarbeiten im Bereich präventiver Konservierung im
+Museum
+Kennenlernen der Untersuchungsverfahren und der
+konservatorisch-restauratorischen Tätigkeiten im
+Museum
+Mitarbeiten beim Konservieren und Restaurieren von
+Holzobjekten sowie beim Dokumentieren
+Ihr Profil
+allgemeine Hochschulreife (zum Vertragsbeginn)
+Absicht, ein restauratorisches Hochschulstudium aufzunehmen
+sehr gutes naturwissenschaftliches Verständnis
+sehr gute Deutschkenntnisse in Wort und Schrift
+Erwünscht
+überdurchschnittliche feinmotorische Geschicklichkeit und Umsicht sowie ausgeprägte Fähigkeit zu lösungsorientiertem Denken
+ausgeprägtes Interesse an Kunst und Kultur
+Interesse an der Arbeit im musealen Kontext
+praktische Vorkenntnisse durch Schulpraktika oder Leistungskurse in der Schule
+Wir bieten Ihnen
+Mitarbeit in der größten Kultureinrichtung Deutschlands und einer der bedeutendsten weltweit
+Mitwirken am Bewahren, Erforschen und Vermitteln einzigartiger Zeugnisse der Geschichte der Menschheit
+einen interessanten und abwechslungsreichen Praktikumsplatz in zentraler Lage Berlins
+vielseitige und spannende Aufgaben
+Wir fördern und begrüßen
+aktiv eine Kultur der Wertschätzung
+Chancengerechtigkeit und Vielfalt
+Bewerbungen aller Menschen, unabhängig von Alter, Geschlecht, Nationalität, kultureller und sozialer Herkunft, Religion oder Weltanschauung, Behinderung,
+sexueller Identität
+Bewerbungen von Black, Indigenous and People of Color sowie Menschen mit Migrations- und Fluchtgeschichte
+Menschen mit Schwerbehinderung und ihnen Gleichgestellte, die bei gleicher Eignung besonders berücksichtigt werden
+Fragen zum Aufgabengebiet
+Frau Dr. Blöcher
++49 30 266 424 315
+Fragen zum Bewerbungsverfahren
+Frau Baldig
++49 30 266 411 620
+Ihre Bewerbung enthält
+Angabe der Kennziffer:
+SMB-KGM-3-2025
+Anschreiben
+Lebenslauf
+Prüfungszeugnisse bzw. Urkunden
+Bewerben Sie sich jetzt!
+Ihre Daten werden im Rahmen des Bewerbungsverfahrens gespeichert und verarbeitet. Weitere Informationen:
+www.preussischer-kulturbesitz.de/karriere/datenschutz.html
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 03.04.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/restaurierungspraktikantin-m-w-d-2/</guid></item><item><title>Restaurierungspraktikant:in (m/w/d) zur Vorbereitung auf ein Hochschulstudium</title><link>https://www.museumsbund.de/stellenangebote/restaurierungspraktikantin-m-w-d-zur-vorbereitung-auf-ein-hochschulstudium-2/</link><description>Gemäldegalerie der Staatlichen Museen zu Berlin, Berlin Bewerbungsende: 02.04.2025 | In der Gemäldegalerie der Staatlichen Museen zu Berlin ist eine Stelle als
+Restaurierungspraktikant:in (m/w/d)
+zur Vorbereitung auf ein Hochschulstudium
+zu besetzen. Die Gemäldegalerie besitzt eine der weltweit bedeutendsten Sammlungen europäischer Malerei vom 13. bis zum 18. Jahrhundert. Sammlungsschwerpunkte bilden die deutsche und italienische Malerei des 13. bis 16. und die niederländische Malerei des 15. bis 17. Jahrhunderts.
+Bewerbungsfrist: bis 02.04.2025
+Vertragsbeginn: 01.09.2025
+Befristung: befristet bis 31.08.2026
+Wochenstunden: 39 h
+Vergütung: 300,- EUR/Monat
+Arbeitsort: Johanna und Eduard Arnhold Platz, 10785 Berlin
+Die Voraussetzungen für die Bewerbung sind in den Studienordnungen der jeweiligen Fachhochschulen/Akademien geregelt. Die Länge des Praktikums, in der Regel ein Jahr, richtet sich nach den Anforderungen der Hochschulen. Eine Verlängerung ist nicht möglich. Es besteht die Möglichkeit, Leistungen nach dem Bundesbildungsförderungsgesetz zu beantragen.
+Ihre Aufgaben
+Kennenlernen sämtlicher Bereiche der Konservierung / Restaurierung / Kunsttechnologie und Mitarbeit in der täglichen Praxis
+Mitarbeiten beim musealen Konservieren und Restaurieren von Gemälden
+Mitwirken im Bereich präventiver Konservierung im Museum
+Assistieren beim Dokumentieren von Kunstwerken
+Unterstützen bei der restauratorischen Betreuung des Ausstellungsprogramms der Gemäldegalerie
+Ihr Profil
+allgemeine Hochschulreife (zu Vertragsbeginn)
+Interesse an restauratorischen und konservatorischen Arbeiten, an Museen und dem Arbeiten im musealen Kontext
+sehr gutes naturwissenschaftliches Verständnis
+überdurchschnittliche feinmotorische Geschicklichkeit und Umsicht sowie ausgeprägte Fähigkeit zu lösungsorientiertem Denken
+sehr gute Deutschkenntnisse in Wort und Schrift
+Erwünscht
+praktische Vorkenntnisse durch Schulpraktika oder Leistungskurse der Schule und idealerweise Nachweis eines Berufsberatungsgesprächs
+hohes Maß an Motivation
+ausgeprägte Teamfähigkeit
+Wir bieten Ihnen
+Praktikumsplatz mitten in Berlin
+Einblicke in eine international renommierte Sammlung
+Mitarbeit in einem engagierten Team
+Vorbereitung auf die Bewerbung für ein restauratorisches Hochschulstudium
+Mitarbeit in der größten Kultureinrichtung Deutschlands und einer der bedeutendsten weltweit
+Wir fördern und begrüßen
+aktiv eine Kultur der Wertschätzung
+Chancengerechtigkeit und Vielfalt
+Bewerbungen aller Menschen, unabhängig von Alter, Geschlecht, Nationalität, kultureller und sozialer Herkunft, Religion oder Weltanschauung, Behinderung,
+sexueller Identität
+Bewerbungen von Black, Indigenous and People of Color sowie Menschen mit Migrations- und Fluchtgeschichte
+Menschen mit Schwerbehinderung und ihnen Gleichgestellte, die bei gleicher Eignung besonders berücksichtigt werden
+Fragen zum Aufgabengebiet
+Frau Krainer
++49 30 266 42 4421
+Fragen zum Bewerbungsverfahren
+Frau Pohl
++49 30 266 41 1610
+Ihre Bewerbung enthält
+Angabe der Kennziffer:
+SMB-GG-1-2025
+Anschreiben
+Lebenslauf
+Bestätigung der Teilnahme an einer Studienberatung
+Prüfungszeugnisse bzw. Urkunden
+ggf. Arbeitszeugnisse
+ggf. Dokumentation von Arbeitsproben
+Bewerben Sie sich jetzt!
+Ihre Daten werden im Rahmen des Bewerbungsverfahrens gespeichert und verarbeitet. Weitere Informationen:
+www.preussischer-kulturbesitz.de/karriere/datenschutz.html
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 02.04.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/restaurierungspraktikantin-m-w-d-zur-vorbereitung-auf-ein-hochschulstudium-2/</guid></item><item><title>2 Mitarbeiter/innen für den allgemeinen Museumsdienst (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/2-mitarbeiter-innen-fuer-den-allgemeinen-museumsdienst-m-w-d/</link><description>Porzellanikon – Staatliches Museum für Porzellan, Selb und Hohenberg a.d. Eger Bewerbungsende: 28.03.2025 | Wir suchen zur Verstärkung unseres Teams im Referat für Bildung und Vermittlung eine/n
 2 Mitarbeiter/innen für den allgemeinen Museumsdienst (m/w/d)
 in Teilzeit (20 Std./Woche), bevorzugt am Wochenende, max. in Entgeltgruppe E4 TV-L, unbefristet und zum nächstmöglichen Zeitpunkt.
 &gt;&gt;&gt;Hier geht es zur Stellenausschreibung
@@ -12,8 +507,8 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 28.03.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/2-mitarbeiter-innen-fuer-den-allgemeinen-museumsdienst-m-w-d/</guid></item><item><title>Assistentin / Assistenten für die Abteilung Restaurierung in der Graphischen Sammlung des Städel Museums</title><link>https://www.museumsbund.de/stellenangebote/assistentin-assistenten/</link><description>Städel Museum Frankfurt, Frankfurt am Main Bewerbungsende: 15.04.2025 | Das Städel Museum in Frankfurt am Main, gegründet 1815, gilt als die älteste Museumsstiftung in Deutschland und beherbergt eine international herausragende Kunstsammlung. Diese umfasst neben Gemälden und Skulpturen etwa 100.000 Handzeichnungen und Druckgraphiken aus dem 15. bis 21. Jahrhundert sowie eine Fotosammlung mit über 5000 Werken vom 19. Jahrhundert bis zur unmittelbaren Gegenwart.
-Für die Abteilung Restaurierung in der Graphischen Sammlung des Städel Museums suchen wir ab 01.07.2025
+Bewerbungsende: 28.03.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/2-mitarbeiter-innen-fuer-den-allgemeinen-museumsdienst-m-w-d/</guid></item><item><title>Assistentin / Assistenten für die Abteilung Restaurierung in der Graphischen Sammlung des Städel Museums</title><link>https://www.museumsbund.de/stellenangebote/assistentin-assistenten/</link><description>Städel Museum Frankfurt, Frankfurt am Main Bewerbungsende: 12.05.2025 | Das Städel Museum in Frankfurt am Main, gegründet 1815, gilt als die älteste Museumsstiftung in Deutschland und beherbergt eine international herausragende Kunstsammlung. Diese umfasst neben Gemälden und Skulpturen etwa 100.000 Handzeichnungen und Druckgraphiken aus dem 15. bis 21. Jahrhundert sowie eine Fotosammlung mit über 5000 Werken vom 19. Jahrhundert bis zur unmittelbaren Gegenwart.
+Für die Abteilung Restaurierung in der Graphischen Sammlung des Städel Museums suchen wir ab 01.08.2025
 eine Assistentin / einen Assistenten
 (Vollzeit oder Teilzeit, die Stelle ist auf zwei Jahre befristet)
 Tätigkeiten
@@ -31,7 +526,7 @@ Belastbarkeit und die Fähigkeit, auch unter körperlich anstrengenden Bedingung
 Kooperations- und Teamfähigkeit
 Gute Deutschkenntnisse
 Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.
-Sind Sie interessiert? Dann schicken Sie uns bitte Ihre aussagekräftigen Bewerbungsunterlagen bis zum 15. April 2025 per E-Mail an personal@staedelmuseum.de an Jutta Keddies, Leitung Restaurierung – Zeichnung, Graphik, Fotografie.
+Sind Sie interessiert? Dann schicken Sie uns bitte Ihre aussagekräftigen Bewerbungsunterlagen bis zum 12. Mai 2025 per E-Mail an personal@staedelmuseum.de an Jutta Keddies, Leitung Restaurierung – Zeichnung, Graphik, Fotografie.
 Achtung!
 Bitte senden Sie Ihre Bewerbungen
 direkt an die Einrichtung
@@ -41,7 +536,7 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 15.04.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/assistentin-assistenten/</guid></item><item><title>Mitarbeiter Medien- und Veranstaltungstechnik (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-medien-und-veranstaltungstechnik-m-w-d/</link><description>Städtische Museen Jena, Jena Bewerbungsende: 26.03.2025 | JenaKultur steht für viele besondere Momente im Leben der Menschen unserer Stadt und ihrer Gäste. Kulturarena und Jenaer Philharmonie. Volkshochschule Jena und Musik- und Kunstschule Jena. Die Ernst-Abbe-Bücherei und die Städtischen Museen Jena. Volksbad Jena und Volkshaus Jena. Tourismus und Kulturmarketing. Und vieles mehr. Ob für Jung oder Alt. Ob bewahrend oder zukunftsorientiert. Unsere Einrichtungen und Themen sind vielfältig und stets lebendig.
+Bewerbungsende: 12.05.2025</description><pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/assistentin-assistenten/</guid></item><item><title>Mitarbeiter Medien- und Veranstaltungstechnik (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-medien-und-veranstaltungstechnik-m-w-d/</link><description>Städtische Museen Jena, Jena Bewerbungsende: 26.03.2025 | JenaKultur steht für viele besondere Momente im Leben der Menschen unserer Stadt und ihrer Gäste. Kulturarena und Jenaer Philharmonie. Volkshochschule Jena und Musik- und Kunstschule Jena. Die Ernst-Abbe-Bücherei und die Städtischen Museen Jena. Volksbad Jena und Volkshaus Jena. Tourismus und Kulturmarketing. Und vieles mehr. Ob für Jung oder Alt. Ob bewahrend oder zukunftsorientiert. Unsere Einrichtungen und Themen sind vielfältig und stets lebendig.
 Seit der Gründung im Jahr 2005 stellen unsere heute mehr als 320 Mitarbeiter:innen mit jedem Projekt, jedem Kurs, jedem Konzert und jeder Veranstaltung unter Beweis, mit welcher Leidenschaft sie Kultur und Bildung leben und für Jena weiterentwickeln.
 In den Städtischen Museen Jena soll die Vollzeitstelle
 schnellstmöglich
@@ -571,274 +1066,4 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 02.04.2025</description><pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/vermittlungspersonen-m-w-d-in-50-prozent-teilzeit-195-wochenstunden/</guid></item><item><title>Wissenschaftliche Referentin / Wissenschaftlicher Referent für das LVR-LandesMuseum Bonn mit den Schwerpunkten Publishing &amp; Digitale Textredaktion</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftliche-referentin-wissenschaftlicher-referent-fuer-das-lvr-landesmuseum-bonn-mit-den-schwerpunkten-publishing-digitale-textredaktion/</link><description>LVR-LandesMuseum Bonn, Bonn Bewerbungsende: 06.04.2025 | zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 06.04.2025</description><pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliche-referentin-wissenschaftlicher-referent-fuer-das-lvr-landesmuseum-bonn-mit-den-schwerpunkten-publishing-digitale-textredaktion/</guid></item><item><title>Textilrestaurator/Textilrestauratorin (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/textilrestaurator-textilrestauratorin-m-w-d/</link><description>Deutsches Textilmuseum, Krefeld Bewerbungsende: 30.03.2025 | Inmitten der Metropolregion Rheinland ist Krefeld eine Groûstadt mit Charakter, viel Grû¥n und hoher LebensqualitûÊt ã kulturell lebendig, wirtschaftlich dynamisch, mit einer engagierten Stadtgesellschaft. Unsere lange Tradition der KreativitûÊt und Weltoffenheit wird auch in der Gegenwart spû¥rbar. Machen Sie Krefeld mit uns l(i)ebenswert! Die Stadtverwaltung Krefeld ist vor Ort eine der grûÑûten Arbeitgeberinnen. Im Zusammenwirken mit der Bû¥rgerschaft organisieren und gestalten rund 4000 Mitarbeiterinnen und Mitarbeiter den Alltag und das tûÊgliche Miteinander in unserer Stadt.
-Zur VerstûÊrkung unseres Teams suchen wir einen/eine
-Textilrestauratoren/Textilrestauratorin (m/w/d)
-Kennziffer E – 66/25/41T I Beginn zum nûÊchstmûÑglichen Zeitpunkt I befristet fû¥r die Dauer von drei Jahren I Teilzeit mit 19,5 Wochenstunden, eine temporûÊre Stundenaufstockung ist mûÑglich I EG 10 TVûÑD I Bewerbungsfrist: 30. MûÊrz 2025
-Die Stadtverwaltung Krefeld sucht Sie als Textilrestaurator/in (m/w/d) fû¥r ein Projekt zur Verbesserung der Aufbewahrungssituation textilen Kulturgutes in einem Auûendepot des Deutschen Textilmuseums, Andreasmarkt 8, 47809 Krefeld.
-Wenn Sie û¥ber einen im Profil genannten Abschluss verfû¥gen, freuen wir uns auf Ihre Online-Bewerbung!
-Das Deutsche Textilmuseum Krefeld verfû¥gt mit seiner nahezu 30.000 Objekte umfassenden Textilsammlung aus allen Kulturen, Epochen und Regionen û¥ber ein Alleinstellungsmerkmal. An diese Sammlung knû¥pfen sich zahlreiche Forschungs- und Publikationsprojekte, die in temporûÊren Ausstellungen gezeigt werden. Zwei Mal jûÊhrlich erûÑffnet das Museum eine neue Schau, die Themen bilden starke Kontraste und reichen von Kulturgeschichte, Ethnologie, ArchûÊologie und textilem Handwerk bis hin zur Textilkunst.
-Ihr Profil
-ô£ ein abgeschlossenes Hochschulstudium (Abschluss mit Diplom oder Master of Arts) der Restaurierungs- und Konservierungswissenschaften
-Ihre Aufgaben
-ô£ Durchfû¥hrung von konservatorischen und restauratorischen Maûnahmen (Dekontamination) von verschiedenen textilen Objekten: VollflûÊchige, mechanische Trockenreinigung mit H-Klasse Gefahrstoffsauger und weichen Pinseln, teilweise partielle Desinfektion bzw. Reinigung mit 70%igem Isopropanol oder Ethanol
-ô£ Erstellung von Zustandsprotokollen
-ô£ Erstellen von digitalen Objektfotos, Bildbearbeitung und – verarbeitung
-ô£ Erfassen von Objekt-Basisdaten (Inventarnummern, Objektbezeichnung, Objektgruppe, Maûe, durchgefû¥hrte Maûnahmen)
-ô£ Fachgerechte Verpackung
-ô£ Bewegen/Transportieren von Objektkartons zwischen verschiedenen Depots und ArbeitsrûÊumen
-ô£ Standortdokumentation
-ô£ Verstandortung
-ô£ ûberwachung von klimatischen Bedingungen und LichtverhûÊltnissen in den Depots
-Darû¥ber hinaus wû¥nschenswert
-ô£ Kooperationskompetenz
-ô£ FûÊhigkeit zu selbstûÊndigem und eigenverantwortlichem Arbeiten
-ô£ Darû¥ber hinaus erfordern Ihre Aufgaben ein routiniertes Objekthandling und ausdauernde Sorgfalt sowie die Bereitschaft zum Arbeiten in persûÑnlicher Arbeitsschutzausrû¥stung
-ô£ gesundheitliche Eignung fû¥r die Erledigung der Aufgaben
-ô£ Fahrerlaubnis der Klasse B und die Bereitschaft zum Fû¥hren eines Dienstfahrzeugs
-Wir bieten Ihnen
-Gesundheitsmanagement/Sport,ô 30 Tage Urlaub, Homeoffice (StellenabhûÊngig) / flexible Arbeitszeiten, Betriebliche Altersvorsorge, Personalentwicklung/Coaching/Mentoring,ô Onboarding,ô Feedback/Ideenmanagement,ô Mitarbeitendenevents,ô Moderne MobilitûÊtsangebote wie Jobrad, AG-Darlehen &amp; Dienstfahrkarten, Leistungsorientierte Bezahlung
-Fû¥r fachliche Fragen hinsichtlich der ausgeschriebenen Stelle steht Ihnen die Leiterin des Deutschen Textilmuseums Frau Dr. Annette Paetz gen. Schieck (Tel. 02151/9 46 94 50) zur Verfû¥gung. Ihre Ansprechpartnerin im Fachbereich Verwaltungssteuerung und -service rund um das Auswahlverfahren ist Frau Anke Axnick (Tel. 02151/86-1480).
-Die Stadt Krefeld fûÑrdert aktiv die Gleichstellung der Die Stadtverwaltung Krefeld hat sich verpflichtet, einen Geschlechter und setzt sich fû¥r Chancengleichheit und ausgewogenen Anteil von Frauen und MûÊnnern gegenwûÊrtig DiversitûÊt ein. Wir erwarten von allen Mitarbeiterinnen und und in Zukunft sicherzustellen. Frauen sind deshalb Mitarbeitern, dass sie an der Erreichung dieser Ziele aktiv ausdrû¥cklich angesprochen, sich zu bewerben. Die mitwirken und begrû¥ûen die Bewerbungen von Menschen Auswahlentscheidungen erfolgen unter Berû¥cksichtigung der unabhûÊngig von kultureller und sozialer Herkunft, Alter, Regelungen Religion, Weltanschauung, Behinderung oder sexueller Landesgleichstellungsgesetz NRW sowie unseres aktuellen Orientierung und geschlechtlicher IdentitûÊt. Gleichstellungsplans.
-Achtung!
-Bitte senden Sie Ihre Bewerbungenô
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, undô
-nicht
-ô an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 30.03.2025</description><pubDate>Thu, 13 Mar 2025 17:18:11 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/textilrestaurator-textilrestauratorin-m-w-d/</guid></item><item><title>2 x 0,5 Stellen für die Mitarbeit (m/w/d) im Archiv bzw. der Bibliothek der KZ-Gedenkstätte Dachau (unbefristet)</title><link>https://www.museumsbund.de/stellenangebote/2-x-05-stellen-fuer-die-mitarbeit-m-w-d-im-archiv-bzw-der-bibliothek-der-kz-gedenkstaette-dachau-unbefristet/</link><description>KZ-Gedenkstätte Dachau, Dachau Bewerbungsende: 30.03.2025 | Die KZ-Gedenkstätte Dachau, Stiftung Bayerische Gedenkstätten, sucht zum nächstmöglichen Zeitpunkt jeweils für 50% der regelmäßigen wöchentlichen Arbeitszeit (2 x 20 Stunden) je eine/n wissenschaftliche/n Mitarbeiter/in (m/w/d) für das Archiv bzw. die Bibliothek. Bei nachgewiesener Eignung in beiden Bereichen könnten die Stellen auch als eine Vollzeitstelle vergeben werden.
-Die KZ-Gedenkstätte Dachau unterhält ein stetig wachsendes zeitgeschichtliches Archiv mit Schwerpunkt auf der Geschichte und Nachgeschichte des Konzentrationslagers Dachau sowie der verschiedenen Nachnutzungen seines Geländes. Das Archiv versammelt Dokumente, Fotos, Zeitungsberichte, Korrespondenzen von Behörden, Opferorganisationen und Privatpersonen, Nachlässe, Audio- und Videoaufzeichnungen von Interviews mit Überlebenden sowie weitere mediale Darstellungsformen zur Thematik.
-Die Bibliothek der KZ-Gedenkstätte Dachau enthält mehr als 18.000 Buchtitel sowie fast 200 historische und aktuelle Periodika. Die thematische Breite umfasst die Geschichte der NS-Zeit und des Zweiten Weltkriegs, im Speziellen die der Konzentrationslager und der Verfolgung und Vernichtung der Juden sowie des Widerstands gegen den Nationalsozialismus. In der Nachkriegsgeschichte liegen Schwerpunkte auf der justiziellen Aufarbeitung der NS-Verbrechen sowie der Erinnerungskultur und Gedenkstättenpädagogik in Bezug auf den Nationalsozialismus, speziell auch auf der künstlerischen Auseinandersetzung mit Geschichte und Folgen der NS-Herrschaft.
-Ihre Aufgaben im Wesentlichen
-Im Bereich Archiv
-Bearbeitung von Anfragen zu ehem. Häftlingen und SS-Personal des KZ Dachau sowie von thematischen und bestandsbezogenen Anfragen
-Formale und inhaltliche Erschließung von Archivmaterial
-Recherchen im Archiv
-Unterstützung bei der Ergänzung von Datensätzen
-Wahrnehmung von Querschnittsaufgaben im Archivbereich
-Unterstützung bei der Betreuung von Nutzer/inne/n und Praktikant/inn/en
-Im Bereich Bibliothek
-Mitarbeit bei der Bestandserhaltung und Erweiterung des Bibliotheksbestands
-Bearbeitung von Anfragen
-Recherchen in der Bibliothek
-Katalogisierung und Verschlagwortung des Buchbestands in der Datenbank
-Wahrnehmung von Querschnittsaufgaben im Bibliotheksbereich
-Unterstützung bei der Betreuung von Nutzer/inne/n und Praktikant/inn/en
-Was wir bieten
-:
-ein vielfältiges Aufgabenspektrum
-einen interessanten und abwechslungsreichen Arbeitsplatz
-einen wertschätzenden Umgang im Kreis der Kolleg/inn/en
-Was wir erwarten
-:
-Abgeschlossenes wissenschaftliches Hochschulstudium mit Schwerpunkt in Neuerer und Neuester Geschichte, Archiv-, Bibliotheks-, Kultur-, Politikwissenschaft, Soziologie, Ethnologie/Volkskunde oder einer vergleichbaren Disziplin
-Solide Kenntnisse der Geschichte des Nationalsozialismus (insbesondere der Konzentrationslager), der Nachgeschichte der Lagerorte und erinnerungskultureller Themen
-Nachweisbare Berufserfahrung im Bereich von zeithistorischen Archiven, Bibliotheken, Museen, Gedenkstätten oder vergleichbaren Einrichtungen der historisch-politischen Bildung
-Nachweisbare Erfahrung im Umgang mit Archivalien, Büchern und entsprechenden Datenbanken
-Kommunikations- und Teamfähigkeit, soziale Kompetenz sowie Fähigkeit zum selbständigen, konzeptionellen Arbeiten
-Sichere Beherrschung der deutschen und einer weiteren (vorzugsweise west- oder osteuropäischen) Sprache
-Anstellung, Vergütung und Sozialleistungen richten sich nach dem Tarifvertrag für den öffentlichen Dienst (TV-L). Die Vergütung entspricht der Entgeltgruppe 9 des TV-L (Bayern), die Probezeit beträgt sechs Monate. Die KZ-Gedenkstätte Dachau steht für Gleichstellung, Chancengleichheit und Antidiskriminierung. Wir begrüßen deshalb Bewerbungen von Personen jeglicher kulturellen und sozialen Herkunft, Alter, Religion, Weltanschauung oder sexuellen Identität. Bewerber/innen mit Behinderung werden bei gleicher Eignung unter Berücksichtigung aller Umstände des Einzelfalls bevorzugt.
-Ihre
-Bewerbung
-mit Lebenslauf, Zeugnissen und einschlägigen Unterlagen richten Sie bitte
-bis zum 30. März 2025
-in elektronischer Form (eine pdf-Datei) über die Personalabteilung der KZ-Gedenkstätte Dachau (
-bewerbungen@kz-gedenkstaette-dachau.de
-) an Dr. Christoph Thonfeld, Leiter der wissenschaftlichen Abteilung. Telefonische Rückfragen richten Sie bitte an Herrn Andre Scharf (08131/66997-115) für das Archiv und an Frau Anja Henschel (08131/66997-141) für die Bibliothek. Die
-Auswahlgespräche
-werden
-voraussichtlich am 10. April 2025
-in der KZ-Gedenkstätte Dachau stattfinden.
-Mit der Abgabe einer Bewerbung geben Sie Ihr Einverständnis, dass Ihre Daten elektronisch verarbeitet und gespeichert werden.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 30.03.2025</description><pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/2-x-05-stellen-fuer-die-mitarbeit-m-w-d-im-archiv-bzw-der-bibliothek-der-kz-gedenkstaette-dachau-unbefristet/</guid></item><item><title>Restaurator (m/w/d) für archäologisches Kulturgut in Teilzeit mit 50 %</title><link>https://www.museumsbund.de/stellenangebote/restaurator-m-w-d-fuer-archaeologisches-kulturgut-in-teilzeit-mit-50/</link><description>Städtischen Museen Heilbronn, Heilbronn am Neckar Bewerbungsende: 30.03.2025 | Unsere Stadt geht in die Zukunft- gehen Sie mit? Heilbronn am Neckar ist das dynamische Oberzentrum der Region Heilbronn-Franken. Seien Sie dabei, wenn wirtschaftliche Stärke auf Bildungsvielfalt, kulturelle Energie und soziales Engagement trifft und gestalten Sie mit uns das Heilbronn von morgen.
-Die Städtischen Museen Heilbronn verfügen in der Innenstadt über zwei Standorte: das Museum im Deutschhof und die Kunsthalle Vogelmann an der Allee.
-Im Museum im Deutschhof präsentieren die Städtischen Museen Heilbronn Exponate aus verschiedenen Sammlungsbereichen: Natur- und Kulturgeschichte, Archäologie und Kunst.
-In der Kunsthalle Vogelmann zeigen die Städtischen Museen Heilbronn seit 2010 pro Jahr drei Sonderausstellungen, die vorrangig das Gebiet von Skulptur und Plastik der Klassischen Moderne bis zur Gegenwart umfassen.
-Ihr wichtiger Beitrag:
-* Sie führen fachlich fundierte Restaurierungs- und Konservierungsmaßnahmen an archäologischem Kulturgut aus Metall, Glas und Keramiken nach neusten wissenschaftlichen Erkenntnissen durch,
-* Sie überwachen und bearbeiten die museumseigenen Depotbestände und betreuen und pflegen die Objekte in der Dauerausstellung sowie in den Sonderausstellungen,
-* Sie überwachen die Einhaltung konservatorischer Standards in den Ausstellungsräumen und im Museumsdepot,
-* Sie führen Objektanordnungen und Montagen bei der Einrichtung von Museumsräumen aus,
-* Sie erarbeiten Maßnahmen zur Schadensprävention und zum Notfallmanagement und unterstützen in der Zustandserfassung und Sichtung der Sammlung.
-Was Sie mitbringen sollten:
-* eine abgeschlossene Ausbildung im Bereich Konservierung und Restaurierung mit Schwerpunkt Archäologie/archäologische Objekte an einer (Fach-)Hochschule (Diplom, Bachelor) oder ein gleichwertiger Abschluss,
-* Erfahrungen und gute Kenntnisse in der konservatorischen Objektüberwachung und in den gängigen Konservierungsmethoden für archäologische Objekte, sowie in der fachgerechten Objektpräsentation,
-* gute EDV-Kenntnisse und Erfahrungen im Umgang mit Datenbanken,
-* sorgfältiges und effizientes Arbeiten mit Verantwortungsbewusstsein, sowie Organisationstalent, Teamfähigkeit und Belastbarkeit,
-* Führerschein der Klasse B für die Durchführung von Dienstreisen.
-Was wir Ihnen bieten:
-* HONORIERUNG IHRER LEISTUNG: Wir bezahlen Ihnen ein transparentes Gehalt je nach Qualifikation und Erfahrung bis Entgeltgruppe 9b TVöD und bieten für Tarifbeschäftigte eine zusätzliche betriebliche Altersversorgung.
-* BESCHÄFTIGUNGSSUMFANG mit 50 %.
-* WERTSCHÄTZUNG: Respektvoller und freundlicher Umgang, zugewandte Führung, offene und motivierte Teams.
-* KOMFORTABLE ANBINDUNG: Wir leben Klimaschutz und bieten Ihnen u. a. als JobTicket ein DeutschlandTicket mit einem mtl. Eigenanteil von 5 Euro und das Leasing eines JobRads an.
-* PERSÖNLICHE WEITERENTWICKLUNG: Unser umfassendes Angebot an Fort- und Weiterbildungen trägt zu Ihrer fachlichen und persönlichen Entwicklung bei. Es erwartet Sie ein vielfältiges und verantwortungsvolles Aufgabengebiet in einem ansprechenden Arbeitsumfeld.
-Informationen zur Bewerbung:
-Haben wir Ihr Interesse geweckt? Dann freuen wir uns über Ihre Bewerbung!
-Mit nur ein paar wenigen Klicks können Sie Ihre Bewerbungsunterlagen ganz einfach über unser Onlineportal unter Angabe der Kennziffer 2025.45.0002 bis spätestens 30. März 2025 einreichen.
-Die eingereichten Unterlagen werden nach Abschluss des Verfahrens gelöscht bzw. vernichtet. Für Fragen stehe ich, Herr Jedinat, Telefon 07131-564764, gerne zur Verfügung.
-Die Stadt Heilbronn fördert die berufliche Gleichstellung Aller. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt eingestellt.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 30.03.2025</description><pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/restaurator-m-w-d-fuer-archaeologisches-kulturgut-in-teilzeit-mit-50/</guid></item><item><title>Museumspädagoge (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/museumspaedagoge-m-w-d-5/</link><description>Stadtverwaltung Bautzen, Bautzen Bewerbungsende: 21.03.2025 | „Wir sollten Achtung haben vor den Geheimnissen und Schwankungen der schweren Arbeit des Wachsens.“
-(Janusz Korczak)
-Trauen Sie sich! Die Große Kreisstadt Bautzen sucht Menschen mit Engagement, Herzblut und Expertise. Gemeinsam mit circa 500 Beschäftigten arbeiten Sie aktiv für die Verwaltung einer der familienfreundlichsten Mittelstädte Deutschlands.
-Stellen Sie sich der Herausforderung und bewerben Sie sich als
-Museumspädagoge (m/w/d)
-(vergütet nach EG 9b TVöD – VKA)
-und werden Sie ab
-1. August 2025
-Teil der Bautzener Stadtverwaltung unbefristet, in Teilzeit mit einer wöchentlichen Arbeitszeit von 33 Stunden.
-Ihre neue Aufgabe beinhaltet:
-Museumspädagogische Arbeit
-Aufbereitung von Inhalten der Dauerausstellung und der jeweiligen Sonderausstellungen zum Zwecke der Wissensvermittlung
-Lehrplanbezogene Programmentwicklung für alle Schularten und die Vorschule
-Zusammenarbeit mit Schulen in Bautzen und in der Region
-Durchführung von museumspädagogischen Angeboten, Programmen und anderer Veranstaltungen
-Sonderausstellungen
-Mitarbeit an Ausstellungskonzeptionen, Entwicklung und Gestaltung von wechselnden Sonderausstellungen
-Mithilfe bei der Organisation, der Vorbereitung sowie Auf- und Abbau von Sonderausstellungen
-Dafür bringen Sie mit:
-Qualifikation:
-abgeschlossenes grundständiges Hochschulstudium der Museologie vorzugsweise mit museumspädagogischem Schwerpunkt; alternativ auch mit Abschluss in den Bereichen der Kunst- oder Kulturwissenschaften oder -geschichte oder prähistorischen Archäologie
-Expertise:
-Erfahrung in der Museumsarbeit sind wünschenswert
-Kenntnisse über Fördermöglichkeiten und -programme auf Landes- und Bundesebene
-Kompetenz &amp; Persönlichkeit
-ausgeprägte Kommunikations- und Teamfähigkeit
-Erfahrungen in der Netzwerkarbeit im Kulturbereich
-handwerkliches Geschick
-künstlerische Fähigkeiten (Zeichnen / Malen, Grafik, Musik)
-Führerschein Klasse B
-Sprachkenntnisse der deutschen Sprache mind. auf C1 Niveau
-Wir überzeugen Sie mit:
-attraktiven
-Aufgaben in einem vielfältigen und interessanten Tätigkeitsfeld
-einer
-unbefristeten
-Einstellung
-leistungsgerechter
-Vergütung nach TVöD (VKA)
-mit
-betrieblicher Altersvorsorge
-, Jahressonderzahlung und vermögenswirksamen Leistungen
-Vereinbarkeit von Familie und Beruf durch
-flexible Gleitzeit
-30 Tage Erholungsurlaub
-(bei einer 5-Tage-Woche)
-einem betrieblichen
-Gesundheitsmanagement
-der Möglichkeit der
-mobilen Arbeit
-nach aktueller Dienstvereinbarung
-Sie sind interessiert? – Wir auch. Gern möchten wir Sie kennenlernen!
-Kontakt bei fachlich-inhaltlichen Fragen zur Stelle: Herr Dr. Vollbrecht, Telefon 03591 534-911
-Kontakt bei Fragen zum Bewerbungsprozess: Frau Grüttner, Telefon 03591 534-127
-Wir freuen uns auf Ihre Bewerbungsunterlagen (inklusive Anschreiben, Lebenslauf, Abschluss- und Arbeitszeugnisse) bis zum
-21. März 2025
-per E-Mail (PDF) an:
-bewerbungen@bautzen.de
-oder alternativ an Stadtverwaltung Bautzen, Personalabteilung, Fleischmarkt 1, 02625 Bautzen.
-(Bei postalischen Bewerbungen bitte wir um Beachtung, dass eine Rücksendung von Bewerbungsunterlagen nur möglich ist, wenn der Bewerbung ein ausreichend frankierter Rückumschlag beiliegt.)
-Bewerbungen grundsätzlich geeigneter schwerbehinderter Menschen, auch Gleichgestellter im Sinne des § 2 Abs. 3 Sozialgesetzbuch – Neuntes Buch (SGB IX) –, werden bei vergleichbarer Qualifikation bevorzugt berücksichtigt. Ein entsprechender Nachweis ist den Bewerbungsunterlagen beizulegen.
-Weitere Informationen zur Stadtverwaltung Bautzen finden Sie auf unserer Website
-www.bautzen.de
-.
-Bis zum Abschluss des Auswahlverfahrens werden Ihre personenbezogenen Daten unter Beachtung der EU-Datenschutzgrundverordnung (EU-DSGVO) sowie des Sächsischen Datenschutzgesetzes (SächsDSG) und des Sächsischen Datenschutzdurchführungsgesetzes (SächsDSDG) gespeichert und ausschließlich für den Zweck dieses Verfahrens verarbeitet und genutzt. Vertraulichkeit sichern wir Ihnen zu.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 21.03.2025</description><pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/museumspaedagoge-m-w-d-5/</guid></item><item><title>Wissenschaftliche Mitarbeiterin/ wissenschaftlicher Mitarbeiter für Provenienzforschung (m/w/d) für die Koordinierungsstelle für Provenienzforschung des Museumsverbandes Thüringen e. V. (MVT)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-fuer-provenienzforschung-m-w-d-fuer-die-koordinierungsstelle-fuer-provenienzforschung-des-museumsverbandes-thueringen-e-v-mvt/</link><description>Museumsverband Thüringen e. V., Erfurt Bewerbungsende: 21.04.2025 | Der 1990 gegründete Museumsverband Thüringen e. V. ist ein Fachverband und die Interessenvertretung für derzeit 236 Museen. Er berät den Freistaat Thüringen und seine Mitgliedsmuseen in allen Fragen des Museumswesens. Um seine Aufgaben als Interessenvertretung, Service-, Beratungs- und Koordinationsstelle zu erfüllen, betreibt der Museumsverband in der Landeshauptstadt Erfurt eine Geschäftsstelle.
-Zum 16. Juni 2025 suchen wir eine wissenschaftliche Mitarbeiterin/wissenschaftlicher Mitarbeiter für Provenienzforschung (m/w/d) als Elternzeitvertretung für die Koordinierungsstelle für Provenienzforschung. Die Teilzeitstelle (70 Prozent) ist der Entgeltgruppe 12 TVöD zugeordnet und auf zwei Jahre befristet. Dienstort ist Erfurt.
-Aufgaben:
-aktive Provenienzforschung und Provenienzrecherchen u. a. in Form sogenannter Erstchecks
-Beratung und Unterstützung von Museen bei zentralen Fragen der Provenienzforschung sowie zu Unrechtskontexten
-Fördermittelberatung: Unterstützung bei Fördermittelprojekten im Bereich Provenienzforschung
-wissenschaftliche Veranstaltungen: Unterstützung bei der Konzeption und Durchführung von Weiterbildungen und Fachvorträgen
-Netzwerkarbeit: Mitarbeit im Arbeitskreis Provenienz und Sammlungen des MVT und fachspezifischen Netzwerken
-Öffentlichkeitsarbeit: Präsentation von Forschungsergebnissen und Mitwirkung bei der Pressearbeit
-Berufliche Qualifikation und fachliche Voraussetzungen:
-abgeschlossenes Hochschulstudium der Sozial- und Kulturanthropologie (Ethnologie)/Geschichte/Kulturwissenschaften/Museologie oder vergleichbarer Fachrichtungen
-einschlägige Erfahrungen in der aktiven Provenienzforschung und Museumsarbeit oder vergleichbare Qualifikationen
-Kenntnisse des politischen und wissenschaftlichen Diskurses zur Provenienzforschung
-Erfahrung in wissenschaftlicher Projektarbeit und deren Dokumentation
-Vertrautheit mit Objektdatenbanken und digitaler Sammlungserschließung
-Erfahrungen in der wissenschaftlichen Bearbeitung von Archivmaterial
-Persönliche Voraussetzungen:
-Engagement, selbständiges Arbeiten, Organisationsvermögen
-ausgeprägte Team- und Kommunikationsfähigkeit
-sicherer Umgang mit gängigen Office-Anwendungen
-Reisebereitschaft (Führerschein Klasse B erforderlich)
-Wir bieten Ihnen:
-Eine befristete Teilzeitstelle (70 Prozent) als Elternzeitvertretung mit Entgeltgruppe 12 TVöD
-Dienstort: Erfurt – Arbeiten im Herzen Thüringens
-eine sinnstiftende Tätigkeit in einem kulturellen Umfeld
-ein engagiertes Team und eine wertschätzende Arbeitsatmosphäre
-Flexibilität bei der Arbeitszeitgestaltung im Rahmen der Teilzeitstelle
-Möglichkeiten zur Weiterbildung und persönliche Entwicklung
-Wir wünschen uns eine engagierte und aufgeschlossene Persönlichkeit, die sich mit Leidenschaft der Provenienzforschung widmet und Freude an der Arbeit in einem dynamischen Netzwerk hat. Ein professionelles Auftreten, eine strukturierte Arbeitsweise und ein hohes Maß an Selbstständigkeit sind für uns ebenso wichtig wie Teamfähigkeit und die Bereitschaft, sich kontinuierlich weiterzuentwickeln.
-Sollten wir Ihr Interesse an der Erfüllung des genannten Aufgabenspektrums geweckt haben und Sie die geforderten Voraussetzungen erfüllen, dann senden Sie Ihre
-Bewerbungsunterlagen
-(PDF, max. 4 MB)
-bis zum 21.
-April 2025
-an
-info@museumsverband-thueringen.de
-.
-Gern stehen wir Ihnen für Rückfragen unter der Telefonnummer 0361 24142640 zur Verfügung.
-Schwerbehinderte oder ihnen gleichgestellte Bewerberinnen und Bewerber werden nach Maßgabe des SGB IX bei gleicher Eignung und Befähigung bevorzugt berücksichtigt. Zur angemessenen Berücksichtigung bitten wir Sie, einen entsprechenden Nachweis den Bewerbungsunterlagen beizufügen.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 21.04.2025</description><pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-fuer-provenienzforschung-m-w-d-fuer-die-koordinierungsstelle-fuer-provenienzforschung-des-museumsverbandes-thueringen-e-v-mvt/</guid></item><item><title>Wissenschaftliches Volontariat</title><link>https://www.museumsbund.de/stellenangebote/102387/</link><description>Archäologisches Hegau-Museum, Singen Bewerbungsende: 22.04.2025 | Das Archäologische Hegau-Museum Singen sucht zum nächstmöglichen Zeitpunkt befristet für 2 Jahre in Vollzeit eine:n wissenschaftliche:n Volontär:in (m/w/d).
-Zur Ausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 22.04.2025</description><pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/102387/</guid></item></channel></rss>
+Bewerbungsende: 02.04.2025</description><pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/vermittlungspersonen-m-w-d-in-50-prozent-teilzeit-195-wochenstunden/</guid></item></channel></rss>
