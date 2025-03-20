@@ -1,5 +1,603 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Wissenschaftliche*r Mitarbeiter*in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-m-w-d-58/</link><description>Stiftung Deutsches Technikmuseum Berlin, Berlin Bewerbungsende: 28.03.2025 | Das Deutsche Technikmuseum- Einfach für Dich
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Mitarbeiter (m/w/d) Kulturinformatik / Digital Humanities für die digitale Inventarisierung von Kunst- und Kulturgütern</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-m-w-d-kulturinformatik-digital-humanities-fuer-die-digitale-inventarisierung-von-kunst-und-kulturguetern/</link><description>Kulturstiftung Sachsen-Anhalt, Halle (Saale) Bewerbungsende: 25.04.2025 | Die Kulturstiftung Sachsen-Anhalt ist eine selbstständige staatliche Stiftung des öffentlichen Rechts und eine der größten ihrer Art in Sachsen-Anhalt. Sie verwaltet seit einem Vierteljahrhundert einige der schönsten Burgen, Schlösser, Dome und Klöster mit ihren Museen und Sammlungen. An nunmehr 20 Stätten in der Mitte Deutschlands werden einzigartige Schätze präsentiert. Ihr Erhalt und ihre Nutzung machen nicht nur 1.200 Jahre Geschichte erlebbar, sondern sind mit zahlreichen Ausstellungen und Veranstaltungen im Hier und Jetzt verwurzelt.
+Für die Abteilung „Digitale Inventarisierung“ suchen wir zum nächstmöglichen Zeitpunkt einen Mitarbeiter (m/w/d) Kulturinformatik / Digital Humanities für die digitale Inventarisierung von Kunst- und Kulturgütern in Halle (Saale).
+Ihre Aufgaben
+Administration und Unterstützung bei der Weiterentwicklung der bestehenden Sammlungsmanagement-Software (MuseumPlus) sowie Planung, Migration und Implementierung eines neuen Datenbanksystems zur digitalen Inventarisierung
+Datenbankmanagement &amp; Datenqualitätssicherung, einschließlich Migrationsprozesse, Bereinigung, Standardisierung &amp; Normdatenanreicherung (GND, Getty AAT, VIAF) &amp; Compliance mit Standards wie LIDO, CIDOC CRM und SPECTRUM
+Datenmodellierung und Workflow-Optimierung zur Verbesserung der digitalen Erfassung, Verarbeitung und Archivierung von Objekt-, Bild- und Metadaten
+Anreicherung von Daten im Sinne von Linked Open Data (LOD) zur interoperablen Vernetzung von Museumsdaten mit nationalen und internationalen Repositorien
+Entwicklung und Automatisierung von Datenprozessen (Batch-Verarbeitung, Mapping von XML und CSV, Lesen und Schreiben von XML, und Schnittstellenanbindung)
+Beratung und Support für Fachreferate in der Nutzung der Datenbank, inkl. Schulungen und Dokumentation
+Koordination mit externen IT-Dienstleistern sowie enge Zusammenarbeit mit der internen IT-Abteilung bei der strategischen Weiterentwicklung digitaler Prozesse
+Ihr Profil
+Abgeschlossenes Studium in Digital Humanities, Kulturinformatik, Informationswissenschaften, Medieninformatik oder einer vergleichbaren Fachrichtung mit starkem IT-Bezug und Interesse an Museums- und Denkmalpflegethemen oder in einem historischen, kunst-, kultur- oder medienwissenschaftlichen Fach mit Schwerpunkt auf dem Forschungsbereich der Digital Humanities oder kulturinformatischen Inhalten
+Grundlegende Datenbankkenntnisse (z.B. SQL), idealerweise Erfahrung mit Museums-/Sammlungsmanagementsystemen
+Erste praktische Erfahrung in Datenmigration, Datenbereinigung (bspw. über OpenRefine) und Datenmodellierung.
+Idealerweise aktive Kenntnisse im Schreiben von Skripten und Aufsetzen von Batch-Prozessen (bspw. mittels Python)
+Verständnis von Metadatenstandards, Ontologien und Abfragesprachen (LIDO, CIDOC CRM, Dublin Core, EAD, RDF, SPARQL)
+Kommunikationsstärke und Fähigkeit zur interdisziplinären Zusammenarbeit
+Organisationsfähigkeit sowie eigenverantwortliches Arbeiten
+Bereitschaft zu Dienstreisen (Führerschein Klasse B erforderlich)
+Unser Angebot
+interessante, abwechslungsreiche und eigenverantwortliche Tätigkeit (
+Vollzeit, 40 Stunden/Woche
+)
+befristetes
+, projektgebundenes Arbeitsverhältnis bis zum 31.12.2028
+gleitende Arbeitszeit
+jährlich wiederkehrende Sonderzahlungen und zusätzliche betriebliche Altersvorsorge
+angenehmes Betriebsklima mit Arbeitsort in
+Halle (Saale)
+tarifgerechte Eingruppierung bis zu der
+Entgeltgruppe 11 TV-L
+Nähere Auskünfte zur Stellenausschreibung erteilen Ihnen Frau Christine Oelze und Frau Anika Kliewe unter den Rufnummern +49 39241 934-90 bzw. -71. Die Kulturstiftung Sachsen-Anhalt gewährleistet die berufliche Gleichstellung aller Geschlechter. Schwerbehinderte und diesen Gleichgestellte werden bei gleicher Qualifikation und Eignung bevorzugt berücksichtigt. Zur Wahrung Ihrer Interessen teilen Sie bitte bereits im Rahmen Ihrer Bewerbung mit, ob ggf. eine Behinderung oder Gleichstellung vorliegt; darüber hinaus ist der Bewerbung ein etwaiger Nachweis hierüber beizufügen.
+Haben wir Ihr Interesse geweckt? Dann freuen wir uns über Ihre schriftliche Bewerbung unter Angabe der Kennziffer 12/03041/03.2025-03 bis zum 25.04.2025 an „Referat12@kulturstiftung-st.de“. Berücksichtigt werden nur vollständig und innerhalb der Bewerbungsfrist eingereichte Bewerbungen! Fügen Sie Ihre Unterlagen bitte ausschließlich als pdf-Datei bei.
+Nach Beendigung des Stellenbesetzungsverfahrens werden die Unterlagen unter Beachtung der datenschutzrechtlichen Bestimmungen bei Nichtberücksichtigung vernichtet.
+Die Datenschutzhinweise für Bewerber (m/w/d) gem. Art. 13 DSGVO zur Datenverarbeitung im Bewerbungsverfahren finden Sie auf unserer Homepage.
+Kulturstiftung Sachsen-Anhalt
+Hauptverwaltung | Personalreferat
+Leitzkau
+Am Schloss 4
+39279 Gommern
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 25.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiter-m-w-d-kulturinformatik-digital-humanities-fuer-die-digitale-inventarisierung-von-kunst-und-kulturguetern/</guid></item><item><title>Projektmitarbeiter/in Kommunikation, Veranstaltungen und 35 Jahre East Side Gallery (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/projektmitarbeiter-in-kommunikation-veranstaltungen-und-35-jahre-east-side-gallery-m-w-d/</link><description>Stiftung Berliner Mauer, Berlin Bewerbungsende: 06.04.2025 | Die Stiftung Berliner Mauer ist eine Stiftung des öffentlichen Rechts. Zu ihr gehören die Standorte Gedenkstätte Berliner Mauer an der Bernauer Straße, die Erinnerungsstätte Notaufnahmelager Marienfelde, die East Side Gallery, die Gedenkstätte Günter Litfin und das Parlament der Bäume gegen Krieg und Gewalt.
+Gut ein Drittel aller Touristinnen und Touristen, die nach Berlin kommen, wollen die Reste der Berliner Mauer sehen und verstehen, warum sie 1961 gebaut wurde, welches Leid sie verursachte und welche Risiken Menschen in Kauf nahmen, um sie zu überwinden. Die Friedliche Revolution und der Mauerfall 1989 faszinieren Menschen aus der ganzen Welt – in der impliziten Hoffnung auf das Ende von scheinbar auf ewig zementierten Diktaturen und auf eine bessere Welt. Mit einem Besuch an den Originalorten der ehemaligen Grenze wollen sie auch diesem Gefühl nahekommen.
+Die Stiftung Berliner Mauer sucht zum nächstmöglichen Zeitpunkt
+eine/n Projektmitarbeiter/in Kommunikation, Veranstaltungen
+und 35 Jahre East Side Gallery (m/w/d)
+im Umfang von 50% der regulären Arbeitszeit befristet für 12 Monate. Die Vergütung erfolgt nach Entgeltgruppe 11 des TVL-Berlin.
+Ihre Aufgaben
+Mitarbeit bei der Konzeption, Vor- und Nachbereitung einer wissenschaftlichen Tagung zur Konservierung und Identität der East Side Gallery (September 2025)
+Mitarbeit bei der Vor- und Nachbereitung sowie Koordination eines Sonderprogramms zum 35-jährigen Bestehen der East Side Gallery und zu den Gedenkveranstaltungen am 13. August und am 9. November 2025 in der Gedenkstätte Berliner Mauer
+Redaktionelle Mitarbeit in der Kommunikation und Öffentlichkeitsarbeit
+Mitarbeit bei der Erarbeitung und Verbreitung von Informationsmedien und Texten (z.B. Erstellung und Aktualisierung von Druckprodukten sowie in der Online-Kommunikation und in den sozialen Medien)
+Mitarbeit bei der Budgetplanung und Finanzkontrolle des Projektes „35 Jahre East Side Gallery“ inkl. Reise- und Programmplanung
+sowie Mitarbeit bei der Vertragsgestaltung mit Honorarnehmenden, Kunstschaffenden, Veranstaltern etc.
+Betreuung von Medien- und Presseanfragen
+Zusammenarbeit mit externen Dienstleistern
+Recherche, Kontakt- und Netzwerkpflege
+Was Sie unbedingt mitbringen sollten
+abgeschlossenes (Fach-)Hochschulstudium (Bachelor oder vergleichbar) in einem für die Position einschlägigen Bereich (u.a. Zeitgeschichte, Kulturarbeit, Publizistik, Kommunikationswissenschaft, Memory und Heritage Studies, Denkmalpflege, Museumskunde o.Ä.)
+Praxiserfahrung im Bereich von Veranstaltungen und Kommunikation / PR / Marketing / Medien / Öffentlichkeitsarbeit
+Erfahrung im Projektmanagement
+sehr gute Kenntnisse der Geschichte der deutschen Teilung und Transformationszeit sowie erinnerungskultureller und / oder denkmalpflegerischer bzw. -theoretischer Diskurse
+souveräner Umgang mit den gängigen Office-Programmen und sozialen Medien
+Textsicherheit, Organisationstalent
+Teamfähigkeit
+sichere Deutschkenntnisse auf C 2-Niveau
+Englischkenntnisse auf B 2-Niveau
+Was darüber hinaus wünschenswert wäre
+fundiertes Interesse an Zeitgeschichte, der East Side Gallery und den Themen der Stiftung Berliner Mauer
+hohe kommunikative Kompetenz, kreativ-strategisches Denken verbunden mit lösungsorientierter und verbindlicher Arbeitsweise
+Verhandlungsgeschick
+überdurchschnittliche Einsatzbereitschaft
+zeitliche Flexibilität
+Für diese vielseitige und abwechslungsreiche Tätigkeit bieten wir:
+eine herausfordernde und vielfältige Aufgabe bei einer geschätzten Institution in Berlin
+die Möglichkeit, eigene Ideen einzubringen und umzusetzen
+die Arbeit in einem ausgesprochen freundlichen und kompetenten Team
+die Vereinbarkeit von Beruf, Privat- und Familienleben durch eine flexible Arbeitszeitgestaltung im Rahmen der dienstlichen Notwendigkeiten
+die Möglichkeit, sich institutionsübergreifend zu vernetzen
+die Möglichkeit zum mobilen Arbeiten
+Die Stiftung Berliner Mauer hat den Anspruch, eine diskriminierungskritische Arbeitgeberin zu sein. Das Arbeitsplatzangebot richtet sich an alle Interessentinnen und Interessenten unabhängig von Geschlecht, Nationalität, ethnischer Herkunft, Religion oder Weltanschauung, Behinderung, Alter, sexueller Orientierung und Identität. Wir sehen uns der Vereinbarkeit von Beruf, Privat- und Familienleben sowie der alltäglichen Förderung von Diversität verpflichtet. Wir freuen uns über Bewerberinnen und Bewerber aller Nationalitäten sowie von Menschen mit eigener oder familiärer Flucht- oder Migrationsgeschichte. Anerkannt schwerbehinderte Bewerberinnen und Bewerber werden bei gleicher Eignung vorrangig berücksichtigt.
+Ihre ausführlichen Bewerbungsunterlagen mit Anschreiben, tabellarischen Lebenslauf, Zeugnissen und Beurteilungen senden Sie bitte
+bis spätestens 06.04.2025.
+unter Nennung der
+Kennzahl 04 2025
+und dem
+Betreff „Bewerbung Mitarbeit Kommunikation/Veranstaltungen und East Side Gallery“
+per E-Mail in einer pdf-Datei an Herrn Franz Kuhnlein unter:
+bewerbung@stiftung-berliner-mauer.de
+.
+Für Rückfragen stehen Ihnen Hannah Berger, Abteilungsleiterin Kommunikation und Veranstaltungen, und Anna v. Arnim-Rosenthal, Leiterin East Side Gallery, gerne zur Verfügung (
+berger@stiftung-berliner-mauer.de
+,
+arnim@stiftung-berliner-mauer.de
+).
+Im Rahmen des Auswahlverfahrens entstehende Reisekosten können nicht erstattet werden.
+Wir freuen uns auf Ihre Bewerbung!
+Datenschutzhinweis:
+Mit Ihrer Bewerbung erklären Sie sich mit der Speicherung und Weiterverarbeitung Ihrer personenbezogenen Daten bis drei Monate nach Abschluss des Bewerbungsprozesses einverstanden.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 06.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/projektmitarbeiter-in-kommunikation-veranstaltungen-und-35-jahre-east-side-gallery-m-w-d/</guid></item><item><title>Wissenschaftliche:r Volontär:in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-volontaerin-m-w-d-89/</link><description>Römerthermen Zülpich, Zülpich Bewerbungsende: 08.04.2025 | Der Landschaftsverband Rheinland (LVR) arbeitet als Kommunalverband mit rund 22.000 Beschäftigten für die 9,8 Millionen Menschen im Rheinland. Mit seinen 41 Schulen, zehn Kliniken, 20 Museen und Kultureinrichtungen, vier Jugendhilfeeinrichtungen, dem Landesjugendamt sowie dem Verbund für WohnenPlusLeben erfüllt er Aufgaben, die rheinlandweit wahrgenommen werden. Der LVR ist Deutschlands größter Leistungsträger für Menschen mit Behinderungen und engagiert sich für Inklusion in allen Lebensbereichen. „Qualität für Menschen“ ist sein Leitgedanke.
+Die 13 kreisfreien Städte und die zwölf Kreise im Rheinland sowie die StädteRegion Aachen sind die Mitgliedskörperschaften des LVR. In der Landschaftsversammlung Rheinland gestalten gewählte Mitglieder aus den rheinischen Kommunen die Arbeit des Verbandes.
+Mehr Informationen über den LVR finden Sie unter
+www.lvr.de
+.
+zur Stellenausschreibung
+Diese Ausschreibung orientiert sich an den Empfehlungen im
+Leitfaden
+für ein wissenschaftliches Volontariat des Deutschen Museumsbundes.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 08.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-volontaerin-m-w-d-89/</guid></item><item><title>Medientechnische:r Assistent:in (m/w/d) für das Team Ausstellungstechnik</title><link>https://www.museumsbund.de/stellenangebote/medientechnischer-assistentin-m-w-d-fuer-das-team-ausstellungstechnik/</link><description>Landschaftsverband Rheinland, Bonn Bewerbungsende: 07.04.2025 | Der Landschaftsverband Rheinland (LVR) arbeitet als Kommunalverband mit rund 22.000 Beschäftigten für die 9,8 Millionen Menschen im Rheinland. Mit seinen 41 Schulen, zehn Kliniken, 20 Museen und Kultureinrichtungen, vier Jugendhilfeeinrichtungen, dem Landesjugendamt sowie dem Verbund Heilpädagogischer Hilfen erfüllt er Aufgaben, die rheinlandweit wahrgenommen werden. Der LVR ist Deutschlands größter Leistungsträger für Menschen mit Behinderungen und engagiert sich für Inklusion in allen Lebensbereichen. „Qualität für Menschen“ ist sein Leitgedanke.
+Die 13 kreisfreien Städte und die zwölf Kreise im Rheinland sowie die StädteRegion Aachen sind die Mitgliedskörperschaften des LVR. In der Landschaftsversammlung Rheinland gestalten gewählte Mitglieder aus den rheinischen Kommunen die Arbeit des Verbandes.
+Im LVR-Museumsverbund kooperieren die drei Museen LVR-LandesMuseum Bonn, Max Ernst Museum Brühl des LVR und Römerthermen Zülpich – Museum der Badekultur. Das Betriebs- und Prozessmanagement koordiniert für die drei Verbundpartner die gemeinsamen Arbeitsabläufe.
+Mehr Informationen über den LVR finden Sie unter
+www.lvr.de
+.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 07.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/medientechnischer-assistentin-m-w-d-fuer-das-team-ausstellungstechnik/</guid></item><item><title>Bilanzbuchhalter*in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/bilanzbuchhalterin-m-w-d-5/</link><description>Senckenberg Gesellschaft für Naturforschung, Frankfurt am Main Bewerbungsende: 11.04.2025 | Die Senckenberg Gesellschaft für Naturforschung (SGN) wurde 1817 gegründet und zählt zu den wichtigsten Forschungseinrichtungen rund um die biologische Vielfalt. An bundesweit zwölf Standorten betreiben Wissenschaftler*innen aus über 40 Nationen modernste Naturforschung auf internationaler Ebene. Hauptsitz der Gesellschaft ist Frankfurt am Main. Hier befindet sich mit dem Senckenberg Naturmuseum eine der größten naturkundlichen Schausammlungen Europas.
+Die Senckenberg Gesellschaft für Naturforschung mit Hauptsitz in Frankfurt am Main sucht
+zum nächstmöglichen Zeitpunkt
+für den Bereich Finanzen und Einkauf am Standort Frankfurt eine*n
+Bilanzbuchhalter*in (m/w/d)
+(Vollzeit / vollzeitnahe Teilzeit, mind. 75%)
+Ihre Möglichkeiten
+Tauchen Sie ein in die vielfältige und spannende Welt von wissenschaftlichen Projekten und unterstützen Sie die Wissenschaftler*innen bei der Überleitung ihrer Projekte in das Umsatzsteuerrecht
+Übernehmen Sie die Verantwortung für die Abwicklung der Debitorenbuchhaltung einer Forschungseinrichtung, die Zuwendungen von unterschiedlichen Organisationen und Fördergebern erhält
+Erstellen Sie Statistiken und Auswertungen, die eine nachhaltige Planung ermöglichen
+Unterstützen Sie die Finanzbuchhaltung bei Monats-, Quartals- und Jahresabschlüssen
+Ihr Profil:
+Eine abgeschlossene kaufmännische Ausbildung, vorzugsweise eine Weiterbildung zum/zur Bilanzbuchhalter*in (m/w/d) oder eine vergleichbare Ausbildung im steuerlichen Bereich
+Mehrjährige Berufserfahrung in der Finanzbuchhaltung
+Sehr gute SAP Kenntnisse (vorrangig FI, SD) und sehr gute MS-Office Kenntnisse (insb. Excel)
+Selbständige, lösungsorientierte Arbeitsweise und Erfahrung in der Optimierung von Prozessen
+Teamfähigkeit und Lust auf spannende, abwechslungsreiche Geschäftsvorfälle einer weltweit anerkannten Forschungseinrichtung
+Wir bieten Ihnen
+Eine attraktive und herausfordernde Tätigkeit in einem motivierten Team
+Selbstständiges Handeln in einem internationalen und professionellen Umfeld
+Flexible Arbeitszeiten – mobiles Arbeiten – Unterstützung bei Kinderbetreuung oder bei der Pflege von Familienangehörigen (zertifiziert durch das „audit berufundfamilie“) – Dienstausweis in Verbindung mit kostenfreiem Eintritt in städtische Museen – Jahressonderzahlung – betriebliche Altersvorsorge
+Ort: Frankfurt
+Beschäftigungsumfang: Vollzeit (40 Std. / Woche);
+vollzeitnahe Teilzeit ist möglich (mind. 75%)
+Vertragsart: zunächst befristet für 2 Jahre
+Vergütung: E09 – E10 nach TV-H (Tarifvertrag des Landes Hessens)
+Senckenberg engagiert sich für Vielfalt. Wir profitieren von den unterschiedlichen Expertisen, Perspektiven und Persönlichkeiten unserer Mitarbeiter*innen und freuen uns über jede Bewerbung qualifizierter Kandidat*innen, unabhängig von Alter, Geschlecht oder geschlechtlicher Identität, ethnischer oder kultureller Herkunft, Religion und Weltanschauung, sexueller Orientierung und Identität oder Behinderung. Bewerber*innen mit einer Schwerbehinderung werden bei gleicher Eignung besonders berücksichtigt. Senckenberg unterstützt aktiv die Vereinbarkeit von Beruf und Familie und legt großen Wert auf eine gleichberechtigte und inklusive Kultur der Zusammenarbeit.
+Sie möchten sich bewerben?
+Dann senden Sie uns Ihre vollständigen und aussagekräftigen Bewerbungsunterlagen (Anschreiben, detaillierter Lebenslauf, Ausbildungs- und Arbeitszeugnisse) in elektronischer Form
+(als zusammenhängende PDF-Datei)
+bitte unter Angabe der Referenz #01-25025 bis zum 11.04.2025 an
+recruiting@senckenberg.de
+oder bewerben Sie sich direkt auf unserer Homepage über das Online Bewerbungsformular.
+Senckenberg Gesellschaft für Naturforschung
+Senckenberganlage 25
+60325 Frankfurt a.M.
+E-Mail:
+recruiting@senckenberg.de
+Für fachliche Rückfragen zur Stelle steht Ihnen Frau Sigrid Weidner unter
+sigrid.weidner@senckenberg.de
+gerne zur Verfügung.
+Weitere Informationen über die Senckenberg Gesellschaft für Naturforschung finden Sie unter
+www.senckenberg.de
+.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 11.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/bilanzbuchhalterin-m-w-d-5/</guid></item><item><title>Bereichsleitung Vermittlung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/bereichsleitung-vermittlung-m-w-d/</link><description>Bundeskunsthalle, Bonn Bewerbungsende: 21.04.2025 | Kunst- und Ausstellungshalle der Bundesrepublik Deutschland
+Helmut-Kohl-Allee 4
+53113 Bonn
+Die Bundeskunsthalle bietet als Haus für Wechselausstellungen ein internationales und abwechslungsreiches Programm. Jährlich finden bis zu acht große Ausstellungen aus den Bereichen Kunst und Kulturgeschichte, Archäologie, Wissenschaft und Technik statt. Die Bundeskunsthalle veranstaltet darüber hinaus Lesungen, Vorträge, Diskussionen, Symposien, Film-, Theater- und Musikaufführungen sowie andere Präsentationen und steht auch als Forum für Gespräche zwischen Persönlichkeiten aus Kunst, Kultur- und Geistesleben sowie aus dem Bereich der Politik zur Verfügung.
+Zum 01.11.2025 ist in der Bundeskunsthalle die Position
+Bereichsleitung Vermittlung (m/w/d)
+zu besetzen. Es handelt sich um eine unbefristete Vollzeitstelle mit einer 39-Stunden-Woche. Die Vergütung richtet sich bei Erfüllung der personen- und tätigkeitsbezogenen tariflichen Voraussetzungen nach Entgeltgruppe 13 TVöD Bund zuzüglich der im Bereich des öffentlichen Dienstes üblichen sozialen Leistungen (Jahressonderzahlung, betriebliche Altersvorsorge, leistungsorientierte Bezahlung).
+Wir bieten Ihnen
+einen sicheren Arbeitsplatz, der die Vereinbarkeit von Familie, Pflege und Beruf durch moderne Arbeitszeitmodelle, wie z.B. gleitende Arbeitszeit oder mobile Arbeit, gewährleistet. Darüber hinaus haben Sie die Möglichkeit, an interessanten Fort-/ Weiterbildungen teilzunehmen und ein Deutschland-Jobticket zu beziehen, das von uns mit bis zu 23,28 € monatlich bezuschusst wird. Die Bundeskunsthalle ist Mitglied im Sozialwerk.Bund und fördert eine evtl. Mitgliedschaft unserer Mitarbeiter*innen.
+Vor dem Hintergrund einer sich wandelnden und alternden Gesellschaft sind uns Inklusion und Integration ein besonderes Anliegen. Dabei stehen auch die soziale- und ökologische Nachhaltigkeit besonders im Fokus. Menschen unterschiedlichen Alters mit unterschiedlichen Fähigkeiten, kulturellen Differenzen, Herkunft und Glaubenszugehörigkeiten haben in Deutschland ihr zu Hause oder suchen es. Diese Herausforderungen gilt es diversitätssensibel zu begleiten und qualifizierte Zugänge und Angebote zu entwickeln. Dabei werden wir durch die Fokusgruppe Inklusion (Menschen mit unterschiedlichen Einschränkungen) und dem Gesellschaftsforum (Bürgerbeirat) unterstützt.
+Auch deshalb sind Bewerbungen von Menschen mit diversen Hintergründen (unabhängig von Geschlecht, Alter, Nationalität, Behinderung/Gleichstellung, etc.) willkommen.
+Ihre Aufgaben im Rahmen der ausgeschriebenen Stelle:
+Wahrnehmen aller mit der Leitung des Bereichs verbundenen Leitungs- und Führungsfunktionen. Neben der Vermittlung beinhaltet das Aufgabengebiet auch die Verantwortung für die Teilbereiche Bibliothek/ Archiv sowie für den „Salon“ als dritten Begegnungsort an der Bundeskunsthalle. Als Bereichsleitung koordinieren und steuern Sie alle Arbeitsabläufe. Ihnen obliegt die Sicherstellung der wirtschaftlichen, effizienten und rechtzeitigen Aufgabenerfüllung im Rahmen des zur Verfügung stehenden Budgets. Sie verantworten die Erreichung der Arbeitsziele, setzen Prioritäten und leiten die Ihnen unterstellten Beschäftigten fachlich und organisatorisch an.  Für die Durchführung der Aufgaben sind Ihnen derzeit 11 Mitarbeiter*innen und 2 Bundesfreiwilligendienstleistende unterstellt.
+Zu Ihren Aufgaben gehört insbesondere:
+Inhaltliche und strategische Weiterentwicklung des Bereichs: Entwicklung von Konzepten, Erarbeitung strategischer Empfehlungen unter Berücksichtigung aktueller gesamtgesellschaftlicher Entwicklungen, Beratung der Geschäftsführung, Festlegung von Schwerpunkten
+Neu- und Weiterentwicklung von Vermittlungsformaten zur Adressierung heterogener Besuchergruppen, Analyse aktueller und zukünftiger Markttrends
+Netzwerkarbeit mit Institutionen, Künstler*innen, Medienvertreter*innen u.a. zur Etablierung und Verstetigung kontinuierlicher Vermittlungsangebote
+Beratende Begleitung zu Ausstellungsprojekten hinsichtlich optimaler Vermittlungsangebote
+Koordination verschiedener Leistungsträger bei der Entwicklung und dem Einsatz von vermittlungsdidaktischen Projektmedien, z.B. Multi-Media-Guides für die Bundeskunsthallen-App zu Ausstellungen und Begleitmedien und -mittel für Menschen mit Einschränkungen, etc.
+Konzeption, Organisation und ggf. Moderation von Veranstaltungen
+Kontinuierliche Pflege und Weiterführung des Pools von freien Mitarbeiter*innen: Auswahl, Schulung und Koordination der Qualifizierung für Ausstellungsprojekte, Qualitätskontrolle im Hinblick auf die Leistungen in den Bereichen Führungen und Workshops, Feedbackanalyse, Ableiten von qualifizierenden Maßnahmen
+Führen von Vertragsverhandlungen mit externen Kooperationspartner*innen
+Repräsentieren der KAH auf Fachtagungen, Besprechungen und Seminaren auch als Fachreferent*in
+Beantragung staatlicher Förderungen und sonstiger Drittmittel, Führen der Verwendungsnachweise
+Budgetverantwortung und Mitarbeiter*innenführung für den Bereich Vermittlung
+Unser Anforderungsprofil / Ihre Qualifikationen:
+Sie verfügen über:
+ein abgeschlossenes wissenschaftliches Hochschulstudium im Bereich der Kultur- oder Geisteswissenschaften, Kulturpädagogik und/oder gleichwertige Fähigkeiten und Erfahrungen gem. EntgO TVöD Bund
+mehrjährige Erfahrungen und erfolgreiche Arbeit in der Kunst-/ Kulturvermittlung, bevorzugt mit Leitungsverantwortung
+herausragende kommunikative Fähigkeiten, Führungs- und Fürsorgekompetenz
+nachgewiesene Konzeptionsstärke sowie ergebnisorientierte Arbeitsweise
+Fähigkeit, komplexe, wissenschaftliche Sachverhalte zielgruppenorientiert aufzuarbeiten und öffentlichkeitswirksam zu vermitteln
+Affinität für digitale Kommunikationsstrategien und die Digitalisierung von Prozessen
+sehr gute Englischkenntnisse in Wort und Schrift
+sicheres Verhandlungsgeschick in Vertragsangelegenheiten
+Belastbarkeit, Verantwortungsbewusstsein, Kooperationsfähigkeit
+Wenn Sie Interesse an einer Mitarbeit in einem engagierten Team haben, freuen wir uns über Ihre vollständigen Bewerbungsunterlagen, die Sie bitte
+bis zum 21.04.2025
+per E-Mail (
+bewerbungen@bundeskunsthalle.de
+) an Frau Ute Bruns-Vohs, Leiterin Bereich Recht und Personal richten. Die Vorstellungsgespräche sind für die 21. KW geplant.
+Bewerbungen mit gepackten Anhängen und/oder Bewerbungen, die einen Link zu den Bewerbungsunterlagen enthalten, können aus IT-Sicherheitsgründen leider nicht berücksichtigt werden und werden unsererseits umgehend gelöscht bzw. gar nicht erst zugestellt. Bitte reichen Sie Ihre Unterlagen nach Möglichkeit in einem einzigen pdf-Dokument ein.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 21.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/bereichsleitung-vermittlung-m-w-d/</guid></item><item><title>Mitarbeiter*in Bildung und Vermittlung  (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiterin-bildung-und-vermittlung-m-w-d-7/</link><description>Kulturbetriebe Burgenlandkreis, Nebra Bewerbungsende: 16.04.2025 | Die Kulturbetriebe Burgenlandkreis GmbH betreiben im Auftrag des Landkreises Burgenlandkreis das Besucherzentrum Arche Nebra sowie das Informationszentrum und das Sonnenobservatorium in Goseck.
+Insbesondere die Arche Nebra versteht sich als ein kulturtouristisches Forum mit internationaler Bedeutung. Über 1,1 Millionen Gästen aus aller Welt, rund 60.000 pro Jahr, konnten seit der Eröffnung 2007 im Besucherzentrum begrüßt werden. Neben einer multimedialen Dauerpräsentation rund um das Thema Himmelsscheibe von Nebra bildet das digitale Planetarium das Herzstück des Hauses. Die Arche Nebra führt jährlich wechselnde Sonderpräsentationen durch. Außerdem zeichnet sich das Haus durch ein breitgefächertes Veranstaltungsprogramm sowie zahlreiche Veranstaltungen Dritter aus.
+Bei den Kulturbetrieben Burgenlandkreis GmbH ist ab dem 15.05.2025 die Stelle
+Mitarbeiter*in Bildung und Vermittlung  (m/w/d)
+unbefristet und in Vollzeit (39,5 Arbeitsstunden/Woche, 100%) zu besetzen. Das Arbeitsverhältnis bestimmt sich nach dem Tarifvertrag für Beschäftigte des öffentlichen Dienstes (TVöD). Der Dienstort ist Nebra.
+Ihre Aufgaben:
+Leitung des Bereichs Bildung und Vermittlung:
+Fortschreibung und innovative Weiterentwicklung des Bildungs- und Vermittlungskonzeptes für die Standorte Nebra und Goseck, auch im Hinblick auf die Themen Barrierefreiheit und Inklusion
+Zielgruppenspezifische Entwicklung und Durchführung von Programmen, Formaten und Aktionen (durch Arbeitsproben nachzuweisen, z. B. Konzepte, Projektdokumentionen)
+Erstellung didaktischer Vermittlungstools und -materialien (analog und digital)
+Planung des Veranstaltungskalenders mit rund 20 Veranstaltungen pro Jahr sowie dessen Organisation und Umsetzung
+Pflege und Weiterentwicklung von Netzwerken und Kooperationen
+Anleitung und Weiterbildung der freien Mitarbeiter
+Besucherservice und Buchungsmanagement
+Finanzplanung und -verwaltung im Rahmen des eigenen Verantwortungsbereichs
+Evaluation, Auswertung und Qualitätssicherung aller bestehenden Bildungsangebote
+Wir wünschen uns von Ihnen:
+ein erfolgreich abgeschlossenes wissenschaftliches Hochschulstudium der Museologie oder Museumswissenschaften mit Schwerpunkt Museumspädagogik, Archäologie, Ethnologie, Kulturwissenschaften, Kulturpädagogik oder Pädagogik.
+Erfahrungen im museumspädagogischen Bereich und der Vermittlung  möglichst in einer kulturellen Einrichtung
+die Befähigung und Bereitschaft, sich intensiv mit den Themen der Arche Nebra und ihren jährlich wechselnden Sonderausstellungen sowie mit dem Sonnenobservatorium Goseck auseinanderzusetzen.
+Fähigkeit, komplexe Sachverhalte für unterschiedliche Zielgruppen klar und verständlich zu kommunizieren
+Erfahrungen im Veranstaltungsmanagement
+Freude an der Entwicklung innovativer Vermittlungsangebote und Veranstaltungsformate
+Die Bereitschaft, sich mit den Grundfunktionen des digitalen Planetariumssystems vertraut zu machen
+Ein freundliches Auftreten sowie ausgeprägte konzeptionelle und organisatorische Fähigkeiten
+selbstständiges, verantwortungsbewusstes und teamorientiertes Handeln
+die Bereitschaft zu Arbeit in den Abendstunden und an Wochenenden
+Einen Führerschein der Klasse B und die Bereitschaft zur Nutzung des eigenen PKW für dienstliche Zwecke gegen Kostenerstattung nach den reisekostenrechtlichen Bestimmungen.
+Kommunikationssicheres Englisch von Vorteil
+Wir bieten Ihnen:
+Ein breit gefächertes Aufgabengebiet mit einem hohen Maß an Eigenverantwortung und kreativem Gestaltungsspielraum
+Arbeit in einem kollegialen und engagierten Team, das neue Ideen und Ansätze zu schätzen weiß
+Einen attraktiven Arbeitsplatz in exponierter Lage des Geo-Naturparkes Saale-Unstrut-Triasland
+Teilnahme an Weiterbildungen
+Flexible Arbeitszeitregelungen
+Eine unbefristete Vollzeitstelle
+Eingruppierung in die Entgeltgruppe nach TVöD 9b
+Wir sind an einem heterogenen, vielfältigen Team interessiert und begrüßen daher Bewerbungen von Personen jeglichen Geschlechts, unabhängig von ihrer kulturellen und sozialen Herkunft, Religion oder Weltanschauung. Menschen mit Behinderung werden bei gleicher Eignung, Befähigung, fachlicher Leistung nach Maßgabe des SGB IX bevorzugt eingestellt.
+Die Stelle ist grundsätzlich teilzeitgeeignet.
+Bei Rückfragen wenden Sie sich gerne an:
+Bettina Pfaff (Geschäftsführung) unter der 034461-255212
+Ihre aussagekräftige Bewerbung inkl. Arbeitszeugnisse und Arbeitsproben (Konzepte, Publikationen, Projektdokumentationen o.ä.) richten Sie bitte schriftlich bis zum 16.04.2025 an:
+Kulturbetriebe Burgenlandkreis GmbH
+Bettina Pfaff
+An der Steinklöbe 16
+06642 Nebra
+oder per E-Mail in einer pdf-Datei (max. 5 MB) an:
+pfaff@himmelsscheibe-erleben.de
+Die Bewerbungsgespräche werden voraussichtlich in der 20. KW stattfinden.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 16.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiterin-bildung-und-vermittlung-m-w-d-7/</guid></item><item><title>Bildungsreferent*in (m/w/d) im Bereich Berliner Ausstellung, Schwerpunkt Grundschule und Inklusion</title><link>https://www.museumsbund.de/stellenangebote/bildungsreferentin-m-w-d-im-bereich-berliner-ausstellung-schwerpunkt-grundschule-und-inklusion/</link><description>Anne Frank Zentrum, Berlin Bewerbungsende: 06.04.2025 | Das Anne Frank Zentrum sucht zum nächstmöglichen Zeitpunkt und vorbehaltlich der Bewilligung der Fördermittel eine*n Bildungsreferent*in im Umfang von 30 Wochenstunden. Die Stelle ist zunächst bis zum 31.12.2025 befristet. Eine Verlängerung wird angestrebt.
+Das Anne Frank Zentrum ist die deutsche Partnerorganisation des Anne Frank Hauses in Amsterdam. Mit Ausstellungen und Bildungsangeboten erinnert das Zentrum an Anne Frank und ihr Tagebuch. Es schafft Lernorte, in denen sich Kinder und Jugendliche mit Geschichte auseinandersetzen und diese mit ihrer heutigen Lebenswelt verbinden. Sie lernen, gesellschaftliche Verantwortung zu übernehmen und sich für Freiheit, Gleichberechtigung und Demokratie zu engagieren.  Mehr Informationen finden Sie unter www.annefrank.de.
+Ihre Aufgaben:
+Sie entwickeln die pädagogischen Konzepte, Materialien und Methoden im Bereich Berliner Ausstellung mit Schwerpunkt Grundschule und Inklusion weiter.
+Sie konzipieren und organisieren Seminare und Workshops für Kinder und Jugendliche ab 10 Jahren.
+Sie führen Fortbildungen für Lehrer*innen und außerschulische Bildner*innen durch.
+Sie sind für die Evaluation und Qualitätssicherung der pädagogischen Maßnahmen im Bereich Berliner Ausstellung zuständig.
+Sie pflegen die Netzwerke des Anne Frank Zentrums im Themenfeld Grundschule.
+Sie vertreten die Arbeit des Anne Frank Zentrums nach außen.
+Sie haben die Lernmaterialien und Druckerzeugnisse des Bereichs im Blick und kommunizieren diesbezüglich mit Dienstleistern.
+Sie unterstützen die Bereichsleitung sowie den Bereich Öffentlichkeitsarbeit durch inhaltliche Zuarbeiten aus dem Ausstellungsbereich.
+Ihr Profil:
+Sie haben ein abgeschlossenes Hochschulstudium oder eine vergleichbare Qualifikation.
+Sie haben gute Kenntnisse im Themenfeld Geschichte des Nationalsozialismus und Holocaust sowie Erinnerungskultur.
+Sie sind mit den akademischen und pädagogischen Debatten zur Vermittlung der Geschichte des Nationalsozialismus und Holocaust an Kinder vertraut.
+Sie haben gute Kenntnisse im Bereich der antisemitismuskritischen Bildungsarbeit.
+Sie verfügen über mindestens ein Jahr Berufserfahrung in der Konzeption und Moderation von pädagogischen Angeboten im Bereich der historisch-politischen Bildung sowie der praktischen Bildungsarbeit mit Kindern und Jugendlichen zu den genannten Themen.
+Sie sind mit der Entwicklung inklusiver pädagogischer Angebote vertraut.
+Sie arbeiten selbstständig und teamorientiert.
+Sie sind sicher im Umgang mit gängigen MS-Office-Anwendungen und offen gegenüber dem Einsatz digitaler Tools in der Bildungsarbeit.
+Sie haben ein sicheres und professionelles Auftreten.
+Sie zeigen Bereitschaft zu gelegentlich unregelmäßigen Arbeitszeiten.
+Wir bieten Ihnen:
+eine Vergütung nach Haustarif in Anlehnung an den TV-L Berlin (Eingruppierung in Entgeltgruppe 11 kann bei Vorliegen der entsprechenden Voraussetzungen erfolgen).
+eine sinnvolle Tätigkeit mit abwechslungsreichen Aufgaben für einen gemeinnützigen Verein in einem familienfreundlichen Team.
+einen Arbeitsplatz im Herzen der Stadt – direkt am Hackeschen Markt.
+die Möglichkeit, teilweise im Homeoffice zu arbeiten.
+Möglichkeiten zur beruflichen Fort- und Weiterbildung.
+30 Tage Urlaub pro Jahr (bei einer 5-Tage-Woche).
+Das Anne Frank Zentrum besteht aus einem vielfältigen Team. Daher begrüßen wir Bewerbungen aller Interessierten, unabhängig von ihrer Herkunft, ihrer religiösen oder ethnischen Zugehörigkeit, ihrer sexuellen Identität oder einer Behinderung. Wir freuen uns über Bewerbungen aller Menschen mit Migrationsgeschichte, Jüdinnen*Juden, People of Colour sowie Schwarzer Menschen.
+Der Arbeitsort ist eingeschränkt barrierefrei.
+Bitte richten Sie Ihre Bewerbung, bestehend aus Motivationsschreiben, tabellarischem Lebenslauf, Zeugnissen und weiteren aufgabenrelevanten Nachweisen zu Praxiserfahrung und Qualifikation schriftlich
+bis zum 06.04.2025,
+ausschließlich per E-Mail (max. 5 MB) und ausschließlich im PDF-Format in
+einer
+Datei, an die untenstehende Adresse. Postalische Bewerbungen werden nicht zurückgeschickt. Reisekosten werden nicht übernommen.
+Wir behalten uns vor, Bewerbungsgespräche schon vor Ablauf der Bewerbungsfrist zu führen. Zögern Sie daher nicht, uns Ihre Bewerbung bereits früher zuzusenden.
+Bitte beachten Sie unsere Hinweise zum Datenschutz:
+Mit der Übersendung Ihrer Bewerbungsunterlagen geben Sie uns die Einwilligung, die von Ihnen übersandten personenbezogenen Daten zum Zwecke der Durchführung des Bewerbungsverfahrens und gegebenenfalls zur Kontaktaufnahme mit Ihnen zu verarbeiten. Sie können diese Einwilligung jederzeit durch eine formlose Nachricht an uns widerrufen, uns zur Berichtigung oder Löschung Ihrer personenbezogenen Daten oder zur Auskunft über deren Verarbeitung auffordern (vgl. Art. 6 DSGVO; siehe auch § 32 BDSG).
+Sechs Monate nach Abschluss des Bewerbungsverfahrens werden Ihre elektronisch übermittelten Daten gelöscht, es sei denn, sie werden zum Zwecke der Anstellung weiter benötigt.
+Alle weiteren Informationen zum Datenschutz beim Anne Frank Zentrum e. V. finden Sie in unserer Datenschutzerklärung unter www.annefrank.de/datenschutz.
+Anne Frank Zentrum e. V.,
+z. H. Frau Dr. Verena Haug, Leitung Berliner Ausstellung und Pädagogik, Rosenthaler Straße 39, 10178 Berlin
+E-Mail:
+jobs@annefrank.de
+www.annefrank.de
+Fragen zur Ausschreibung: Dr. Verena Haug, Leitung Berliner Ausstellung und Pädagogik, 030 288 86 56-13/00,
+haug@annefrank.de
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 06.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/bildungsreferentin-m-w-d-im-bereich-berliner-ausstellung-schwerpunkt-grundschule-und-inklusion/</guid></item><item><title>Business Development + VIP Relations (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/business-development-vip-relations-m-w-d-2/</link><description>Bundeskunsthalle, Bonn Bewerbungsende: 06.04.2025 | Kunst- und Ausstellungshalle der Bundesrepublik Deutschland
+Helmut-Kohl-Allee 4
+53113 Bonn
+Die Bundeskunsthalle bietet als Haus für Wechselausstellungen ein internationales und abwechslungsreiches Programm. Jährlich finden bis zu acht große Ausstellungen aus den Bereichen Kunst und Kulturgeschichte, Archäologie, Wissenschaft und Technik statt. Die Bundeskunsthalle veranstaltet darüber hinaus Lesungen, Vorträge, Diskussionen, Symposien, Film-, Theater- und Musikaufführungen sowie andere Präsentationen und steht auch als Forum für Gespräche zwischen Persönlichkeiten aus Kunst, Kultur- und Geistesleben sowie aus dem Bereich der Politik zur Verfügung.
+Zum nächstmöglichen Zeitpunkt ist in der Bundeskunsthalle die Position
+Business Development + VIP Relations (m/w/d)
+zu besetzen. Es handelt sich um eine auf 2 Jahre befristete Teilzeitstelle im Umfang von 50 % einer Vollzeitstelle (zur Zeit 19,5-Stunden-Woche). Die Vergütung richtet sich bei Erfüllung der personen- und tätigkeitsbezogenen tariflichen Voraussetzungen nach Entgeltgruppe 13 TVöD Bund zuzüglich der im Bereich des öffentlichen Dienstes üblichen sozialen Leistungen (Jahressonderzahlung, betriebliche Altersvorsorge, leistungsorientierte Bezahlung).
+Wir bieten Ihnen einen sicheren Arbeitsplatz, der die Vereinbarkeit von Familie, Pflege und Beruf durch moderne Arbeitszeitmodelle, wie z.B. gleitende Arbeitszeit oder mobile Arbeit, gewährleistet. Darüber hinaus haben Sie die Möglichkeit, an interessanten Fort-/ Weiterbildungen teilzunehmen und ein Deutschland-Jobticket zu beziehen, das von uns mit bis zu 23,28 € monatlich bezuschusst wird. Die Bundeskunsthalle ist Mitglied im Sozialwerk.Bund und fördert eine evtl. Mitgliedschaft unserer Mitarbeiter*innen.
+Inklusion und Integration sind unserem Haus ein besonderes Anliegen. Bewerbungen von Menschen mit diversen Hintergründen (z. B. Menschen aller Nationalitäten, schwerbehinderte oder ihnen gleichgestellte Bewerber*innen) werden daher begrüßt.
+Ihre Aufgaben im Rahmen der ausgeschriebenen Stelle:
+Entwicklung und Aufbau eines Sponsoringkonzeptes für die Bundeskunsthalle, Entwicklung und Etablierung von Sponsoringstrategien
+Konzeption und Steuerung von Sponsoringmaßnahmen in Bezug auf das Ausstellungs- und Rahmenprogramm
+Identifikation und Ansprache potentieller Zielgruppen, Kund*innen und Partner*innen, insbesondere Unternehmen, Organisationen und Einzelpersonen
+Entwicklung kreativer, crossmedialer Sponsoring-Pakete und Präsentationen, Materialien und Angebote, Organisation spendengenerierender Events
+Akquise neuer Sponsor*innen, Partner*innen- und Beziehungsaufbau und -pflege
+Förderung langfristiger Partnerschaften und Stärkung der Kundenbindung
+Verhandlung von Sponsoring-Verträgen
+Aktive Teilnahme an Networking-Veranstaltungen, Konferenzen und Branchenevents, um neue Netzwerke aufzubauen und die Bundeskunsthalle zu repräsentieren
+Zusammenarbeit mit dem Bereich Medien sowie Veranstaltungsorganisation
+Identifikation von Projektfördermöglichkeiten und Entwicklung von Anträgen zur Beschaffung finanzieller Mittel
+Verwaltung und Abwicklung der eingeworbenen Mittel
+Regelmäßiges Reporting und Evaluation der Fundraising-Erfolge
+Unser Anforderungsprofil / Ihre Qualifikationen:
+ein erfolgreich abgeschlossenes Hochschulstudium (Master/ Diplom) in Betriebswirtschaft, Marketing oder Veranstaltungsmanagement oder vergleichbare Fähigkeiten und Erfahrungen gem. Entgeltordnung TVöD Bund
+Nachweisbare Erfahrung in der Sponsor*innensuche, Vorzugsweise im Kulturbereich
+Kenntnisse über Sponsoringmethoden und Fördermittelakquise sowie über steuer- und spendenrechtliche Grundlagen
+Ausgezeichnete Kommunikations- und Präsentationsfähigkeiten, ausgeprägtes Verständnis für Kundenbedürfnisse und die Fähigkeit nachhaltige Beziehungen aufzubauen und zu pflegen
+Begeisterung für eine verbindliche, kundenorientierte Kommunikation
+Kreativität bei der Entwicklung innovativer Sponsoring-Ideen
+Sehr gute Organisationsfähigkeit
+Gute Kenntnisse der MS-Office Standardsoftware
+Service- und Teamorientiertheit
+Verhandlungssichere Kenntnisse in der deutschen und englischen Sprache in Wort und Schrift
+Umfassendes Interesse an den Inhalten der Bundeskunsthalle
+Wenn Sie Interesse an einer Mitarbeit in einem engagierten Team haben, freuen wir uns über Ihre vollständigen Bewerbungsunterlagen, die Sie bitte
+bis zum 06.04.2025
+per E-Mail (
+bewerbungen@bundeskunsthalle.de
+) an Frau Ute Bruns-Vohs, Leiterin Bereich Recht und Personal, richten.
+Bewerbungen mit gepackten Anhängen und/oder Bewerbungen, die einen Link zu den Bewerbungsunterlagen enthalten, können aus IT-Sicherheitsgründen leider nicht berücksichtigt werden und werden unsererseits umgehend gelöscht bzw. gar nicht erst zugestellt. Bitte reichen Sie Ihre Unterlagen nach Möglichkeit in einem einzigen pdf-Dokument ein.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 06.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/business-development-vip-relations-m-w-d-2/</guid></item><item><title>Wissenschaftliche:r Volontär:in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-volontaerin-m-w-d-88/</link><description>Deutsches Auswandererhaus, Bremerhaven Bewerbungsende: 06.04.2025 | Das Deutsche Auswandererhaus Bremerhaven ist ein kulturhistorisches Museum mit einer einzigartigen Sammlung zu über 300 Jahren deutscher Aus- und Einwanderungsgeschichte. Das Haus beschäftigt sich in seiner Ausstellung und dem breitgefächerten Vermittlungsangebot mit Themen, die immer wieder im Zentrum nationalistischer, diskriminierender, rassistischer und antijüdischer Agitation stehen. Dies aufgreifend startete im Sommer 2024 ein mehrjähriges, interkulturelles Bildungs- und Forschungsprogramm zur Demokratieförderung. Vor allem im Rahmen von Sonderausstellungen zu gesellschaftlich besonders kontrovers diskutierten Themen soll museale Vermittlungsarbeit evaluiert und methodisch weiterentwickelt werden.
+Das Deutsche Auswandererhaus sucht zum 01.07.2025 für zwei Jahren in Vollzeit eine:n wissenschaftliche:n Volontär:in
+(m/w/d).
+Ihre Aufgaben:
+Recherchen für Sonderausstellungen, Mitarbeit an einzelnen Ausstellungskapiteln
+Erarbeitung und Durchführung von Führungen durch die Sonderausstellungen
+Durchführung und Auswertung qualitativer und quantitativer Befragungen
+Mitarbeit im Bereich Wissenschaftskommunikation und Museumspädagogik
+Mitarbeit bei der Sammlungstätigkeit des Museums
+Ihr Profil:
+abgeschlossenes Masterstudium in Geschichts- oder Politikwissenschaft oder Soziologie mit thematischen Schwerpunkten zum Einwanderungsland Deutschland
+Praktikum im Museum
+Offenheit und hohe Kommunikationsfähigkeit im Umgang mit verschiedenen Personengruppen
+sehr gute Englisch- und gerne auch weitere Fremdsprachenkenntnisse
+strukturiertes Arbeiten, Teamgeist, Flexibilität und Eigeninitiative
+Wir bieten Einblicke in die umfangreiche Tätigkeit eines international ausgerichteten Museums. Sie haben die Möglichkeit, an Weiterbildungen für Museumsvolontär:innen teilzunehmen und lernen auch die Arbeit der anderen Museumsabteilungen kennen. Das Bruttomonatsgehalt für die Stelle beträgt im ersten Jahr des Volontariates 2.300 Euro und im zweiten Jahr des Volontariates 2.400 Euro.
+Bei gleicher Qualifikation werden Bewerbungen geeigneter Schwerbehinderter sowie Gleichgestellter im Sinne des § 2 Abs. 3 SGB IX bevorzugt berücksichtigt. Wir begrüßen Bewerbungen von allen Menschen unabhängig von deren Geschlecht, kultureller oder sozialer Herkunft, Alter, Religion, Weltanschauung, Behinderung oder sexueller Identität.
+Wir freuen uns auf Ihre digitale Bewerbung
+bis zum 6. April 2025
+an:
+Deutsches Auswandererhaus
+Meike Behrens
+Columbusstraße 65
+27568 Bremerhaven
+m.behrens@dah-bremerhaven.de
+Diese Ausschreibung orientiert sich an den Empfehlungen im
+Leitfaden
+für ein wissenschaftliches Volontariat des Deutschen Museumsbundes.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 06.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-volontaerin-m-w-d-88/</guid></item><item><title>Sachbearbeiter*in Digitalisierung</title><link>https://www.museumsbund.de/stellenangebote/sachbearbeiterin-digitalisierung/</link><description>Akademie der Künste Berlin, Berlin Bewerbungsende: 07.04.2025 | Die Akademie der Künste – bundesunmittelbare, rechtsfähige Körperschaft des öffentlichen Rechts in der Trägerschaft des Bundes –
+sucht zum nächstmöglichen Zeitpunkt
+eine*n Sachbearbeiter*in Digitalisierung in Vollzeit
+(39 Wochenstunden), unbefristet
+Gegründet im Jahre 1696, gehört die Akademie der Künste in Berlin zu den ältesten europäischen Kulturinstituten. Sie ist ein Ausstellungs- und Veranstaltungsort, eine Stätte der Begegnung von Künstler*innen und Kunstinteressierten und führt öffentliche Debatten über Kunst und Kulturpolitik. Das Archiv der Akademie der Künste in Berlin ist eines der bedeutendsten interdisziplinären Archive zu Kunst und Kultur im deutschen Sprachraum seit 1900.
+Die Querschnittsabteilung Benutzung/Digitale Dienste verantwortet die Digitalisierung, die Langzeitverfügbarkeit und den Zugang zu Archivalien.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 07.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/sachbearbeiterin-digitalisierung/</guid></item><item><title>Referent/-in (m/w/d) in Vollzeit (40 Wochenstunden) für Praktische Gartendenkmalpflege</title><link>https://www.museumsbund.de/stellenangebote/referent-in-m-w-d-in-vollzeit-40-wochenstunden-fuer-praktische-gartendenkmalpflege/</link><description>Bayerisches Landesamt für Denkmalpflege, München Bewerbungsende: 29.04.2025 | Das
+Bayerische Landesamt für Denkmalpflege
+(BLfD) ist die zentrale Fachbehörde des Freistaats Bayern für Denkmalschutz und Denkmalpflege. Entscheidend sind für uns die Fragen „Was ist ein Denkmal?“ und „Wie gehen wir damit um?“ Seit der Gründung des Amtes im Jahr 1908 sind die Erfassung und Erforschung der Denkmäler und die Beratung von Eigentümern, Planerinnen und Institutionen unsere Hauptaufgaben. Wir sind Ansprechpartner für alle Fragen zu Bau- und Bodendenkmälern. Zum BLfD gehört außerdem die Landesstelle für die nichtstaatlichen Museen in Bayern, die diese Museen bei ihren Tätigkeiten umfassend unterstützt.
+Ob Wohnhäuser, Bauernhöfe, Kirchen, Burgen oder Schlösser – die Abteilung Bau- und Kunstdenkmalpflege berät dienstleistungsorientiert in allen Fragen, die die Erhaltung von Bau- und Kunstdenkmälern betreffen. Schwerpunkt ist die umfassende denkmalfachliche Beratung und Betreuung von privaten und öffentlichen Denkmaleigentümern zu Maßnahmen und Fördermöglichkeiten. Bisher wurde Gartendenkmalpflege dabei als zusätzliche (Querschnitts-)Aufgabe von Gebietsreferentinnen/-en wahrgenommen. Zur Besetzung einer neuen, eigenen Planstelle für den Fachbereich suchen wir eine neue Kollegin bzw. einen neuen Kollegen (m/w/d) mit Dienstort in München.
+Ihre Aufgaben
+Gartendenkmalfachliche Betreuung von Gartendenkmalen in Bayern und von erhaltenswerten Freiräumen und Gartenanlagen in denkmalgeschützten Ensembles
+Gartendenkmalfachliche Beratung u. a. von Denkmaleigentümerinnen und
+-eigentümern, Architektinnen/-en, Restauratorinnen/-en, Handwerk, Kommunen, staatlichen bzw. kirchlichen Behörden
+Erstellung gartendenkmalfachlicher Stellungnahmen in Erlaubnisverfahren
+Bearbeitung und Betreuung von Förderprojekten der Gartendenkmalpflege
+Entwicklung gartendenkmalpflegerischer Standards und Arbeitshilfen
+Vermittlung gartendenkmalfachlicher Zielsetzungen und Erfolge in der Öffentlichkeit durch Vorträge/Präsentationen und Beiträge zur Behördenkommunikation (z. B. in Zeitschriften und Social-Media-Kanälen des BLfD)
+Unser Angebot
+Bezahlung nach E 13 TV-L, bitte informieren Sie sich z. B. unter www.oeffentlicher-dienst.info über die Vergütung
+Unbefristete Beschäftigung in München; bei Erfüllung der beamtenrechtlichen Voraussetzungen ist eine Verbeamtung möglich
+Umfassende aufgabenbezogene Fortbildungsmöglichkeiten
+Flexible Arbeitszeiten und Möglichkeiten mobilen Arbeitens (Standardausstattung mit Dienstnotebook und -handy)
+Betriebliche Altersvorsorge
+Eine abwechslungsreiche, kommunikative Tätigkeit in einer mittelgroßen und kultur- und geschichtsaffinen Behörde mit vielfältigen Aufgaben und Menschen
+Ein sehr gutes Betriebsklima
+Ihr Profil
+Vorausgesetzt werden
+Abgeschlossenes wissenschaftliches Hochschulstudium (Master, Dipl.-Ing. oder vergleichbarer Abschluss) der Landschaftsarchitektur, Landschaftsplanung oder in einer verwandten Fachrichtung
+Mehrjährige einschlägige Berufserfahrung in der Gartendenkmalpflege
+Uneingeschränkte Bereitschaft zur Einarbeitung in denkmalfachliche und denkmalrechtliche Themen und Verfahrensabläufe
+Souveräner und sicherer Umgang mit aktuellen Informations- und Kommunikationstechnologien (Office-Standardsoftware, Videokonferenztechnologien etc.)
+Bereitschaft zu häufigen, auch mehrtägigen Dienstreisen, u. a. als Selbstfahrer (m/w/d) von Dienstfahrzeugen mit Führerschein Klasse B
+Sehr gute Deutschkenntnisse in Wort und Schrift (mind. C 1 GER)
+Sicheres Auftreten, ausgeprägtes Organisationstalent, konzeptionelles Denken
+Von Vorteil sind
+Referendariat oder Volontariat in der staatlichen bzw. kirchlichen Denkmalpflege bzw. in verwandten Organisationen
+Kenntnisse zur bayerischen Garten-Denkmallandschaft
+Kenntnisse der Aufbau- und Ablauforganisation der öffentlichen Verwaltung sowie Kenntnisse im Bau-, Planungs- und Denkmalrecht
+Besondere digitale Kompetenzen
+Abgeschlossene Promotion und/oder Nachweis wissenschaftlicher Publikationen
+Besondere Erfahrungen oder Qualifikationen in (Wissenschafts-) Kommunikation, Kulturvermittlung oder Verhandlungsführung
+Menschen mit Schwerbehinderung werden bei ansonsten im Wesentlichen gleicher Eignung, Befähigung und fachlichen Leistung bevorzugt berücksichtigt. Wir weisen allerdings darauf hin, dass zahlreiche Einsatzorte aufgrund ihrer Denkmaleigenschaft nicht barrierefrei sind.
+Die Stelle ist teilzeitfähig, wenn jeweils durch Jobsharing die vollständige Wahrnehmung der Aufgaben der Vollzeitstelle gewährleistet ist.
+Ihre aussagekräftige Bewerbung richten Sie bitte mit den üblichen Unterlagen, insbesondere möglichst vollständigen Arbeits- und Abschlusszeugnissen, einer Darstellung der als zwingend vorausgesetzten Punkte bis spätestens
+29.04.2025
+(Eingangsdatum) über Interamt.de ein. Eine Verlinkung hierzu finden Sie auf unserer Homepage –
+Arbeiten im Landesamt für Denkmalpflege (bayern.de)
+.
+Die Vorstellungsgespräche finden voraussichtlich am
+13.05.2025 in München
+statt. Sie erhalten eine gesonderte Einladung, wenn Sie zur engeren Auswahl zählen.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 29.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/referent-in-m-w-d-in-vollzeit-40-wochenstunden-fuer-praktische-gartendenkmalpflege/</guid></item><item><title>Gebietsreferent/-in (m/w/d) für die Abteilung Bau- und Kunstdenkmalpflege</title><link>https://www.museumsbund.de/stellenangebote/gebietsreferent-in-m-w-d-fuer-die-abteilung-bau-und-kunstdenkmalpflege/</link><description>Bayerisches Landesamt für Denkmalpflege, München Bewerbungsende: 24.04.2025 | Gebietsreferent/-in (m/w/d) für die Abteilung Bau- und Kunstdenkmalpflege befristet in Vollzeit (40 Wochenstunden) in München
+Das
+Bayerische Landesamt für Denkmalpflege
+(BLfD) ist die zentrale Fachbehörde des Freistaats Bayern für Denkmalschutz und Denkmalpflege. Entscheidend sind für uns die Fragen „Was ist ein Denkmal?“ und „Wie gehen wir damit um?“ Seit der Gründung des Amtes im Jahr 1908 sind die Erfassung und Erforschung der Denkmäler und die Beratung von Eigentümern, Planerinnen und Institutionen unsere Hauptaufgaben. Wir sind Ansprechpartner für alle Fragen zu Bau- und Bodendenkmälern. Zum BLfD gehört außerdem die Landesstelle für die nichtstaatlichen Museen in Bayern, die diese Museen bei ihren Tätigkeiten umfassend unterstützt.
+Ob Wohnhäuser, Bauernhöfe, Kirchen, Burgen oder Schlösser – die Abteilung Bau- und Kunstdenkmalpflege berät dienstleistungsorientiert in allen Fragen, die die Erhaltung von Bau- und Kunstdenkmälern betreffen. Schwerpunkt ist die umfassende denkmalfachliche Beratung und Betreuung von privaten und öffentlichen Denkmaleigentümerinnen und -eigentümern zu Maßnahmen und Fördermöglichkeiten. Hierfür suchen wir eine neue Kollegin bzw. einen neuen Kollegen (m/w/d) mit Spaß an abwechslungsreichen Tätigkeiten, einem hohen Maß an Lösungsorientierung und ausgezeichneten kommunikativen Fähigkeiten für unsere Dienststelle in München.
+Ihre Aufgaben
+Vertretung der Belange der praktischen Bau- und Kunstdenkmalpflege in mehreren Landkreisen und/oder kreisfreien Städten
+Denkmalfachliche Beratung u. a. von Denkmaleigentümerinnen und
+-eigentümern, Architektinnen/-en, Restauratorinnen/-en, Handwerk, Kommunen, staatlichen bzw. kirchlichen Behörden
+Erstellung denkmalfachlicher Stellungnahmen in Erlaubnisverfahren
+Denkmalfachliche Mitwirkung an Fördermaßnahmen
+Vermittlung denkmalfachlicher Zielsetzungen und Erfolge in der Öffentlichkeit durch Vorträge/Präsentationen und Beiträge zur Behördenkommunikation (z. B. in Zeitschriften und Social-Media-Kanälen des BLfD)
+Unser Angebot
+Bezahlung nach E 13 TV-L, bitte informieren Sie sich z. B. unter www.oeffentlicher-dienst.info über die Vergütung
+Befristete Beschäftigung für 2 Jahre in München
+Umfassende aufgabenbezogene Fortbildungsmöglichkeiten
+Flexible Arbeitszeiten und die Möglichkeiten mobilen Arbeitens (Standardausstattung mit Dienstnotebook und -handy)
+Betriebliche Altersvorsorge
+Eine abwechslungsreiche, kommunikative Tätigkeit in einer mittelgroßen und kultur- und geschichtsaffinen Behörde mit vielfältigen Aufgaben und Menschen
+Ein sehr gutes Betriebsklima
+Ihr Profil
+Vorausgesetzt werden
+Abgeschlossenes wissenschaftliches Hochschulstudium (Master, Magister) der Fachrichtungen Kunstgeschichte, Architektur, Bauingenieurswesen oder in einer verwandten Fachrichtung
+Uneingeschränkte Bereitschaft zur Einarbeitung in denkmalfachliche und denkmalrechtliche Themen und Verfahrensabläufe
+Souveräner und sicherer Umgang mit aktuellen Informations- und Kommunikationstechnologien (Office-Standardsoftware, Videokonferenztechnologien etc.)
+Bereitschaft zu häufigen, auch mehrtägigen Dienstreisen, u. a. als Selbstfahrer (m/w/d) mit Führerschein Klasse B
+Sehr gute Deutschkenntnisse in Wort und Schrift (mind. C 1 GER)
+Sicheres Auftreten, ausgeprägtes Organisationstalent, konzeptionelles Denken
+Grundsätzlich keine Vorbeschäftigung beim Freistaat Bayern (da sachgrundlose Befristung gemäß § 14 Abs. 2 TzBfG)
+Von Vorteil sind
+Zusatzqualifikationen im Bereich Baugeschichte/Bauforschung oder aus einem Volontariat in der staatlichen bzw. kirchlichen Denkmalpflege
+Vertiefte Kenntnisse im Bereich Tragwerksplanung, Bauphysik und Brandschutz
+Kenntnisse der Aufbau- und Ablauforganisation der öffentlichen Verwaltung sowie Kenntnisse im Bau-, Planungs- und Denkmalrecht
+Besondere digitale Kompetenzen
+Abgeschlossene Promotion und/oder Nachweis wissenschaftlicher Publikationen
+Besondere Erfahrungen oder Qualifikationen in (Wissenschafts-) Kommunikation, Kulturvermittlung oder Verhandlungsführung
+Menschen mit Schwerbehinderung werden bei ansonsten im Wesentlichen gleicher Eignung, Befähigung und fachlichen Leistung bevorzugt berücksichtigt. Wir weisen allerdings darauf hin, dass zahlreiche Einsatzorte aufgrund ihrer Denkmaleigenschaft nicht barrierefrei sind.
+Die Stelle ist teilzeitfähig, wenn durch Jobsharing die ganztägige Wahrnehmung der Aufgabengewährleistet ist.
+Ihre aussagekräftige Bewerbung richten Sie bitte mit den üblichen Unterlagen, insbesondere möglichst vollständigen Arbeits- und Abschlusszeugnissen, einer Darstellung der als zwingend vorausgesetzten Punkte bis spätestens
+02.04.2025
+(Eingangsdatum) über Interamt.de ein. Eine Verlinkung hierzu finden Sie auf unserer Homepage –
+Arbeiten im Landesamt für Denkmalpflege (bayern.de)
+.
+Die Vorstellungsgespräche finden voraussichtlich am
+24.04.2025
+statt. Sie erhalten eine gesonderte Einladung, wenn Sie zur engeren Auswahl zählen.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 24.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/gebietsreferent-in-m-w-d-fuer-die-abteilung-bau-und-kunstdenkmalpflege/</guid></item><item><title>Wissenschaftliches Volontariat (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftliches-volontariat-m-w-d-109/</link><description>Staatliche Kunstsammlungen Dresden, Dresden Bewerbungsende: 01.04.2025 | Die Staatlichen Kunstsammlungen Dresden (SKD) bieten zum nächstmöglichen Zeitpunkt, befristet für die Dauer von zwei Jahren, ein wissenschaftliches Volontariat (m/w/d), in den Ethnographischen Sammlungen Sachsen am Arbeitsort Leipzig, an. Die regelmäßige Arbeitszeit beträgt 40 Wochenstunden. Bei Vorliegen der persönlichen Voraussetzungen wird eine Vergütung in Höhe des halben Tabellenentgelts der Entgeltgruppe 13, Stufe 1 TV-L im ersten Jahr und Stufe 2 TV-L im zweiten Jahr gezahlt. Während der Ausbildung erhält der/die Volontär*in auch Einblicke in die anderen Museen/Bereiche der SKD.
+Die Staatlichen Kunstsammlungen Dresden sind ein Museumsverbund von internationaler Strahlkraft und vereinen insgesamt 15 Museen. Zusammen mit vier Institutionen repräsentieren sie eine thematische Vielfalt, die in ihrer Art international einzigartig ist.
+Die Ethnographischen Sammlungen Sachsen mit den Standorten GRASSI Museum für Völkerkunde zu Leipzig, Museum für Völkerkunde Dresden und Völkerkundemuseum Herrnhut gehören zum Verbund der SKD. Sie besitzen mit 350.000 Objekten eine der europaweit interessantesten Sammlungen von Objekten aus aller Welt. Um sich im internationalen Kontext von grundsätzlichen Veränderungen in der ethnologischen Museumslandschaft zu positionieren, arbeiten die Ethnographischen Sammlungen Sachsen an neuen Konzepten für Ausstellungen, Veranstaltungen und Bildung sowie interdisziplinären Forschungsprogrammen.
+Die Ausschreibung richtet sich an Berufseinsteiger*innen. Das Volontariat ist eine zweijährige wissenschaftliche Ausbildung in Vollzeit und dient der praxisbezogenen Aus- und Fortbildung von Wissenschaftler*innen in museumsrelevanten Studienfächern. Ziel ist es, zu selbstständiger wissenschaftlicher Tätigkeit an Museen zu befähigen und das Museum als eine lebendige Organisation kennenzulernen, in der zahlreiche Abteilungen in enger Verzahnung professionell zusammenarbeiten.
+zur Stellenausschreibung
+Diese Ausschreibung orientiert sich an den Empfehlungen im
+Leitfaden
+für ein wissenschaftliches Volontariat des Deutschen Museumsbundes.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 01.04.2025</description><pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliches-volontariat-m-w-d-109/</guid></item><item><title>Wissenschaftliche*r Mitarbeiter*in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-m-w-d-58/</link><description>Stiftung Deutsches Technikmuseum Berlin, Berlin Bewerbungsende: 28.03.2025 | Das Deutsche Technikmuseum- Einfach für Dich
 Wir, die Stiftung Deutsches Technikmuseum Berlin (SDTB), gehören zu den führenden technikhistorischen Einrichtungen weltweit. Auf über 100.000 Quadratmetern Fläche, im Zentrum Berlins, direkt am Gleisdreieck gelegen, bieten wir auf 28.500 Quadratmetern Ausstellungsfläche eine erlebnisreiche Entdeckungsreise durch die Kulturgeschichte der Technik. Im dazugehörigen Science Center Spectrum laden auf 2.000 Quadratmetern 150 Experimente aus Naturwissenschaft und Technik zum Mitmachen ein. Ein vielfältiges Bildungs- und Veranstaltungsprogramm, das historische Archiv und eine umfangreiche Bibliothek ergänzen das Angebot.
 Mit über 700.000 Besuchenden pro Jahr, zählen wir zu den beliebtesten Museen Berlins und sind für Berliner*innen wie für Touristen gleichermaßen attraktiv.
 Wir verstehen uns als Plattform für die kritische Auseinandersetzung mit Technik, ihrer Geschichte, Gegenwart und Zukunft. Gleichzeitig sind wir ein Ort, an dem Technik gemeinsam und spielerisch erlebt, ausprobiert, verstanden und diskutiert werden kann.
@@ -291,713 +889,4 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 01.05.2025</description><pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliche-assistenz-w-m-d/</guid></item><item><title>Wissenschaftliche:r Mitarbeiter:in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-m-w-d-57/</link><description>Skulpturensammlung und das Museum für Byzantinische Kunst, Berlin Bewerbungsende: 14.04.2025 | Bei der Skulpturensammlung und dem Museum für Byzantinische Kunst der Staatlichen Museen zu Berlin ist eine Stelle als
-wissenschaftliche:r Mitarbeiter:in (m/w/d)
-zu besetzen. Die
-Skulpturensammlung und das Museum für Byzantinische Kunst
-(SBM) gehören zu den bedeutendsten Sammlungen ihrer Art. Die Skulpturensammlung zeigt Meisterwerke europäischer Plastik vom frühen Mittelalter bis zum ausgehenden 18. Jahrhundert.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 14.04.2025</description><pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-m-w-d-57/</guid></item><item><title>Wissenschaftliches Volontariat (m/w/d) in den Museen Schloss Aschach</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftliches-volontariat-m-w-d-in-den-museen-schloss-aschach/</link><description>Museen Schloss Aschach, Bad Bocklet/Aschach Bewerbungsende: 31.03.2025 | Wissenschaftliches Volontariat (m/w/d)
-in den Museen Schloss Aschach
-Die Basisdaten:
-Zeitraum:
-befristet für zwei Jahre in Vollzeit ab 1. Juli 2025
-Vergütung:
-50% von EG 13 TVöD Stufe 1
-Das bringen Sie mit:
-ein abgeschlossenes Studium der Volkskunde/Europäischen Ethnologie, Kulturgeschichte, Museologie oder eines vergleichbaren Studiums
-nachgewiesene, praktische Erfahrungen in der Kulturarbeit
-Verantwortungsbewusstsein, Motivation, Selbstständigkeit, Kommunikationsfreude und Teamgeist
-einen Führerschein der Klasse B und Fahrpraxis
-Das sind wir:
-Die Museen Schloss Aschach liegen in Bad Bocklet, nur wenige Kilometer von Bad Kissingen entfernt. Auf dem Schlossgelände befinden sich insgesamt drei Museen: das Graf-Luxburg-Museum im großen Schloss, ein Volkskundemuseum und ein Schulmuseum. In der Museumsscheune ist Platz für Wechselausstellungen. Die ehemalige Schlossmühle unterhalb von Schloss Aschach beherbergt das professionelle Depot.
-Während der Museumssaison von April bis Oktober besuchen die unterschiedlichsten Besuchergruppen die Museen und nehmen am abwechslungsreichen Veranstaltungsprogramm teil.
-Träger der Museen Schloss Aschach ist der Bezirk Unterfranken.
-Wir bieten Ihnen:
-Einführung in die verschiedenen Arbeitsfelder eines Museums
-Mitwirkung bei der Planung und Durchführung von Veranstaltungen
-Mitarbeit bei Ausstellungen und Projekten
-Verfassen von Texten und Beiträgen für Ausstellungen, digitale Plattformen und Presse
-Entwicklung und Durchführung von museumspädagogischen Programmen
-Inventarisierung von Sammlungsobjekten mit der Datenbank MuseumPlus
-Ihre Bewerbung enthält in einer pdf-Datei:
-Motivations-Schreiben
-Lebenslauf
-Zeugnisse
-Auskunft zum Tätigkeitsbereich gibt Ihnen
-Museumsleiterin Josefine Glöckner
-Telefon: 09708 704188-12, E-Mail:
-j.gloeckner@bezirk-unterfranken.de
-Ihre Bewerbung nimmt bis 31. März 2025 entgegen:
-personalreferat@bezirk-unterfranken.de
-Kennziffer: BHV-2025-05-VoloAsch
-Menschen mit Schwerbehinderung bevorzugen wir bei im Wesentlichen gleicher Eignung.
-Bitte beachten Sie unsere Datenschutzhinweise auf www.bezirk-unterfranken.de
-Bitte überprüfen Sie, ob die angegebenen Rahmenbedingungen hinsichtlich der Bezahlung Ihre Erwartungen erfüllen, wenn Sie sich für ein Volontariat bewerben. Der Deutsche Museumsbund hält wissenschaftliche Volontariate für ein wichtiges Fundament in der zukünftigen Museumsarbeit und hat dazu einen
-Leitfaden
-mit Empfehlungen herausgebracht. Diese Ausschreibung weicht von unseren Empfehlungen ab.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 31.03.2025</description><pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliches-volontariat-m-w-d-in-den-museen-schloss-aschach/</guid></item><item><title>Leitung Baumanagement (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/leitung-baumanagement-m-w-d/</link><description>Staatlichen Kunstsammlungen Dresden (SKD), Dresden Bewerbungsende: 13.04.2025 | Die Staatlichen Kunstsammlungen Dresden (SKD) suchen zum nächstmöglichen Zeitpunkt, unbefristet und in Vollzeit, eine
-Leitung Baumanagement (m/w/d)
-(bei Vorliegen der persönlichen Voraussetzungen in der
-Entgeltgruppe 13 TV-L
-) in der Abteilung Gebäudemanagement und Informationstechnik. Die regelmäßige Arbeitszeit beträgt 40 Wochenstunden.
-Zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 13.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/leitung-baumanagement-m-w-d/</guid></item><item><title>Leiter*in des Servicebereichs Museumsbetrieb (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/leiterin-des-servicebereichs-museumsbetrieb-m-w-d/</link><description>Leibniz-Zentrum für Archäologie (LEIZA), Mainz Bewerbungsende: 13.04.2025 | Das Leibniz-Zentrum für Archäologie (LEIZA), Mitglied der Leibniz-Gemeinschaft, ist ein weltweit tätiges archäologisches Forschungsinstitut und Museum mit Hauptsitz in Mainz und weiteren Standorten in Neuwied, Mayen und Schleswig. Seit seiner Gründung im Jahr 1852 als Römisch-Germanisches Zentralmuseum widmet sich das Museum den materiellen Hinterlassenschaften aus drei Millionen Jahren Menschheitsgeschichte mit dem Ziel, menschliches Verhalten und Handeln sowie die Entwicklung und den Wandel von Gesellschaften zu verstehen.
-Für unseren Arbeitsbereich Museumsbetrieb am Standort Mainz suchen wir zum nächstmöglichen Zeitpunkt
-eine*n Leiter*in des Servicebereichs Museumsbetrieb (m/w/d)
-in Vollzeit
-(bis EG
-13
-TV-L)
-Ihre Aufgaben:
-Strategische und konzeptionelle Weiterentwicklung und regelmäßige Fortschreibung des technischen, logistischen und organisatorischen Betriebskonzeptes für den Museumsbetrieb
-Kaufmännische Leitung der Museumsbetriebe (inkl. Museumsshops)
-Verantwortung für den laufenden Geschäftsbetrieb der unterstellten Bereiche (Museumsbetriebe, Museumsshops, Aufsichtsdienst) sowie für deren Wirtschaftlichkeit
-Erste*r Ansprechpartner*in gegenüber Besucher*innen in organisatorischer und administrativer Funktion
-Pflege und Weiterentwicklung von Prozessen, Tools und Workflows zur Sicherstellung einer hervorragenden Besucher*innen-Betreuung im Museum, Verantwortung für schnelle und effektive Lösungen für Kund*innen-Anfragen über verschiedene Kanäle sowie der Besucher*innenmanagement-Datenbanken einschließlich Beratung und Information zum gesamten Angebot des LEIZA,
-Entwicklung und Umsetzung von Strategien zur Reduzierung des Anfrage-Volumens durch Self-Service-Optionen und proaktiver Kommunikation
-Ausstellungssicherheit in Zusammenarbeit mit dem Veranstaltungsmanagement, Schließdienste
-Fachliche und disziplinarische Leitung der dem Bereich zugeordneten Mitarbeiter*innen inkl. der Personaleinsatzplanung
-Regelmäßiger Austausch mit den Arbeitsbereichen Ausstellung, Bildung und Kommunikation im Hinblick auf organisatorische Verbesserungen
-Überwachen der Dienstleister bzw. deren Aufgabenerledigung auf Basis der vertraglichen Bedingungen, insbesondere im Bereich der Unterhaltsreinigung, Glasreinigung sowie Museumsaufsicht/-sicherheit
-Qualitätssicherung, Überprüfen und Kontrollieren der Ausstellungen auf Ordnung, Sauberkeit, Hygiene, u.a. unter Beachtung gesetzlicher Vorschriften
-Erstellung von Berichten und statistischen Auswertungen
-allgemeine administrative Tätigkeiten
-Ihr Anforderungsprofil:
-Abgeschlossenes Hochschulstudium in den Studienrichtungen Kultur- und Freizeitmanagement bzw. Touristik, Wirtschaftswissenschaften, Betriebswirtschaft oder eine vergleichbare Qualifikation
-Mehrjährige praktische Erfahrung in den Bereichen Service, Kommunikation, Dienstleistungen, und Administration (mit Erfahrungen in Beschwerde- bzw. Besuchermanagement), wünschenswert in leitender Funktion
-Fundierte, vertiefte, umfassende Fachkenntnisse in Betriebswirtschaft mit entsprechender mehrjähriger Berufserfahrung
-Stark ausgeprägte Serviceorientierung, Teamgeist und Kommunikationsstärke
-Nachgewiesene Erfahrungen in der Konzeption und Steuerung von Online-Anwendungen/Software im Bereich Besuchermanagement und komplexe Datenbanken (z.B. Adressdatenbank)
-Nachgewiesene Kenntnisse im Projektmanagement, wünschenswert sind erste Erfahrungen mit Vergabeverfahren
-Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
-Starke analytische Fähigkeiten zur Interpretation von Daten und Ableiten von Maßnahmen
-Selbständige, strukturierte und ergebnisorientierte Arbeitsweise mit Führungs- und Sozial­kompetenz und damit verbundene Kommunikations- und Organisationsfähigkeit
-sicherer Umgang mit MS-Office-Anwendungen runden Ihr Profil ab
-Wir bieten:
-Eine abwechslungsreiche Tätigkeit in einem attraktiven und sehr vielfältigen Arbeitsumfeld mit zuverlässigen Strukturen bei einer hohen beruflichen Sicherheit
-Eine Vergütung bis zur Entgeltgruppe 13 TV-L bei Vorliegen der persönlichen und tariflichen Voraussetzungen
-Sozialleistungen entsprechend den Regelungen des öffentlichen Dienstes einschließlich einer zusätzlichen betrieblichen Altersversorgung (VBL) sowie einer Jahressonderzahlung nach den Vorgaben des TV-L, Bezuschussung zum Deutschlandticket iHv 50 %
-Flexible Arbeitszeiten (auch außerhalb üblicher Arbeitszeiten notwendig), mit bis zu fünf ganzen oder zehn halben Gleittagen im Monat und großzügigen Regelungen zum mobilen Arbeiten,
-Einen attraktiven Arbeitsplatz in unserem Neubau am südlichen Rand der Mainzer Altstadt mit einer sehr guten Anbindung an den öffentlichen Nahverkehr und Parkplätzen in unmittelbarer Nähe (gegen Gebühr)
-Zahlreiche Möglichkeiten zur Fort- und Weiterbildung sowie den kollegialen Austausch mit den Kolleg*innen der Institute der Leibniz-Gemeinschaft
-Ein Arbeitsumfeld in dem die Chancengleichheit und Gleichstellung aller Beschäftigten aktiv gefördert wird. Familienfreundlichkeit und die Vereinbarkeit von Familie und Beruf sind uns ein wichtiges Anliegen. Wir sind zertifiziert nach audit berufundfamilie“
-Das LEIZA möchte die Vielfalt der Gesellschaft widerspiegeln und begrüßt Bewerbungen von allen qualifizierten Bewerberinnen und Bewerbern unabhängig von Alter, Behinderung, Geschlecht, Nationalität, Religion oder sexueller Orientierung.
-Schwerbehinderte Bewerberinnen und Bewerber sowie Frauen werden bei gleicher Qualifikation und Eignung bevorzugt berücksichtigt.
-Wir freuen uns auf Ihre Bewerbung bis zum
-13.04.2025
-– möglichst in einer PDF-Datei – per E-Mail an:
-bewerbung@leiza.de
-.
-Kosten, die im Zusammenhang mit Ihrer Bewerbung entstehen, können leider nicht erstattet werden.
-Weitere Informationen zum LEIZA finden Sie unter
-www.leiza.de
-.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 13.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/leiterin-des-servicebereichs-museumsbetrieb-m-w-d/</guid></item><item><title>Leitung (m/w/d) Stadtarchiv mit Geschäftsstelle Erinnerungskultur in Vollzeit</title><link>https://www.museumsbund.de/stellenangebote/102799/</link><description>Stadtverwaltung Kempten, Kempten Bewerbungsende: 06.04.2025 | Die Stadtverwaltung Kempten sucht ab sofort eine
-Leitung (m/w/d) Stadtarchiv mit Geschäftsstelle Erinnerungskultur in Vollzeit
-&gt;&gt;&gt;Hier geht es zur Ausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 06.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/102799/</guid></item><item><title>Referent / Referentin für crossmediale Kommunikation (w/m/d)</title><link>https://www.museumsbund.de/stellenangebote/referent-referentin-fuer-crossmediale-kommunikation-w-m-d/</link><description>Leibniz-Institut zur Analyse des Biodiversitätswandels - Museum Koenig Bonn, Bonn Bewerbungsende: 11.04.2025 | Das Leibniz-Institut zur Analyse des Biodiversitätswandels (LIB) zählt zu den großen, global vernetzten Forschungsmuseen der Leibniz-Gemeinschaft. Neben exzellenter Forschung rund um die biologische Vielfalt und deren Veränderung treiben wir mit einem internationalen Team und modernster Technik die Weiterentwicklung unserer umfangreichen wissenschaftlichen Sammlungen voran. Mit unserer Ausstellungs-, Vermittlungs- und Kommunikationsarbeit an unseren Ausstellungsorten Museum Koenig Bonn und Museum der Natur Hamburg möchten wir für Natur begeistern und bringen uns mit unseren Forschungsthemen in aktuelle gesellschaftspolitische Diskussionen zu Artenschwund, Klimawandel und dem Schutz von Ökosystemen ein.
-Für den Standort Hamburg ist der Bau eines integrierten Naturkundemuseums in Planung; am Standort Bonn wird derzeit die Forschungsinfrastruktur erheblich ausgebaut.
-Werden Sie Teil unseres Instituts am Standort
-Hamburg.
-Wir
-suchen zum nächstmöglichen Zeitpunkt, befristet nach dem Teilzeit- und Befristungsgesetz für die Dauer von zwei Jahren eine/n
-Referent / Referentin für crossmediale Kommunikation
-(w/m/d)
-in Vollzeit mit 39,00 Stunden/Woche.
-Das sind Ihre Aufgaben:
-Entwicklung von Strategien für PR-Projekte und -Produkte
-Konzeptentwicklung, Planung und Durchführung kreativer Kommunikationsprojekte
-Recherche und Erstellung zielgruppenrelevanter Texte aus Ausstellung, Vermittlung und Forschung für PR-Produkte und Webauftritte inkl. Bildredaktion
-Formulierung und zielgruppenorientierter Versand von Pressemitteilungen
-Entwicklung, Produktion und Veröffentlichung innovativer Video- und Online-Formate, von der Ideenfindung bis zur Realisierung
-Strategische Weiterentwicklung der Social-Media-Kanäle im Museum der Natur Hamburg. Identifikation neuer Trends, Monitoring und Analyse von KPIs bis zur Erfolgskontrolle, sowie Community Management
-Vernetzung mit Kooperationspartnern, Stakeholdern und Medienvertretenden
-Das sind unsere Anforderungen:
-Abgeschlossenes Hochschulstudium der Medien- oder Kommunikationswissenschaft, Journalismus, Public Relations, Biologie, Geisteswissenschaften oder vergleichbar (Abschluss Master)
-Redaktionelles Volontariat oder Trainee bzw. umfassende und nachweisbare Erfahrungen in einer Redaktion, Pressestelle oder Kommunikationsagentur inkl. aktive Erfahrung auf den Social-Media-Kanälen
-Mehrjährige Erfahrung in der Öffentlichkeitsarbeit, u.a. im Bereich Strategie und Konzept, PR-Projektmanagement
-Erfahrung in der Erstellung von audiovisuellen Inhalten einschließlich Videodreh und -schnitt, Fotoerstellung und Bildbearbeitung
-Erfahrung im Umgang mit Content-Management-Systemen (Typo3) sowie Grafik-Apps (Canva) und Programmen
-Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift, sowie sehr gute Ausdrucksweise und Freude am Formulieren
-Integrativer, teamorientierter Arbeitsstil und hervorragende Kommunikationsfähigkeit
-Ein hohes Maß an Eigenverantwortung, Organisationstalent und eine lösungsorientierte Arbeitsweise
-Begeisterung für die allgemeinverständliche Präsentation von teils komplexen Themen aus den Bereichen Wissenschaft, Kultur und Natur
-Das sind unsere Leistungen:
-Eine attraktive Tätigkeit in einer exzellenten Forschungseinrichtung mit einem hohen Maß an Gestaltungspotential in einem dynamischen wissenschaftlichen und gesellschaftlichen Umfeld
-Vergütung nach dem Tarifvertrag der Länder (EG 11 TV-L) mit allen Vorzügen des öffentlichen Dienstes (betriebliche Altersvorsorge, Jahressonderzahlung, vermögenswirksame Leistungen, tariflich geregelter Urlaubsanspruch)
-Familienfreundlichkeit zertifiziert durch das „Audit Beruf und Familie“, Angebot von Lebenslagencoaching durch einen professionellen Familienservice
-Die Möglichkeit des Bezugs eines Jobtickets
-Einen zentral gelegenen Arbeitsplatz mit ausgezeichneter Verkehrsanbindung
-Bitte senden Sie Ihre vollständigen Bewerbungsunterlagen (inklusive Anschreiben, Lebenslauf, Kopien von Zeugnissen,
-Arbeitsproben
-) bis zum 11.04.2025 ausschließlich digital über unser
-Karriereportal
-an Frau Katharina Ostermann. Aus organisatorischen Gründen werden nur Onlinebewerbungen akzeptiert. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt eingestellt. Mehr Informationen über unsere Einrichtung erhalten Sie im Internet unter:
-https://leibniz-lib.de/
-.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 11.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/referent-referentin-fuer-crossmediale-kommunikation-w-m-d/</guid></item><item><title>Verwaltung/Öffentlichkeitsarbeit (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/verwaltung-oeffentlichkeitsarbeit-m-w-d/</link><description>Dokumentationszentrum Oberer Kuhberg Ulm e.V. (DZOK), Ulm Bewerbungsende: 30.04.2025 | Am Dokumentationszentrum Oberer Kuhberg Ulm e.V. (DZOK) ist zum 1.7.2025 eine
-Stelle für
-Verwaltung/Öffentlichkeitsarbeit (m/w/d) im Umfang von 75% (29 Std./Woche)
-in der Vergütungsgruppe TvöD EG 10
-zu besetzen.
-Zur Institution: Im Fort Oberer Kuhberg, Teil der Bundesfestung Ulm, befand sich von 1933 bis 1935 ein Konzentrationslager des Landes Württemberg. Heute befindet sich am historischen Ort eine Gedenkstätte mit zahlreichen Bildungsangeboten. Als Forschungs-, Lern- und Bildungszentrum hat das Dokumentationszentrum mit Archiv und Bibliothek in der Ulmer Innenstadt ein zweites Standbein und widmet sich allen Aufgabenbereichen eines lokalen NS-Dokumentationszentrums. Das DZOK hat die Rechtsform eines Vereins. Die von Haupt- und Ehrenamtlichen geleistete Arbeit wird vom Land Baden-Württemberg, der Stadt Ulm und den regionalen Gebietskörperschaften unterstützt.
-Ihr Aufgabengebiet umfasst im Wesentlichen:
-Verwaltung
-Assistenz der Geschäftsführung
-Ablage, vorbereitende Buchführung und Rechnungslegung
-Verwaltung von Spenden und Mitgliederdaten, Adresspflege Outlook-Datenbank
-Post, Korrespondenz, Telefon, Besucherservice
-Allgemeine Büroorganisation
-Öffentlichkeitsarbeit
-Pressearbeit und Veranstaltungsbewerbung
-Pflege Webauftritt und Newsletter
-Social Media-Profil und -inhalte
-Erstellen von Flyern, Plakaten u.a. Material zur Außendarstellung
-Erforderliche Qualifikationen
-Abgeschlossene Berufsausbildung oder gleichwertige Kenntnisse und Berufserfahrung in den Bereichen Verwaltung/Öffentlichkeitsarbeit
-Sicherer Umgang mit MS Office Programmen
-Teamfähigkeit, sorgfältiges und strukturiertes Arbeiten
-Interesse am lokalen und regionalen historischen Kontext
-Bereitschaft, sich rasch in die Arbeitsfelder einzuarbeiten
-Affinität Social Media erwünscht
-Bitte übersenden Sie Ihre aussagekräftige Bewerbung bis zum 30. April 2025 an das Dokumentationszentrum Oberer Kuhberg,
-n.wenge@dzok-ulm.de
-. Die Bewerbungsgespräche finden voraussichtlich am 13. Mai 2025 statt. Bitte merken Sie sich diesen Termin vor.
-Dr. Nicola Wenge
-Leiterin des Dokumentationszentrums
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 30.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/verwaltung-oeffentlichkeitsarbeit-m-w-d/</guid></item><item><title>Mitarbeiter*in für das „Technische Liegenschaftsmanagement”</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiterin-fuer-das-technische-liegenschaftsmanagement/</link><description>Stiftung niedersächsische Gedenkstätten, Celle Bewerbungsende: 21.04.2025 | Die Stiftung niedersächsische Gedenkstätten sucht zum nächstmöglichen Zeitpunkt eine*n
-Mitarbeiter*in für das
-„Technische Liegenschaftsmanagement”
-(Kennziffer: SnG 2025-4)
-Wir bieten:
-eine unbefristete Stelle mit 100% der regelmäßigen wöchentlichen Arbeitszeit von 39,8 Stunden in der Gedenkstätte Bergen-Belsen.
-eine Vergütung nach Entgeltgruppe 9b TV-L
-eine zusätzliche Altersvorsorge (VBL)
-die Möglichkeit anteilig Mobil zu arbeiten
-eine Jahressonderzahlung
-flexible Arbeitszeiten durch Gleitzeit
-die Möglichkeit zur Fortbildung
-ein vielfältiges Aufgabenspektrum
-einen interessanten und abwechslungsreichen Arbeitsplatz
-einen wertschätzenden Umgang im Kolleg*innen- und Vorgesetztenkreis
-Wer sind wir?
-Die Stiftung niedersächsische Gedenkstätten ist eine Stiftung öffentlichen Rechts, die durch Beschluss des niedersächsischen Landtags 2004 ins Leben gerufen wurde. Die Stiftung verbindet staatliche Verantwortung und bürgerschaftliches Engagement für die Aufarbeitung der Verbrechen des Nationalsozialismus und die Erinnerung an seine Opfer in Niedersachsen. Sie erhält und gestaltet die Gedenkstätten Bergen-Belsen und die Gedenkstätte in der JVA Wolfenbüttel als Orte der Erinnerung, an die Leiden der Opfer des Nationalsozialismus und der Opfer der Justizverbrechen, sowie als Orte des Lernens für künftige Generationen.
-Die Stiftung ist neben der Gedenkstätte in der JVA Wolfenbüttel, auf vier weitere Standorte verteilt, wobei sich der Stiftungssitz und dessen Zweigstelle in Celle befinden. Die Gedenkstätte Bergen-Belsen umfasst mit ca. 75 Hektar ein Dokumentations- und Bildungszentrum sowie das historische Lagergelände mit Friedhofsareal und Forstbestand. Des Weiteren ist durch die temporäre Nutzung und Entwicklung, die M.B. 89 in der Niedersachsenkaserne ebenfalls Bestandteil der Liegenschaften, welche durch ein Team, bestehend aus Mitarbeiter*innen der Verwaltung und des Facilitymanagements bewirtschaftet wird. Als Teil dieses Teams und genereller Ansprechpartner pflegen Sie Kontakte mit der/dem Facilitymanager/-in der Bundeswehr, Bundesanstalt für Immobilienaufgaben (BImA), Staatlichen Baumanagement sowie externen Dienstleistern.
-Welche Aufgaben erwarten Sie?
-Koordination und Weiterentwicklung, inkl. Prüfung des Zustands und Sicherstellung des reibungslosen Betriebs der Liegenschaften inklusive aller technischen Anlagen der Stiftung sowie das Feststellen von Instandhaltungs-, Reparatur- und Renovierungsbedarfen
-Feststellen der Bedarfe sowie Koordinieren, Steuern und Begleiten von Bau-, Renovierungs- und Instandhaltungsmaßnahmen der Liegenschaften in Abstimmung mit dem Staatlichen Baumanagement
-Koordination und Steuerung der Pflege der Außengelände ggf. unter Einbezug der Denkmalpflege/Archäologen zur Einhaltung der Verkehrssicherungspflicht
-Budgetierung und Kostenkontrolle für Maßnahmen in den Liegenschaften
-Inhaltliche Mitarbeit bei der Gestaltung von Nutzungsverträgen im Liegenschaftsbereich in Abstimmung mit der Verwaltung
-Konzeptionierung eines nachhaltigen und zukunftsorientierten Energiemanagements
-Fungieren als Ansprechperson für die Mitarbeitenden zur Aufrechterhaltung der Betriebsfähigkeit der Liegenschaften
-Verwaltung des Fuhrparks der Stiftung
-Was bringen Sie mit?
-Abgeschlossenes Fachhochschulstudium (Bachelor/Diplom (FH)) oder Meister im Bereich Elektro-, Gebäude-, Klima-, Industrie-, Versorgungstechnik, oder vergleichbare, oder gleichwertige Kenntnisse und Erfahrungen mit entsprechender Berufsausbildung
-signifikante Berufserfahrung (z.B. Altgesellenregelung)
-Gute kaufmännische und organisatorische Fähigkeiten
-Hohe Belastbarkeit und Stressresistenz
-Sehr gute Kommunikationsfähigkeit
-Führerschein der Klasse B
-Wir wünschen uns durch die Tätigkeit eine Unterstützung in der Umsetzung des Auftrages der Stiftung und einen angemessenen Umgang mit den Interessengruppen.
-Haben wir Ihr Interesse geweckt? Dann würden wir Sie gerne kennenlernen.
-Bewerbungen richten Sie bitte bis zum
-21.04.2025
-unter Angabe der Kennziffer und bevorzugt per E-Mail an:
-Stiftung niedersächsische Gedenkstätten, Frau Marie-Joëlle Ollesch, Im Güldenen Winkel 8, 29223 Celle.
-bewerbung@stiftung-ng.de
-Die Stiftung niedersächsische Gedenkstätten setzt sich dafür ein, in allen Bereichen und Positionen Unterrepräsentanzen im Sinne des Niedersächsischen Gleichberechtigungsgesetzes (NGG) abzubauen.
-Bei gleicher Eignung, Leistung und Befähigung werden Bewerbungen schwerbehinderter Menschen bevorzugt berücksichtigt. Bitte geben Sie bereits mit der Bewerbung einen entsprechenden Hinweis.
-Für Auskünfte steht Ihnen Katrin Unger,
-katrin.unger@stiftung-ng.de
-stellv. Leiterin der Gedenkstätte Bergen-Belsen zur Verfügung.
-Mit der Abgabe Ihrer Bewerbung erklären Sie sich gleichzeitig einverstanden, dass die für das Auswahlverfahren erforderlichen Daten nach den Bestimmungen des Niedersächsischen Datenschutzgesetzes gespeichert und verarbeitet werden. Die Bewerbungsunterlagen werden nach Ablauf der Aufbewahrungsfrist datenschutzgerecht vernichtet.
-gez. Dr. Elke Gryglewski, Geschäftsführung
-Vorsitzende des Stiftungsrates
-Ministerin Julia Willie Hamburg
-Geschäftsführerin
-Dr. Elke Gryglewski
-Im Güldenen Winkel 8
-29223 Celle
-T +49(0)5141.933 55 – 0
-F +49(0)5141.933 55 – 33
-www.stiftung-ng.de
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 21.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiterin-fuer-das-technische-liegenschaftsmanagement/</guid></item><item><title>Museolog:in/:en für Mode und Textil mit Fachteamleitung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/museologin-en-fuer-mode-und-textil-mit-fachteamleitung-m-w-d/</link><description>Stiftung Stadtmuseum Berlin, Berlin Bewerbungsende: 06.04.2025 | Die Stiftung Stadtmuseum Berlin sucht zum nächstmöglichen Zeitpunkt, unbefristet und in Vollzeit (39 Wochenstunden) oder Teilzeit, eine:n
-Museolog:in/:en für Mode und Textil mit Fachteamleitung (m/w/d)
-Entgeltgruppe 10 TVöD-V VKA, Tarifgebiet West
-Stiftung Stadtmuseum Berlin
-Das Stadtmuseum Berlin verbindet Vergangenheit, Gegenwart und Zukunft – dabei stellen wir die Menschen der diversen Stadtgesellschaft und ihre Geschichten in den Mittelpunkt. Unsere Sammlungen, Ausstellungen und Programme bieten hierfür in sechs Museen und digital vielfältige Zugänge. So ermöglichen wir neue Erkenntnisse und leisten einen Beitrag zum Miteinander und Zusammenhalt in einem offenen und vielstimmigen Berlin.
-Die Sammlung
-Die Sammlung Mode und Textil umfasst ca. 18.000 Textilien, Accessoires, Archivalien, Alltags- und Kunstgegenstände vom 12. Jahrhundert bis in die Gegenwart. Die Sammlung ist dem Fachteam Wirtschaft, Politik und Wissenschaft zugeordnet, das ein facettenreiches Spektrum unterschiedlicher Sammlungen mit historischen und gegenwärtigen Objekten zur Berliner Stadtgeschichte betreut. Die Sammlungsbestände und Büros befinden sich im zentralen Depotgebäude der Stiftung Stadtmuseum Berlin in Spandau.
-Ihre Aufgaben
-museologische Betreuung und Pflege einer komplex strukturierten und wertvollen Sammlung von großer historischer Bedeutung
-selbstständige inhaltliche Erschließung (Ordnung und Verzeichnung) der Sammlung mit unterschiedlicher Schwierigkeit und Fortführung der Inventarisierung und Dokumentation in der Museumsdatenbank
-selbstständige Recherche zu Objekten und Archivalien in der Sammlung und zur Sammlungsgeschichte
-Mitarbeit bei der Entwicklung einer diversitätssensiblen Dokumentation von Objekten und Beständen
-Erarbeitung und Durchführung sammlungsspezifischer Erschließungskonzepte und -strategien im Rahmen des langfristigen digitalen Erschließungskonzeptes der Stiftung
-Beantwortung komplexer und schwierigerer Anfragen
-umfassende und verschiedenartige Beratung und Betreuung von Nutzer:innen der Sammlung sowie Bereitstellung von Informationen
-Durchführung zum Teil anspruchsvoller Depotführungen für unterschiedliche Besucher:innengruppen
-eigenständige Verantwortung für das konservatorische Monitoring der Sammlung sowie die material- und objektgerechte Strukturierung des Depots in Absprache mit dem Sammlungsmanagement und der Restaurierung
-Priorisierung der Bestandserhaltungsmaßnahmen (z. B. Schutzdigitalisierungen)
-selbstständige Weiterentwicklung der Sammlung, Erkennen von Sammlungslücken, eigenständige Auswahl von Erwerbungsangeboten und umfassend begründete Vorlage zur Erwerbungsentscheidung
-Koordination und Durchführung der Erwerbungen
-Koordination und Anleitung der Arbeit von nachgeordneten Mitarbeiter:innen in der Sammlung
-Betreuung der Kooperationen und Netzwerke
-Leitung eines Fachteams mit aktuell 6 Mitarbeiter:innen (dies beinhaltet sowohl die fachliche, strategische als auch die disziplinarische Führung)
-Ihr Profil
-abgeschlossene Hochschulbildung in Museologie oder Modedesign (BA) oder eine vergleichbare Ausbildung
-vertiefte Kenntnisse der Mode- und Textilgeschichte mit Schwerpunkt Deutschland und Berlin-Brandenburg
-umfassende Kenntnisse über die Herstellung und Verarbeitung von Textilien sowie in und der Textil- und Kostümkunde
-ausgeprägte Rechercheerfahrungen sowie Erfahrungen mit (Museums-) Datenbanken
-fundierte Kenntnisse in der Pflege und Unterbringung textiler Sammlungsbestände und Archivalien
-mehrjährige Erfahrung in der Betreuung von relevanten Kooperationen und Netzwerken
-Kenntnisse der deutschen Sprache in Wort und Schrift auf Niveau C1
-Kenntnisse der englischen Sprache, mindestens auf Niveau B2
-Wünschenswert sind:
-Kenntnisse einer weiteren Sprache, die in unserer Stadt von einer Einwanderungsgruppe gesprochen wird
-Anforderungen:
-Interesse an der Neubetrachtung von Sammlungsbeständen
-sehr gute kommunikative Fähigkeiten im Umgang mit Kolleg:innen und Nutzer:innen
-Diversitätskompetenz sowie interkulturelle und transkulturelle Kompetenzen
-Bereitschaft zur Teilnahme an Weiterbildungen im Fachgebiet
-hohe Organisationsfähigkeit und Zuverlässigkeit
-gute Delegations- und Motivationsfähigkeit
-Was wir Ihnen bieten
-eine interessante und abwechslungsreiche Tätigkeit im öffentlichen Dienst
-die Möglichkeit, Ihre persönlichen Kompetenzen weiterzuentwickeln, indem Sie unsere Angebote der fachlichen und außerfachlichen Fort- und Weiterbildung nutzen
-Vereinbarkeit von Beruf und Familie durch flexible Arbeitszeitgestaltung und die Möglichkeit der Teilzeitbeschäftigung im Rahmen der dienstlichen Notwendigkeiten
-tarifliche Bezahlung nach Entgeltgruppe 10 TVöD-V VKA (Tarifvertrag des öffentlichen Dienstes – Vereinigung Kommunaler Arbeitgeberverbände) bei Vorliegen der persönlichen Voraussetzungen (die Stufen-Zuordnung erfolgt unter Berücksichtigung Ihrer einschlägigen Erfahrung)
-30 Tage Jahresurlaub, Heiligabend und Silvester zusätzlich arbeitsfrei
-betriebliche Altersvorsorge über die Versorgungsanstalt des Bundes und der Länder (VBL)
-Jahressonderzahlung zur Gesundheitsförderung
-einen Arbeitsplatz in Berlin-Spandau
-die Möglichkeit des mobilen Arbeitens
-Zuschuss zum Firmenticket für den öffentlichen Nahverkehr
-Wen wir besonders zur Bewerbung auffordern
-Für die Stiftung Stadtmuseum Berlin hat eine diskriminierungsfreie Arbeitsumgebung absolute Priorität, weshalb wir uns ausdrücklich auch über Bewerber:innen marginalisierter Perspektiven freuen.
-Wir gewährleisten die Gleichstellung von Frauen und Männern nach dem Berliner Landesgleichstellungsgesetz. Bewerbungen von Menschen mit Migrationshintergrund, die die genannten Anforderungen erfüllen, sind ausdrücklich erwünscht. Bei gleicher Eignung und Qualifikation werden Bewerbungen von anerkannten Schwerbehinderten bevorzugt berücksichtigt (bitte Nachweis beifügen).
-Wie Sie sich bewerben
-Bitte bewerben Sie sich bis zum 06. April 2025 mit aussagekräftigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Zeugnisse sowie Ihr frühestmögliches Eintrittsdatum) ausschließlich über unsere
-Online-Bewerbungsplattform.
-Im Rahmen des Bewerbungsverfahrens werden wir Ihre personenbezogenen Daten erheben. Diese werden von uns und einer beteiligten, externen Personalberatung entsprechend der DSGVO verarbeitet und genutzt. Mit der Abgabe Ihrer Bewerbung stimmen Sie dem zu.
-Durch die Bewerbung entstehende Reisekosten werden von uns nicht erstattet.
-Wir freuen uns auf Ihre Bewerbung!
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 06.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/museologin-en-fuer-mode-und-textil-mit-fachteamleitung-m-w-d/</guid></item><item><title>Pädagogischer Mitarbeiter (m, w, d) in KZ-Gedenkstätte Flossenbürg</title><link>https://www.museumsbund.de/stellenangebote/paedagogischer-mitarbeiter-m-w-d-in-kz-gedenkstaette-flossenbuerg/</link><description>KZ-Gedenkstätte Flossenbürg, Flossenbürg Bewerbungsende: 03.04.2025 | Stellenausschreibung für einen pädagogischen Mitarbeiter (m, w, d) in KZ-Gedenkstätte Flossenbürg
-Die KZ-Gedenkstätte Flossenbürg/Stiftung Bayerische Gedenkstätten sucht vorbehaltlich
-zum 1. Juni 2025 einen pädagogischen Mitarbeiter (m,w,d)
-in der Elternzeitvertretung zur Verstärkung des Teams der Bildungsabteilung, vergütet mit der Entgeltgruppe 11 TV-L in Teilzeit 80/100 (befristet auf 2 Jahre).
-Bewerbungsschluss: 3. April 2025
-Die KZ-Gedenkstätte Flossenbürg erinnert an das Schicksal der rund 100.000 Häftlinge, die im Konzentrationslager Flossenbürg und seinen Außenlagern inhaftiert waren. Zwei Dauerausstellungen präsentieren die Geschichte des Lagers von 1938 bis 1945 sowie dessen Nachwirkungen bis heute. Informations- und Recherchemöglichkeiten, ein vielfältiges Bildungsprogramm sowie Wechselausstellungen gehören zum Angebot dieses internationalen Lernortes. Als Todesort des am 9. April 1945 ermordeten Pastors Dietrich Bonhoeffer (1906-1945) ist die KZ-Gedenkstätte Flossenbürg einer der wesentlichen evangelischen Erinnerungsorte in Deutschland.
-Was wir mit Ihnen zusammen erreichen wollen
-die zeitgemäße und zukunftsorientierte Weiterentwicklung und Profilschärfung der Bildungsarbeit der Gedenkstätte insbesondere in der Stärkung der bestehenden Jugendarbeit und der Zusammenarbeit mit kirchlichen Zielgruppen jeden Alters. Das umfasst internationale Austauschprogramme und Tagungen ebenso wie digitale Strategien im Bereich der historisch-politischen Bildung neben den alltäglichen Querschnittsaufgaben. Gelegen ist uns an einer nachhaltigen Einbindung der geschaffenen Ansätze, auch im Bereich der Erwachsenenbildung, sowie die Entwicklung weiterer Kooperationen.
-Sie sind
-eine Person mit Visionen, Kreativität, Teamfähigkeit, organisatorischem Geschick, einem hohen Maß an sozialen Kompetenzen, die Freude an der Begegnung mit Menschen hat und gerne partizipative Bildungsformate für unterschiedliche Zielgruppen entwickelt und durchführt.
-Sie bringen mit
-Weitblick, kritisches und lösungsorientiertes Denken, strategisches und selbstständiges Handeln, Erfahrungen und Interesse an internationalem Austausch, Kenntnisse in geschichtsreflektierenden Bildungsansätzen, Spontanität und Flexibilität sowie Identifikation mit den Zielsetzungen der KZ-Gedenkstätte.
-Das brauchen wir von Ihnen
-einen Hochschulabschluss in einer pädagogischen, kultur- oder sozialwissenschaftlichen Fachrichtung oder eine vergleichbare Qualifikation, fundierte Kenntnisse der NS-Geschichte, insbesondere zur Rolle der Kirchen im Nationalsozialismus, sowie zur Erinnerungskultur heute. Freude an der Vermittlung von Geschichte an Gruppen aus dem In- und Ausland, Vernetzung mit zivilgesellschaftlichen Initiativen und Organisationen, Erfahrung im Projektmanagement und der administrativen Bearbeitung von Projekten, sehr gute Kenntnisse in mindestens einer modernen Fremdsprache (vorzugsweise Französisch, Tschechisch, Polnisch).
-Wir bieten Ihnen
-ein vielseitiges und kreatives Arbeitsfeld mit Verantwortung und breiten Gestaltungsmöglichkeiten, gute Gelegenheiten zur beruflichen Fortbildung sowie ein engagiertes und kollegiales Team.
-Wir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen bis zum 3. April 2025 per Mail an bewerbung@gedenkstaette-flossenbuerg.de
-Bewerbungsgespräche werden voraussichtlich am 14. April 2025 stattfinden. Für Auskünfte steht Ihnen gern Dr. Christa Schikorra (Tel. 09603 90390 15, cschikorra@gedenkstaette-flossenbuerg.de) zur Verfügung.
-Die KZ-Gedenkstätte Flossenbürg fördert aktiv die Gleichstellung aller Mitarbeitenden. Wir begrüßen deshalb Bewerbungen von Personen unabhängig von Geschlecht und sexueller Identität, kultureller und sozialer Herkunft, Alter, Religion, Weltanschauung oder Behinderung. Schwerbehinderte werden bei gleicher Eignung unter Berücksichtigung aller Umstände des Einzelfalls bevorzugt. Die Stelle ist nicht teilzeitfähig.
-Es wird darauf hingewiesen, dass Sie mit Ihrer Bewerbung gleichzeitig Ihr Einverständnis zur Verarbeitung Ihrer persönlichen Daten bis zum Abschluss des Auswahlverfahrens erteilen.
-KZ-Gedenkstätte Flossenbürg
-Gedächtnisallee 5
-D-92696 Flossenbürg
-E-Mail: bewerbung@gedenkstaette-flossenbuerg.de
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 03.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/paedagogischer-mitarbeiter-m-w-d-in-kz-gedenkstaette-flossenbuerg/</guid></item><item><title>Manager Media Relations (w/m/d)</title><link>https://www.museumsbund.de/stellenangebote/manager-media-relations-w-m-d/</link><description>Staatsgalerie Stuttgart, Stuttgart Bewerbungsende: 04.04.2025 | Die Staatsgalerie Stuttgart ist eines der renommiertesten Kunstmuseen in Deutschland und das größte im Land Baden-Württemberg. Unsere Sammlung ist geprägt durch einen außerordentlich reichen Bestand an Meisterwerken aus Malerei, Skulptur und Graphik vom 14. Jahrhundert bis in die Gegenwart. Jährlich kommen an die 280.000 Besucherinnen und Besucher zu uns. Zur Sammlung zeigen wir Sonderausstellungen und bieten ein umfassendes Vermittlungs- und Veranstaltungsprogramm.
-Werden Sie Teil unseres Teams! Denn auf Sie warten vielseitige Aufgaben in einem kreativen und motivierten, dynamischen Umfeld und Team. Unser gemeinsames Ziel: Den Besuch und Aufenthalt in der Staatsgalerie für unsere Besucherinnen und Besuchern zu einer unvergesslichen Erfahrung zu machen. Gleichzeitig setzen wir alles daran, die Potenziale und das Engagement unserer Mitarbeiterinnen und Mitarbeiter durch ein attraktives und wertschätzendes Arbeitsumfeld im öffentlichen Dienst zu fördern und zu stärken. Wir freuen uns auf Ihre Bewerbung!
-Zur Verstärkung unseres Teams Marketing und Öffentlichkeitsarbeit (Bereich Besucherdialog) suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Media Relations Manager (w/m/d), der die Medien- und Pressearbeit bei der Konzeption, Planung und Umsetzung unserer Kommunikationsstrategien unterstützt.
-Wir besetzen ab sofort eine Stelle als
-Manager Media Relations (w/m/d)
-(in Vollzeit, 39,5 Stunden/Woche, unbefristet)
-Die Vergütung erfolgt nach TV-L.
-Ihre Aufgaben:
-Social-Media-Kommunikation
-Ausarbeitung und Weiterentwicklung einer Strategie für die kontinuierliche Kommunikation und Ansprache diverser Zielgruppen über Social Media in Abstimmung mit den Vorgesetzten
-Konzeptentwicklung für Social Media zu Ausstellungsprojekten, Veranstaltungen und Begleitprogrammen sowie zu übergeordneten Themen des Hauses
-hauptverantwortliche Betreuung und Pflege aller Social-Media-Kanäle des Hauses inkl. Content-Creation, Themenfindung, Community Management, Koordination von zuarbeitenden Kolleginnen und Kollegen
-Presse- und Medienarbeit im Presseteam
-Vorbereiten, Bereitstellen und Pflegen von Bild- und Textmaterial für Presse und Medien in Abstimmung mit der Pressesprecherin
-kontinuierliche Pflege des Presseverteilers
-Bearbeiten von Presseanfragen
-Koordination und Betreuung von Presseterminen (z. B. Interviews und Pressekonferenzen, Drehtermine)
-Networking, Austausch und Steuerung von Medienvertretern (Blogger/Influencer und/oder Dienstleister)
-Gestalten von Medienkooperationen
-Redaktionsaufgaben und Erstellen von Texten
-Evaluation und (Erfolgs-)Kontrolle
-Aufbereitung und Auswertung der Besucherzahlen der digitalen Angebote und Kanäle des Hauses
-kontinuierliches Monitoring der medialen Berichterstattung (Presse- und Medienspiegel)
-Verwaltung der Mediendienstleister (z. B. Clippingdienst)
-Kostenkontrolle der verantworteten Maßnahmen
-Ihr Profil:
-abgeschlossenes Hochschulstudium (Bachelor, Magister, Diplom oder Master) oder abgeschlossene Ausbildung zur/zum Medienkauffrau/-kaufmann oder Public-Relations-/Social-Media-Manager
-mindestens 3 Jahre Berufserfahrung und fundierte Kenntnisse im Bereich Social Media
-vertrauter Umgang mit weiteren digitalen Medien, wie bspw. Google Analytics, SEO oder matomo
-Grundkenntnisse und Erfahrungen mit CMS, bspw. WordPress oder Drupal
-Interesse und Fähigkeit, mit fortlaufenden Entwicklungen der digitalen Medien Schritt zu halten, sie zu evaluieren und für die Staatsgalerie bestmöglich zu nutzen
-grundlegende Kenntnisse und erste Berufserfahrung in der Presse- und Öffentlichkeitsarbeit
-weitere Erfahrungen in den Bereichen PR, Kommunikation oder Branding sind von Vorteil
-erste Erfahrungen in der Budgetplanung und -kontrolle, Freude am Umgang mit Zahlen und Daten und deren Analyse
-grundlegendes Wissen und vor allem Interesse an Kunst und Kultur
-sehr gute Kenntnisse der gängigen Office-Programme wie Word, Excel, PowerPoint
-Adobe-Kenntnisse von Vorteil
-strategisches und analytisches Denken
-strukturiertes und eigenverantwortliches Arbeiten
-hohes Maß an Team- und Kommunikationsfähigkeit sowie Organisationsgeschick
-Stilsicherheit in Wort und Schrift
-Deutsch auf Muttersprachen-Niveau
-Englischkenntnisse werden vorausgesetzt
-Unsere Benefits entnehmen Sie bitte
-hier
-.
-Schwerbehinderte Bewerber (w/m/d) werden bei ansonsten im Wesentlichen gleicher Eignung bevorzugt.
-Wir begrüßen Bewerbungen unabhängig von Geschlecht, kultureller oder sozialer Herkunft, Alter, Religion, Weltanschauung, Behinderung oder sexueller Identität. Wir legen Wert auf familienfreundliche Arbeitsbedingungen und gewährleisten die Gleichstellung von Männern und Frauen.
-Sind Sie interessiert?
-Dann freuen wir uns auf Ihre aussagekräftige Bewerbung, die Sie bitte
-bis zum 4. April 2025
-ausschließlich über unser Online-Bewerbungsportal
-https://bewerberportal.landbw.de/sgs
-unter Angabe der
-Kennziffer SGS-2025-02
-einreichen.
-Fachliche Fragen vorab beantwortet Ihnen Frau Charlotte Kreuter (Bereichsleitung Marketing und Öffentlichkeitsarbeit) unter T +49 711 470 40 227.
-Für allgemeine Fragen steht Ihnen unser Bereich Personal gerne unter T +49 711 470 40 194 oder -196 zur Verfügung.
-Hinweise zu Ihren übermittelten Bewerbungsunterlagen finden Sie unter
-https://www.staatsgalerie.de/datenschutz/datenschutz-stellenangebote.html
-.
-Ihre Bewerbungsunterlagen werden nach dem Ende des Verfahrens datenschutzkonform gelöscht. Die Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Art. 13 der Datenschutz-Grundverordnung (DS-GVO) erhalten Sie auf unserer Homepage unter
-https://www.staatsgalerie.de/datenschutz
-.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 04.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/manager-media-relations-w-m-d/</guid></item><item><title>Administrative Assistant (m/f/d)</title><link>https://www.museumsbund.de/stellenangebote/administrative-assistant-m-f-d/</link><description>Senckenberg Museum für Naturkunde Görlitz, Görlitz Bewerbungsende: 01.04.2025 | The Senckenberg Gesellschaft für Naturforschung (SGN) was founded in 1817 and is one of the most important research institutions in the field of biodiversity. At its twelve locations throughout Germany, scientists from over 40 nations conduct cutting-edge research at an international level. At the Görlitz site, the renowned Senckenberg Museum of Natural History is located in a historic town with a region that is particularly close to nature and well worth living in.
-The Senckenberg Gesellschaft für Naturforschung with its head institute in Frankfurt (Main) is looking for the following person for the
-Senckenberg Museum of Natural History Görlitz:
-Administrative Assistant (m/f/d)
-for the ERC Project CARBONWEB
-(50% part-time position / 20 weekly working hours)
-Are you an organized and proactive professional (m/f/d) with a passion for supporting cutting-edge scientific research? The
-Senckenberg Gesellschaft für Naturforschung
-invites you to join our team at the
-Senckenberg Museum of Natural History Görlitz
-as an
-Administrative Assistant for the Project Coordinator
-(50% part-time position) to support the ERC-funded project
-CARBONWEB
-, ideally starting
-May 1st, 2025
-.
-About the Project
-Soil food webs drive 90% of terrestrial primary production and regulate one of the largest carbon pools on Earth – yet they remain poorly understood. The
-CARBONWEB
-project aims to fill this gap by analysing soil food web dynamics and their role in global biogeochemistry. Our research integrates data from the global
-Soil BON monitoring network
-, controlled experiments, and modelling.
-Your role will be instrumental in coordinating administrative processes, facilitating communication, and ensuring smooth project execution. You will collaborate with an international team spanning 33 countries, the administrative team at Senckenberg Görlitz, and ERC representatives.
-Your tasks:
-Develop and organize project documentation
-Establish administrative processes between the project team, Senckenberg administration, and ERC representatives
-Assist in communication with international collaborators within the Soil BON Foodweb network
-Organize project meetings, retreats, and workshops
-Manage the dissemination of project progress via the website and social media
-Oversee administrative management of the ERC project
-Handle accounting and preparation of project reports
-Monitor project budget and financial processes
-Implement procurement procedures and award processes in compliance with legal regulations
-Your profile:
-Commercial training or equivalent qualification
-Extensive experience in project administration
-Strong organizational and documentation skills
-Excellent English communication skills (written and spoken)
-Experience with travel expense management and travel expense law
-Knowledge of German public procurement law
-Confident in handling financial figures and budgeting,
-Very good knowledge of MS Office and administrative software, including SAP
-Ability to work independently and in a team-oriented environment
-Additional Advantages:
-Intercultural competence, as well as service-oriented thinking and acting
-Independent, structured and efficient way of working with a focus on details and flexibility
-Ability to set priorities and work to deadlines
-What is awaiting you?
-An exciting, responsible and rewarding role in a world-renowned research organisation with motivated and professional peers
-Flexible working hours and remote work options – Family-friendly working conditions (certified by the „audit berufundfamilie“) – Open and collegial environment – Senckenberg badge in connection with free admission to all Senckenberg museums – Special annual payment (according to TV-L) – Company pension scheme – 30 days
-Location and Contract Details
-Place of employment:
-Görlitz, Saxony (Germany)
-Employment scope: Part-time (50% of a full-time position, 20 weekly working hours)
-Contract duration: Fixed-term for 5 years (starting ideally May 1st, 2025)
-Salary: Planned salary group E 8 TV-L (in accordance with German public sector agreements)
-Diversity and Inclusion
-Senckenberg is committed to diversity. We benefit from the different expertise, perspectives and personalities of our staff and welcome every application from qualified candidates, irrespective of age, gender, ethnic or cultural origin, religion and ideology, sexual orientation and identity or disability. Applicants with a severe disability will be given special consideration in case of equal suitability. Senckenberg actively supports the compatibility of work and family and places great emphasis on an equal and inclusive work culture.
-You would like to apply?
-Submit your application as a
-single PDF document
-, including:
-Cover letter (1 page) detailing your experience, skills, motivation and fit for this role
-CV
-Copies of academic/vocational certificates and work references
-Reference
-#08-25006
-should be mentioned in your application.
-Application deadline: April 1
-st
-, 2025
-Send your application to:
-recruiting@senckenberg.de
-Or apply online:
-www.senckenberg.de/de/karriere/bewerbung/
-Senckenberg Gesellschaft für Naturforschung
-Senckenberganlage 25
-60325 Frankfurt a.M.
-E-Mail:
-recruiting@senckenberg.de
-For specific questions about this role, please contact
-Dr. Clement Schneider
-at
-clement.schneider@senckenberg.de
-.
-Join us in supporting ground-breaking ecological research! We look forward to your application!
-For further information about the Senckenberg Gesellschaft für Naturforschung please visit
-www.senckenberg.de
-https://hi-lusatia.de/
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 01.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/administrative-assistant-m-f-d/</guid></item><item><title>Administrative Assistenz (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/administrative-assistenz-m-w-d/</link><description>Senckenberg Museum für Naturkunde Görlitz, Görlitz Bewerbungsende: 01.04.2025 | Die Senckenberg Gesellschaft für Naturforschung (SGN) wurde 1817 gegründet und zählt zu den wichtigsten Forschungseinrichtungen rund um die biologische Vielfalt. An den zwölf Standorten in ganz Deutschland betreiben Wissenschaftler*innen aus über 40 Nationen modernste Forschung auf internationaler Ebene. Am Standort Görlitz befindet sich das renommierte Senckenberg Museum für Naturkunde in einer historischen Stadt mit einer lebenswerten, besonders naturnahen Region.
-Die Senckenberg Gesellschaft für Naturforschung mit Hauptsitz in Frankfurt am Main sucht für das
-Senckenberg Naturkundemuseum Görlitz
-folgende Fachkraft (m/w/d):
-Administrative Assistenz (m/w/d)
-für das ERC-Projekt CARBONWEB
-(Teilzeit 50% / 20 Sunden/Woche)
-Sind Sie eine organisierte und proaktive Fachkraft (m/w/d) mit Leidenschaft dafür, wegweisende wissenschaftliche Forschung zu unterstützen? Dann laden wir Sie herzlich ein, unser Team am
-Senckenberg Naturkundemuseum Görlitz
-als
-Administrative Assistenz (m/w/d)
-für die Projektkoordination zu verstärken – idealerweise ab dem 1. Mai 2025.
-Über das Projekt
-Boden-Nahrungsnetze treiben 90 % der terrestrischen Primärproduktion an und regulieren einen der größten Kohlenstoffspeicher der Erde – sie sind jedoch bislang unzureichend erforscht. Das
-CARBONWEB
--Projekt hat zum Ziel, diese Forschungslücke zu schließen, indem es die Dynamik von Boden-Nahrungsnetzen und deren Rolle in der globalen Biogeochemie analysiert. Unsere Forschung integriert Daten aus dem globalen
-Soil BON Monitoring-Netzwerk
-, kontrollierte Experimente und Modellierungen.
-In Ihrer Funktion koordinieren Sie administrative Prozesse, erleichtern die Kommunikation und sorgen für einen reibungslosen Ablauf des Projekts. Dabei arbeiten Sie eng mit einem internationalen Team aus 33 Ländern, dem Verwaltungsteam in Görlitz sowie Vertreter*innen der ERC zusammen.
-Ihre Aufgaben
-Entwicklung und Organisation der Projektdokumentation
-Aufbau administrativer Prozesse zwischen dem Projektteam, der Senckenberg-Administration und den ERC-Vertreter*innen
-Unterstützung der Kommunikation mit internationalen Kooperationspartner*innen im Rahmen des Soil BON Foodweb Netzwerks
-Organisation von Projektmeetings, Retreats und Workshops
-Verwaltung der Veröffentlichung von Projektfortschritten über die Website und in sozialen Medien
-Überwachung der administrativen Projektsteuerung des ERC-Projekts
-Bearbeitung der Buchhaltung und Erstellung von Projektberichten
-Überwachung des Projektbudgets und der finanziellen Abläufe
-Umsetzung von Beschaffungs- und Vergabeverfahren gemäß den gesetzlichen Bestimmungen
-Ihre Qualifikationen
-Kaufmännische Ausbildung oder eine gleichwertige Qualifikation
-Umfangreiche Erfahrung in der Projektadministration
-Ausgeprägte organisatorische und dokumentarische Fähigkeiten
-Ausgezeichnete Englischkenntnisse in Wort und Schrift
-Erfahrung im Management von Reisekostenabrechnungen und den entsprechenden rechtlichen Grundlagen
-Kenntnisse des deutschen Vergaberechts im öffentlichen Sektor
-Sicherer Umgang mit finanziellen Kennzahlen und Budgetierung
-Sehr gute Kenntnisse in MS Office und einschlägiger Verwaltungssoftware, einschließlich SAP
-Fähigkeit, sowohl selbstständig als auch im Team zu arbeiten
-Wünschenswert sind:
-Interkulturelle Kompetenz sowie serviceorientiertes Denken und Handeln
-Selbstständige, strukturierte und effiziente Arbeitsweise mit hohem Augenmerk auf Details und Flexibilität
-Fähigkeit, Prioritäten zu setzen und termingerecht zu arbeiten
-Wir bieten
-eine attraktive und abwechlsungsreiche Tätigkeit in einer weltweit anerkannten Forschungseinrichtung
-selbstständiges Handeln in einem internationalen, motivierten und professionellen Umfeld
-flexible Arbeitszeiten – Mobiles Arbeiten – Unterstützung bei der Kinderbetreuung oder bei der Pflege von Familienangehörigen (zertifiziert durch das „audit berufundfamilie“) – einen Dienstausweis in Verbindung mit kostenfreiem Eintritt in die Senckenberg-Museen – eine tarifliche Jahressonderzahlung – tariflichen Urlaubsanspruch – betriebliche Altersvorsorge
-Ort: Görlitz (Sachsen)
-Beschäftigungsumfang: Teilzeit 50% (20 Stunden/Woche)
-Vertragsart: Befristet auf 5 Jahre (Projektbefristung; Die Stelle sollte idealerweise ab dem 1. Mai 2025 besetzt sein)
-Vergütung: Tarifvertrag der Länder (TV-L) – voraussichtlich E 8
-Senckenberg engagiert sich für Vielfalt. Wir profitieren von den unterschiedlichen Expertisen, Perspektiven und Persönlichkeiten unserer Mitarbeiter*innen und freuen uns über jede Bewerbung qualifizierter Kandidat*innen, unabhängig von Alter, Geschlecht oder geschlechtlicher Identität, ethnischer oder kultureller Herkunft, Religion und Weltanschauung, sexueller Orientierung und Identität oder Behinderung. Bewerber*innen mit einer Schwerbehinderung werden bei gleicher Eignung besonders berücksichtigt. Senckenberg unterstützt aktiv die Vereinbarkeit von Beruf und Familie und legt großen Wert auf eine gleichberechtigte und inklusive Kultur der Zusammenarbeit.
-Sie möchten sich bewerben?
-Bitte reichen Sie Ihre Bewerbung als ein zusammenhängendes PDF-Dokument ein, das folgende Unterlagen enthält:
-Anschreiben (max. 1 Seite), in dem Sie Ihre Erfahrungen, Fähigkeiten, Motivation und Eignung für diese Stelle darlegen
-Lebenslauf
-Kopien der relevanten Ausbildungs- und Arbeitszeugnisse
-Bitte geben Sie in Ihrer Bewerbung die Referenznummer
-#08-25006
-an.
-Bewerbungsfrist: 1. April 2025
-Senden Sie Ihre Bewerbung an:
-recruiting@senckenberg.de
-Oder bewerben Sie sich online unter:
-https://www.senckenberg.de/de/karriere/bewerbung/
-Senckenberg Gesellschaft für Naturforschung
-Senckenberganlage 25
-60325 Frankfurt a.M.
-E-Mail:
-recruiting@senckenberg.de
-Für fachliche Rückfragen zu dieser Stelle wenden Sie sich gerne an Herrn Dr. Clement Schneider unter
-clement.schneider@senckenberg.de
-.
-Unterstützen Sie mit uns bahnbrechende ökologische Forschung – wir freuen uns auf Ihre Bewerbung!
-Weitere Informationen über die Senckenberg Gesellschaft für Naturforschung finden Sie unter
-www.senckenberg.de
-.
-www.hi-lusatia.de/
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 01.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/administrative-assistenz-m-w-d/</guid></item><item><title>Leitung Archive/Bibliotheken (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/leitung-archive-bibliotheken-m-w-d-2/</link><description>Stiftung Insel Hombroich, Neuss Bewerbungsende: 14.04.2025 | Für die Betreuung und Verwaltung der verschiedenen Archive und Bibliotheken mit Schriftgut aus Literatur, Kunst, Philosophie und Musik sucht die Stiftung Insel Hombroich eine
-Leitung Archive/Bibliotheken (m/w/d)
-Die Stiftung Insel Hombroich widmet sich der Architektur, Kunst, Natur, Literatur, Musik und Philosophie. Der gesamte Kulturraum mit insgesamt 43 Gebäuden auf ca. 64 ha bietet neben dem musealen Bereich einen Arbeits- und Wohnort für Künstler:innen unterschiedlicher Disziplinen sowie diverse Ausstellungs- und Veranstaltungsräume. Zur Stiftung gehört das international bekannte Museum Insel Hombroich mit einer zwei Jahrtausende umspannenden Sammlung von Kunst- und Kulturobjekten in begehbaren Skulpturen und gestalteter Landschaft. Das archivische Zentrum dokumentiert die in Hombroich stattfindenden Aktivitäten künstlerischer, kultureller und wissenschaftlicher Art. Es betreut zudem Vor- und Nachlässe von Künstler:innen, Schriftsteller:innen und Wissenschaftler:innen aus dem Umfeld Hombroichs (u. a. von Erwin Heerich, Thomas Kling, Walter Biemel oder dem
-Schreibheft)
-. Eine einheitliche Datenbank (FAUST 9) mit Online-Funktionalität ist im Aufbau. Ziel ist neben der internen auch die öffentliche Recherchierbarkeit aller Bestände.
-Ihre Aufgaben:
-Leitung der stiftungseigenen Archive und Bibliotheken
-Koordination eines kleinen, selbstständig arbeitenden Teams, Begleitung von Volontariaten
-Fachliche Organisation aller Erschließungs-, Nachweis- und Verwaltungsarbeiten
-Betreuung der im Aufbau befindlichen Datenbank für den gesamten Medienbestand
-Koordination der Sammlungsverwaltung mit der Geschäftsführung (insbesondere Fragen zu Inventarisierung, Restaurierung und Provenienzen)
-Interne und externe Kommunikation, Kooperation mit unterschiedlichen Partnern und Nutzendenkreisen, Vermittlung der Bestände und Bearbeitung wissenschaftlicher Anfragen
-Entwicklung einer Mittel- und Langfristperspektive für das Archiv- und Bibliothekswesen der Stiftung
-Voraussetzungen:
-ein abgeschlossenes Hochschulstudium oder eine gleichwertige Qualifikation in den Geisteswissenschaften, im Dokumentations-/Archiv-/Bibliothekswesen oder in verwandten Fächern
-erste Leitungserfahrungen
-vertiefte Kenntnisse und praktische Erfahrungen im Bereich Archiv, Bibliothek, Information/ Dokumentation
-gute Kenntnisse allgemeiner Datenbankarchitekturen
-Sicherheit im Umgang mit den gängigen Office-Programmen, Erfahrungen im Umgang mit Datenbanken
-sichere Beherrschung der deutschen und englischen Sprache in Wort und Schrift
-Was uns wichtig ist:
-die Fähigkeit, sich in neue Aufgaben schnell einzuarbeiten und Arbeitsziele zu definieren
-ausgeprägte Team- und Kommunikationskompetenz
-transdisziplinäres Denken, Begeisterung für das besondere Konzept der Stiftung Insel Hombroich
-Organisationstalent, Präzision und Flexibilität
-Was wir bieten:
-eine außergewöhnliche, vielfältige und erschließende Tätigkeit in Vollzeit (40 Stunden/Woche) an einem einzigartigen Ort
-eine auf zunächst 2 Jahre befristete Leitungsfunktion mit langfristiger Anstellungsperspektive
-die Zusammenarbeit mit einem motivierten Team in einem sehr kooperativen, zugewandten Betriebsklima
-Gezielte Weiterbildungsmöglichkeiten
-Vollzeitanstellung mit 30 Tagen Jahresurlaub
-Betriebliche Altersvorsorge
-Gerne erwarten wir Ihre aussagekräftige Bewerbung bis zum 14.04.2025 mit Angabe Ihrer Gehaltsvorstellung und Ihres frühestmöglichen Eintrittsdatums in elektronischer Form (eine PDF-Datei bis max. 10 MB) an:
-bewerbung@inselhombroich.de
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 14.04.2025</description><pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/leitung-archive-bibliotheken-m-w-d-2/</guid></item></channel></rss>
+Bewerbungsende: 01.05.2025</description><pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliche-assistenz-w-m-d/</guid></item></channel></rss>
