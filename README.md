@@ -27,7 +27,7 @@ Different RSS feeds generated from websites parsed with [Beautiful Soup](https:/
 
 ## Status of feeds
 
-Failed to extract abstract for https://huggingface.co/papers/2506.23115: 'NoneType' object has no attribute 'text', Failed to extract abstract for https://huggingface.co/papers/2506.21277: 'NoneType' object has no attribute 'text', 2025-07-02T09:28:56.
+Everything is running, 2025-07-02T13:36:07.
 
 ## License
 
