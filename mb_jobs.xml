@@ -1,5 +1,354 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Datenmanager*in / Technische Assistenz für Datenmanagement (m/w/d) / Technical Assistant for Data Management (m/f/d)</title><link>https://www.museumsbund.de/stellenangebote/datenmanagerin-technische-assistenz-fuer-datenmanagement-m-w-d-technical-assistant-for-data-management-m-f-d/</link><description>Senckenberg Gesellschaft für Naturforschung, Müncheberg Bewerbungsende: 17.10.2025 | // EN below
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Wissenschaftliche:r Mitarbeiter:in für Kollaborative digitale Wissensinfrastrukturen</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-fuer-kollaborative-digitale-wissensinfrastrukturen/</link><description>Deutsches Schifffahrtsmuseum, Bremerhaven Bewerbungsende: 31.10.2025 | Das Deutsche Schifffahrtsmuseum – Leibniz-Institut für Maritime Geschichte (DSM) ist eines von acht Forschungsmuseen der Leibniz-Gemeinschaft. Sein Ausstellungs- und Forschungsprogramm stellt die Untersuchung maritimer Technologien und die Beziehung zwischen Mensch und Meer in den Fokus. Mit rund 100 Mitarbeitenden und Auszubildenden sowie ca. 8000 Quadratmetern Ausstellungsfläche zählt es zu den größten maritimen Museen Europas.
+Im Fachbereich “Dokumentation und Herkünfte” ist möglichst zum 01.01.2026 eine Stelle als Wissenschaftliche:r Mitarbeiter:in (w/m/d) (TV-L- 13, bis 100% je nach Vorqualifikation, befristet auf zunächst 2 Jahre bis 31.12.2027, mit der Möglichkeit der Verlängerung und ggf. späteren Entfristung) zu besetzen. Der Fachbereich ist dem Sammlungsforschung-fokussierten Programmbereich II “Schiffe als Wissensspeicher” des DSM zugeordnet.
+Mit dem neu eingerichteten Fachbereich zielt das DSM darauf ab, eine vielstimmige, partizipative und lebendige Wissensgenerierung und -vernetzung zu ermöglichen und sowohl bisher bestehende Wissenslücken als auch neue Verbindungen sichtbar zu machen. Es geht darum, unter Einbeziehung aktueller Debatten um Machtverhältnisse und Sichtbarkeit in Dateninfrastrukturen sowie ethisch verantwortungsvoller Datennutzung und -vernetzung zu neuen Perspektiven für die Sammlungsforschung zu gelangen.
+Wissenschaftliche:r Mitarbeiter:in
+Kollaborative digitale Wissensinfrastrukturen
+Aufgaben:
+Digitale Bereitstellung und Nutzbarmachung der maritimen Zeugnisse des DSM für die Vernetzung mit und die Erforschung von anderen musealen Sammlungen und Datenbeständen
+Kritische Weiterentwicklung der Dokumentation und des Forschungs-datenmanagements unter Berücksichtigung der FAIR, CARE und TRUST Prinzipien
+Anreicherung von Daten im Sinne von Linked Open Data (LOD) zur interoperablen Vernetzung von Museumsdaten mit nationalen und internationalen Repositorien
+Anwendung digitaler Methoden zur quantitativen und qualitativen Analyse und Aufbereitung von Forschungsdaten
+Beratung und Support für Wissenschaftler:innen und Unterstützung bei der Erstellung von Datenmanagementplänen
+Koordination mit externen IT-Dienstleistern sowie enge Zusammenarbeit mit der internen IT-Abteilung bei der Weiterentwicklung digitaler Infrastruktur
+Konzeption und Durchführung partizipativer Sammlungserschließungsprojekte in Kooperation mit internationalen Partner:innen
+Es ist möglich, dass sich der konkrete Aufgabenzuschnitt bzw. einzelne Aufgabenschwerpunkte in Absprache mit der Fachbereichsleitung künftig verändern.
+Profil:
+Abgeschlossenes Studium in Digital Humanities, Kulturinformatik, Informationswissenschaften, Medieninformatik oder einer vergleichbaren Fachrichtung mit starkem IT-Bezug und Interesse an Museums- und Sammlungsthemen oder in einem historischen, kunst-, kultur- oder medienwissenschaftlichen Fach mit Schwerpunkt auf dem Forschungsbereich der Digital Humanities oder kulturinformatischen Inhalten oder durch mehrjährige Berufserfahrung und Fortbildungsmaßnahmen nachgewiesene gleichwertige Erfahrungen
+Erfahrung mit Datenbanken, idealerweise mit Museums-/ Sammlungs-managementsystemen und Archiv-Erschließungsprogrammen
+Sehr gute Kenntnisse im Datenbankmanagement, der Datenbereinigung (gerne auch einschließlich Migrationsprozesse), Standardisierung und Normdatenanreicherung (GND, Wikidata, VIAF)
+Sehr gute Kenntnisse der relevanten Metadatenstandards, Ontologien, sowie Abfrage- und Auszeichnungssprachen für Museen, Archive und Bibliotheken (z.B. LIDO, CIDOC CRM, Dublin Core, EAD, RDF, SPARQL, JSON-LD)
+Vorteilhaft sind Kenntnisse in einschlägigen für die Analyse von Forschungsdaten relevanten Techniken und Programmiersprachen (z. B. SQL, Python, R)
+Wünschenswert ist Erfahrung mit KI-gestützten Tools für die Sammlungsarbeit (Erschließung, Verschlagwortung, Transkription, Datenanalyse)
+Wünschenswert, aber nicht zwingend erforderlich sind Kenntnisse im Umgang mit Content-Management-Systemen (wie Typo3, Drupal, WordPress), Erfahrungen mit Projektmanagement-Tools und Instrumenten der Datenanalyse (z.B. Matomo, Social-Media-Insights)
+Wir wünschen uns eine kommunikationsstarke Person mit Interesse an interdisziplinärer Zusammenarbeit in unterschiedlichen Teams
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift sind erforderlich
+Bereitschaft zu Dienstreisen
+Unser Angebot für Sie:
+Flache Hierarchien und kurze Entscheidungswege
+Flexible Arbeitszeiten und Remote-Work-Möglichkeiten
+30 Tage Jahresurlaub
+Betriebliche Altersvorsorge
+Mitarbeitendenbenefits
+Interessiert?
+Dann freuen wir uns auf Ihre Bewerbung!
+Ihre digitale Bewerbung senden Sie unter Angabe der Kennziffer
+202510-A
+bis spätestens
+31.10.2025
+an
+personal@dsm.museum
+.
+Stellen Sie uns bitte alle Unterlagen (Anschreiben, Lebenslauf, ggfs. Zeugnisse, Empfehlungen und weitere Nachweise) gesammelt in einer einzigen PDF-Datei zur Verfügung.
+Für Rückfragen zu den Stellen steht Ihnen Frau Dr. Antje Schmidt (Leitung Fachbereich Dokumentation und Herkünfte) unter
+a.schmidt@dsm.museum
+zur Verfügung.
+Die Vergütung erfolgt nach dem TV-L abhängig von Ihrer Qualifikation bis
+maximal zur Entgeltgruppe 13
+. Neben den üblichen Leistungen, die mit denen des öffentlichen Dienstes vergleichbar sind, legen wir besonderen Wert auf die Vereinbarkeit von Beruf und Familie. Die Stelle ist grundsätzlich für Teilzeit und Homeoffice geeignet.
+Das Deutsche Schifffahrtsmuseum strebt in allen Bereichen nach Geschlechtergerechtigkeit und Chancengleichheit. Daher begrüßen wir alle qualifizierten Bewerbungen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion oder Weltanschauung, Behinderung, Alter oder sexueller Identität. Bewerbungen von Menschen mit Migrationshintergrund werden ausdrücklich begrüßt. Schwerbehinderten Bewerberinnen und Bewerbern wird bei im Wesentlichen gleicher fachlicher und persönlicher Eignung der Vorrang gegeben.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 31.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-fuer-kollaborative-digitale-wissensinfrastrukturen/</guid></item><item><title>Wissenschaftliche:r Mitarbeiter:in Provenienz- und Sammlungsforschung im maritimen Kontext</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-provenienz-und-sammlungsforschung-im-maritimen-kontext/</link><description>Deutsches Schifffahrtsmuseum, Bremerhaven Bewerbungsende: 31.10.2025 | Das Deutsche Schifffahrtsmuseum – Leibniz-Institut für Maritime Geschichte (DSM) ist eines von acht Forschungsmuseen der Leibniz-Gemeinschaft. Sein Ausstellungs- und Forschungsprogramm stellt die Untersuchung maritimer Technologien und die Beziehung zwischen Mensch und Meer in den Fokus. Mit rund 100 Mitarbeitenden und Auszubildenden sowie ca. 8000 Quadratmetern Ausstellungsfläche zählt es zu den größten maritimen Museen Europas.
+Im Fachbereich “Dokumentation und Herkünfte” ist möglichst zum 01.01.2026 eine Stelle Wissenschaftliche:r Mitarbeiter:in (w/m/d) (TV-L- 13, bis 100% je nach Vorqualifikation, befristet auf zunächst 2 Jahre bis 31.12.2027, mit der Möglichkeit der Verlängerung und ggf. späteren Entfristung) zu besetzen. Der Fachbereich ist dem Sammlungsforschung-fokussierten Programmbereich II “Schiffe als Wissensspeicher” des DSM zugeordnet.
+Mit dem neu eingerichteten Fachbereich zielt das DSM darauf ab, eine vielstimmige, partizipative und lebendige Wissensgenerierung und -vernetzung zu ermöglichen und sowohl bisher bestehende Wissenslücken als auch neue Verbindungen sichtbar zu machen. Es geht darum, unter Einbeziehung aktueller Debatten um Machtverhältnisse und Sichtbarkeit in Dateninfrastrukturen sowie ethisch verantwortungsvoller Datennutzung und -vernetzung zu neuen Perspektiven für die Sammlungsforschung zu gelangen.
+Wissenschaftliche:r Mitarbeiter:in
+Provenienz- und Sammlungsforschung im maritimen Kontext
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 31.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-provenienz-und-sammlungsforschung-im-maritimen-kontext/</guid></item><item><title>wissenschaftliche/r Mitarbeiter/in mit dem Schwerpunkt Medien (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftliche-r-mitarbeiter-in-mit-dem-schwerpunkt-medien-m-w-d/</link><description>Stiftung Haus der Geschichte der Bundesrepublik Deutschland, Bonn Bewerbungsende: 26.10.2025 | Sie sind kreativ, begeistert von Geschichte und haben große Lust, sich mit Medien im Museum zu beschäftigen? Sie haben keine Angst vor Technik und arbeiten gern im Team? – Dann suchen wir Sie.
+Die Häuser der Stiftung in Bonn, Berlin und Leipzig gehören zu den meistbesuchten Geschichtsmuseen in Deutschland. In
+Bonn
+suchen wir zum
+nächstmöglichen Zeitpunkt unbefristet in Vollzeit
+eine/n
+wissenschaftliche/n Mitarbeiter/in mit dem Schwerpunkt Medien (m/w/d)
+(EG 13 TVöD)
+Kennziffer 25-25
+Die Hauptaufgabe besteht darin, Medien für historische Ausstellungen und Präsentationen zu entwickeln und zu pflegen. Als Teil des Medienteams und in Zusammenarbeit mit den jeweiligen Projektteams verbinden Sie gemäß des integrierten Medienansatzes der Stiftung bei Konzeption, Realisierung und Betrieb von Medien inhaltliche, gestalterische und technische Aspekte.
+Was erwartet Sie?
+Konzeptionelle Entwicklung und Umsetzung von publikumsorientierten Medienformaten mit historischen Inhalten: Film, Audio und Interactives
+Pflege und Aktualisierung der Ausstellungsmedien
+Mitarbeit in Ausstellungsprojekten
+Wissenschaftliche Betreuung eines Sammlungsgebiets
+Ansprechpartner für externe Dienstleister
+Koordination medialer Installationen in Abstimmung mit IT, Haustechnik und Werkstätten
+Was bringen Sie mit?
+Ein erfolgreich abgeschlossenes wissenschaftliches Hochschulstudium (Master, Diplom) der Geschichte, Politologie, der Medienwissenschaften oder vergleichbarer Ausrichtung
+Nachgewiesene Kenntnisse der deutschen Zeitgeschichte sind zwingend erforderlich
+Mehrjährige Berufserfahrung in der Ausstellungsarbeit, bevorzugt im Museum- oder Kulturbereich sind zwingend erforderlich
+Erfahrungen mit der Planung und Produktion von Film-, Fernseh- oder Radio-Inhalten sind genauso erwünscht wie Erfahrungen im Bereich der Entwicklung von Computerspielen
+Erfahrung im Projektmanagement
+Kenntnisse zu vergaberechtlichen Ausschreibungsverfahren im öffentlichen Dienst sind von Vorteil
+Persönliches Engagement, eine ergebnisorientierte Selbständigkeit und eine ausgeprägte Fähigkeit zur Teamarbeit runden Ihr Profil ab
+Was bieten wir Ihnen?
+Eine vielseitige, abwechslungsreiche Tätigkeit in einem engagierten, professionellen Team
+Ein familienfreundliches Umfeld mit flexibler Arbeitszeit und Möglichkeit zu mobiler Arbeit
+Zusatzversorgung bei der Versorgungsanstalt des Bundes und der Länder
+Jobticket bzw. Deutschlandjobticket mit Arbeitgeberzuschuss
+Fortbildungsmöglichkeiten
+eine gute Anbindung an den ÖPNV sowie Auto- und Fahrradstellplätze
+Die Stelle kann auch mit Teilzeitkräften besetzt werden. Die Stiftung gewährleistet die berufliche Gleichstellung von Männern und Frauen nach dem Bundesgleichstellungsgesetz. Menschen mit Behinderung werden nach Maßgabe des Sozialgesetzbuches – Neuntes Buch – bevorzugt berücksichtigt.
+Haben wir Ihr Interesse geweckt? – Dann freuen wir uns auf Ihre vollständige und aussagekräftige Bewerbung (bevorzugt als PDF-Format in nur einer Datei) bis
+zum 26. Oktober 2025
+unter Angabe der
+Kennziffer 25-25 sowie des frühestmöglichen Eintrittstermins per E-Mail
+an:
+bewerbung@hdg.de
+oder Stiftung Haus der Geschichte der Bundesrepublik Deutschland, Personalreferat, Willy-Brandt-Allee 14, 53113 Bonn.
+Als Ansprechpartner für fachbezogene Fragen steht Ihnen Frau Dr. Rosenberger, Telefon, Telefon 0228/9165-500, in personalwirtschaftlichen Angelegenheiten Frau Löschhorn, Telefon 0228/9165-510 zur Verfügung.
+Vorstellungsgespräche werden voraussichtlich in KW 47 geführt.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 26.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliche-r-mitarbeiter-in-mit-dem-schwerpunkt-medien-m-w-d/</guid></item><item><title>Gärtner:in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/gaertnerin-m-w-d-6/</link><description>Stiftung Domäne Dahlem, Berlin Bewerbungsende: 26.10.2025 | Die Stiftung Domäne Dahlem – Landgut und Museum betreibt ein Freilichtmuseum für Agrar- und Ernährungskultur mit ökologischem Schwerpunkt. Der Biolandbetrieb ist Bestandteil der Stiftung und zugleich Demonstrationsbetrieb im Rahmen des Bundesprogramms Ökologischer Landbau. Für Besuchergruppen bieten wir umfangreiche Programme zu den Themen Landwirtschaft, Ernährung, Kochen, Handwerk u. a. an. Neben den hohen Ansprüchen in Bezug auf Bildung, Öffentlichkeitsarbeit und dem Erhalt bedrohter Nutztierrassen ist die Domäne Dahlem auch ein Erwerbsbetrieb. Es werden Gemüsekulturen, Obst, Kräuter und Zierpflanzen angebaut. Die Vermarktung erfolgt direkt in unserem Hofladen auf der Domäne sowie mit einigen lokalen Partnern. Des Weiteren ist die Stiftung für den Erhalt und die Gestaltung des Geländes der Domäne Dahlem zuständig.
+Für den Bereich Landschaftspflege / Ökologischer Obstbau suchen wir zum nächstmöglichen Zeitpunkt eine/n
+Gärtner:in (m/w/d)
+für den sehr vielfältigen und kleinteiligen Betrieb zur Unterstützung und Vertretung der Bereichsleitung. Die Stelle kann in Vollzeit oder in Teilzeit ab 20 Wochenstunden besetzt werden.
+Zu Ihren Aufgaben gehören:
+Allgemeine Grünflächen- und Obstanlagenpflege (z. B. Beikrautregulierung, Laubarbeiten, Heckenschnitt )
+Pflanzung und Pflege von Sommerblumen und Stauden
+Anlage und Pflege von Rasen-/Wiesenflächen mit allen gängigen Handmähgeräten und Großflächenmähern
+Pflanzen und Pflege von Gehölzen und Bäumen
+Ernte von Beerenobst mit Belieferung des Hofladens, der hofansässigen Gastronomie und den lokalen Partnern
+Gelegentliche Mitwirkung bei unseren Marktfesten und anderen Sonderdiensten
+Unterstützung unseres Bildungsbereiches bei der Konzeption von Programmen sowie bei Interesse gelegentliche Fachführungen
+Je nach Qualifikation und Interesse sind folgende Bereiche als Schwerpunkte möglich:
+regelmäßige Baumschau (Baumgutachten)
+Pflege und Wartung der Technik und des Fuhrparks
+Beerenobst
+Wir erwarten:
+Abgeschlossene Berufsausbildung als Gärtner:in der Fachrichtung Garten- und Landschaftsbau oder Obstbau oder einschlägige Berufserfahrung im Gartenbau oder eine gleichwertige landwirtschaftliche Ausbildung
+Erfahrung im Umgang mit im Garten- und Landschaftsbau üblichen Maschinen und Arbeitsgeräten (Freischneider, Rasenmäher, Heckenschere, Häcksler) sowie mit Traktoren
+Einsatzbereitschaft, Flexibilität, Teamfähigkeit, Zuverlässigkeit
+Freude an der Arbeit mit FÖJler:innen, Freude am Umgang mit Besuchern:innen
+Affinität zu den Themen Nachhaltigkeit und Klimaschutz
+Führerschein der Klasse B/BE
+Grundlegende Kenntnisse in MS-Office
+Wir bieten:
+Eine abwechslungsreiche und vielseitige Teilzeit-Stelle in Anlehnung an TV-L E 5, zunächst auf zwei Jahre befristet, eine anschließende Entfristung wird angestrebt
+Möglichkeit der Weiterbildung
+Die Mitwirkung in einem kleinen und engagierten Team in idyllischer grüner Lage vor den Toren Berlins
+Geregelte Arbeitszeiten und Arbeiten mit einem Arbeitszeitkonto
+Bereichsübergreifendes Arbeiten mit den anderen Bereichen der Domäne, z. B. Gemüsebau, Gastronomie und Direktvermarktung
+Mitarbeiter:innen-Rabatt in unserem Landgasthaus, im Hofladen und Museumsshop
+Gute, kostenlose Parkmöglichkeit und erstklassige ÖPNV-Anbindung
+BVG-Jobticket/Deutschlandticket
+30 Urlaubstage auf Basis einer 5-Tage-Woche
+Sie fühlen sich angesprochen und haben Interesse an der Tätigkeit? Dann senden Sie bitte Ihre vollständige und aussagekräftige Bewerbung im PDF-Format in einer Datei per E-Mail bis 26.10.2025 an
+bewerbung@domaene-dahlem.de.
+Die Stiftung fördert aktiv die Gleichstellung aller Menschen und steht für eine diskriminierungsfreie Arbeitsumgebung. Wir begrüßen deshalb Bewerbungen von Personen unabhängig von deren kultureller und sozialer Herkunft, Alter, Geschlecht, Religion, Weltanschauung, Behinderung oder sexueller Identität. Ausdrücklich erwünscht sind Bewerbungen von People of Color sowie von Bewerber:innen mit Flucht- oder familiärer Migrationsgeschichte. Schwerbehinderte Bewerber:innen werden bei gleicher Eignung unter Berücksichtigung aller Umstände des Einzelfalls bevorzugt.
+Kontakt:
+Stiftung Domäne Dahlem – Landgut und Museum | Königin-Luise-Straße 49 | 14195 Berlin |
+kontakt@domaene-dahlem.de
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 26.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/gaertnerin-m-w-d-6/</guid></item><item><title>Wissenschaftliche/r Volontär/in (m/w/d) im Bereich Restaurierung Gemälde / Skulptur</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftliche-r-volontaer-in-m-w-d-im-bereich-restaurierung-gemaelde-skulptur-2/</link><description>Stiftung Saarländischer Kulturbesitz, Saarbrücken Bewerbungsende: 27.10.2025 | Die Stiftung Saarländischer Kulturbesitz ist eine der bedeutendsten Kulturinstitutionen des Saarlandes mit überregionaler und grenzüberschreitender Strahlkraft. Zu ihren Einrichtungen gehören das Saarlandmuseum (Moderne Galerie/Alte Sammlung) und das Museum für Vor- und Frühgeschichte mit der Römischen Villa Nennig sowie das Deutsche Zeitungsmuseum in Wadgassen.
+Zur Verstärkung ihres Teams sucht die Stiftung Saarländischer Kulturbesitz zum nächstmöglichen Zeitpunkt für die Dauer von zwei Jahren eine/n:
+wissenschaftliche/n Volontär/in (m/w/d)
+im Bereich Restaurierung Gemälde/Skulptur für das Saarlandmuseum in Vollzeit (39,5 Wochenstunden).
+Der Hauptarbeitsplatz befindet sich in der Modernen Galerie des Saarlandmuseums, dem Haus für moderne und zeitgenössische Kunst. Sie erwartet ein spannendes Arbeitsumfeld mit einem vielseitigen Sammlungsspektrum vom Impressionismus bis zur Gegenwart.
+Im Rahmen des Volontariats lernen Sie die verschiedenen Aufgabenfelder des Fachbereichs Restaurierung/Konservierung im Museumsbetrieb kennen. Von der praktischen Konservierung und Restaurierung bis hin zu präventiven Maßnahmen, der Überwachung der Licht-, Klima- und Umgebungsbedingungen von ausgestelltem und deponiertem Kulturgut und der allgemeinen Sammlungspflege. Sie unterstützen bei der Einrichtung von Ausstellungen und beim Leihverkehr, des Umzugs des Skulpturendepots, der Vergabe von Dienstleistungen sowie bei der Dokumentation der konservatorisch-restauratorischer Maßnahmen.
+Darüber hinaus erhalten Sie eine praxisbezogene Einführung in die Arbeit von Museen (Erwerb von Kenntnissen in den Aufgabenfeldern Sammeln, Bewahren, Forschen, Ausstellen, Vermitteln, Management und Verwaltung) und die Möglichkeit, projektbezogen in den Arbeitsbereichen Sammlung und Ausstellung mitzuwirken. Daneben ermöglicht das Volontariat die Teilnahme an regionalen Fortbildungsveranstaltungen.
+Das Volontariat dient dazu, die an der Hochschule erworbenen Kenntnisse in der Praxis anzuwenden und zugleich Kenntnisse für die Tätigkeit an einem Museum zu erwerben.
+Wir erwarten:
+einen Abschluss (Master/Magister) eines akkreditierten, fachbezogenen Studiengangs
+Restaurierung
+oder als Diplomrestaurator/in einer Universität oder Kunsthochschule,
+erste praktische Erfahrungen im musealen und kulturellen Bereich
+Interesse an der Zusammenarbeit mit Künstler/innen
+Fremdsprachenkenntnisse in Englisch
+Kommunikationsstärke und Zuverlässigkeit
+Planungs- und Organisationsgeschick
+Teamfähigkeit, Belastbarkeit und selbstständiges Arbeiten
+gängige Computer-Kenntnisse (MS Office) sowie Erfahrungen im Umgang mit Bildbearbeitungsprogrammen und Museumsdatenbanken
+Wir wünschen uns:
+erste praktische Erfahrungen im Umgang mit den vielfältigen Materialien moderner Kunst und im Dokumentieren komplexer Kunstwerke
+Fremdsprachenkenntnisse in Französisch
+Affinität zu Social Media und Freude an Vermittlung der Restaurierungstätigkeit gegenüber der interessierten Öffentlichkeit
+Führerschein Klasse B
+Wir bieten Ihnen:
+ein praxisnahes Volontariat in einem traditionsreichen Museum
+Teilnahme an den einschlägigen Volontärstagungen und ggf. weitere Fortbildungen
+eine engagierte Arbeitsatmosphäre in einem kollegialen Team
+die Möglichkeit des Bezugs eines Jobtickets
+Die Vergütung beträgt im ersten Jahr 50 v. H. des Entgelts der EG 13 Stufe 1 und im zweiten Jahr 50 v. H. des Entgelts der EG 13 Stufe 2 TV-L in der jeweils geltenden Fassung.
+Ihre Bewerbung richten Sie bitte bis zum 27.10.2025 per E-Mail (als PDF-Datei, maximal 5 MB groß) an: Frau Lisa Felicitas Mattheis, Kunst- und kulturwissenschaftliche Vorständin, und Herrn Philipp Schneider, Verwaltungsvorstand, Stiftung Saarländischer:
+personalstelle@kulturbesitz.de
+Die Stiftung Saarländischer Kulturbesitz gewährleistet die berufliche Gleichstellung aller Beschäftigten. Wir begrüßen deshalb Bewerbungen von allen Menschen unabhängig von deren Geschlecht, kultureller oder sozialer Herkunft, Alter, Religion, Weltanschauung, Behinderung oder sexueller Identität. Bei gleicher Eignung werden wir schwerbehinderte Menschen bevorzugt einstellen.
+Im Zusammenhang mit der Bewerbung entstehende Kosten werden nicht erstattet. Die Bewerbungsunterlagen werden ausschließlich zum Zwecke des Auswahlverfahrens verwendet und nach Abschluss des Auswahlverfahrens unter Beachtung der datenschutzrechtlichen Bestimmungen der DSGVO gelöscht. Mit Ihrer Bewerbung stimmen Sie der Verarbeitung Ihrer personenbezogenen Daten in erforderlichem Umfang zur Durchführung des Bewerbungs- und Auswahlverfahrens gemäß der EU-Datenschutz-Grundverordnung (DSGVO) zu.
+Weitere Bestimmungen zum Datenschutz finden Sie unter folgendem Link:
+https://www.kulturbesitz.de/fileadmin/images/Kulturbesitz/Stiftung/Dokumente/Bewerberinformation_Stiftung_Saarlaendischer_Kulturbesitz-21_05_2024.pdf
+.
+Diese Ausschreibung orientiert sich an den Empfehlungen im
+Leitfaden
+für ein wissenschaftliches Volontariat des Deutschen Museumsbundes.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 27.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliche-r-volontaer-in-m-w-d-im-bereich-restaurierung-gemaelde-skulptur-2/</guid></item><item><title>Sachbearbeitung für das Künstlerische Programm (als Mutterschutz- und Elternzeitvertretung)</title><link>https://www.museumsbund.de/stellenangebote/sachbearbeitung-fuer-das-kuenstlerische-programm-als-mutterschutz-und-elternzeitvertretung/</link><description>Akademie der Künste Berlin, Berlin Bewerbungsende: 19.10.2025 | Die Akademie der Künste – bundesunmittelbare, rechtsfähige Körperschaft des öffentlichen Rechts in der Trägerschaft des Bundes –
+sucht zum 01.12.2025
+eine Sachbearbeitung für das Künstlerische Programm
+in Teilzeit (29,25 Wochenstunden), befristet als Mutterschutz- und Elternzeitvertretung
+Gegründet im Jahre 1696, gehört die Akademie der Künste in Berlin zu den ältesten europäischen Kulturinstituten. Sie ist ein Ausstellungs- und Veranstaltungsort, eine Stätte der Begegnung von Künstler*innen und Kunstinteressierten und führt öffentliche Debatten über Kunst und Kulturpolitik. Das Archiv der Akademie der Künste in Berlin ist eines der bedeutendsten interdisziplinären Archive zu Kunst und Kultur im deutschen Sprachraum seit 1900.
+Die Stelle ist bei der Programmbeauftragten angesiedelt und unterstützt in verschiedenen programmmachenden Bereichen. Neben dem Programmbüro sind dies insbesondere die Sektion Musik und die Sektion Literatur. Die Programmbeauftragte konzipiert und koordiniert die Programmlinien der Akademie – in Zusammenarbeit mit dem Präsidenten und Vizepräsidenten, den Direktor*innen und Sekretären der Sektionen sowie dem Archivdirektor – und ist für die Umsetzung sektionsübergreifender Projekte verantwortlich.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 19.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/sachbearbeitung-fuer-das-kuenstlerische-programm-als-mutterschutz-und-elternzeitvertretung/</guid></item><item><title>Wissenschaftliche*r Referent*in für die Programmbeauftragte (als Mutterschutz- und Elternzeitvertretung)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-referentin-fuer-die-programmbeauftragte-als-mutterschutz-und-elternzeitvertretung/</link><description>Akademie der Künste Berlin, Berlin Bewerbungsende: 05.11.2025 | Die Akademie der Künste – bundesunmittelbare, rechtsfähige Körperschaft des öffentlichen Rechts in der Trägerschaft des Bundes –
+sucht zum 1. Januar 2026
+eine*n Wissenschaftliche*n Referent*in für die Programmbeauftragte
+in Vollzeit (39 Wochenstunden), befristet als Mutterschutz- und Elternzeitvertretung
+Gegründet im Jahre 1696, gehört die Akademie der Künste in Berlin zu den ältesten europäischen Kulturinstituten. Sie ist ein Ausstellungs- und Veranstaltungsort, eine Stätte der Begegnung von Künstler*innen und Kunstinteressierten und führt öffentliche Debatten über Kunst und Kulturpolitik. Das Archiv der Akademie der Künste in Berlin ist eines der bedeutendsten interdisziplinären Archive zu Kunst und Kultur im deutschen Sprachraum seit 1900.
+Die Programmbeauftragte konzipiert und koordiniert die Programmlinien der Akademie – in Zusammenarbeit mit dem Präsidenten und Vizepräsidenten, den Direktor*innen und Sekretären der Sektionen sowie dem Archivdirektor – und ist für die Umsetzung sektionsübergreifender Projekte verantwortlich.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 05.11.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-referentin-fuer-die-programmbeauftragte-als-mutterschutz-und-elternzeitvertretung/</guid></item><item><title>Meister/in (m/w/d) für die Schreinerei und Leitung der Werkstätten</title><link>https://www.museumsbund.de/stellenangebote/meister-in-m-w-d-fuer-die-schreinerei-und-leitung-der-werkstaetten/</link><description>Museum Fünf Kontinente, München Bewerbungsende: 22.10.2025 | Das Museum Fünf Kontinente ist ein Museum der Weltkulturen. Innerhalb der vielfältigen Münchner Museumslandschaft bietet es einen einzigartigen Zugang zum kulturellen Reichtum der Menschen in aller Welt und tritt für Weltoffenheit und Toleranz ein.
+Wir suchen zur Verstärkung unseres Teams zum nächstmöglichen Termin
+Eine/n Meister/in (m/w/d) für die Schreinerei und Leitung der Werkstätten
+in Vollzeit, Entgeltgruppe E8, unbefristet.
+Ihre Aufgaben:
+Ausführung anfallender Schreinerarbeiten
+Teamleitung der Werkstätten
+Bauleitung (insbesondere Ausstellungsbau)
+Mithilfe beim Auf- und Abbau von Ausstellungen
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 22.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/meister-in-m-w-d-fuer-die-schreinerei-und-leitung-der-werkstaetten/</guid></item><item><title>Angestellte im Gästemanagement &amp; Telefonservice (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/angestellte-im-gaestemanagement-telefonservice-m-w-d-5/</link><description>Museen der Hasso Plattner Foundation gGmbH, Potsdam Bewerbungsende: 30.10.2025 | Die Museen der Hasso Plattner Foundation gGmbH unterhält in Potsdam
+DAS MINSK Kunsthaus in Potsdam
+sowie das
+Museum Barberini
+.
+Das
+Museum Barberini
+, das Kunstmuseum in Potsdams historischer Mitte, gestiftet von SAP-Gründer und Mäzen Hasso Plattner, ist seit der Eröffnung im Jahr 2017 mit Ausstellungen zur Kunst von der Antike bis zur Moderne hervorgetreten. Parallel zu den wechselnden Ausstellungen präsentiert das Museum Barberini seit September 2020 dauerhaft die Sammlung französischer Impressionisten der Sammlung Hasso Plattner.
+Mit
+DAS MINSK Kunsthaus in Potsdam
+wurde 2022 ein weiterer kultureller Anziehungspunkt geschaffen. Das Ausstellungshaus baut ausgehend von den Werken der Sammlung Hasso Plattner, die in der DDR entstanden sind, eine Brücke zwischen der Kunst aus der DDR und jüngeren, zeitgenössischen Positionen.
+Die Museen der Hasso Plattner Foundation gGmbH sucht zum nächstmöglichen Zeitpunkt:
+Angestellte im
+Gästemanagement &amp; Telefonservice (m/w/d) in Teilzeit (mind. 32 Std./Woche) oder Vollzeit (40 Std./Woche) für die Museen der Hasso Plattner Foundation
+Das erwartet Sie:
+Hauptansprechperson und organisatorische Leitung vor Ort im Foyer
+Informationsvermittlung und persönliche Betreuung von nationalen und internationalen Gästen im Foyer und telefonisch
+Verfassung von Anleitungen für den täglichen Ablauf
+Ausgabe und Wartung von Audiosystemen und Begleitmedien
+Vorbereitung von Führungen und Workshops für Gruppen, Beschwerdemanagement
+Unterstützung des Event-Teams bei der Vor- und Nachbereitung von Veranstaltungen und Mitbetreuung von (Abend)-Veranstaltungen wie Vernissagen, Lesungen, Vorträgen und Firmenevents
+Wöchentliche Meetings und Austausch mit den anderen Abteilungen der MHPF
+Zusammenarbeit und Anleitung von externen Firmen und Dienstleistern
+Überwachung der Einhaltung der Hausordnung
+Zumutbare, dem Profil entsprechende Zusatzaufgaben bei betrieblichem Bedarf
+Das zeichnet Sie aus:
+Service-Erfahrung in Museen, Theatern oder ähnlichen Kultureinrichtungen von Vorteil (wie Hotellerie, Gastronomie oder Messe- und Veranstaltungsservice).
+Kommunikationsfähigkeit, Hilfsbereitschaft und Freude am Umgang mit Menschen
+verhandlungssichere Deutsch- und Englischkenntnisse (weitere Fremdsprachenkenntnisse sind von Vorteil)
+Flexibilität, Einsatz an Wochenenden und Feiertagen
+Organisationsgeschick und lösungsorientiertes Handeln
+Teamfähigkeit, Zuverlässigkeit, Verantwortungsbewusstsein und Engagement
+Das bieten wir Ihnen:
+Mitarbeit in Museen mit internationalem Renommee
+eine abwechslungsreiche Arbeitsumgebung durch wechselnde Kunstausstellungen und Events
+ein motiviertes und freundliches Team sowie eine inspirierende Arbeitsatmosphäre mit regelmäßigen Mitarbeiterevents
+Berücksichtigung persönlicher Umstände bei der Dienstplangestaltung
+Schlanke Organisationsstruktur, generalistisch arbeitendes sowie ein agiles Team
+Weiterbildungsmöglichkeiten
+leistungsgerechte Vergütung
+Übernahme der Kosten für ein Deutschlandticket oder monatliches Mobilitätsbudget
+Job Rad Leasing Optionen
+Erholungsbeihilfe
+Kostenübernahme von Zuzahlungen für Präventionskursen nach § 20 SGB V
+Essenszuschuss
+Mitgliedschaft im Urban Sports Club
+Ihre Bewerbung (Anschreiben, Lebenslauf als PDF) senden Sie bitte bis zum 30.10.2025 in elektronischer Form mit dem Stichwort
+Gästemanagement
+an
+jobs@museen-plattner.de
+.
+Bitte haben Sie Verständnis dafür, dass wir aufgrund der Vielzahl an Bewerbungen nur geeignete Bewerberinnen und Bewerber kontaktieren werden.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 30.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/angestellte-im-gaestemanagement-telefonservice-m-w-d-5/</guid></item><item><title>Wissenschaftlicher Mitarbeiter Kunstsammlung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiter-kunstsammlung-m-w-d/</link><description>Kunstsammlung Neubrandenburg, Neubrandenburg Bewerbungsende: 24.10.2025 | Neubrandenburg, Vier-Tore-Stadt am Tollensesee, Kreissitz des Landkreises Mecklenburgische Seenplatte, dem größten Landkreis in der Bundesrepublik, liegt auf halbem Wege zwischen der Bundeshauptstadt Berlin und der Ostseeküste. Sie ist mit mehr als 60 000 Einwohnerinnen und Einwohnern das wirtschaftliche und kulturelle Zentrum im Osten Mecklenburgs, eine Stadt der Vielfalt, die zu jeder Jahreszeit eine reizvolle Seenlandschaft mit Kunst, Kultur, Sport und Spaß verbindet. Sie nimmt für mehr als 400 000 Menschen zentrale Funktionen im Bereich Wirtschaft, Kultur, Bildung und Gesundheit wahr.
+Im Fachbereich Schule, Kultur, Sport und Recht, Abteilung Kultur ist zum 01.01.2026 eine Vollzeitstelle (39 h/Woche) als
+Wissenschaftlicher Mitarbeiter Kunstsammlung
+(m/w/d)
+unbefristet zu besetzen.
+zum Bewerberportal
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 24.10.2025</description><pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiter-kunstsammlung-m-w-d/</guid></item><item><title>Datenmanager*in / Technische Assistenz für Datenmanagement (m/w/d) / Technical Assistant for Data Management (m/f/d)</title><link>https://www.museumsbund.de/stellenangebote/datenmanagerin-technische-assistenz-fuer-datenmanagement-m-w-d-technical-assistant-for-data-management-m-f-d/</link><description>Senckenberg Gesellschaft für Naturforschung, Müncheberg Bewerbungsende: 17.10.2025 | // EN below
 Die Senckenberg Gesellschaft für Naturforschung mit Hauptsitz in Frankfurt am Main sucht zum nächstmöglichen Zeitpunkt für das Informationszentrum Entomologie des Senckenberg Deutschen Entomologischen Instituts am Standort Müncheberg eine*n
 Datenmanager*in/ Technische Assistenz für Datenmanagement (m/w/d)
 (Vollzeit / Teilzeit)
@@ -603,323 +952,4 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 21.10.2025</description><pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlichen-volontariats-w-m-d-uebermorgen/</guid></item><item><title>Forschungsvolontariat</title><link>https://www.museumsbund.de/stellenangebote/forschungsvolontariat/</link><description>Museum Folkwang, Essen Bewerbungsende: 26.10.2025 | Die Stadt Essen bietet für den Fachbereich 45 -Museum Folkwang- ein
-Forschungsvolontariat
-50% der Ent.Gr. 13 TVöD (1. Jahr Stufe 1, 2. Jahr Stufe 2) | Voll- und Teilzeit | befristet vom 01.01.2026 bis zum 31.12.2027 | Bewerbungsfrist: 26.10.2025 | Kennziffer: 2025-84-45-SD | Mobiles Arbeiten möglich
-Das Aufgabengebiet kann auch mit Teilzeitkräften besetzt werden.
-Das Museum Folkwang bietet -unter dem Vorbehalt der Bereitstellung der Mittel durch das Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen- ein zweijähriges Forschungsvolontariat an.
-Das Museum Folkwang gehört zu den bedeutendsten deutschen Museen der Kunst des 19. und 20. Jahrhunderts sowie Gegenwartskunst. Seine Sammlungen umfassen Malerei, Skulptur, Fotografie, Grafik sowie alte und nicht europäische Kunst. International angesehen ist auch das Ausstellungsprogramm des Museums. Das Museum betrachtet wissenschaftliche Forschung als integralen Bestandteil seiner Arbeit, indem es seine Sammlungen für die Forschung bereitstellt und eigene wissenschaftliche Untersuchungen vornimmt.
-Das Volontariat widmet sich der systematischen wissenschaftlichen Erschließung der Sammlungsgeschichte im Bereich Skulptur und Plastik für den Zeitraum von 1910 bis 1963. Ziel sind eine vertiefte Aufarbeitung und Analyse der zugrunde liegenden Sammlungskonzepte und museologischen Leitvorstellungen sowie, daran anschließend, die Entwicklung einer wissenschaftlichen Perspektive für die zukünftige Sammlungs- und Ausstellungstätigkeit des Museums.
-Das Forschungsvolontariat bietet umfassende Einblicke in alle musealen Arbeitsbereiche des Museums, mit einem besonderen Fokus auf Forschung, internationale Kooperation und kuratorische Praxis. Die Bewerbung kann auch gerne im Zusammenhang mit Promotionsabsichten stehen.
-Ihr zukünftiger Arbeitsort befindet sich
-hier
-(Museum Folkwang, Museumsplatz 1, 45128 Essen).
-zur Stellenausschreibung
-Diese Ausschreibung orientiert sich an den Empfehlungen im
-Leitfaden
-für ein wissenschaftliches Volontariat des Deutschen Museumsbundes.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 26.10.2025</description><pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/forschungsvolontariat/</guid></item><item><title>Mitarbeiter (m/w/d) für die Besucherbetreuung</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-m-w-d-fuer-die-besucherbetreuung-2/</link><description>Deutsches Literaturarchiv Marbach, Marbach Bewerbungsende: 19.10.2025 | Die Deutsche Schillergesellschaft e. V. ist Trägerin des Deutschen Literaturarchivs Marbach, einer der bedeutendsten Literaturinstitutionen weltweit. Es sammelt, bewahrt und erschließt Zeugnisse zur neueren deutschen Literatur, macht sie forschenden Gästen zugänglich und präsentiert sie in zwei Museen einer breiten Öffentlichkeit.
-Zum 01.11.2025
-suchen wir für die Abteilung Museum einen
-Mitarbeiter (m/w/d) für die Besucherbetreuung
-(TV-L E3, Teilzeit Minijob (4 Wochenstunden), befristet mit Option auf Verlängerung)
-Ihre Aufgaben:
-Aufsicht in den Ausstellungsräumen und allgemeine Kontrolltätigkeiten
-Bedienung von audiovisuellen Medien
-Erteilung von Besucherauskünften (inklusive Telefondienst)
-Zuständigkeit für die Einhaltung von Vorschriften und Sicherheitsbestimmungen
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 19.10.2025</description><pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiter-m-w-d-fuer-die-besucherbetreuung-2/</guid></item><item><title>Mitarbeiter (m/w/d) für die Besucherbetreuung</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-m-w-d-fuer-die-besucherbetreuung/</link><description>Deutsches Literaturarchiv Marbach, Marbach Bewerbungsende: 19.10.2025 | Die Deutsche Schillergesellschaft e. V. ist Trägerin des Deutschen Literaturarchivs Marbach, einer der bedeutendsten Literaturinstitutionen weltweit. Es sammelt, bewahrt und erschließt Zeugnisse zur neueren deutschen Literatur, macht sie forschenden Gästen zugänglich und präsentiert sie in zwei Museen einer breiten Öffentlichkeit.
-Zum 01.11.2025
-suchen wir für die Abteilung Museum einen
-Mitarbeiter (m/w/d) für die Besucherbetreuung
-(TV-L E3, Teilzeit 40,5 % (16 Wochenstunden), unbefristet)
-Ihre Aufgaben:
-Kassendienst (Verkauf Eintrittskarten und Publikationen, Kassenführung- und Tagesabrechnung)
-Erteilung von Besucherauskünften (inklusive Telefondienst)
-Aufsicht in den Ausstellungsräumen und allgemeine Kontrolltätigkeiten
-Bedienung von audiovisuellen Medien
-Zuständigkeit für die Einhaltung von Vorschriften und Sicherheitsbestimmungen
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 19.10.2025</description><pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiter-m-w-d-fuer-die-besucherbetreuung/</guid></item><item><title>Fachbereichsleitung Social Media und Online-Marketing (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/fachbereichsleitung-social-media-und-online-marketing-m-w-d/</link><description>Kunstmuseum Stuttgart, Stuttgart Bewerbungsende: 02.11.2025 | Das Kunstmuseum Stuttgart ist eine gemeinnützige GmbH und liegt mitten in der lebendigen Stuttgarter Innenstadt. Zu den Höhepunkten der Kunstsammlung mit Schwerpunkt auf Klassischer Moderne und zeitgenössischer Kunst zählen der bedeutende Bestand an Gemälden, Grafiken und Zeichnungen des Malers Otto Dix, das Archiv Willi Baumeister sowie Werkkomplexe von Adolf Hölzel, Fritz Winter, Dieter Roth, Wolfgang Laib, Michel Majerus, Josephine Meckseper, Tim Berresheim und Katinka Bock. Das Kunstmuseum Stuttgart betreibt zudem das Museum Haus Dix in Hemmenhofen am Bodensee.
-Wir suchen für unser Team eine
-Fachbereichsleitung Social Media und Online-Marketing (m/w/d)
-Aufgaben
-Weiterentwicklung und Umsetzung der Online-Marketing-Strategie des Kunstmuseums Stuttgart
-und des Museum Haus Dix
-Konzeption, Steuerung, Ausbau und Monitoring des Online-Marketings und der Social-Media-Kanäle beider Häuser
-Redaktion, Produktion und Veröffentlichung von zielgruppenorientiertem Content
-eigenständige Erstellung und Bearbeitung von Film- und Fotoaufnahmen (inklusive Bildbearbeitung, Schnitt, Ton und Postproduktion)
-aktives Community Management und Storytelling im Einklang mit dem Museumsleitbild
-Planung, Umsetzung und Optimierung von digitalen Werbemaßnahmen
-Redaktion (Text und Bild), Pflege und Weiterentwicklung der Website und des Newsletters
-Planung und Durchführung von Messeauftritten
-Budgetverantwortung und Ressourcenplanung
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 02.11.2025</description><pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/fachbereichsleitung-social-media-und-online-marketing-m-w-d/</guid></item><item><title>Mitarbeiter*in der Personalabteilung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiterin-der-personalabteilung-m-w-d/</link><description>Stiftung Topographie des Terrors, Berlin Bewerbungsende: 21.10.2025 | Die Stiftung Topographie des Terrors sucht für ihren Standort in der Niederkirchnerstraße zum
-1. März 2026
-eine*n
-Mitarbeiter*in der Personalabteilung (m/w/d).
-Die Stiftung Topographie des Terrors ist eine selbständige Stiftung des öffentlichen Rechts, die vom Land Berlin und dem Bund finanziert wird. Gemäß Stiftungsgesetz besteht der Zweck der Stiftung in der Vermittlung historischer Kenntnisse über den Nationalsozialismus und seine Verbrechen sowie der Anregung zur aktiven Auseinandersetzung mit dieser Geschichte, einschließlich ihrer Folgen nach 1945.
-Diese unbefristete Stelle mit einer wöchentlichen Arbeitszeit von z. Zt. 39,4 Stunden wird nach
-TV-L, Egr. 9b
-vergütet, zuzüglich der Jahressonderzahlung und der Zusatzversorgung des öffentlichen Dienstes (VBL).
-Wir bieten eine interessante, vielseitige und verantwortungsvolle Tätigkeit in einem interessanten Umfeld mit teamorientierten Strukturen, mit Weiterbildungsmöglichkeiten, Gleitzeit und der Möglichkeit des mobilen Arbeitens. Wir legen großen Wert auf eine sorgfältige Einarbeitung und ein unterstützendes Onboarding.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 21.10.2025</description><pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiterin-der-personalabteilung-m-w-d/</guid></item><item><title>Mitarbeiter*innen (m*w*d) für die Abteilung Besucher*innenservice</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiterinnen-mwd-fuer-die-abteilung-besucherinnenservice/</link><description>Berlinische Galerie, Berlin Bewerbungsende: 12.10.2025 | Die
-Berlinische Galerie
-, das Landesmuseum für Moderne Kunst, Fotografie und Architektur, gehört zu den experimentierfreudigsten Museen Berlins. Die Sammlungen und Aktivitäten sind auf die in Berlin entstandene Klassische Moderne, Nachkriegsmoderne und aktuelle Kunstszene der Hauptstadt ausgerichtet und illustrieren damit den Dialog zwischen Vergangenheit und Gegenwart. Die Berlinische Galerie versteht sich als Museum für alle Berliner*innen und Gäste der Stadt und legt großen Wert darauf, dass ihre Ausstellungen inspirierende Erlebnisse für alle Besucher*innen bieten.
-Wir suchen zum nächstmöglichen Termin Mitarbeiter*innen (m*w*d) für die Abteilung
-Besucher*innenservice
-für die Bereiche Aufsicht, Information, Kasse, Shop, Garderobe
-Dazu gehören folgende Aufgaben:
-Empfang von Museumsbesucher*innen sowie von Gruppen und Schulklassen
-Gewährleistung der Sicherheit der Exponate
-Sicherstellung der Einhaltung der Besuchsordnung
-Beantwortung allgemeiner Fragen der Besucher*innen
-Verkauf von Eintrittskarten
-Verkauf von Artikeln des Museumsshops sowie Auspacken und Kontrollieren der Ware
-Kassenabschluss sowie ordnungsgemäße Abrechnung
-Entgegennahme und Ausgabe von Kleidungsstücken, Taschen usw. an der Garderobe
-Schließdienst
-Evakuierungshelfer*in, Brandschutzhelfer*in, Ersthelfer*in
-Anforderungen:
-Praxiserfahrung im Besucher*innen bzw. Gästeservice
-Unterrichtung gem. § 34a GewO
-Kassenkenntnisse sind erwünscht
-Sehr gute Kommunikationsfähigkeiten und ein sicherer Umgang mit Besucher*innen auch in schwierigen Situationen
-Freundliches, verbindliches, serviceorientiertes Auftreten
-Gepflegtes Erscheinungsbild
-Routinierter Umgang mit Büro-Software
-Gute Deutsch- (C1) und Englischkenntnisse (B1)
-Bereitschaft, auch an Feiertagen sowie vorrangig am Wochenende zu arbeiten
-Wir bieten:
-Eine interessante und abwechslungsreiche Tätigkeit an einem schönen, zentral gelegenen Arbeitsort
-30 Tage Urlaub bei Vollzeit, Arbeitszeitkonto
-Betriebliche Altersvorsorge mit Arbeitgeberzuschuss
-Zuschuss zum BVG-Firmenticket
-Vergütung nach Entgeltgruppe E 3 TVöD-VKA zzgl. tarifliche Jahressonderzahlung
-Arbeitsfrei am 24. Und 31. Dezember
-Die Stellen können in Teilzeit (75%) besetzt werden und sind vorerst für 2 Jahre befristet.
-Ihre Bewerbung richten Sie bitte per E-Mail als ein PDF mit dem Betreff BS2025 bis zum 12.10.2025 an:
-bewerbung@berlinischegalerie.de
-Für die Berlinische Galerie hat eine diskriminierungssensible Arbeitsumgebung eine hohe Priorität. Wir freuen uns über Bewerbungen von Menschen, die von Diskriminierung und Ausschlüssen betroffen sind oder deren Perspektiven im Kulturbetrieb häufig marginalisiert werden. Wir fördern die Gleichstellung aller Geschlechter nach dem Berliner Landesgleichstellungsgesetz. Wir berücksichtigen bei gleicher Eignung und Qualifikation die Bewerbung von anerkannten Schwerbehinderten oder ihnen gleichgestellten Menschen bevorzugt (bitte Nachweis beifügen). Reisekosten zu Vorstellungsgesprächen können nicht erstattet werden.
-Informationen zum Datenschutz unter
-https://berlinischegalerie.de/datenschutz/
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 12.10.2025</description><pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiterinnen-mwd-fuer-die-abteilung-besucherinnenservice/</guid></item><item><title>Mitarbeiter*in Verwaltung und Organisation</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiterin-verwaltung-und-organisation/</link><description>Werkbundarchiv - Museum der Dinge, Berlin Bewerbungsende: 31.10.2025 | Das Werkbundarchiv – Museum der Dinge sucht zum 1.1.2026 eine*n
-Mitarbeiter*in Verwaltung und Organisation (m/w/d)
-in Teilzeit (82 %)
-Das Werkbundarchiv – Museum der Dinge ist ein Museum der Moderne – der Gestaltungsgeschichte und Produktkultur im 20. und 21. Jahrhundert. Kern der Institution ist das Archiv des Deutschen Werkbundes. Diese 1907 gegründete Vereinigung von Künstler*innen, Industriellen und Kulturpolitiker*innen strebte als Teil der utopischen Kulturtendenzen zu Beginn des 20. Jahrhunderts eine Reform der Lebenswelt an.
-Die Aufgaben des Werkbundarchiv – Museum der Dinge sind sowohl die materielle Bewahrung und wissenschaftliche Dokumentation der Werkbund-Geschichte als auch ihre zeitgenössische Interpretation und Reflexion. Mit seinem Schaudepot und Sonderausstellungen sowie mit Veranstaltungen und Vermittlungsformaten erreicht das Werkbundarchiv – Museum der Dinge ein stetig wachsendes Publikum. Es ist ein Ort für alle, die sich kritisch mit Geschichte und Gegenwart von Gestaltung auseinandersetzen wollen.
-Zu Ihrem Aufgabenbereich gehören:
-Finanzverwaltung
-:
-vorbereitende Buchhaltung, Rechnungsprüfung und -bezahlung
-Rechnungslegung (Leistungen, Publikationsverkauf u.a.)
-Budgetkontrolle und Bestellungen (Publikationen) für den Museumsshop
-Kassenführung, Prüfung und Abrechnung Museumseinnahmen, Einzahlungen
-Vorbereiten der zahlenmäßigen Aufstellung von Verwendungsnachweisen
-Vorarbeiten Vergabe von Leistungen (Recherche Anbieter u.a.)
-Personalverwaltung
-:
-Führen der Personalakten zur Anwesenheit (Krankheit, Urlaub u.a.)
-Koordination Personalbuchhaltung/Steuerbüro, Krankenkassen u.a.
-Organisation und Administration:
-Koordination der Aufsichten/des Besucherservices, Schichtplanerstellung, Vertretungslösungen
-Korrespondenz, Datenpflege, Beitragsverwaltung für den Verein
-Anlauf-und Vermittlungsstelle für externe Dienstleister, Bank, Hausverwaltung u.a.
-Materialbestellung, Inventarisierung, Instandhaltung Ausstattung
-Pflege Adress-Datenbanken, diverse Korrespondenz, Einladungsmailings
-Organisation Veranstaltungen
-Erforderliche Kenntnisse und Voraussetzungen:
-einen erfolgreichen Abschluss eines Hochschul- oder Fachhochschulstudiums (Bachelor) der Fachrichtungen Betriebswirtschaft, Volkswirtschaft, Public Management, öffentliche Verwaltung bzw. den Abschluss eines Studiums mit Inhalten oben genannter Fachrichtungen oder eine erfolgreich abgeschlossene dreijährige Berufsausbildung mit entsprechenden Ausbildungsschwerpunkten sowie mehrjährige Berufserfahrung in der Organisation und Verwaltung
-Kenntnisse in der Betriebs-, Haushalts- und Personalverwaltung
-routinierter Umgang mit MS Office und die Bereitschaft, digitale und nachhaltige Lösungen in allen Arbeitsbereichen mitzugestalten
-Kenntnisse in den Arbeitsgebieten des Museums bzw. kultureller Einrichtungen
-Sehr gute Kenntnisse der deutschen Sprache, Organisationstalent, Verhandlungsgeschick und eine hohe Sozialkompetenz sind Voraussetzung für die erfolgreiche Museumsarbeit. Wir freuen uns über Einsatzfreude, Präzision und Belastbarkeit sowie über einen kooperativen und integrierenden Arbeitsstil.
-Was wir bieten:
-ein abwechslungsreiches, vielseitiges und anspruchsvolles Aufgabengebiet in einer innovativen, hierarchiearmen Non-Profit-Organisation mit internationaler Ausstrahlung
-eine offene und freundliche Arbeitsatmosphäre in einem aufgeschlossenen Team
-eine Dotierung der Stelle in Anlehnung an den TVL Berlin nach E9.
-Wir begrüßen Bewerbungen von Menschen mit einer Migrationsgeschichte. Anerkannte schwerbehinderte Bewerber*innen (m/w/d) werden bei gleicher Eignung bevorzugt berücksichtigt.
-Bitte senden Sie Ihre Bewerbungsunterlagen in digitaler Form (eine PDF-Datei mit max. 5 MB) bis zum
-31.10.2025
-an folgende E-Mail-Adresse: bewerbungen@museumderdinge.de
-Im Rahmen des Auswahlverfahrens entstandene Reisekosten können leider nicht erstattet werden.
-Bei Fragen wenden Sie sich bitte an: Sirid Amsel, amsel@museumderdinge.de
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 31.10.2025</description><pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiterin-verwaltung-und-organisation/</guid></item><item><title>Kurator*in für Kunst- und Designwissenschaft / Designgeschichte (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/kuratorin-fuer-kunst-und-designwissenschaft-designgeschichte-m-w-d/</link><description>Museum Ulm, Ulm Bewerbungsende: 14.10.2025 | Unsere Stadtverwaltung ist so stark wie die Gesamtheit ihrer Mitarbeiter*innen (m/w/d). Werden Sie Teil unseres Teams und gestalten Sie Ulm aktiv mit.
-Wir suchen beim HfG-Archiv / Museum Ulm zum 01.03.2026 eine*n
-Kurator*in für Kunst- und Designwissenschaft/Designgeschichte (m/w/d)
-Teilzeit, befristet
-Der Stellenumfang beträgt 50% und ist zunächst auf 2 Jahre befristet.
-Das HfG-Archiv, eine externe Abteilung des Museums Ulm, betreut den materiellen Nachlass der ehemaligen Hochschule für Gestaltung Ulm (1953–1968). In seiner Doppelfunktion als Archiv und Ausstellungsort dokumentiert es die Rolle der HfG Ulm für das Design im 20. und 21. Jahrhundert und setzt mit Sonderausstellungen thematische Schwerpunkte. Die Bestände umfassen außerdem den Nachlass von Otl Aicher, Walter Zeischegg sowie den Vorlass von Hans (Nick) Roericht.
-Die Bezahlung erfolgt bis
-Entgeltgruppe 13 TVöD
-.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 14.10.2025</description><pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/kuratorin-fuer-kunst-und-designwissenschaft-designgeschichte-m-w-d/</guid></item><item><title>Mitarbeiter/in (m/w/d) im Bereich Ausstellungsmanagement</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-in-m-w-d-im-bereich-ausstellungsmanagement/</link><description>Generaldirektion Kulturelles Erbe Rheinland-Pfalz, Mainz Bewerbungsende: 27.10.2025 | Die Generaldirektion Kulturelles Erbe Rheinland-Pfalz (GDKE) – Direktion Landesmuseum Mainz – stellt zum nächstmöglichen Termin
-eine/n Mitarbeiter/in (m/w/d) im Bereich Ausstellungsmanagement
-zunächst befristet für die Dauer von 12 Monaten in Teilzeit (50%, 19,5 Wochenstunden) ein. Bei Vorliegen der tariflichen Voraussetzungen ist eine Eingruppierung bis nach E 11 TV-Länder möglich. Dienstort ist Mainz.
-Die Generaldirektion Kulturelles Erbe Rheinland-Pfalz (GDKE) ist eine moderne und bürgernahe Kultur-einrichtung des Landes, die als obere Landesbehörde unmittelbar dem Ministerium des Innern und für Sport nachgeordnet ist. Sie vereint die Direktionen Landesmuseum Mainz, Rheinisches Landesmuseum Trier, Landesmuseum Koblenz, Landesdenkmalpflege, Landesarchäologie und die Direktion Burgen, Schlösser, Altertümer (B.S.A.) sowie Stabsstellen für zentrale Verwaltungs-, Marketing- und Bauaufgaben unter einem Dach.
-Das Landesmuseum Mainz im ehemaligen kurfürstlichen Marstall beherbergt eine der bedeutendsten kunst- und kulturgeschichtlichen Sammlungen des Landes und ist das kulturhistorische Museum in Rheinland-Pfalz. Seine Exponate reichen von den Anfängen der Kultur bis zur Kunst der Gegenwart.
-In der Funktion der Leitung des Ausstellungsmanagements nehmen Sie insbesondere folgende Aufgaben wahr:
-organisatorische Leitung und Umsetzung des Ausstellungsaufbaus einschließlich der projekt­bezogenen Steuerung des Personaleinsatzes von Mitarbeitenden nach den Vorgaben von Entwurfs­plänen, die aus der Zusammenarbeit von Ausstellungsgestaltern, Architekten und Kuratoren ent­stehen
-Koordination und Abstimmung der Arbeitsprozesse untereinander zwischen Kuratoren, Gestaltern, Externen, verschiedenen Gewerken etc. unter Berücksichtigung konservatorischer Belange
-Aufstellung und Fortschreibung des internen Zeit- und Terminplans für Dauer- und Sonderaus­stellungsprojekte in Zusammenarbeit mit den Kuratorinnen und Kuratoren
-sofern erforderlich, Erstellung und Abstimmung von Bauablaufplänen für die Projektmitarbeitenden und Formulierung konkreter Arbeitsaufträge sowie Sicherstellung der zeit- und fristgerechten Umsetzung
-beratende Teilnahme für technische und bauliche Belange sowie an Pitchs für Ausstellungsprojekte im Hinblick auf deren Umsetzung und Realisierung
-zentrale/r Ansprechpartner/in für Technik, Wissenschaft, Museumspädagogik und Verwaltung für den Bereich Ausstellungstechnik
-Erheben von Bedarfsermittlungen für Ausstellungsprojekte sowie Vorbereitung von Ausschreibungen, insbesondere Erstellung von Leistungsverzeichnissen nach Vorgaben des öffentlichen Dienstes und in Zusammenarbeit mit der Vergabestelle der GDKE
-fachliche Leitung der Restaurierungs- und Schreinerwerkstatt, inkl. der Bestandsbetreuung von Ausstellungsarchitektur und Ausstellungsmedien sowie Entwicklung und Umsetzung von Standards unter Einbindung der Fachrestauratoren
-Budgetverwaltung und -steuerung sowie Vorbereitung und Umsetzung von Vergabeverfahren im Zuständigkeitsbereich, ggf. in Zusammenarbeit mit der zentralen Vergabestelle
-Ansprechpartner/in in Fragen des Objektschutzes und der Objektsicherung sowie für Notfall- und Sicherheitspläne
-Für die Wahrnehmung der o. g. Aufgaben erwarten wir folgende Qualifikationen und Erfahrungen:
-vorzugsweise einen Hochschulabschluss der Fachrichtungen Kulturwissenschaft, Museologie, Kultur­anthropologie oder vergleichbare Fachrichtungen
-grundlegende Erfahrungen im Projekt- und Prozessmanagement
-Erfahrung in einer Leitungsposition mit Budgetverantwortung
-Anwenderkenntnisse des Vergaberechts für Werk- und Dienstleistungen
-solide Anwenderkenntnisse MS-Office, Bildbearbeitung sowie Datenbanken
-Begeisterungsfähigkeit, Belastbarkeit, Verhandlungsgeschick, Kreativität, Kontakt- und Kommunikationsfähigkeiten sowie vor allem Organisationstalent und Flexibilität
-ausgeprägte Teamfähigkeit
-zeitliche Flexibilität
-überzeugendes Auftreten und sicherer Gebrauch der deutschen Sprache in Wort und Schrift sowie Fremdsprachenkenntnisse, vorzugsweise Englisch
-räumliches Vorstellungsvermögen und die Fähigkeit Grundrisse, Entwürfe und Planzeichnungen lesen und interpretieren zu können
-Führerschein Klasse 3 bzw. B sowie entsprechende Fahrpraxis
-Die Arbeitszeit beträgt 50% der regelmäßigen wöchentlichen Arbeitszeit (19,5 Stunden).
-Im Rahmen des Landesgleichstellungsgesetzes streben wir eine Erhöhung des Frauenanteils an und sind an Bewerbungen von Frauen besonders interessiert. Schwerbehinderte Bewerberinnen und Bewerber werden bei entsprechender Eignung vorrangig berücksichtigt.
-Ihre schriftliche Bewerbung mit aussagekräftigen und vollständigen Unterlagen in Kopie senden Sie bitte unter der Angabe der
-Kennziffer 78/2025 bis zum 27.10.2025
-vorzugsweise an:
-bewerbung@gdke.rlp.de
-oder
-Generaldirektion Kulturelles Erbe Rheinland-Pfalz
-Personal
-Festung Ehrenbreitstein
-56077 Koblenz
-Wir bitten, Bewerbungsunterlagen nicht in Mappen oder Hüllen und auch nur als unbeglaubigte Kopien vorzulegen, da die Unterlagen nicht zurückgesandt werden; sie werden nach Abschluss des Verfahrens vernichtet. Wünschen Sie die Rücksendung Ihrer Unterlagen, bitten wir einen ausreichend frankierten Rückumschlag beizufügen. Sofern Sie Ihre Bewerbung per E-Mail zusenden, bitten wir alle Bewerbungs-unterlagen in einer PDF-Datei mit einer Dateigröße von bis zu 5 Megabyte zu übermitteln.
-Weitere Informationen über die GDKE Rheinland-Pfalz finden Sie auf der Internetpräsenz: www.gdke.rlp.de
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 27.10.2025</description><pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiter-in-m-w-d-im-bereich-ausstellungsmanagement/</guid></item><item><title>Referent:in Bildung und Vermittlung und Museumspädagog:in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/referentin-bildung-und-vermittlung-und-museumspaedagogin-m-w-d/</link><description>Museumsstiftung Post und Telekommunikation, Frankfurt a. M. Bewerbungsende: 14.10.2025 | Die Museumsstiftung Post und Telekommunikation widmet sich den Themen Kommunikation und Medien. Als eine Stiftung des ûÑffentlichen Rechts sammelt, vermittelt und forscht sie zur Geschichte, Gegenwart und Zukunft der Kommunikation. Zur Museumsstiftung gehûÑren die Museen fû¥r Kommunikation in Berlin, Frankfurt am Main und Nû¥rnberg, die Sammlungsdepots in Berlin und Heusenstamm sowie das Archiv fû¥r Philatelie in Bonn.
-Am Museum fû¥r Kommunikation in Frankfurt suchen wir zum 01.01.2026 eine:n
-Referent:in Bildung und Vermittlung und MuseumspûÊdagog:in (m/w/d)
-(E 12 TVûÑD Bund, Vollzeit 39 Std./Woche)
-Das Aufgabengebiet umfasst hauptsûÊchlich die fundierte Konzeption, Planung und Realisierung zielgruppengerechter pûÊdagogischer Bildungs- und Vermittlungsangebote und die Mitwirkung bei der Entwicklung von Ausstellungen und Veranstaltungen hinsichtlich museums- und medienpûÊdagogischer Themen.
-Voraussetzungen sind:
-ein erfolgreich abgeschlossenes Hochschulstudium mit pûÊdagogischer Orientierung (z.B. LehramtsstudiengûÊnge, DiplompûÊdagogik, MedienpûÊdagogik u.ûÊ.) oder kulturwissenschaftliches Studium in Verbindung mit einem Technik- oder Informatikschwerpunkt bzw. vergleichbare Qualifikation;
-ausgewiesene Praxiserfahrungen in der Museums- oder MedienpûÊdagogik oder verwandter Bildungsbereiche (mindestens 2 Jahre);
-eine hohe AffinitûÊt zu modernen Medien sowie entsprechende Kenntnisse und Erfahrungen mit digitalen Tools;
-die FûÊhigkeit, wissenschaftliche und technische Inhalte verstûÊndlich vermitteln zu kûÑnnen sowie zielgruppengerechter Umgang mit dem Publikum und
-Kenntnisse aktueller Diskurse in der Museums- und Vermittlungsarbeit.
-Erwû¥nscht sind:
-Kenntnisse und Erfahrungen mit einer groûen Bandbreite von Zielgruppen sowohl in medienpûÊdagogischen Projekten als auch in kultureller Bildung;
-Kenntnisse Inklusion, Barrierefreiheit, Nachhaltigkeit i.S. des SDG 4;
-Kenntnisse in Wissenschafts-, Technik-, und/ oder Mediengeschichte;
-didaktisches Geschick sowie verantwortlicher Umgang mit Kindern und Jugendlichen sowie
-gute Fremdsprachenkenntnisse in Wort und Schrift (Englisch, vorzugsweise weitere Sprachen).
-Neben Ihrer Team- und KooperationsfûÊhigkeit û¥berzeugen Sie uns durch Ihre Kontakt- und KommunikationsfûÊhigkeit. Darû¥ber hinaus wird Ihr Profil durch eine strukturierte und selbstûÊndige Arbeitsweise abgerundet.
-Wir bieten eine abwechslungsreiche BeschûÊftigung in einer bundesweit tûÊtigen Stiftung und einen Arbeitsplatz in einem der schûÑnsten Museen von Frankfurt am Main. Die Vergû¥tung und Sozialleistungen erfolgen gemûÊû Tarifvertrag (TVûÑD) des Bundes. Bei Vorliegen der fachlichen und persûÑnlichen Voraussetzungen ist eine Eingruppierung bis zur Entgeltgruppe 12 vorgesehen.
-Flexible Arbeitszeiten sowie die MûÑglichkeit mobiler Arbeit schaffen ein familienfreundliches Arbeitsumfeld. Ein Jobticket wird angeboten.
-Die Museumsstiftung gewûÊhrleistet gemûÊû BGleiG die berufliche Gleichstellung unabhûÊngig vom Geschlecht und unterstû¥tzt die Vereinbarkeit von Beruf und Familie. Menschen mit Behinderung oder diesen gleichgestellte Menschen (ôÏ 2 Sozialgesetzbuch IX) werden bei gleicher Eignung entsprechend den gesetzlichen Grundlagen bevorzugt berû¥cksichtigt.
-Vielfalt ist einer unserer zentralen Organisationswerte. Deshalb begrû¥ûen wir Bewerbungen unabhûÊngig von NationalitûÊt, ethnischer und sozialer Herkunft, Religion und Weltanschauung, Alter sowie sexueller Orientierung und IdentitûÊt.
-Bei der Museumsstiftung ist eine TeilzeitbeschûÊftigung grundsûÊtzlich mûÑglich. Gehen entsprechende Bewerbungen ein, wird fû¥r den Arbeitsplatz geprû¥ft, ob den Teilzeitwû¥nschen im Rahmen der dienstlichen MûÑglichkeiten (insbesondere hinsichtlich der Anforderungen des Arbeitsplatzes und der gewû¥nschten Gestaltung der Teilzeit) entsprochen werden kann.
-Fû¥r weitere Auskû¥nfte steht Ihnen Frau Winkler unter 030/ 71 30 27 72 gern zur Verfû¥gung.
-Bitte senden Sie Ihre aussagefûÊhige Bewerbung
-ausschlieûlich per E-Mail
-bis zum 14. Oktober 2025 an die:
-Museumsstiftung Post und Telekommunikation
-– Personal –
-Leipziger Straûe 16 in 10117 Berlin
-E-Mail:
-bewerbung3@mspt.de
-Bitte achten Sie darauf, dass die gesamte Bewerbung nicht mehr als 4 MB Umfang hat, ZipãAnhûÊnge kûÑnnen aus Sicherheitsgrû¥nden keine Berû¥cksichtigung finden.
-Die von Ihnen û¥bermittelten Daten werden von uns gespeichert. Es werden ausschlieûlich nur jene Daten erhoben, die im Zuge Ihrer Bewerbung notwendig sind. Die datenschutzrechtlichen Bestimmungen werden dabei beachtet. NûÊhere Informationen zum Datenschutz werden Ihnen im Rahmen Ihrer Bewerbung û¥bersandt. Sie kûÑnnen jederzeit Ihr EinverstûÊndnis zur Speicherung der Daten zurû¥ckziehen und die LûÑschung Ihrer Daten verlangen.
-Achtung!
-Bitte senden Sie Ihre Bewerbungenô
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, undô
-nicht
-ô an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 14.10.2025</description><pubDate>Tue, 07 Oct 2025 09:24:57 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/referentin-bildung-und-vermittlung-und-museumspaedagogin-m-w-d/</guid></item></channel></rss>
+Bewerbungsende: 21.10.2025</description><pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlichen-volontariats-w-m-d-uebermorgen/</guid></item></channel></rss>
