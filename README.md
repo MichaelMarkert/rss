@@ -27,7 +27,7 @@ Different RSS feeds generated from websites parsed with [Beautiful Soup](https:/
 
 ## Status of feeds
 
-hf_blog_feed not generated, 2026-01-28T09:39:23.
+Failed to extract abstract for https://huggingface.co/papers/2601.18724: strptime() argument 1 must be str, not None, hf_blog_feed not generated, 2026-01-28T13:52:33.
 
 ## License
 
