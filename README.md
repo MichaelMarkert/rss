@@ -27,7 +27,7 @@ Different RSS feeds generated from websites parsed with [Beautiful Soup](https:/
 
 ## Status of feeds
 
-Everything is running, 2026-01-30T13:58:17.
+mb_jobs_feed not generated, 2026-01-30T17:37:50.
 
 ## License
 
