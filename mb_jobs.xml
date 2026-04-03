@@ -1,5 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Wissenschaftliche:r Museumsassistent:in in Fortbildung (w/d/m)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-museumsassistentin-in-fortbildung-w-d-m-3/</link><description>Staatliche Museen zu Berlin, Berlin Bewerbungsende: 29.04.2026 | Beim
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Postdoc in physics (m/f/d) in the project “Virtual Museum”</title><link>https://www.museumsbund.de/stellenangebote/postdoc-in-physics-m-f-d-in-the-project-virtual-museum/</link><description>Staatliches Museum für Naturkunde Karlsruhe, Karlsruhe Bewerbungsende: 15.05.2026 | As a member of the DNFS (Deutsche Naturwissenschaftliche Forschungssammlungen e.V.), the State Museum of Natural History Karlsruhe (SMNK) is one of the largest research museums and collections in Germany and presents permanent and special exhibitions on over 5000 m², including the largest living coral reef in Germany. With extensive analogue and digital offerings, it attracts more than 200,000 visitors every year. As a nationally and internationally active research museum in the fields of geosciences and biosciences, the museum enjoys recognition far beyond the region. The SMNK has a well-developed research infrastructure with molecular laboratories and imaging facilities. Based on its extensive collections and the taxonomic expertise of its curators, the museum is also an important point of contact for the general public, schools and the press interested in plant, fungal and animal species in south-western Germany and for experts in the region, as well as a cooperation partner for national and international institutes.
+The Natural History Museum Karlsruhe is looking for a
+Postdoc in physics (m/f/d) in the project “Virtual Museum”
+(limited to 3 years, full time, EG 13 TV-L)
+Topic:
+Towards Serial Micro-Computed Tomography (SµCT) with synchrotron radiation
+Summary:
+The aim is to develop autonomous X-ray Serial Micro-Computed Tomography (SµCT) with synchrotron radiation for morphological imaging of large collections of biological samples from natural history museums for large-scale biodiversity and evolutionary studies. Your research will focus on multiple contrast and hierarchical imaging by use of coherent X-ray optics, state-of-the-art image reconstruction algorithms, and experiment automation to optimize imaging conditions.
+Scientific context
+: The collaborative VIRTUAL MUSEUM project combines the expertise and infrastructure of the State Museum of Natural History Karlsruhe (SMNK) and State Museum of Natural History Stuttgart (SMNS) as well as the two Synchrotron Radiation Facilities KIT Light Source at Karlsruhe Institute of Technology, and PETRA III at DESY, Hamburg. It will revolutionize how scientific collections are digitized, creating a scalable, automated morphological imaging system to capture the rich diversity of fossil and living specimens. We employ most advanced coherent X-ray imaging techniques, implement intelligent robotics, develop AI-supported image acquisition and analysis routines with adaptive control systems for adaptive field of view, resolution and image contrast, on-the-fly 3D reconstruction, and automated quality check to achieve
+serial
+tomography without manual intervention. This will enable transforming large sample collections into virtual, research-ready digital twin collections accessible worldwide for comparative morphology analysis in correlation with genetic, environmental and other metadata. This will open the door to large-scale, data-driven biodiversity and evolutionary studies, support VR-compatible exploration of collections, and form a key pillar in Germany’s strategy for digital natural history research.
+Major parts of the methodical, instrumental and experimental work will be carried out at the Institute of Photon Science and Synchrotron Radiation at KIT with experimental campaigns being performed at PETRA III, DESY Hamburg.
+Your tasks:
+Implementing
+serial Micro-Computed Tomography
+adapted to the needs of large arthropod collections
+Implement hierarchical imaging and serial tomography workflows
+Integrate
+optional imaging optics into the pipeline
+, including high-level control and on-line compensation for mechanical instabilities and beam drift.
+Implement
+algorithms for on-line pre-characterization
+of samples from visible light images and fast low-quality X-ray scans
+for AI-supported selection of final DAQ parameters
+Implement hierarchical imaging workflows
+Performing exemplary measuring campaigns of various types of arthropod sample collections
+Coordinate experimental campaigns
+and contribute to scientific publications and conference contributions.
+Qualification:
+PhD in physics, or related disciplines
+Experience with X-ray imaging physics, image reconstruction and signal processing
+Knowledge of tomographic methods and phase contrast imaging
+Skills in data analysis and algorithm development in Python
+Familiarity with experimental setups and optics integration.
+We offer:
+Payment will be in EG 13 TV-L
+Contract duration of three years
+Contribution to a BMFTR funded project
+Dynamic collaboration in an international research team
+The opportunity to work at a nationally renowned research museum with recognized collections and an attractive exhibition
+Access to most advanced X-ray imaging technologies at the KIT Light Source in Karlsruhe and at the PETRA III Storage Ring at DESY, Hamburg
+Flexible work time and family-friendly working hours (39.5 h/week); possibility of mobile working (1 day/week)
+Participation in company health management, job ticket and job bike subsidized by the state of Baden-Württemberg
+Equal opportunities are crucial to our human resources policy. We highly value diversity and therefore welcome all applications, regardless of gender, nationality, ethnic and social origin, religion, disability, age, sexual orientation, and identity.
+People with disabilities obtain preferential consideration if equally qualified. Please mention this in your cover letter and enclose proof of your disability. The SMNK strives to increase the proportion of women in areas where underrepresented and therefore expressly encourages qualified women to apply.
+Please send your informative electronic application with CV, list of publications, certificates and references to bewerbung@smnk.de by
+May 15
+th
+2026
+, quoting reference number
+10_2026
+.
+If you have any questions, feel free to contact the Scientific Director Prof. Dr. Martin Husemann via E-Mail: martin.husemann@smnk.de.
+Please note that the application documents will be forwarded to the persons involved in the recruitment process.
+Further information on the State Museum of Natural History Karlsruhe and the Institute for Photon Science can also be found on the Internet at
+www.smnk.de
+and www.ips.kit.edu
+Data protection notice for applicants
+The protection of your personal data is an important concern for the Staatliches Museum für Naturkunde Karlsruhe and is guaranteed at all times. All personal data collected and processed as part of an application is protected against unauthorized access and manipulation by technical and organizational measures.
+Your data will only be used to process your application within the Natural History Museum and by our project partners at the Laboratory of Applications of Synchrotron Radiation at KIT and will be treated in strict confidence in accordance with legal regulations.
+If you send your application by e-mail, please note that confidentiality risks and unauthorized access by third parties cannot be ruled out when communicating by unencrypted e-mail.
+Questions and suggestions on data protection
+If you have any questions or suggestions on the subject of data protection, please contact our data protection officer. E-mail: datenschutz@smnk.de
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 15.05.2026</description><pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/postdoc-in-physics-m-f-d-in-the-project-virtual-museum/</guid></item><item><title>Direktor:in (m/w/d) für das Zeitgeschichtliche Forum</title><link>https://www.museumsbund.de/stellenangebote/direktorinm-w-d-fuer-das-zeitgeschichtliche-forum/</link><description>Stiftung Haus der Geschichte der Bundesrepublik Deutschland, Leipzig Bewerbungsende: 23.04.2026 | Die Stiftung Haus der Geschichte der Bundesrepublik Deutschland sucht
+zum nächstmöglichen Zeitpunkt unbefristet
+am Dienstort Leipzig für das Zeitgeschichtliche Forum
+eine überdurchschnittlich engagierte, fachlich qualifizierte und kreative Persönlichkeit als
+Direktorin/Direktor (m/w/d)
+(EG 15 TVöD Bund/A 15)
+Kennziffer 8-26
+Was erwartet Sie?
+Das Zeitgeschichtliche Forum Leipzig ist eine Einrichtung der Stiftung Haus der Geschichte der Bundesrepublik Deutschland. Das Museum im Zentrum von Leipzig vermittelt deutsche Zeitgeschichte seit 1945 mit einem regionalen Schwerpunkt auf Ostdeutschland. Das vielfältige Programm, etwa Ausstellungen, Veranstaltungen und digitale Angebote, entstehen in enger Kooperation mit den Häusern der Stiftung in Bonn und Berlin. Die Direktorin/der Direktor des Zeitgeschichtlichen Forums repräsentiert die Stiftung in Leipzig. Der Dienstort ist Leipzig.
+Ihre Aufgaben
+Sie leiten das Museum und tragen die Verantwortung für dessen strategische, personelle, finanzielle und organisatorische Weiterentwicklung
+Sie gestalten ein vielfältiges Programm (v. a. Ausstellungen, Veranstaltungen, digitale Angebote) zur deutschen Zeitgeschichte seit 1945 mit einem regionalen Schwerpunkt auf Ostdeutschland
+Sie repräsentieren das Museum nach außen
+Was sollten Sie mitbringen?
+Ein abgeschlossenes wissenschaftliches Hochschulstudium (Master, Diplom (Universität), Magister) mit geisteswissenschaftlicher oder kulturwissenschaftlicher Ausrichtung, bevorzugt im Fach Geschichte oder in verwandten Studienfächern
+Eine abgeschlossene Promotion ist wünschenswert
+Nachgewiesene Kenntnisse der Zeitgeschichte sind zwingend Voraussetzung
+Fundierte Erfahrung im Museums- und/oder Ausstellungsmanagement ist zwingend notwendig
+Mehrjährige nachgewiesene Führungserfahrung ist erforderlich
+Ausgeprägte Kommunikations-, Team-, und Durchsetzungsfähigkeit
+Ein hohes Maß an Belastbarkeit, Flexibilität, Leistungsbereitschaft und Kostenbewusstsein runden Ihr Profil ab
+Was bieten wir Ihnen?
+Eine unbefristete Vollzeitstelle mit einer Vergütung nach EG 15 TVöD Bund/A 15
+Eine verantwortungsvolle und abwechslungsreiche Tätigkeit in einem spannenden Berufsfeld
+Ein familienfreundliches Umfeld mit flexiblen Arbeitszeiten und der Möglichkeit zu mobiler Arbeit
+Zusatzversorgung bei der Versorgungsanstalt des Bundes und der Länder
+Jobticket bzw. Deutschlandjobticket mit Arbeitgeberzuschuss
+Die Stelle ist nicht teilzeitgeeignet. Die Stiftung gewährleistet die berufliche Gleichstellung von Männern und Frauen nach dem Bundesgleichstellungsgesetz. Menschen mit Behinderung werden nach Maßgabe des Sozialgesetzbuches – Neuntes Buch – bevorzugt berücksichtigt.
+Haben wir Ihr Interesse geweckt? – Dann freuen wir uns auf Ihre vollständige und aussagekräftige Bewerbung (als PDF-Format in einer Datei mit max. 10 MB) bis
+zum 23. April 2026
+unter Angabe der
+Kennziffer 8-26
+sowie des frühestmöglichen Eintrittstermins
+per E-Mail an:
+biermann@hdg.de
+.
+Als Ansprechpartner für fachbezogene Fragen steht Ihnen Herr Biermann, Telefon 0228/9165–100, in personalwirtschaftlichen Angelegenheiten Frau Löschhorn, Telefon 0228/9165–510 zur Verfügung.
+Persönliche Vorstellungsgespräche werden voraussichtlich in KW 20 in Bonn geführt.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 23.04.2026</description><pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/direktorinm-w-d-fuer-das-zeitgeschichtliche-forum/</guid></item><item><title>Leitung (m/w/d) der ifa-Kunstförderprogramme</title><link>https://www.museumsbund.de/stellenangebote/leitung-m-w-d-der-ifa-kunstfoerderprogramme/</link><description>ifa (Institut für Auslandsbeziehungen), Stuttgart Bewerbungsende: 30.04.2026 | Für die Abteilung Kunst in Stuttgart suchen wir zum nächstmöglichen Zeitpunkt eine Leitung (m/w/d) der ifa-Kunstförderprogramme in Teilzeit befristet bis 31.12.2027 (50%).
+Wer wir sind
+Werte – Kultur – Frieden: Mit dem ifa weltweit sinnstiftend wirken in Stuttgart und Berlin
+Das ifa – Institut für Auslandsbeziehungen schafft mit seiner Arbeit in Kunst und Zivilgesellschaft weltweit Verständnis und Vertrauen zwischen Menschen. Es fördert demokratische Zivilgesellschaften und setzt sich ein für Freiheit in Kunst und Wissenschaft sowie für Meinungsfreiheit. Es bringt sein internationales Wissen und seine Netzwerke in Kunst und Kultur, Politik und Gesellschaft in Debatten ein und erweitert Perspektiven – in Deutschland und weltweit. Das ifa trägt durch seine Aktivitäten zu einem authentischen und differenzierten Deutschlandbild bei und stärkt Deutschlands und Europas Beziehungen mit der Welt.
+Das ifa wird gefördert vom Auswärtigen Amt, dem Bundesministerium des Innern, dem Land Baden-Württemberg und der Landeshauptstadt Stuttgart.
+Die Abteilung Kunst des ifa initiiert mit weltweiten Tourneeausstellungen, mit Programmen für Biennalen, Konferenzen und zur Kunstförderung  sowie mit seinen Programmen in den ifa- Galerien in Deutschland den Kunst- und Kulturaustausch im Rahmen der Auswärtigen Kultur- und Bildungspolitik der Bundesrepublik Deutschland.
+Der Förderbereich der Abteilung Kunst verantwortet zentrale Programme zur internationalen Mobilität, Vernetzung und Sichtbarmachung zeitgenössischer Künstlerinnen mit Basis in Deutschland und weltweit mit einem jährlichen Budget von ca. 300.000 Euro. Aktuell werden rund 170 Kunstschaffende in etwa 80 Projekten in 70 Ländern unterstützt. Zur Leitung dieses Bereichs suchen wir eine strukturierte und führungserfahrene Persönlichkeit mit ausgewiesener Expertise im Fördermanagement.
+Was Sie erwartet
+Sie verantworten die strategische und konzeptuelle Weiterentwicklung der Förderungen im Wirkungsfeld Kunst entsprechend der ifa-Strategie und internationaler Kunstdiskurse und leiten und steuern die Förder- und Stipendienprogramme zum internationalen Kunstaustausch, transkulturellen Kooperationen, Biennalen und zum Umgang mit Kulturgütern (Rave Stipendium).
+Sie konzipieren, steuern und überwachen die Auswahl- und Juryverfahren und wirken im Auswahlgremium mit.
+Sie entwickeln und implementieren Qualitätsstandards und sorgen für Qualitätsmessung.
+Sie tragen die Personal- und Budgetverantwortung für den Bereich einschließlich Finanzplanung, Haushaltsüberwachung und Jahresabschluss.
+Sie beraten Antragstellende und Partnerinstitutionen, pflegen und erweitern Netzwerke und vertreten Ihren Arbeitsbereich gegenüber nationalen und internationalen Partnern in Zusammenarbeit mit der Abteilungsleitung.
+Was Sie mitbringen
+Sie verfügen über ein abgeschlossenes wissenschaftliches Hochschulstudium im Bereich Kunst oder Kulturmanagement oder in einem vergleichbaren Fach.
+Sie bringen mehrjährige Erfahrung in der Betreuung von Förderprogrammen, fundierte Projektmanagementkenntnisse und Führungskompetenzen mit.
+Sie besitzen sehr gute Kenntnisse der haushaltsrechtlichen Rahmenbedingungen im öffentlichen Dienst (insbesondere Bundeshaushaltsordnung, Vergabeordnung, Bundesreisekostengesetz).
+Sie verfügen über sehr gute Kenntnisse und ein technisches Verständnis von Datenbanken und digitalen Antragssystemen.
+Sie arbeiten äußerst strukturiert und präzise und verfügen über Führungskompetenz.
+Sie kommunizieren sicher in englischer Sprache in Wort und Schrift.
+Sie bringen eine ausgewiesene Affinität und fundierte Kenntnisse im Bereich der zeitgenössischen Kunst mit.
+Was wir Ihnen bieten
+Bei uns erwartet Sie ein spannender und vielseitiger Job bei einer weltweit tätigen Organisation. Unsere Bezahlung richtet sich nach dem Tarifvertrag für den öffentlichen Dienst, die Eingruppierung ist, bei Vorliegen der Voraussetzungen, in der Entgeltgruppe 13 TVöD-Bund vorgesehen. Wir pflegen eine partnerschaftliche und offene Arbeitsatmosphäre. Moderne und familienfreundliche Arbeitsbedingungen sind für uns selbstverständlich. Neben einer Jahressonderzahlung, einer Betriebsrente mit Arbeitgeberanteil, einem Arbeitgeberzuschuss zum Deutschland‑Job‑Ticket und einer sehr guten Anbindung an das öffentliche Verkehrsnetz bieten wir gesundheitsfördernde Maßnahmen und individuelle Fort‑ und Weiterbildungsmöglichkeiten.
+Das ifa schätzt Vielfalt und fördert ein Arbeitsumfeld, das Diversität als Stärke versteht. Bewerbungen von Menschen mit Migrationsgeschichte, BIPOC oder LGBTQAI+ oder von Menschen, die von intersektionaler Diskriminierung betroffen sind, sind ausdrücklich erwünscht. Das Institut für Auslandsbeziehungen e.V. (ifa) ist als eingetragener Verein ein privater Arbeitgeber.
+Kontakt
+Ihre Bewerbung enthält ein Motivationsschreiben, einen Lebenslauf und alle relevanten Zeugnisse. Bitte laden Sie diese als zusammengefasste PDF-Datei (maximal 35 MB) bis zum 30.04.2026
+hier
+hoch. Telefonische Auskünfte zum Aufgabengebiet erhalten Sie bei Frau Slade, erreichbar unter der Rufnummer +49 711 2225245 oder per E-Mail sophie.slade@ifa.de.
+Ihre Bewerbungsunterlagen werden spätestens 6 Monate nach der Stellenbesetzung gelöscht.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 30.04.2026</description><pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/leitung-m-w-d-der-ifa-kunstfoerderprogramme/</guid></item><item><title>Hausmeister*in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/hausmeisterin-m-w-d-6/</link><description>Stiftung Schleswig-Holsteinische Landesmuseen Schloss Gottorf, Busdorf Bewerbungsende: 26.04.2026 | Die Stiftung Schleswig-Holsteinische Landesmuseen Schloss Gottorf,
+Abteilung Zentrale Dienste, sucht zum nächstmöglichen Zeitpunkt
+eine*n Hausmeister*in (m/w/d)
+mit überwiegendem Einsatz im
+Wikinger Museum Haithabu
+; bei Bedarf erfolgen auch Einsätze in weiteren Liegenschaften der Stiftung.
+Die Stelle ist in Vollzeit unbefristet zu besetzen.
+Die Stiftung Schleswig-Holsteinische Landesmuseen Schloss Gottorf ist der bedeutendste Museumsverbund des Landes Schleswig-Holstein. Die sieben Museen verstehen sich als Botschafter der Kultur für und in Schleswig-Holstein und dürfen jedes Jahr mehr als 450.000 Besucher*innen begrüßen. Mit den Schwerpunkten Archäologie, Kunst und Kulturgeschichte sowie Volkskunde erzählen sie die Geschichte Schleswig-Holsteins und seiner Menschen von der Steinzeit bis in die Gegenwart.
+Das erwartet Sie:
+Zu Ihren Aufgaben gehören vielfältige Hausmeistertätigkeiten im Museumsbetrieb sowie in den Büro- und Lagergebäuden und im Freigelände. Dazu zählen insbesondere:
+Durchführung von Wartungsarbeiten, kleineren Instandhaltungs- und Reparaturarbeiten an Gebäuden und Ausstattung
+Pflege und Unterhaltung der Außenanlagen einschließlich Reinigung und Unterhaltung der Grünanlagen und des Freigeländes sowie Leerung der Müllbehälter
+gelegentliche Durchführung von Transporten sowie Ver- und Entsorgungsfahrten
+technische Unterstützung bei Veranstaltungen
+Unterstützung beim Auf- und Abbau von Ausstellungen
+Mitwirkung bei Kontrollen von Ausstellungstechnik und weiteren gebäudetechnischen Einrichtungen
+Teilnahme an der Rufbereitschaft (nach Dienstschluss sowie an Wochenenden)
+Der überwiegende Einsatz erfolgt im Wikinger Museum Haithabu; bei Bedarf sind auch Einsätze in weiteren Liegenschaften der Stiftung vorgesehen
+Hierfür setzen wir voraus:
+eine erfolgreich abgeschlossene Berufsausbildung
+Vertrauenswürdigkeit, Zuverlässigkeit sowie eine verantwortungsbewusste und selbstständige Arbeitsweise
+praktische Erfahrung in der hausmeisterlichen Betreuung von Gebäuden und Außenanlagen
+Flexibilität sowie die Bereitschaft, sich wechselnden Aufgabenstellungen anzupassen
+gute körperliche Belastbarkeit
+strukturierte, selbstständige und verantwortungsbewusste Arbeitsweise
+Bereitschaft zur gelegentlichen Arbeit in den Abendstunden sowie am Wochenende
+Führerschein der Klasse B
+Wir bieten Ihnen:
+eine unbefristete Stelle in Vollzeit mit den Vorzügen des öffentlichen Dienstes – einer betrieblichen Altersversorgung (VBL) und einem betrieblichen Gesundheitsmanagement sowie entsprechenden Weiterbildungsmöglichkeiten, ein vielseitiges Aufgabenspektrum in einem facettenreichen kulturellen Umfeld und vor allem ein spannendes Arbeitsumfeld in einem engagierten und kollegialen Team
+Die Vergütung erfolgt nach dem Tarifvertrag der Länder bis zur Entgeltgruppe 5
+Die Stiftung fördert aktiv die Gleichstellung aller Menschen. Wir begrüßen deshalb Bewerbungen von Personen, unabhängig von deren kultureller und sozialer Herkunft, Alter, Geschlecht, Religion, Behinderung oder sexueller Identität. Schwerbehinderte Bewerber*innen werden bei gleicher Eignung unter Berücksichtigung aller Umstände des Einzelfalls bevorzugt.
+Weitergehende Fragen beantwortet Ihnen gern unser Personalleiter, Herr Marc Stürmer, unter 04621 – 813 105
+Ihre aussagekräftige Bewerbung mit den üblichen Unterlagen (Anschreiben, Lebenslauf, Zeugnisse im pdf-Format) richten Sie bitte bis spätestens
+26.04.2026
+an
+Bewerbung@landesmuseen.sh
+(unsere Datenschutzhinweise finden Sie auf unserer Homepage unter
+https://landesmuseen.sh/de/datenschutz/bewerber
+)
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 26.04.2026</description><pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/hausmeisterin-m-w-d-6/</guid></item><item><title>Mitarbeitende*n für den Bereich Administration (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/mitarbeitenden-fuer-den-bereich-administration-m-w-d/</link><description>Berliner Museumsverband, Berlin Bewerbungsende: 03.05.2026 | Wir suchen Verstärkung!
+Der Berliner Museumsverband e.V. ist das Netzwerk der Berliner Museen, museumsverwandter und auf die Museumsarbeit bezogener Einrichtungen, Netzwerke und Verbände sowie der Menschen, die für und mit diesen arbeiten. Solidarisch und kollaborativ setzt sich der Verein für eine professionelle, gesellschaftlich relevante Berliner Museumslandschaft und die dafür notwendigen Rahmenbedingungen ein. Der Berliner Museumsverband versteht sich ebenso als Teil der Berliner Stadtgesellschaft wie der bundesweiten und internationalen Museumslandschaft. Der Verband hat sich zum Ziel gesetzt, die Museen dabei zu unterstützen, sich angesichts der zahlreichen gesellschaftlichen Herausforderungen zukunftsfähig aufzustellen.
+Der Berliner Museumsverband e.V. sucht vorbehaltlich der Stellenverfügbarkeit ab dem 1. Juli 2026:
+Eine*n Mitarbeitende*n für den Bereich Administration (m/w/d) in Teilzeit (50 %), Vergütung analog EG 9b TV-L
+Zu Ihren Aufgaben gehören:
+Bearbeitung der laufenden verwaltungstechnischen Aufgaben wie z.B. Überweisungen, Formulierung von Aktenvermerken und Vergabeprotokollen und Ablage
+Vorbereitende Recherchen für Entscheidungen der Geschäftsleitung im Bereich Administration/Verwaltung
+Mitarbeit bei der Sicherstellung, Pflege und Weiterentwicklung der Verwaltungsstrukturen und -prozesse der Geschäftsstelle u.v.m.
+Unterstützung der Geschäftsleitung bei der Erstellung von Kostenplänen, Projektcontrolling und Erstellung von Verwendungsnachweisen, Erstellung von Jahresabschlüssen etc.
+Eruierung von Fördermöglichkeiten für Angebote des Vereins für die Berliner Museumslandschaft
+Unterstützung der Geschäftsstellenmitarbeiter*innen bei der Behebung kleinerer IT-Probleme im Arbeitsalltag
+Was Sie mitbringen:
+ein abgeschlossenes Hochschulstudium in einer verwaltungs-, wirtschafts- oder gesellschaftlichen Disziplin (Bachelor/Diplom FH) oder über eine qualifizierende Weiterbildung (z.B. Angestelltenlehrgang II, Verwaltungsfachwirt/in) oder vergleichbare Qualifikationen
+Erfahrungen in der Verwaltung, bestenfalls von öffentlich geförderten Vereinen oder ähnlichen Organisationen und Kenntnisse von Vergabe- und/oder Vereinsrecht
+ausgeprägte Dienstleistungsorientierung und strukturierte Arbeitsweise
+sichere Anwendung gängiger digitaler Verwaltungs- und Bürosoftware insbesondere Microsoft 365, sowie ein souveräner Umgang mit digitalen Arbeitsprozessen
+Fähigkeit und Bereitschaft, sich in neue digitale Lösungen für die Geschäftsstelle einzuarbeiten, deren Einsatzmöglichkeiten zu prüfen und deren Einführung zu begleiten
+Interesse an der Arbeit des Vereins und am Museumswesen
+Was wir Ihnen bieten:
+eine vielseitige Tätigkeit in der Geschäftsstelle eines beweglichen Verbands
+eine langfristige Perspektive in einem kleinen, kollaborativ arbeitenden Team, das Wert auf eine gesunde Fehler- und Lernkultur legt
+die Möglichkeit, die Geschäftsstelle gemeinsam weiterzuentwickeln und eigene Ideen einzubringen
+eine Vergütung in Anlehnung an Entgeltgruppe gemäß 9b TV-L
+Vorteile eines Arbeitsverhältnisses in Anlehnung an den Tarifvertrag des Öffentlichen Dienstes der Länder (derzeit u.a. 30 Tage Urlaub im Jahr)
+angenehmer Arbeitsplatz mitten in Friedrichshain und die Möglichkeit für mobiles Arbeiten
+Der Berliner Museumsverband e.V.  legt Wert auf eine diskriminierungsfreie Arbeitsumgebung. Wir freuen uns ausdrücklich auch über Bewerber*innen marginalisierter Perspektiven. Wir gewährleisten die Gleichstellung von Frauen und Männern nach dem Berliner Landesgleichstellungsgesetz. Bewerbungen von Menschen mit Migrationshintergrund, die die genannten Anforderungen erfüllen, sind ausdrücklich erwünscht. Bei gleicher Eignung und Qualifikation werden Bewerbungen von anerkannten Schwerbehinderten bevorzugt berücksichtigt (bitte Nachweis beifügen).
+Bitte bewerben Sie sich bis zum 3. Mai 2026 mit aussagekräftigen Bewerbungsunterlagen (Motivationsschreiben, Lebenslauf, Zeugnisse sowie ggf. Kündigungsfrist) ausschließlich per E-Mail an: bewerbungen@berliner-museumsverband.de.
+Bitte fügen Sie als Anlagen zu Ihrer Bewerbung ausschließlich Dateien im PDF-Format (gerne kompakt in einer Datei) hinzu.
+Wir freuen uns auf Ihre Bewerbung!
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 03.05.2026</description><pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeitenden-fuer-den-bereich-administration-m-w-d/</guid></item><item><title>Wissenschaftliche:r Museumsassistent:in in Fortbildung (w/d/m)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-museumsassistentin-in-fortbildung-w-d-m-3/</link><description>Staatliche Museen zu Berlin, Berlin Bewerbungsende: 29.04.2026 | Beim
 Haus Bastian – Zentrum für kulturelle Bildung
 der Staatlichen Museen zu Berlin ist eine Stelle als
 Wissenschaftliche:r Museumsassistent:in in Fortbildung (w/d/m)
@@ -613,124 +857,4 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 08.05.2026</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/geschaeftsfuehrende-direktion-m-w-d/</guid></item><item><title>zwei Restauratoren (w/m/d) für Ausstellungsvorbereitungen</title><link>https://www.museumsbund.de/stellenangebote/zwei-restauratoren-w-m-d-fuer-ausstellungsvorbereitungen/</link><description>Deutsches Museum, München Bewerbungsende: 22.04.2026 | Das Deutsche Museum ist eines der größten Wissenschafts- und Technikmuseen weltweit. Wir suchen
-zwei Restauratoren (w/m/d)
-für Ausstellungsvorbereitungen
-zur Verstärkung unseres Teams in der Hauptabteilung Sammlungsmanagement. Die Hauptabteilung ist für Dokumentation, Verwaltung, Lagerung und Transport der Exponate aller Museumsstandorte zuständig.
-Im Vorfeld und während der Bestückung der neuen Ausstellungen im Rahmen des 2. Abschnitts der Generalsanierung sind konservatorische Maßnahmen erforderlich, die in Depots auch außerhalb der Museumsinsel, im Baustellenbereich und in den Ausstellungen durchzuführen sind. Dabei geht es um Objektreinigung, Konsolidierungen, Transportverpackungen, Zustandserfassungen, Gefahrstofferkennung, Datenerhebungen, Dokumentationen, Mikro-Klimaregulierung, Aufbau von Objekten, Betreuung von Fremdfirmen und Speditionen u.a.
-Die Objekte der technischen Sammlung des Museums bestehen aus vielfältigen Materialkombinationen und beinhalten Gefahrstoffe; deren Erkennung sowie der fachgerechte Umgang und die Anwendung entsprechender PSA muss vorausgesetzt werden. Des Öfteren wird dabei ein selbständiges Zurücklegen von Wegstrecken bis zu 80 km erforderlich sein. Gelegentlich wird auch die Zuarbeit zu Leistungsbeschreibungen erwartet.
-Ihre Aufgaben
-Zusammenstellen von Exponaten, Vorbereiten und Verpacken für Transporte
-Zustands- und Datenermittlung von Exponaten, Feststellen von Gefahrstoffen
-Durchführung konservatorischer Reinigungs- und Konsolidierungsmaßnahmen
-Ermittlung erforderlicher Maßnahmen für Handling, Transport, Aufbau und Lagerung, auch für die Erstellung von Leistungsbeschreibungen
-Erstellung von Dokumentationen in Wort und Bild, Arbeiten in der Museumsdatenbank
-Klimakontrollen in Schutzeinhausungen, Betreuung und Regulierung von Luftentfeuchtern
-Bestücken von Ausstellungen, Betreuen von Fremdfirmen, Einrichten geeigneter Lagerbedingungen im Depot
-Ihr Profil
-abgeschlossenes Studium zum Restaurator (w/m/d) an einem anerkannten Institut, vorzugsweise in einem Fachgebiet wie Metall, Holz, technisches Kulturgut
-Erfahrungen im konservatorischen Handling, Verpacken, Transportieren und Lagern von Museumsobjekten verschiedener Material- und Objektgruppen
-flexible Einsetzbarkeit für unterschiedliche Tätigkeiten
-volle körperliche Belastbarkeit und Bereitschaft, schwere Lasten zu tragen
-Fähigkeit, in einem Depot zu arbeiten; Bereitschaft zum Arbeiten auch in kühleren, nicht barrierefreien Räumen
-von Vorteil: Erkennen von Gefahrstoffen und Erfahrungen im Umgang damit; praktische Erfahrung bei Ausstellungs- oder Depotberäumungen; Erfahrung mit MuseumPlus, Sachkunde TRG519, 524
-Wir bieten
-einen verantwortungsvollen, interessanten und zukunftsorientierten Arbeitsplatz in einem engagierten, wertschätzenden und kollegialen Team mit vielseitigen Fort- und Weiterbildungsmöglichkeiten
-eine tarifgerechte Bezahlung in Entgeltgruppe 10 nach dem Tarifvertrag für den öffentlichen Dienst der Länder (TV-L)
-eine tarifliche Jahressonderzahlung
-Altersvorsorge des öffentlichen Dienstes
-30 Tage Urlaub sowie bezahlte Freistellung am 24. und 31.12.
-Flexibilität durch Gleitzeit
-ein Betriebliches Gesundheitsmanagement, EGYM Wellpass
-Die Arbeitsplätze sind grundsätzlich teilzeitgeeignet, sollten jedoch zu 100% besetzt werden. Die Besetzung im Team ist möglich.
-Die Stellen sind projektbezogen bis 31.12.2028 befristet.
-Wir begrüßen Ihre Bewerbung unabhängig Ihres Alters, Ihres Geschlechts, Ihrer kulturellen und sozialen Herkunft, Religion, Weltanschauung, von Behinderung und sexueller Identität.
-Sind Sie interessiert?
-Wir freuen uns auf Ihre Bewerbung per E-Mail (
-eine Datei im PDF-Format, max. 10 MB
-) mit Ihrem Motivationsschreiben, Lebenslauf, Abschluss- und Arbeitszeugnissen bis
-22.04.2026
-an
-bewerbung@deutsches-museum.de
-. Bitte geben Sie im Betreff Ihrer E-Mail die Ausschreibungsnummer
-2621
-an.
-Bei Eingang erhalten Sie eine automatische Empfangsbestätigung. Verspätete Bewerbungen können nicht berücksichtigt werden.
-Informationen zum Datenschutz und zur Verarbeitung personenbezogener Daten im Rahmen Ihrer Bewerbung finden Sie unter
-http://www.deutsches-museum.de/datenschutz
-.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 22.04.2026</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/zwei-restauratoren-w-m-d-fuer-ausstellungsvorbereitungen/</guid></item><item><title>Sachbearbeitung Allgemeine Verwaltungsangelegenheiten (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/sachbearbeitung-allgemeine-verwaltungsangelegenheiten-m-w-d/</link><description>Militärhistorisches Museum der Bundeswehr, Dresden Bewerbungsende: 07.04.2026 | Unternehmen
-Bundeswehr – Mach was wirklich zählt.
-BESCHÄFTIGUNGSDIENSTSTELLE
-Militärhistorisches Museum der Bundeswehr (MHMBw), Dresden
-geplantes Einstellungsdatum: 01.07.2026
-Ende der Bewerbungsfrist: 07.04.2026
-Arbeitszeit: Vollzeit
-Dresden, unbefristet, E9B
-ID: B750341UC-2026-00001806-E
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 07.04.2026</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/sachbearbeitung-allgemeine-verwaltungsangelegenheiten-m-w-d/</guid></item><item><title>Historiker:in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/historikerin-m-w-d/</link><description>Militärhistorisches Museum der Bundeswehr, Dresden Bewerbungsende: 07.04.2026 | Bundeswehr – Mach, was wirklich zählt.
-BESCHÄFTIGUNGSDIENSTSTELLE
-Militärhistorisches Museum der Bundeswehr (MHMBw), Dresden
-geplantes Einstellungsdatum: 01.07.2026
-Ende der Bewerbungsfrist: 07.04.2026
-Arbeitszeit: Vollzeit
-Dresden, unbefristet, E9C
-ID: B750344UC-2026-00001807-E
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 07.04.2026</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/historikerin-m-w-d/</guid></item><item><title>Vorstand für Kultur gesucht (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/vorstand-fuer-kultur-gesucht-m-w-d/</link><description>Dommuseum Brandenburg, Brandenburg an der Havel Bewerbungsende: 05.05.2026 | Das Domstift Brandenburg in Brandenburg an der Havel (www.dom-brandenburg.de) ist die älteste Institution des Landes Brandenburg. Seine bedeutenden Sammlungen bilden ein einzigartiges Ensemble sakraler Kulturgeschichte. Es ist eine Körperschaft des öffentlichen Rechts und eine selbständige Einrichtung der Evangelischen Kirche Berlin-Brandenburg-schlesische Oberlausitz (www.ekbo.de) sowie ein bedeutender Ort des geistlichen Lebens, der Kultur und Bildung. Das Domstift wird von einem Vorstand geleitet, der seine Aufgaben in eigener Verantwortung unter der Aufsicht des Domkapitels wahrnimmt.
-Die Position des Vorstandsmitglieds für Kultur ist neu zu besetzen.
-Für diese verantwortungsvolle Aufgabe mit vielfältigen Gestaltungsmöglichkeiten suchen wir zum nächstmöglichen Zeitpunkt eine Persönlichkeit, die gemeinsam mit den anderen Mitgliedern des Vorstands die kulturelle und programmatische Arbeit des Domstifts gestaltet, seine geistlichen und kulturellen Werte pflegt, sein Erbe verantwortungsvoll bewahrt und vermittelt und im Dialog mit Gegenwart und Zukunft nachhaltig weiterentwickelt.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 05.05.2026</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/vorstand-fuer-kultur-gesucht-m-w-d/</guid></item><item><title>Wissenschaftliche:r Referent:in (m/w/d) im Bereich Sammlung</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-referentin-m-w-d-im-bereich-sammlung/</link><description>LVR-Landesmuseum Bonn, Meckenheim Bewerbungsende: 20.04.2026 | Der Landschaftsverband Rheinland (LVR) arbeitet als Kommunalverband mit rund 22.000 Beschäftigten für die 9,8 Millionen Menschen im Rheinland. Mit seinen 41 Schulen, zehn Kliniken, 20 Museen und Kultureinrichtungen, vier Jugendhilfeeinrichtungen, dem Landesjugendamt sowie dem Verbund für WohnenPlusLeben erfüllt er Aufgaben, die rheinlandweit wahrgenommen werden. Der LVR ist Deutschlands größter Leistungsträger für Menschen mit Behinderungen und engagiert sich für Inklusion in allen Lebensbereichen. „Qualität für Menschen“ ist sein Leitgedanke.
-Die 13 kreisfreien Städte und die zwölf Kreise im Rheinland sowie die StädteRegion Aachen sind die Mitgliedskörperschaften des LVR. In der Landschaftsversammlung Rheinland gestalten gewählte Mitglieder aus den rheinischen Kommunen die Arbeit des Verbandes.
-Mehr Informationen über den LVR finden Sie unter
-www.lvr.de
-.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 20.04.2026</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-referentin-m-w-d-im-bereich-sammlung/</guid></item></channel></rss>
+Bewerbungsende: 08.05.2026</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/geschaeftsfuehrende-direktion-m-w-d/</guid></item></channel></rss>
