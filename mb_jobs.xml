@@ -1,5 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Digitalmanager (w/m/d)</title><link>https://www.museumsbund.de/stellenangebote/digitalmanager-w-m-d/</link><description>Staatliche Schlösser und Gärten, Bruchsal Bewerbungsende: 25.05.2026 | Die Staatlichen Schlösser und Gärten mit Zentrale in Bruchsal haben eine unbefristete Stelle als
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Semantic Modeller / Knowledge Engineer (m/f/d), Hamburg</title><link>https://www.museumsbund.de/stellenangebote/semantic-modeller-knowledge-engineer-m-f-d-hamburg/</link><description>Leibniz Institute for the Analysis of Biodiversity Change (LIB), Hamburg Bewerbungsende: 25.05.2026 | The Leibniz Institute for the Analysis of Biodiversity Change (LIB) is one of the large, globally connected research museums of the Leibniz Association. In addition to excellent research on biodiversity and its change, we are advancing the further development of our extensive scientific collections with an international team and state-of-the-art technology. With our exhibition, knowledge transfer, and communication work at our exhibition venues Museum Koenig Bonn and Museum der Natur Hamburg, we want to spread enthusiasm for nature and contribute with our research topics to current socio-political discussions on species loss, climate change and the protection of ecosystems. The construction of an integrated natural history museum is being planned for the Hamburg location; the research infrastructure at the Bonn location is currently being significantly expanded.
+Within the LIB, the Centre for Biodiversity Knowledge Science focuses on digital biodiversity research, with the ambition of establishing the LIB Open Knowledge Space as a globally open hub for scientific objects and knowledge, including all project- and collection-related data and knowledge from the LIB. Acting as a driver of digital innovation in biodiversity knowledge science, it will integrate expertise in semantic modelling, knowledge graphs, ontologies, artificial intelligence, citizen science, and knowledge transfer, serving as a bridge between collections, research, and society.
+The Centre for Biodiversity Knowledge Science is looking to employ a
+Semantic Modeller / Knowledge Engineer (m/f/d), Hamburg
+to work in our team as soon as possible. The successful candidate will be responsible for the formal semantic modelling of content in the LIB Open Knowledge Space. They will develop and maintain ontologies, graph schemata and their corresponding SHACL shapes using the BFO/OBO ecosystem and related tools, ensuring that biodiversity data and knowledge are represented in a precise, interoperable, and reusable way, compliant with the FAIR and CLEAR Principles.
+We are offering a full-time (39.00 hours/week) or part-time position, located in Hamburg for initially 2 years with the possibility of a permanent contract. The remuneration is based on pay scale group E 13 according to German public salary (TV-L).
+Your tasks:
+Lead development of formal semantic models, including designing, extending, and modularizing ontologies for biodiversity and collection data, in collaboration with the other LIB centres
+Create and curate knowledge-graph schemata (SHACL shapes) for the LIB Open Knowledge Space and ensure data quality through validation pipelines
+Implement and operate ontology-centric workflows
+Support open-source development and contribute to existing code bases
+Apply for third-party funding
+Your profile:
+Master’s degree (or equivalent) in computer science, data science, bioinformatics, or related field; PhD desirable
+Proven experience in formal semantic modelling and ontology engineering (OWL, RDF/RDFS, Description Logics, SPARQL)
+Familiarity with the Basic Formal Ontology and the OBO Foundry ontologies
+Experience in the development of ontologies and graph schemata using Protégé, ROBOT, the Ontology Development Kit (ODK), and LinkML
+Strong expertise in knowledge graphs and semantic technologies, including RDF, RDFS, OWL, SHACL, LinkML, SPARQL
+Good understanding of FAIR (meta)data Principles, FAIR Digital Objects, Linked Data, persistent identifiers, and semantic interoperability
+Desirable Qualifications:
+Experience in persistent-identifier schemes and provenance modelling
+Background in research infrastructures or data-intensive scientific projects
+Publications or contributions to the OBO community
+Practical knowledge of biodiversity, life-sciences, or collection data.
+We offer:
+An attractive position in an excellent research institution with a high degree of creative potential in a dynamic scientific and social environment
+Remuneration according to the collective agreement of the federal states (up to EG 13 TV-L if the personal and job-related requirements of the collective agreement are met) with all the benefits of the public sector (company pension scheme, annual special payment, capital-forming benefits, collectively agreed vacation entitlement)
+Family friendliness certified by the “Work and Family Audit”, offer of life coaching through professional family service
+the possibility of obtaining a job ticket
+A centrally located workplace with excellent transport links
+Please send your complete application documents (including cover letter, CV, copies of certificates, max. 10 MB)
+by 25.05.2026
+exclusively digitally via our
+career portal
+:
+https://8101202752.karriereportal.cloud/
+to Ms. Ostermann. For organizational reasons, only online applications will be accepted. We are a diverse institution and welcome our diversity. We would particularly like to encourage women to apply in order to actively promote equal opportunities. Severely disabled people will be given preference if equally qualified. You can find more information about our institution on the Internet at:
+https://leibniz-lib.de/
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 25.05.2026</description><pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/semantic-modeller-knowledge-engineer-m-f-d-hamburg/</guid></item><item><title>Leitung der Abteilung “Alltagskultur und Sprache” im LVR-Institut für Landeskunde und Regionalgeschichte</title><link>https://www.museumsbund.de/stellenangebote/leitung-der-abteilung-alltagskultur-und-sprache-im-lvr-institut-fuer-landeskunde-und-regionalgeschichte/</link><description>LVR-Institut für Landeskunde und Regionalgeschichte, Bonn Bewerbungsende: 21.05.2026 | Das LVR-Institut für Landeskunde und Regionalgeschichte erforscht die Region Rheinland mit ihrer besonderen Geschichte, Kultur und Sprache. Vielfalt und interdisziplinärer Austausch prägen unsere Arbeit des Forschens, Dokumentierens und Vermittelns.
+Sie übernehmen die Leitung der Abteilung “Alltagskultur und Sprache”. Der Bereich Alltagskultur beschäftigt sich mit dem immateriellen kulturellen Erbe im Rheinland. Die Sprachwissenschaft hat zum Ziel, das sprachliche Profil der Region (oder einzelner Teilregionen oder bestimmter Orte) herauszuarbeiten.
+&gt;&gt;&gt;Zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 21.05.2026</description><pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/leitung-der-abteilung-alltagskultur-und-sprache-im-lvr-institut-fuer-landeskunde-und-regionalgeschichte/</guid></item><item><title>Principal Architect for Semantic Knowledge Infrastructures (m/f/d), Hamburg</title><link>https://www.museumsbund.de/stellenangebote/principal-architect-for-semantic-knowledge-infrastructures-m-f-d-hamburg/</link><description>The Leibniz Institute for the Analysis of Biodiversity Change (LIB), Hamburg Bewerbungsende: 25.05.2026 | The Leibniz Institute for the Analysis of Biodiversity Change (LIB) is one of the large, globally connected research museums of the Leibniz Association. In addition to excellent research on biodiversity and its change, we are advancing the further development of our extensive scientific collections with an international team and state-of-the-art technology. With our exhibition, knowledge transfer, and communication work at our exhibition venues Museum Koenig Bonn and Museum der Natur Hamburg, we want to spread enthusiasm for nature and contribute with our research topics to current socio-political discussions on species loss, climate change and the protection of ecosystems. The construction of an integrated natural history museum is being planned for the Hamburg location; the research infrastructure at the Bonn location is currently being significantly expanded.
+Within the LIB, the Centre for Biodiversity Knowledge Science focuses on digital biodiversity research, with the ambition of establishing the LIB Open Knowledge Space as a globally open hub for scientific objects and knowledge, including all project- and collection-related data and knowledge from the LIB. Acting as a driver of digital innovation in biodiversity knowledge science, it will integrate expertise in semantic modelling, knowledge graphs, ontologies, artificial intelligence, citizen science, and knowledge transfer, serving as a bridge between collections, research, and society.
+The Centre for Biodiversity Knowledge Science is looking to employ a
+Principal Architect for Semantic Knowledge Infrastructures (m/f/d), Hamburg
+to work in our team as soon as possible. The successful candidate will design and oversee the semantic backend of the LIB Open Knowledge Space. They will support agile prototype development while acting as a technical gatekeeper for production systems, ensuring that emerging solutions meet high standards of quality, sustainability, and interoperability, compliant with the FAIR and CLEAR Principles.
+We are offering a full-time (39.00 hours/week) or part-time position for initially 2 years with the possibility of a permanent contract, located in Hamburg. The remuneration is based on pay scale group EG 14 according to German public salary (TV-L).
+Your tasks:
+Design and govern the semantic architecture of the LIB Open Knowledge Space, ensuring interoperability and sustainability
+Lead development of knowledge graphs, ontologies, and hybrid data architectures (incl. AI integration)
+Establish and enforce software engineering standards, supporting scalable API-based systems
+Mentor interdisciplinary teams and contribute to Open Science, research infrastructures, and third-party funding
+Technical gatekeeper between research prototypes and FAIR production systems
+Apply for third-party funding
+Your profile:
+Master’s degree (or equivalent) in computer science, data science, bioinformatics, or related field; PhD desirable
+Proven experience with graph databases / triple stores
+Strong expertise in knowledge graphs and semantic technologies, including RDF, RDFS, OWL, SHACL, LinkML, SPARQL, and ontology engineering principles
+Experience with backend development, distributed and hybrid systems, combining knowledge graphs, vector embeddings, and classical database technologies
+Experience in the development and operation of modular, service-oriented architectures
+Strong programming skills in at least one language, such as Python or Java
+Desirable Qualifications:
+Experience in software architecture and modular system designs for research infrastructures
+Knowledge of FAIR (meta)data principles, FAIR Digital Objects, Linked Data, and persistent identifiers
+Background in biodiversity informatics or life science data
+Scientific publications and/or contributions to open-source software
+Experience in reviewing, refactoring, and improving code written by others
+Experience in mentoring and guiding developers in improving code quality and architecture
+We offer:
+An attractive position in an excellent research institution with a high degree of creative potential in a dynamic scientific and social environment
+Remuneration according to the collective agreement of the federal states (up to EG 14 TV-L if the personal and job-related requirements of the collective agreement are met) with all the benefits of the public sector (company pension scheme, annual special payment, capital-forming benefits, collectively agreed vacation entitlement)
+Family friendliness certified by the “Work and Family Audit”, offer of life coaching through professional family service
+the possibility of obtaining a job ticket
+A centrally located workplace with excellent transport links
+Please send your complete application documents (including cover letter, CV, copies of certificates, max. 10 MB)
+by 25.05.2026
+exclusively digitally via our
+career portal
+:
+https://8101202752.karriereportal.cloud/
+to Ms. Winkels. For organizational reasons, only online applications will be accepted. We are a diverse institution and welcome our diversity. We would particularly like to encourage women to apply in order to actively promote equal opportunities. Severely disabled people will be given preference if equally qualified. You can find more information about our institution on the Internet at:
+https://leibniz-lib.de/
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 25.05.2026</description><pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/principal-architect-for-semantic-knowledge-infrastructures-m-f-d-hamburg/</guid></item><item><title>Mitarbeiter / Mitarbeiterin (m/w/d) im Depot</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-mitarbeiterin-m-w-d-im-depot/</link><description>Generaldirektion Kulturelles Erbe Rheinland-Pfalz (GDKE) - Direktion Landesmuseum Mainz, Mainz Bewerbungsende: 21.05.2026 | In der Generaldirektion Kulturelles Erbe Rheinland-Pfalz (GDKE) – Direktion Landesmuseum Mainz
+ist zum nächstmöglichen Zeitpunkt die Position
+eines Mitarbeiters / einer Mitarbeiterin (m/w/d) im Depot
+in Teilzeit mit einer durchschnittlichen Wochenarbeitszeit von 12 Wochenstunden projektbezogen befristet für die Dauer von 12 Monaten zu besetzen. Das Aufgabengebiet ist nach Entgeltgruppe 4 nach dem Tarifvertrag der Länder bewertet. Dienstort ist Mainz.
+Die Generaldirektion Kulturelles Erbe Rheinland-Pfalz (GDKE) ist eine obere Landesbehörde und unmittelbar dem Ministerium des Innern und für Sport nachgeordnet. Sie vereint die Direktionen Landesarchäologie, Landesdenkmalpflege, Landesmuseum Mainz, Rheinisches Landesmuseum Trier, Landesmuseum Koblenz und die Direktion Burgen, Schlösser, Altertümer sowie Facheinheiten für zentrale Verwaltungs-, Marketing- und Bauaufgaben unter einem Dach.
+Das Landesmuseum Mainz im ehemaligen kurfürstlichen Marstall beherbergt eine der bedeutendsten kunst- und kulturgeschichtlichen Sammlungen des Landes und ist eines der ältesten Museen in Deutschland. Seine Exponate reichen von den Anfängen der Kultur bis zur Kunst der Gegenwart.
+In einem gemeinsam von Landesarchäologie Mainz und Landesmuseum Mainz genutzten Außendepot werden nach einem Umzug Kisten unterschiedlicher Größe und Schwere auf Paletten gestapelt in Hochregalen aufbewahrt. Die Paletten mit archäologischen Funden aus dem Landesmuseum Mainz werden nun aufgelöst, die Kisten mit einem neuen System in eine Kompaktanlage umgelagert. Zudem müssen die bereits an festen Standorten im Depot eingelagerten Möbel aus dem Landesmuseum Mainz mit vorhandener Bestandsdokumentation abgeglichen und Standortangaben aktualisiert werden.
+Allgemeine Kenntnisse der Archäologie sind hierfür notwendig, weitere grundlegende museologische Kenntnisse können während der Tätigkeiten vor Ort erworben werden.
+Als Mitarbeiter/in (m/w/d) im Depot nehmen Sie unter fachlicher Anleitung insbesondere folgende Aufgaben wahr:
+Verlagerung der teils schweren Fundkartons aus den Hochregalen in den Kompaktus und Neuaufstellung gemäß Vorgaben im Zweier-Team
+Reinigen der Außenverpackungen sowie Mithilfe beim Umpacken in eine neue Verpackung
+fotografische Aufnahme der Fundobjekte und digitale Ablage
+Beschriftung der Kartons nach Vorgaben
+datenbankgestützte Eingabe der Standorterfassung
+Einräumen und Verstandorten der kunsthandwerklichen Objekte des Landesmuseums Mainz im Depot unter Anleitung und in Zusammenarbeit mit einem Museumsmitarbeiter
+Für die Wahrnehmung dieser Aufgaben setzen wir voraus:
+Immatrikulation für ein Studium der Fachrichtung Vor- und Frühgeschichte, Klassische Archäologie, Provinzialrömische Archäologie mit archäologischen Grundkenntnissen
+Beherrschung der deutschen Sprache in Wort und Schrift
+sehr gute körperliche Belastbarkeit
+Wir erwarten:
+allgemeine Kenntnisse im Umgang mit den Standard-Anwendungen (Office-Paket) sowie in der Digitalfotografie
+Korrektheit und Sorgfalt im Umgang mit den Fundobjekten
+Zuverlässigkeit, Teamfähigkeit, Engagement, Flexibilität, Verschwiegenheit
+Im Rahmen des Landesgleichstellungsgesetzes streben wir eine Erhöhung des Frauenanteils an und sind an Bewerbungen von Frauen besonders interessiert. Schwerbehinderte Bewerberinnen und Bewerber werden bei entsprechender Eignung vorrangig berücksichtigt.
+Ihre schriftliche Bewerbung mit aussagekräftigen und vollständigen Unterlagen in Kopie senden Sie bitte unter der Angabe der
+Kennziffer 24/2026 bis zum 21.05.2026
+an:
+Generaldirektion Kulturelles Erbe Rheinland-Pfalz
+Personal
+Festung Ehrenbreitstein
+56077 Koblenz
+oder
+bewerbung@gdke.rlp.de
+Wir bitten, Bewerbungsunterlagen nicht in Mappen oder Hüllen und auch nur als unbeglaubigte Kopien vorzulegen, da die Unterlagen nicht zurückgesandt werden; sie werden nach Abschluss des Verfahrens vernichtet. Wünschen Sie die Rücksendung Ihrer Unterlagen, bitten wir einen ausreichend frankierten Rückumschlag beizufügen. Sofern Sie Ihre Bewerbung per E-Mail zusenden, bitten wir alle Bewerbungsunterlagen in einer PDF-Datei mit einer Dateigröße von bis zu 5 Megabyte zu übermitteln.
+Weitere Informationen über die GDKE Rheinland-Pfalz finden Sie auf der Internetpräsenz: www.gdke.rlp.de
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 21.05.2026</description><pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiter-mitarbeiterin-m-w-d-im-depot/</guid></item><item><title>Restaurierungspraktikant:in (w/d/m) zur Vorbereitung auf ein Hochschulstudium</title><link>https://www.museumsbund.de/stellenangebote/restaurierungspraktikantin-w-d-m-zur-vorbereitung-auf-ein-hochschulstudium/</link><description>Gemäldegalerie der Staatlichen Museen zu Berlin, Berlin Bewerbungsende: 13.05.2026 | In der Gemäldegalerie der Staatlichen Museen zu Berlin ist eine Stelle als
+Restaurierungspraktikant:in (w/d/m)
+zur Vorbereitung auf ein Hochschulstudium
+zu besetzen. Die Gemäldegalerie besitzt eine der weltweit bedeutendsten Sammlungen europäischer Malerei vom 13. bis zum 18. Jahrhundert. Sammlungsschwerpunkte bilden die deutsche und italienische Malerei des 13. bis 16. und die niederländische Malerei des 15. bis 17. Jahrhunderts.
+Die Voraussetzungen für die Bewerbung sind in den Studienordnungen der jeweiligen Fachhochschulen/Akademien geregelt. Die Länge des Praktikums, in der Regel ein Jahr, richtet sich nach den Anforderungen der Hochschulen. Eine Verlängerung ist nicht möglich. Es besteht die Möglichkeit, Leistungen nach dem Bundesbildungsförderungsgesetz zu beantragen.
+Ihre Aufgaben
+Kennenlernen sämtlicher Bereiche der Konservierung / Restaurierung / Kunsttechnologie und Mitarbeit in der täglichen Praxis
+Mitarbeiten beim musealen Konservieren und Restaurieren von Gemälden
+Mitwirken im Bereich präventiver Konservierung im Museum
+Assistieren beim Dokumentieren von Kunstwerken
+Unterstützen bei der restauratorischen Betreuung des Ausstellungsprogramms der Gemäldegalerie
+Ihr Profil
+allgemeine Hochschulreife (zu Vertragsbeginn)
+ausgeprägtes Interesse an Kunst und Kultur
+sehr gutes naturwissenschaftliches Verständnis
+überdurchschnittliche feinmotorische Geschicklichkeit und Umsicht sowie ausgeprägte Fähigkeit zu lösungsorientiertem Denken
+sehr gute Deutschkenntnisse in Wort und Schrift
+Erwünscht
+gefestigter Berufswunsch und idealerweise Nachweis eines Berufsberatungsgesprächs bzw. Schnupper-praktikum
+hohes Maß an Motivation
+ausgeprägte Teamfähigkeit
+Wir bieten Ihnen
+Praktikumsplatz mitten in Berlin
+Einblicke in eine international renommierte Sammlung
+Mitarbeit in einem engagierten Team
+Vorbereitung auf die Bewerbung für ein restauratorisches Hochschulstudium
+Mitarbeit in der größten Kultureinrichtung Deutschlands und einer der bedeutendsten weltweit
+Wir fördern und begrüßen
+aktiv eine Kultur der Wertschätzung
+Chancengerechtigkeit und Vielfalt
+Bewerbungen aller Menschen, unabhängig von Alter, Geschlecht, Nationalität, kultureller und sozialer Herkunft, Religion oder Weltanschauung, Behinderung, sexueller Identität
+Bewerbungen von Black, Indigenous and People of Color sowie Menschen mit Migrations- und Fluchtgeschichte
+Menschen mit Schwerbehinderung und ihnen Gleichgestellte, die bei gleicher Eignung besonders berücksichtigt werden.
+Fragen zum Aufgabengebiet
+Frau Krainer
++49 30 266 42 4421
+Fragen zum Bewerbungsverfahren
+Frau Pohl
++49 30 266 41 1610
+Ihre Bewerbung enthält
+Angabe der Kennziffer:
+SMB-GG-2-2026
+Anschreiben
+Lebenslauf
+Bestätigung der Teilnahme an einer Studienberatung
+Prüfungszeugnisse bzw. Urkunden
+ggf. Arbeitszeugnisse
+ggf. Dokumentation von Arbeitsproben
+Vertragsbeginn: 01.09.2026
+Befristung: befristet bis 31.08.2027
+Wochenstunden: 39 h
+Vergütung: 450,- EUR/Monat
+Arbeitsort: Johanna und Eduard Arnhold Platz, 10785 Berlin
+Bewerben Sie sich jetzt!
+Ihre Daten werden im Rahmen des Bewerbungsverfahrens gespeichert und verarbeitet. Weitere Informationen:
+www.preussischer-kulturbesitz.de/karriere/datenschutz.html
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 13.05.2026</description><pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/restaurierungspraktikantin-w-d-m-zur-vorbereitung-auf-ein-hochschulstudium/</guid></item><item><title>Digitalmanager (w/m/d)</title><link>https://www.museumsbund.de/stellenangebote/digitalmanager-w-m-d/</link><description>Staatliche Schlösser und Gärten, Bruchsal Bewerbungsende: 25.05.2026 | Die Staatlichen Schlösser und Gärten mit Zentrale in Bruchsal haben eine unbefristete Stelle als
 Digitalmanager (w/m/d)
 zu besetzen.
 &gt;&gt;&gt;Direkt zur Stellenausschreibung
@@ -58,7 +276,7 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 25.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/leitung-der-bildungsabteilung-m-w-d/</guid></item><item><title>Digital Manager (m/w/d) für das Deutsche Automatenmuseum</title><link>https://www.museumsbund.de/stellenangebote/digital-manager-m-w-d-fuer-das-deutsche-automatenmuseum/</link><description>Deutsches Automatenmuseum - Sammlung Gauselmann, Bewerbungsende: 06.05.2026 | Digital Manager (m/w/d) für das Deutsche Automatenmuseum
+Bewerbungsende: 25.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/leitung-der-bildungsabteilung-m-w-d/</guid></item><item><title>Digital Manager (m/w/d) für das Deutsche Automatenmuseum</title><link>https://www.museumsbund.de/stellenangebote/digital-manager-m-w-d-fuer-das-deutsche-automatenmuseum/</link><description>Deutsches Automatenmuseum - Sammlung Gauselmann, Bewerbungsende: 22.05.2026 | Digital Manager (m/w/d) für das Deutsche Automatenmuseum
 an unserem Standort in Espelkamp
 Mit Berufserfahrung | Feste Anstellung | Vollzeit
 Sie begeistern sich für technische Geschichte und möchten kulturelle Inhalte digital erlebbar machen? Sie verbinden Kreativität mit strategischem Denken und wissen, wie man Communities aufbaut und begeistert? Dann sind Sie bei uns genau richtig! Wir suchen Sie als Digital Manager (m/w/d) für das Deutsche Automatenmuseum, um unsere digitale Präsenz weiterzuentwickeln und unsere Geschichte online lebendig zu machen. Haben wir Ihr Interesse geweckt? Dann bewerben Sie sich jetzt bei uns als sicherem Arbeitgeber!
@@ -110,7 +328,7 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 06.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/digital-manager-m-w-d-fuer-das-deutsche-automatenmuseum/</guid></item><item><title>Wiss. Mitarbeiter: Historiker (19./20. Jahrhundert) (m/w/d) im Projekt „Lehmbauerbe“ der „GOLEHM–Initiative für Lehmbau und nachhaltige Kreislaufwirtschaft“</title><link>https://www.museumsbund.de/stellenangebote/wiss-mitarbeiter-historiker-19-20-jahrhundert-m-w-d-im-projekt-lehmbauerbe-der-golehm-initiative-fuer-lehmbau-und-nachhaltige-kreislaufwirtschaft/</link><description>Landesamtes für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte, Halle (Saale) Bewerbungsende: 18.05.2026 | Im Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte – ist ab 01.07.2026 unter Vorbehalt der zur Verfügung stehenden Mittel eine Vollzeitstelle als
+Bewerbungsende: 22.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/digital-manager-m-w-d-fuer-das-deutsche-automatenmuseum/</guid></item><item><title>Wiss. Mitarbeiter: Historiker (19./20. Jahrhundert) (m/w/d) im Projekt „Lehmbauerbe“ der „GOLEHM–Initiative für Lehmbau und nachhaltige Kreislaufwirtschaft“</title><link>https://www.museumsbund.de/stellenangebote/wiss-mitarbeiter-historiker-19-20-jahrhundert-m-w-d-im-projekt-lehmbauerbe-der-golehm-initiative-fuer-lehmbau-und-nachhaltige-kreislaufwirtschaft/</link><description>Landesamtes für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte, Halle (Saale) Bewerbungsende: 18.05.2026 | Im Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte – ist ab 01.07.2026 unter Vorbehalt der zur Verfügung stehenden Mittel eine Vollzeitstelle als
 Wiss. Mitarbeiter: Historiker (19./20. Jahrhundert) (m/w/d)
 im Projekt „Lehmbauerbe“ der „GOLEHM–Initiative für
 Lehmbau und nachhaltige Kreislaufwirtschaft“
@@ -692,301 +910,4 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 15.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/administrator-support-it-infrastruktur-office-m-w-d/</guid></item><item><title>Netzwerkspezialist/in IT/OT (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/netzwerkspezialist-in-it-ot-m-w-d/</link><description>Museen der Hasso Plattner Foundation gGmbH, Potsdam Bewerbungsende: 15.05.2026 | Das
-Museum Barberini
-, das Kunstmuseum in Potsdams historischer Mitte, gestiftet von SAP-Gründer und Mäzen Hasso Plattner, ist seit der Eröffnung im Jahr 2017 mit Ausstellungen zum französischen Impressionismus und zu aktuellen Fragestellungen hervorgetreten. Parallel zu den wechselnden Ausstellungen präsentiert das Museum Barberini seit September 2020 dauerhaft die umfangreiche Sammlung des Museumsgründers Hasso Plattner.
-Mit
-DAS MINSK
-. Kunsthaus in Potsdam wurde 2022 ein weiterer kultureller Anziehungspunkt geschaffen. Das Ausstellungshaus baut – ausgehend von Werken der Sammlung Hasso Plattners, die in der DDR entstanden sind – eine Brücke zwischen der Kunst aus der DDR und jüngeren, zeitgenössischen Positionen.
-Beide Museen firmieren unter der gemeinsamen Rechtspersönlichkeit der
-Museen der Hasso Plattner Foundation gGmbH
-(MdHPF). Zur Unterstützung und Weiterentwicklung unserer IT suchen wir zum nächst möglichen Zeitpunkt eine/einen:
-Netzwerkspezialist/in IT/OT (m/w/d)
-Für den weiteren Ausbau der IT- und Sicherheitslandschaft der Museen suchen wir einen IT-Security- und Netzwerkspezialisten (m/w/d), der aktiv dazu beiträgt, eine moderne, resiliente und zukunftssichere Infrastruktur aufzubauen. In einem Umfeld mit steigenden Anforderungen an Cyber Security, Systemverfügbarkeit und Betriebssicherheit übernehmen Sie eine Schlüsselrolle bei der Absicherung und Weiterentwicklung digitaler und technischer Systeme. Sie arbeiten an der Schnittstelle von IT, OT und Sicherheit und gestalten gemeinsam mit internen Teams und externen Partnern eine robuste und skalierbare Systemlandschaft. Dabei haben Sie die Möglichkeit, nicht nur bestehende Systeme zu betreiben, sondern auch aktiv neue Standards, Architekturen und Sicherheitskonzepte mitzuentwickeln. Die Position bietet Ihnen ein hohes Maß an Gestaltungsspielraum, direkten Einfluss auf die Sicherheitsstrategie der Museen sowie die Chance, sich fachlich in einem dynamischen und sicherheitskritischen Umfeld weiterzuentwickeln. Der Arbeitsort ist Potsdam.
-Ihre Aufgaben:
-Planung, Installation und Wartung der Museumsnetzwerkinfrastruktur
-Verwaltung und Überwachung von relevanten Dienstleistern in den Bereichen Netzwerk und Digitalisierung in den Museen
-Begleitung von externen Audits und Reviews in den Museen
-Monitoring und Troubleshooting von auftretenden Störungen zusammen mit externen Dienstleistern
-Bearbeitung technischer Supportanfragen (Fehleranalyse und Störungsbeseitigung)
-Administration von Server- und Storage-Systemen sowie Fachanwendungen wie Kassensysteme zusammen mit externen Dienstleistern
-Projektunterstützung mit Erstellung von Dokumentationen
-Sie bringen mit:
-abgeschlossenes Informatikstudium (Bachelor, Master oder Diplom) oder alternativ eine abgeschlossene IT-Ausbildung der Fachrichtung Fachinformatik, Systemelektronik, Steuerungstechnik, Informationselektronik mit mehrjähriger Berufserfahrung oder Vergleichbares
-Idealerweise Erfahrung mit Server-Technologien, Virtualisierung und Backups
-Erfahrungen im Aufbau und Funktion von Datennetzwerke/Netzwerkdesign
-Erfahrungen im Bereich IT-Sicherheit
-Kenntnisse im Umgang mit IDS/IPS und SIEM-Systeme
-Kenntnisse in OT-Protokollen (BACnet, FICONET, TwinCat u.a.)
-Idealerweise Kenntnisse im Umgang mit Gefahrenmeldesystemen (BMA, EMA. ÜMA)
-Idealerweise Kenntnisse im Umgang mit Gefahrenmanagementsystemen
-(Winguard, Gemos, u.a.)
-Ausgeprägte Dienstleistungs- und Beratungsorientierung
-Analytische, selbständige und strukturierte Arbeitsweise und Teamfähigkeit
-Sehr gute Deutschkenntnisse (fließend), Englisch von Vorteil
-Offenheit für Weiterbildungen sowie die Bereitschaft, sich in neue Technologien und Systeme einzuarbeiten.
-Klare und verständliche Kommunikation, insbesondere in der Zusammenarbeit mit externen Dienstleistern und internen Teams.
-Fähigkeit, selbstständig zu arbeiten, Aufgaben eigenverantwortlich zu übernehmen und Termine einzuhalten.
-Ausgeprägte Serviceorientierung und Kommunikationsfähigkeit, um Kundenanliegen freundlich und professionell zu bearbeiten.
-Hohes Maß an analytischem Denken sowie die Fähigkeit, technische Probleme effizient zu lösen.
-Wir bieten:
-Eine abwechslungsreiche Arbeitsumgebung mit wechselnden Kunstausstellungen und vielfältigen Events
-Ein motiviertes, freundliches Team und eine inspirierende Arbeitsatmosphäre mit regelmäßigen Mitarbeiterevents und Trainings
-Homeofficemöglichkeit nach Absprache an bis zu zwei Tagen/Woche
-Schlanke Organisationsstruktur und ein generalistisch arbeitendes Team
-Ein umfangreiches Benefitpaket, darunter ein monatliches Mobilitätsbudget, Essenszuschuss, Urban Sports Club Mitgliedschaft und Erholungsbeihilfe
-Ihre aussagekräftige Bewerbung (Anschreiben, Lebenslauf, Zeugniskopien) senden Sie bitte unter Angabe Ihrer Gehaltsvorstellung bis einschließlich
-15.5.2026
-per E-Mail und zusammengefasst in einem PDF-Dokument an
-jobs@museen-plattner.de
-.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 15.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/netzwerkspezialist-in-it-ot-m-w-d/</guid></item><item><title>Leitung Operative Betriebsprozesse (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/leitung-operative-betriebsprozesse-m-w-d/</link><description>Museen der Hasso Plattner Foundation gGmbH, Potsdam Bewerbungsende: 15.05.2026 | Das
-Museum Barberini
-, das Kunstmuseum in Potsdams historischer Mitte, gestiftet von SAP-Gründer und Mäzen Hasso Plattner, ist seit der Eröffnung im Jahr 2017 mit Ausstellungen zum französischen Impressionismus und zu aktuellen Fragestellungen hervorgetreten. Parallel zu den wechselnden Ausstellungen präsentiert das Museum Barberini seit September 2020 dauerhaft die umfangreiche Sammlung des Museumsgründers Hasso Plattner.
-Mit
-DAS MINSK
-. Kunsthaus in Potsdam wurde 2022 ein weiterer kultureller Anziehungspunkt geschaffen. Das Ausstellungshaus baut – ausgehend von Werken der Sammlung Hasso Plattners, die in der DDR entstanden sind – eine Brücke zwischen der Kunst aus der DDR und jüngeren, zeitgenössischen Positionen.
-Beide Museen firmieren unter der gemeinsamen Rechtspersönlichkeit der
-Museen der Hasso Plattner Foundation gGmbH
-(MdHPF). Zur Unterstützung und Weiterentwicklung unserer IT suchen wir engagierte Verstärkung als
-Leitung Operative Betriebsprozesse (m/w/d)
-Für die ganzheitliche Steuerung und Weiterentwicklung der operativen Bereiche der Museen suchen wir eine Leitung Operative Betriebsprozesse, der die zentrale Verantwortung für Sicherheit &amp; Gästemanagement, Haustechnik sowie IT &amp; Digitalisierung übernimmt. In dieser Rolle gestalten Sie maßgeblich die operative Leistungsfähigkeit, Resilienz und Servicequalität der Museen und sorgen für einen reibungslosen und sicheren Betrieb. Sie arbeiten eng mit den Geschäftsführungen der Museen zusammen, an die Sie berichten, und agieren in enger Abstimmung mit der Hasso-Plattner-Foundation (HPF), die die fachliche Weiterentwicklung und strategische Ausrichtung der operativen Funktionen unterstützt. Damit übernehmen Sie eine Schlüsselrolle an der Schnittstelle zwischen operativem Betrieb, strategischer Weiterentwicklung und Governance.
-Die Position bietet ein hohes Maß an Gestaltungsspielraum sowie die Möglichkeit, die Weiterentwicklung zentraler operativer Funktionen in einem dynamischen und sicherheitskritischen Umfeld aktiv mitzugestalten.
-Ihre Aufgaben:
-Gesamtverantwortung für die operativen Bereiche Sicherheit &amp; Gästemanagement, Haustechnik sowie IT &amp; Digitalisierung
-Führung und Weiterentwicklung der jeweiligen Teamleitungen und Bereiche
-Sicherstellung eines stabilen, sicheren und effizienten Betriebs über alle Standorte hinweg
-Weiterentwicklung von Prozessen, Konzepten, Standards und Organisationsstrukturen in
-den operativen Bereichen
-Planung von externen Audits und Reviews in den operativen Bereichen
-Steuerung und Priorisierung bereichsübergreifender operativer Themen und Projekte
-Verantwortung für Servicequalität, Besuchererlebnis und Betriebssicherheit
-Enge Abstimmung mit den Geschäftsführungen der Museen zu operativen Fragestellungen, Risiken und Prioritäten
-Umsetzung und Integration von fachlichen Vorgaben und Standards der HPF
-(insb. in IT &amp; Sicherheit)
-Steuerung und Kontrolle externer Dienstleister in den jeweiligen Bereichen
-Sicherstellung von Compliance, Sicherheitsanforderungen und regulatorischen Vorgaben
-Verantwortung für Krisenmanagement und Eskalationsprozesse im operativen Betrieb
-Weiterentwicklung von Kapazitäten, Strukturen und Kompetenzen in den Teams
-Sie bringen mit:
-Abgeschlossenes Studium im Bereich Ingenieurwesen, IT, Sicherheitsmanagement oder vergleichbare Ausbildungen
-Mehrjährige Erfahrung in einer leitenden operativen Rolle
-(z. B. Operations, Facility, Sicherheit, IT oder vergleichbar)
-Erfahrung in der Führung mehrerer Teams oder Bereiche
-Starkes Verständnis für komplexe Betriebsstrukturen und sicherheitskritische Umfelder
-Erfahrung im Umgang mit externen Dienstleistern und Steuerung von Serviceleistungen
-Fähigkeit, operative Themen mit strategischen Anforderungen zu verbinden
-Hohe Problemlösungskompetenz sowie strukturierte und pragmatische Arbeitsweise
-Sehr gute Kommunikationsfähigkeiten und sicheres Auftreten
-Gute Deutsch- und Englischkenntnisse (fließend in Wort und Schrift)
-Möglichkeit und Freiraum, neue Technologien zu konzeptionieren und einzuführen
-Hohe Verantwortungsbereitschaft und ausgeprägtes Ownership für operative Themen
-Fähigkeit, in komplexen Situationen schnell und klar zu entscheiden
-Ausgeprägte Service- und Lösungsorientierung
-Starker Teamplayer mit Führungsstärke und Integrationsfähigkeit
-Hohes Maß an Integrität und Verantwortungsbewusstsein
-Interesse daran, Organisationen weiterzuentwickeln und nachhaltig zu verbessern
-Das bieten wir:
-Eine abwechslungsreiche Arbeitsumgebung mit wechselnden Kunstausstellungen und vielfältigen Events
-Ein motiviertes, freundliches Team und eine inspirierende Arbeitsatmosphäre mit regelmäßigen Mitarbeiterevents und Trainings
-Homeofficemöglichkeit nach Absprache an bis zu zwei Tagen/Woche
-Schlanke Organisationsstruktur und ein generalistisch arbeitendes Team
-Ein umfangreiches Benefitpaket, darunter ein monatliches Mobilitätsbudget, Essenszuschuss, Urban Sports Club Mitgliedschaft und Erholungsbeihilfe
-Ihre aussagekräftige Bewerbung (Anschreiben, Lebenslauf, Zeugniskopien) senden Sie bitte unter Angabe Ihrer Gehaltsvorstellung bis einschließlich
-15.5.2026
-per E-Mail und zusammengefasst in einem PDF-Dokument an
-jobs@museen-plattner.de
-.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 15.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/leitung-operative-betriebsprozesse-m-w-d/</guid></item><item><title>Restaurator/in (w/m/d) für zeitgenössische Kunst</title><link>https://www.museumsbund.de/stellenangebote/restaurator-in-w-m-d-fuer-zeitgenoessische-kunst/</link><description>Kunstmuseum Wolfsburg, Wolfsburg Bewerbungsende: 17.05.2026 | Das
-Kunstmuseum Wolfsburg
-ist mit seiner inhaltlichen und programmatischen Arbeit an dem gut vernetzten Standort zwischen Berlin, Braunschweig und Hannover international ausgerichtet. Es ist ein Ort der kulturellen Bildung mit faszinierenden künstlerischen Positionen und Themen von globaler Relevanz, mit einem Ausstellungsschwerpunkt in der Kunst der Gegenwart, berücksichtigt aber auch Positionen der Klassischen Moderne sowie transdisziplinäre Thematiken, um größere kulturelle Zusammenhänge zu erschließen. Ausgangspunkte für die wissenschaftlich-kuratorisch anspruchsvollen Ausstellungsformate sind sowohl verschiedene diskursorientierte Programmlinien als auch die hochkarätige Sammlung. Das Kunstmuseum Wolfsburg ist ein Identifikationsort für die Bürger*innen der Stadt und Region und spricht darüber hinaus auch internationale Besucher*innen an.
-Das Kunstmuseum Wolfsburg sucht zur Verstärkung des Teams zum nächstmöglichen Zeitpunkt
-eine/n Restaurator/in (w/m/d) für zeitgenössische Kunst in Teilzeit (20 Stunden) befristet auf 2 Jahre gem.
-§ 14 Abs.2 TzBfG
-Ihre Aufgaben
-Konservatorische und restauratorische Bearbeitung der Sammlungsobjekte mit Neuzugängen, sowie die Erarbeitung von werkspezifischen Bewahrungskonzepten
-Schriftliche und visuelle Dokumentation von Sammlungswerken in Form von Protokollen, Manuals und Iterationsberichten.
-Planung und Umsetzung von Maßnahmen im Bereich IPM – Integrated Pest Management, sowie andere präventive Maßnahmen
-Ihr Profil
-Sie haben einen wissenschaftlichen Hochschulabschluss im Fach Konservierung, Restaurierung, Kunsttechnologie und/oder Konservierungswissenschaft (Diplom oder Master) und bereits Praxiserfahrung bei der Konservierung und Restaurierung von zeitgenössischen Kunstwerken sowie Kenntnisse zu den vielfältigen Techniken und Materialien der Modernen und zeitgenössischer Kunst.
-Sie besitzen eine ausgeprägte Teamfähigkeit und Verantwortungsbewusstsein, eine hochgradig strukturierte und ergebnisorientierte Arbeitsweise und sind auch unter Termindruck belastbar, flexibel und zuverlässig
-Sie sind (international) vernetzt mit Museen, Forschungseinrichtungen und dem Fachkollegium, und haben gute Kenntnisse von MS-Office und wünschenswerterweise bereits Erfahrungen mit Museumsdatenbanken, insbesondere MuseumPlus.
-Verhandlungssichere Englischkenntnisse in Wort und Schrift sowie einen Führerschein Klasse B setzen wir voraus.
-Wir bieten
-eine gute Arbeitsatmosphäre in einem erfahrenen, kollegialen und kreativen Team
-die Möglichkeit zur flexiblen Arbeitszeitgestaltung
-ICOM-Mitgliedschaft
-betriebliche Gesundheitsangebote
-dreißig Urlaubstage / Jahr (anteilig)
-übertarifliche Vergütung mit 13 Gehältern / Jahr
-Wenn Sie über die genannten Qualifikationen verfügen und Lust haben, Teil unseres Teams des weltweit vernetzten Kunstmuseum Wolfsburg zu werden, erwarten wir bis zum
-17.05.2026
-gern Ihre aussagekräftigen Bewerbungsunterlagen an den Geschäftsführer Herrn Otmar Böhmer. Fassen Sie Ihre Unterlagen (inkl. Arbeitszeugnissen) in
-einer
-PDF-Datei (max. 5 MB) zusammen und benennen diese folgendermaßen:
-Nachname_Vorname_Bewerbung_RESTAURIERUNG_KMW.pdf. Senden Sie die Datei per Mail an Frau Tanja Rosenberg:
-rosenberg@kunstmuseum.de
-Das Kunstmuseum Wolfsburg will Diversität am Museum stärken und unseren Besucher*innen möglichst vielfältige Perspektiven auf die Kunst und das Museum eröffnen. Wir begrüßen daher Bewerbungen von Menschen aller Geschlechter, Nationalitäten und von People of Colour sowie von Bewerber*innen mit Flucht- oder familiärer Migrationsgeschichte.
-In unserem Team arbeiten wir integrativ sowohl nach innen als auch nach außen. Wir sehen es vor, körperlich eingeschränkte Menschen darin zu unterstützen ihren Berufswunsch zu erfüllen und ihren Arbeitsplatz zu erhalten.
-Mit der Übersendung der Bewerbungsunterlagen stimmen Sie der Erhebung und Verarbeitung Ihrer personenbezogenen Daten im Zusammenhang mit diesem Personalauswahlverfahren zu. Dies schließt die Übermittlung der Daten an nach Rechtsvorschriften zu beteiligenden Personen oder Gremien ein.
-Die Daten werden nach dem vollständigen Abschluss des Bewerbungsverfahrens vernichtet.
-Eine Rücksendung per Post eingereichter Bewerbungen erfolgt nicht. Bewerbungs- und Reisekosten können nicht erstattet oder übernommen werden.
-Ausschreibung und Einstellung erfolgen unter gesetzlicher Berücksichtigung von SGB IX und AGG.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 17.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/restaurator-in-w-m-d-fuer-zeitgenoessische-kunst/</guid></item><item><title>Mitarbeiter*in im Bereich Haustechnik (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiterin-im-bereich-haustechnik-m-w-d/</link><description>Stiftung Deutsches Technikmuseum Berlin (SDTB), Berlin Bewerbungsende: 26.04.2026 | Das Deutsche Technikmuseum- Einfach für Dich
-Wir, die Stiftung Deutsches Technikmuseum Berlin (SDTB), gehören zu den führenden technikhistorischen Einrichtungen weltweit. Auf über 100.000 Quadratmetern Fläche, im Zentrum Berlins, direkt am Gleisdreieck gelegen, bieten wir auf 28.500 Quadratmetern Ausstellungsfläche eine erlebnisreiche Entdeckungsreise durch die Kulturgeschichte der Technik. Im dazugehörigen Science Center Spectrum laden auf 2.000 Quadratmetern 150 Experimente aus Naturwissenschaft und Technik zum Mitmachen ein. Ein vielfältiges Bildungs- und Veranstaltungsprogramm, das historische Archiv und eine umfangreiche Bibliothek ergänzen das Angebot.
-Mit über 700.000 Besuchenden pro Jahr, zählen wir zu den beliebtesten Museen Berlins und sind für Berliner*innen wie für Touristen gleichermaßen attraktiv.
-Wir verstehen uns als Plattform für die kritische Auseinandersetzung mit Technik, ihrer Geschichte, Gegenwart und Zukunft. Gleichzeitig sind wir ein Ort, an dem Technik gemeinsam und spielerisch erlebt, ausprobiert, verstanden und diskutiert werden kann.
-Als Museum übernehmen wir Verantwortung für die Weiterentwicklung unserer Gesellschaft und verstehen uns als verlässliche, wertschätzende Institution. Bei uns sind 180 Mitarbeiterinnen und Mitarbeiter beschäftigt, die gemeinsam an
-diesen Aufgaben arbeiten. Wenn Sie mehr über uns erfahren wollen, besuchen Sie uns gerne auf unserer Homepage: www.technikmuseum.berlin oder folgen Sie uns auf Instagram und Facebook.
-Die Stiftung Deutsches Technikmuseum Berlin sucht eine*n
-Mitarbeiter*in im Bereich Haustechnik (m/w/d)
-in Vollzeit, befristet für 2 Jahre, mit der Option der Entfristung.
-Ihre Aufgaben
-Sie überwachen und steuern die versorgungstechnischen Anlagen
-Sie bedienen unsere Anlagen und leiten die Präventiv- und Notmaßnahmen ein
-Sie betreuen und unterweisen sämtliche Fremdfirmen
-Sie unterstützen beim Flächen- und Gebäudemanagement und infrastrukturelle Leistungen
-Sie erkennen Mängel selbst, beheben diese bzw. beaufsichtigen die bestellten Firmen bei der fachgerechten Beseitigung der Mängel
-Sie sind eigenverantwortlich für die Bereitstellung der zur Aufrechterhaltung des Museumsbetriebes notwendigen Materialien, u.a. Verbrauchs u. Gebrauchsmitteln zuständig
-Sie vertreten Kollegen im Hausmeisterdienst, bei Krankheit und Urlaub
-Die Anforderungen
-Sie haben eine erfolgreich abgeschlossene Ausbildung in einem anerkannten Ausbildungsberuf mit einer Ausbildungsdauer von drei Jahren sowie mehrjährige Berufserfahrungen in einem handwerklichen Beruf
-Sie verfügen über gute Kenntnisse von modernen haustechnischen Anlagen wie Klima, Heizung u. Lüftung, Brandmelde u. Einbruchmelde, Feuerlösch- und Aufzugsanlagen sowie Erfahrungen in der Gebäudeleittechnik und Gefahrenmanagementsystemen
-Sie besitzen den Führerschein Klasse B
-Sie verfügen über die Bereitschaft zum Schichtdienst und Rufbereitschaft auch an Wochenenden und Feiertagen
-Sie sind zuverlässig, belastbar, arbeiten selbständig und teamfähig
-Sie besitzen ein gepflegtes Erscheinungsbild und gute Umgangsformen
-Was wir Ihnen bieten
-Ein vielseitiges Aufgabenfeld mit großer Eigenverantwortlichkeit. Unsere innovative Unternehmenskultur mit flachen Hierarchien und schnellen Entscheidungen bietet Gestaltungsmöglichkeiten und optimale Voraussetzungen für Ihre berufliche und persönliche Entwicklung
-Ein Arbeitsumfeld, in dem großer Wert auf partnerschaftliches Arbeiten gelegt und die berufliche Entwicklung der Mitarbeiter*innen aktiv gefördert wird
-Ein dynamisches und ambitioniertes Team von Mitarbeiter*innen eine offene, reflektierte Gesprächskultur, starken Teamgeist und einen respektvollen Umgang miteinander
-Eine tarifliche Vergütung nach TV-L (Entgeltgruppe 5) mit attraktiven Sozialleistungen, sowie die im öffentlichen Dienst übliche zusätzliche Altersvorsorge (VBL)
-Sehr gute Erreichbarkeit mit öffentlichen Verkehrsmitteln (U-Bahn Stationen Gleisdreieck/Möckernbrücke), sowie kostenfreie Parkmöglichkeiten
-Teilzeitbeschäftigung ist grundsätzlich möglich
-Die Stiftung Deutsches Technikmuseum Berlin legt großen Wert auf Vielfalt. Wir freuen uns über jede Bewerbung, unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und geschlechtlicher Identität. Schwerbehinderte Menschen werden bei gleicher Qualifikation und Eignung bevorzugt berücksichtigt. Die berufliche Gleichstellung von Frauen und Männern wird gewährleistet.
-Haben wir Ihr Interesse geweckt?
-Dann bewerben Sie sich unter
-https://technikmuseum-portal.rexx-systems.com/de
-bis zum 26.04.2026.
-Bei Fragen steht Ihnen unser Team des Personalwesens unter bewerbung@technikmuseum.berlin gerne zur Verfügung.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 26.04.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiterin-im-bereich-haustechnik-m-w-d/</guid></item><item><title>Museolog:in Geologie und Zoologie (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/museologin-geologie-und-zoologie-m-w-d/</link><description>Stiftung Stadtmuseum Berlin, Berlin Bewerbungsende: 03.05.2026 | Die Stiftung Stadtmuseum Berlin sucht zum nächstmöglichen Zeitpunkt,
-unbefristet
-und in
-Vollzeit
-(39 Wochenstunden) oder
-Teilzeit
-, eine:n
-Museolog:in Geologie und Zoologie (m/w/d)
-Entgeltgruppe 9b TVöD-V VKA
-Stiftung Stadtmuseum Berlin
-Das Stadtmuseum Berlin verbindet Vergangenheit, Gegenwart und Zukunft – dabei stellen wir die Menschen der diversen Stadtgesellschaft und ihre Geschichten in den Mittelpunkt. Unsere Sammlungen, Ausstellungen und Programme bieten hierfür in sechs Museen digital vielfältige Zugänge. So ermöglichen wir neue Erkenntnisse und leisten einen Beitrag zum Miteinander und Zusammenhalt in einem offenen und vielstimmigen Berlin.
-Das Team und Ihr Arbeitsbereich
-Die Sammlungen tragen zum Erhalt und zur Erschließung des kulturellen Erbes Berlins bei. Sie bilden ein Archiv für die Historie von Berliner Unternehmen und Gewerbebetrieben sowie für die persönlichen Geschichten der Berliner:innen und beleuchten exemplarisch die Stadtnatur. Das Fachteam „Wirtschaft, Politik und Wissenschaft“ betreut ein facettenreiches Spektrum von Sammlungen historischer und gegenwärtiger Objekte zur Berliner Stadtgeschichte.
-Das im Zentraldepot Spandau ansässige Fachteam „Wirtschaft, Politik und Wissenschaft” umfasst die Sammlungsverantwortlichen der Sammlungen Dokumente, Keramik, Möbel, Mode, Militaria und Numismatik
-sowie der Kompetenzstelle Dekolonialisierung. Das freundliche, engagierte und kompetente Team freut sich über entsprechende Unterstützung bei der Betreuung der naturwissenschaftlichen Sammlungen.
-Ihre Aufgaben
-Mitarbeit im Sammlungsbereich Wirtschaft, Politik und Wissenschaft mit Schwerpunkt auf den Sammlungen Geologie und Zoologie
-Museologische Betreuung der Sammlungen:
-Fortführung der Inventarisierung und Dokumentation in der Museumsdatenbank
-Recherche zu Objekten der genannten Sammlungen und zur Sammlungsgeschichte
-Mitarbeit an der Planung und Durchführung eines langfristigen digitalen Erschließungskonzeptes für die genannten Sammlungen
-konservatorisches Monitoring der Sammlungen sowie material- und objektgerechte Strukturierung der Depots in arbeitsteiliger Zusammenarbeit mit Sammlungsmanagement und Restaurierung
-Vorbereitung von Erwerbungsangeboten in Zusammenarbeit mit den zuständigen Sammlungskurator:innen zur Entscheidung
-Betreuung von Nutzer:innen der Sammlungen und Bereitstellung von Informationen und Objekten für die interne und externe Sammlungsnutzung
-Mitarbeit bei der Planung und Umsetzung stadtökologischer, geologischer und zoologischer Vermittlungsformate, insbesondere im Märkischen Museum und im Stadtraum
-enge Zusammenarbeit mit dem:der Kurator:in Stadtökologie bei der Entwicklung des Themenschwerpunkts Stadtökologie im Märkischen Museum
-Verfassen von Kurztexten
-Mitarbeit an der Neubetrachtung von Sammlungsbeständen
-Mitarbeit bei der Entwicklung einer diversitätssensiblen Dokumentation von Objekten/Beständen
-Ihr Profil
-entweder ein abgeschlossenes naturwissenschaftliches Hochschulstudium (Bachelor) mit Schwerpunkt Zoologie und/oder Geologie
-oder ein abgeschlossenes Hochschulstudium der Museologie bzw. Museumskunde (Bachelor) mit nachgewiesener mehrjähriger Praxiserfahrung in naturkundlichen Sammlungen
-oder eine abgeschlossene Ausbildung als Technische:r Assistent:in für naturkundliche Museen und Forschungsinstitute mit mindestens dreijähriger einschlägiger Berufserfahrung
-sehr gute Kenntnisse der naturräumlichen Grundlagen sowie der Naturgeschichte, der Geologie und der Artenvielfalt auf dem Gebiet Berlins und ihrer Entwicklung
-fundierte Kenntnisse der Sammel- und Präparationstechnik, Sammlungspflege und -dokumentation sowie Labortechniken
-Rechercheerfahrungen sowie Kenntnisse von Archiven sowie Erfahrungen im Umgang mit Museumsdatenbanken
-fundierte Kenntnisse und Erfahrungen in der Pflege umfangreicher und heterogener naturkundlicher Sammlungsbestände sowie in der fachgerechten Unterbringung der Objekte
-Kenntnisse der deutschen Sprache in Wort und Schrift, mindestens auf Niveau C1
-Kenntnisse der englischen Sprache, mindestens auf Niveau B2
-Wünschenswert sind:
-Kenntnisse einer weiteren Sprache
-Anforderungen:
-Interesse an der Neubetrachtung von Sammlungsobjekten
-sehr gute Kommunikations- und Teamfähigkeit in Verbindung mit Kolleg:innen und Nutzer:innen
-Diversitätskompetenz sowie migrationsgesellschaftliche Kompetenz
-Bereitschaft zu Weiterbildungen im Fachgebiet
-Die Arbeit an den Sammlungsobjekten kann zu Kontakt mit Staub, Holzschutzmitteln oder mikrobiellen Partikeln führen, für die gegebenenfalls besondere Schutzmaßnahmen erforderlich sind.
-Zudem ist die Arbeit mit dem selbständigen Bewegen teilweise schwerer Objekte sowie der Nutzung von Leitern verbunden.
-Was wir Ihnen bieten
-eine interessante und abwechslungsreiche Tätigkeit im öffentlichen Dienst
-die Möglichkeit, Ihre persönlichen Kompetenzen weiterzuentwickeln, indem Sie unsere Angebote der fachlichen und außerfachlichen Fort- und Weiterbildung nutzen
-Vereinbarkeit von Beruf und Familie durch flexible Arbeitszeitgestaltung und die Möglichkeit der Teilzeitbeschäftigung im Rahmen der dienstlichen Notwendigkeiten
-tarifliche Bezahlung bis zur Entgeltgruppe 9b TVöD-V VKA (Tarifvertrag des öffentlichen Dienstes – Vereinigung Kommunaler Arbeitgeberverbände) bei Vorliegen der persönlichen Voraussetzungen (die Stufen-Zuordnung erfolgt unter Berücksichtigung Ihrer einschlägigen Erfahrung)
-30 Tage Jahresurlaub, Heiligabend und Silvester zusätzlich arbeitsfrei
-betriebliche Altersvorsorge über die Versorgungsanstalt des Bundes und der Länder (VBL)
-Jahressonderzahlung zur Gesundheitsförderung
-digital unterstützte, gesundheitsfördernde Bewegungspausen
-einen Arbeitsplatz in Berlin Spandau
-die Möglichkeit mobilen Arbeitens
-Zuschuss zum Firmenticket für den öffentlichen Nahverkehr
-Wen wir besonders zur Bewerbung auffordern
-Für die Stiftung Stadtmuseum Berlin hat eine diskriminierungsfreie Arbeitsumgebung absolute Priorität, weshalb wir uns ausdrücklich auch über Bewerber:innen marginalisierter Perspektiven freuen.
-Wir gewährleisten die Gleichstellung von Frauen und Männern nach dem Berliner Landesgleichstellungsgesetz. Bewerbungen von Menschen mit Migrationshintergrund, die die genannten Anforderungen erfüllen, sind ausdrücklich erwünscht. Bei gleicher Eignung und Qualifikation werden Bewerbungen von anerkannten Schwerbehinderten bevorzugt berücksichtigt (bitte Nachweis beifügen).
-Wie Sie sich bewerben
-Bitte bewerben Sie sich bis zum
-3.5.2026
-mit aussagekräftigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Zeugnisse sowie Ihr frühstmögliches Eintrittsdatum) ausschließlich über unsere Online-Bewerbungsplattform.
-Im Rahmen des Bewerbungsverfahrens werden wir Ihre personenbezogenen Daten erheben. Diese werden von uns und einer beteiligten, externen Personalberatung entsprechend der DSGVO verarbeitet und genutzt. Mit der Abgabe Ihrer Bewerbung stimmen Sie dem zu.
-Durch die Bewerbung entstehende Reisekosten werden von uns nicht erstattet.
-Wir freuen uns auf Ihre Bewerbung!
-Jetzt bewerben
-Kontakt
-Stiftung Stadtmuseum Berlin
-Fachteam Personal
-bewerbung@stadtmuseum.de
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 03.05.2026</description><pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/museologin-geologie-und-zoologie-m-w-d/</guid></item></channel></rss>
+Bewerbungsende: 15.05.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/administrator-support-it-infrastruktur-office-m-w-d/</guid></item></channel></rss>
