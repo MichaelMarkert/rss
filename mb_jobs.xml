@@ -1,5 +1,281 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>AI Engineer (m/f/d) for Method Development and Digitization for Collection-based Research</title><link>https://www.museumsbund.de/stellenangebote/ai-engineer-m-f-d-for-method-development-and-digitization-for-collection-based-research/</link><description>Senckenberg Gesellschaft für Naturforschung, Jena Bewerbungsende: 02.08.2026 | Senckenberg – Leibniz Institution for Biodiversity and Earth System Research (SGN), headquartered in Frankfurt am Main, is seeking to fill the following position in the Research Group Digital Collectomics at the Senckenberg Institute for Plant Form and Function starting as soon as possible
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Postdoc (m/f/d) for AI-driven Method Development for Collection-based Research</title><link>https://www.museumsbund.de/stellenangebote/postdoc-m-f-d-for-ai-driven-method-development-for-collection-based-research/</link><description>Senckenberg Gesellschaft für Naturforschung, Jena Bewerbungsende: 02.08.2026 | Senckenberg – Leibniz Institution for Biodiversity and Earth System Research (SGN), headquartered in Frankfurt am Main, is seeking to fill the following position in the Research Group Digital Collectomics at the Senckenberg Institute for Plant Form and Function starting as soon as possible
+Postdoc (m/f/d) for AI-driven Method Development for Collection-based Research
+Location: Jena, Germany
+Employment scope: Full-time (40 hours/ week) / part-time options are available
+Type of contract: The contract shall start at the earliest possible date. The position is limited to 2 years
+Remuneration: Collective agreement of the German Länder, TV-L E 13
+The Senckenberg Society for Nature Research is a member of the Leibniz Association and has been investigating the “Earth System” worldwide for more than 200 years, examining the past, analysing the present, and developing projections for the future.
+We conduct integrative geobiodiversity research with the aim of understanding nature in all its complexity and diversity in order to preserve it as the foundation of life for future generations and to ensure its sustainable use. Across eight institutes and five research stations throughout Germany, scientists from more than 40 countries conduct research at the highest international level.
+The Senckenberg Institute for Plant Form and Function at Friedrich Schiller University Jena is the eighth and most recently founded Senckenberg institute. Located in the vibrant university city of Jena in Thuringia and forming part of an international network, it brings together the renowned Herbarium Haussknecht with cutting-edge research on biodiversity change in the Anthropocene.
+The Junior Research Group Digital Collectomics deals with the development of automated methods revolving around the extraction of information from collections, with a strong focus on herbaria, as well as the digitization process and public display thereof.
+We leverage the latest developments in computer vision and AI research to create broadly applicable methods that can deal with small to no available training data. Therefore, our research focuses primarily on foundation models, few- and zero-shot methods and domain generalization. In interdisciplinary cooperation with the local Herbarium Haussknecht and other partners all over Senckenberg, we create cutting-edge approaches for publication in high-ranked computer vision, machine learning and interdisciplinary venues with the ambition to convert the novel methods into directly applicable tools usable in collection-based research at Senckenberg and beyond.
+The selected candidate will research novel methods in the areas of foundation models, few- and zero-shot methods and domain generalization in established team projects and novel projects in order to advance collection-based research.
+Ihre Aufgaben
+Work in (team) projects by contributing, co-developing, executing, implementing and evaluating ideas for novel AI-driven image and data analysis approaches for collection data
+Establishment of own projects, research questions and approaches for image and data analysis of collection data with focus on broadly applicable methods able to deal with little available data (e.g., zero-shot, few-shot or weakly supervised approaches and foundation models)
+Publication and presentation of research results in high-ranked machine learning, computer vision and interdisciplinary venues
+Curation and archiving of datasets
+Keeping up with current developments in computer vision and machine learning research
+Support of funding acquisition and establishment of the new group at Senckenberg, including participation in outreach events
+Advising of colleagues and students, including supervision of bachelor’s and master’s theses
+Ihr Profil
+A doctoral degree (or in the stage of its finalization) in Computer Science or a related subject with a focus on computer vision and/or deep learning, ideally with interdisciplinary experience, or a doctoral degree (or in the stage of its finalization) in Biology with strong computer vision and deep learning background (application or research)
+Experience with Current methods, tools, languages and frameworks in computer vision and deep learning (e.g., Linux, Bash, Python, Pytorch, Gradio, Numpy, Pandas, Huggingface, Ollama) and LLMs and foundation models in general
+Good organizational abilities, reliability and efficiency
+An open mind-set, curiosity and a strong motivation to excel in science
+A collaborative attitude and good communication skills
+Excellent written and oral communication and presentation skills in English
+Desirable Skills:
+German language skills
+Experience with computing on clusters
+Experience with funding-acquisition
+Unser Angebot
+An attractive, responsible and challenging position in a globally recognized research institution with motivated and professional colleagues
+A vibrant, international team of scientists in Jena and all of Senckenberg with collection-based research programs, focusing on understanding the Anthropocene Biodiversity Change
+Excellent infrastructure and collaboration opportunities at SIP embedded in a lively research environment in Senckenberg and the Friedrich Schiller University Jena
+Opportunities to participate in teaching and outreach activities, e.g. at Friedrich Schiller University Jena
+Flexible working hours – mobile working options – employee ID card with free admis-sion to the Senckenberg museums – annual special payment – collectively agreed vacation entitlement – company pension plan (ZVK)
+Senckenberg is committed to diversity. We benefit from the different expertise, perspectives and personalities of our staff and welcome every application from qualified candidates, irrespective of age, gender, ethnic or cultural origin, religion and ideology, sexual orientation and identity or disability. Applicants with a severe disability will be given special consideration in case of equal suitability. Senckenberg actively supports the compatibility of work and family and places great emphasis on an equal and inclusive work culture.
+Ihre Bewerbung
+We look forward to receiving your application. Please upload your comprehensive documentation – consolidated into a single PDF file – via our online application portal by 02 August 2026:
+– A letter of motivation
+– A CV
+– Publication list and academic achievements
+– Copies of certificates and diplomas
+Apply now via: https://senckenberg.career.softgarden.de/
+Please note that interviews are planned to take place from August 25th onwards. We will provide further details in due course.
+Join us in advancing ecological research through innovative technology! We look forward to your application!
+Senckenberg Gesellschaft für Naturforschung
+Senckenberganlage 25
+60325 Frankfurt am Main
+For specific questions about this role, please contact Dr. Matthias Körschens at matthias.koerschens@senckenberg.de.
+For specific questions regarding the application process, please contact recruiting@senckenberg.de.
+For data protection information on the processing of personal data as part of the application and selection process, please refer to the privacy policy on our homepage at https://www.senckenberg.de/en/imprint/
+For further information about the Senckenberg Gesellschaft für Naturforschung please visit www.senckenberg.de
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 02.08.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/postdoc-m-f-d-for-ai-driven-method-development-for-collection-based-research/</guid></item><item><title>Verantwortlichen (m/w/d) für die Organisation und Verwaltung des Edwin Scharff Museums</title><link>https://www.museumsbund.de/stellenangebote/verantwortlichen-m-w-d-fuer-die-organisation-und-verwaltung-des-edwin-scharff-museums/</link><description>Edwin Scharff Museum / Städtische Sammlungen Stadt Neu-Ulm, Neu-Ulm Bewerbungsende: 19.07.2026 | Die Stadt Neu-Ulm sucht zum nächstmöglichen Zeitpunkt einen Verantwortlichen (m/w/d) für die Organisation und Verwaltung des Edwin Scharff Museums.
+Ihre Aufgaben
+Schnittstelle zwischen dem kulturellen Aufgabenbereich des Museums, der städtischen Verwaltung und dem Museumsbetrieb
+Management und logistische Steuerung der Kunstausstellungen des Museums einschließlich Abstimmung mit Leihgebern, Kooperationspartnern und Dienstleistern
+Budgetplanung und – überwachung in Abstimmung mit der Museumsleitung
+Koordination des Arbeitsbereichs Museumskasse einschließlich Backoffice
+Mitgestaltung des Organisationsentwicklungsprozesses mit Fokus auf Strukturen, Workflow und Organisationskultur
+Abteilungsinterne Verantwortung für Rechts- und Sicherheitsfragen in Zusammenarbeit mit den jeweiligen städtischen Abteilungen (z. B. Kämmerei, Stadtkasse, Steueramt, etc.)
+Koordination der Zusammenarbeit mit Betreibern gewerblicher Art, Drittfirmen und Kooperationspartnern
+Museumsspezifische Ausschreibungen und Vergaben in Zusammenarbeit mit der städtischen Vergabestelle
+Abrechnung und Unterstützung bei der Beantragung von Fördermitteln sowie Drittmittelmanagement
+Die Stelle beinhaltet auch die Position der stellvertretenden Leitung des Edwin Scharff Museums und der städtischen Sammlungen
+Ihr Profil
+Abgeschlossenes Hochschulstudium (Uni/Hochschule) in Kulturmanagement oder Betriebswirtschaft, Verwaltungswissenschaften oder vergleichbare Qualifikation und Berufserfahrung im kulturellen Bereich
+Betriebswirtschaftliche und verwaltungstechnische Kenntnisse
+Hohe Organisationsfähigkeit
+Selbständiges Arbeiten
+Gute schriftliche und mündliche Ausdrucksfähigkeit
+Verständnis und Begeisterung für die Kultur – und Museumarbeit
+Solide IT-Kenntnisse
+Flexibilität und Teamfähigkeit
+Erfahrung in der Verwaltung einer Kulturinstitution sowie kommunale Verwaltungskenntnisse und -erfahrung sind von Vorteil
+Unser Angebot
+Eine Eingruppierung in der Entgeltgruppe 12 TVöD (von 3.170,25 € bis 4.953,98 € je nach einschlägiger Berufserfahrung bei 28 Wochenstunden)
+Mitarbeit in einem engagierten und kollegialen Museumsteam
+Flexible Arbeitszeiten (Gleitzeitmodell) und Telearbeit im Rahmen der dienstlichen Möglichkeiten
+Tarifliche Jahressonderzahlung (Weihnachtsgeld), leistungsorientierte Bezahlung
+Betriebliche Altersvorsorge (Zusatzversorgung)
+Vergünstigtes Jobticket für die Nutzung öffentlicher Nahverkehrsmittel sowie Gewährung eines Zuschusses
+Interne und externe Fort- und Weiterbildungsmöglichkeiten
+Gesundheitsförderung durch ein umfassendes Gesundheitsprogramm
+Krisensicherer Arbeitsplatz
+Ihre Bewerbung
+Ansprechpartner:
+Personalrechtliche Fragen:
+Herr Folcz, Abteilung Personaldienste
+Tel.-Nr. 0731/7050-6510
+Fachliche Fragen:
+Frau Dr. Gutbrod, Leitung Museum
+Tel.-Nr. 0731/7050-2520
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 19.07.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/verantwortlichen-m-w-d-fuer-die-organisation-und-verwaltung-des-edwin-scharff-museums/</guid></item><item><title>Sammlungsleiter/in Deutsche, Holländische und Flämische Malerei vor 1800 (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/sammlungsleiter-in-deutsche-hollaendische-und-flaemische-malerei-vor-1800-m-w-d/</link><description>Städel Museum, Frankfurt a. M. Bewerbungsende: 06.09.2026 | Das Städel Museum ist eines der bedeutendsten und bekanntesten Kunstmuseen in Deutschland. Mit seinem reichen Bestand präsentiert es einen Überblick über 700 Jahre Kunst, vom Mittelalter bis zur Gegenwart.
+Für die Abteilung Deutsche, Holländische und Flämische Malerei vor 1800 im Bereich Programmatik, künstlerische Leitung und wissenschaftliche Angelegenheiten suchen wir zum 1. Juli 2027 einen/eine Sammlungsleiter/in Deutsche, Holländische und Flämische Malerei vor 1800 (m/w/d) unbefristet in Vollzeit (39 Stunden).
+Ihre Aufgaben
+Fachliche Verantwortung für den Sammlungsbereich nordalpine Malerei vor 1800 sowie kuratorische Betreuung des Sammlungsbestands
+Konzeption, Planung und Umsetzung von Sonderausstellungen und Sammlungspräsentationen
+Wissenschaftliche Erforschung und Erweiterung sowie digitale Dokumentation des Sammlungsbestands
+Entwicklung und Organisation von neuen Forschungsvorhaben sowie Fortsetzung der wissenschaftlichen Arbeit am Sammlungsbestand
+Verfassen von Fachtexten sowie Erstellung und Betreuung von Ausstellungskatalogen und weiteren Publikationen
+Übernahme repräsentativer Aufgaben
+Unterstützung bei der Erstellung von Vermittlungsangeboten
+Fachliche Führung von Mitarbeitern der Abteilung sowie Budgetverantwortung
+Alle Tätigkeiten erfolgen in enger Abstimmung mit dem Direktor des Städel Museums.
+Ihr Profil
+Sie haben ein abgeschlossenes Studium der Kunstgeschichte, idealerweise mit Promotion
+Sie verfügen über nachgewiesene, mehrjährige Berufserfahrung als Kurator/-in, Kustos oder wissenschaftlicher Mitarbeiter im Museum oder einer Kunsteinrichtung; internationale Erfahrung ist von Vorteil
+Sie haben fundierte Kenntnisse der europäischen Kunstgeschichte mit Schwerpunkt auf die nordalpine Kunst vor 1800 und sind erfahren in der Umsetzung von publikumswirksamen Sonderausstellungen
+Sie haben Freude an der Kommunikation mit Förderern und Mäzenen
+Sie besitzen hervorragende Sprachkenntnisse in Englisch und weiterer fachspezifischer Fremdsprachen, überdurchschnittliche Text- und Sprachsicherheit sowie Erfahrung im Umgang mit Museumsdatenbanken, vorzugsweise Axiell Collections
+Sie arbeiten strukturiert, gern im Team, sind kommunikationsstark und haben ein gewinnendes, positives Auftreten in Geschäftsbeziehungen
+Sie sind hoch motiviert und verfügen über Eigeninitiative
+Unser Angebot
+Das Städel Museum bietet Ihnen als führender Arbeitgeber in der deutschen Museumslandschaft eine berufliche Perspektive, in der Sie Ihre Fähigkeiten in ein abwechslungsreiches Aufgabenfeld einbringen können. Das erwartet Sie:
+Vielfältige Tätigkeitsbereiche in einem dynamischen Arbeitsumfeld einer privaten Stiftung sowie ein internationales Netzwerk
+Attraktive und faire Vergütung entsprechend eines innerbetrieblichen Vergütungssystems
+Betriebliche Altersvorsorge sowie vermögenswirksame Leistungen
+Moderne Arbeitsplätze in historischen Museumsgebäuden direkt am Main
+Vergünstigtes Jobticket, kostenfreie Parkplätze und Ladestationen für E-Bikes und E-Autos
+Individuelle Förderung durch interne und externe Weiterbildung
+Flexible Arbeitszeiten mit der Option auf mobiles Arbeiten (je nach Arbeitsbereich)
+Zahlreiche, attraktive Vergünstigungen, wie Mitarbeiter-Rabatte in unseren Museumsshops, in den Cafés und bei unseren Führungen, Atelierkursen etc.
+Einladungen zu Mitarbeiterführungen der einzelnen Sonderausstellungen sowie zu Ausstellungseröffnungen und hausinternen Veranstaltungen
+Möglichkeit einer Wellpass-Mitgliedschaft
+Ihre Bewerbung
+Sind Sie interessiert? Dann schicken Sie uns bitte Ihre aussagekräftigen Bewerbungsunterlagen bis zum 06.09.2026 an personal@staedelmuseum.de. Bitte haben Sie Verständnis dafür, dass wir von der Rücksendung von Papierbewerbungen absehen.
+Unterstützung des Bewerbungsverfahrens durch externe Personalberatung
+Zur Unterstützung des Bewerbungsverfahrens arbeiten wir mit der Personalberatung Odgers zusammen. In diesem Zusammenhang können personenbezogene Daten, die Sie uns im Rahmen Ihrer Bewerbung mitteilen, an Odgers übermittelt und dort zum Zweck der Unterstützung des Bewerbungs- und Auswahlverfahrens verarbeitet werden.
+Die Verarbeitung erfolgt ausschließlich zum Zweck der Durchführung des Bewerbungsverfahrens sowie der Entscheidung über die Begründung eines Beschäftigungsverhältnisses. Rechtsgrundlage der Verarbeitung ist Art. 6 Abs. 1 lit. b DSGVO i. V. m. § 26 BDSG.
+Odgers ist zur Vertraulichkeit sowie zur Einhaltung der datenschutzrechtlichen Anforderungen verpflichtet. Eine Verarbeitung zu anderen Zwecken erfolgt nur, soweit hierfür eine gesonderte Rechtsgrundlage besteht oder eine entsprechende Einwilligung vorliegt.
+Ihre Bewerbungsdaten werden nur so lange gespeichert, wie dies für die Durchführung des Bewerbungsverfahrens sowie zur Erfüllung gesetzlicher Nachweis- und Aufbewahrungspflichten erforderlich ist. Sofern keine weitergehende Einwilligung vorliegt, werden die Daten nach Abschluss des Bewerbungsverfahrens gelöscht.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 06.09.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/sammlungsleiter-in-deutsche-hollaendische-und-flaemische-malerei-vor-1800-m-w-d/</guid></item><item><title>Sachbearbeiter*in Verwaltung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/sachbearbeiterin-verwaltung-m-w-d-5/</link><description>Stiftung Deutsche Kinemathek, Berlin Bewerbungsende: 22.07.2026 | Die Stiftung Deutsche Kinemathek – Museum für Film und Fernsehen ist eine der führenden Einrichtungen Europas, die sich der Bewahrung und Vermittlung des audiovisuellen Erbes widmet. In ihrem aktuellen, temporären Zwischenquartier im E-Werk in Berlin-Mitte lädt sie bis zur Eröffnung eines neuen Filmhauses zu vielfältigen Begegnungen mit Film und Fernsehen ein. Sie zeigt dort experimentelle Ausstellungen, kuratierte Filmreihen, Produktionen aus dem Fernseharchiv sowie das Festival Film Restored. Ein breites Publikum erreicht die Kinemathek durch ein abwechslungsreiches Bildungs- und Veranstaltungsprogramm – sowie mit der Retrospektive und den Berlinale Classics, die sie im Rahmen der Internationalen Filmfestspiele Berlin ausrichtet. Archive und Fachbibliothek machen die Kinemathek zu einem wichtigen Ort für Wissenschaft und Forschung.
+Wir suchen möglichst zum 01.09.2026 zunächst befristet für zwei Jahre (Übernahme in ein unbefristetes Arbeitsverhältnis ist vorgesehen) eine/n
+Sachbearbeiter/in Verwaltung (m/w/d)
+(Vollzeit 39 Stunden/Woche)
+Ihre Aufgaben
+Bearbeitung von allgemeinen Verwaltungs- und Organisationsarbeiten wie z.B.
+Einkauf und Verwaltung von Büro-, Verbrauchsmaterial und Ausstattung
+Beschaffungswesen und Verantwortlichkeit für das Kaufhaus des Bundes
+Unterstützung bei Digitalisierung sowie Prozessoptimierung und -dokumentation
+Gestaltung, Erstellen und Aktualisierung von Formularen
+Kostenberechnungen, Erstellen und Auswertung von Statistiken und Berichten
+Pflege von Bestandsverzeichnissen und Datenbanken (CRM-Verwaltung)
+Überwachung von Fristen und Wiedervorlagen
+Pflege und Verwaltung von Akten sowie Datenbeständen
+Vorbereitung von Besprechungen und Veranstaltungen
+Im Personalbereich z.B.
+Personalbetreuung: Onboarding/Offboarding
+Bewerber*innenmanagement: Stellenausschreibungen, Bearbeitung von Bewerbungen, Vorbereitungsarbeiten für den Auswahlprozess
+Prüfung und Bearbeitung von Dienstreiseanträgen
+Reisekostenabrechnungen
+Bearbeitung von Fortbildungs- und Bildungszeitanträgen
+Zeitwirtschaft und Fehlzeitenverwaltung
+Ihr Profil
+Abgeschlossene kaufmännische Berufsausbildung oder vergleichbare Qualifikationen
+Berufserfahrung im kaufmännischen Bereich
+Sicherer Umgang mit MS-Office und der Bürokommunikationstechnik
+Sehr gute Deutschkenntnisse
+Kenntnisse des AGG sowie Interesse an oder Erfahrung mit diskriminierungssensiblen Einstellungsverfahren
+Kenntnisse im Verwaltungsbereich und Erfahrungen im Personalbereich sind von Vorteil
+Sorgfältige, zuverlässige und diskrete Arbeitsweise
+Organisations- und Teamfähigkeit Kommunikationsstärke und serviceorientiertes, souveränes sowie verbindliches Auftreten
+Unser Angebot
+Eine Vergütung E 7 TVöD bei Vorliegen der formalen Voraussetzungen
+Interessante und abwechslungsreiche Aufgaben, die auch für Berufs-, Wieder- und Quereinsteiger*innen geeignet sind
+Fundierte Einarbeitung
+Einen Arbeitsplatz in zentraler Lage in Berlin
+Ein engagiertes Team, das auch abteilungsübergreifend in Projektteams zusammenarbeitet
+Vereinbarkeit von Beruf und Privatem durch zeitlich flexibles und mobiles Arbeiten
+Ein teamorientiertes, familienfreundliches und diverses Arbeitsumfeld in einer aufgeschlossenen wie modernen vom BKM geförderten Kulturinstitution
+30 Tage Jahresurlaub bei einer 5-Tage-Woche sowie zusätzliche freie Tage am 24. und 31. Dezember
+Zuschuss zum BVG-Firmenticket
+Ihre Bewerbung
+Die Deutsche Kinemathek gewährleistet die Gleichstellung von Frauen und Männern nach Maßgabe des Bundesgleichstellungsgesetzes. Wir verstehen uns als werteorientierte Institution, als Reflexionsort für historische und aktuelle gesellschaftliche Entwicklungen. Wir schätzen Vielfalt und empfinden unterschiedliche Biografien und Lebensentwürfe als Bereicherung. Deshalb freuen wir uns über Bewerbungen von allen Menschen mit passenden Einstellungsvoraussetzungen. BIPoC, LGTBQI* und Menschen mit Diskriminierungs- und Marginalisierungserfahrung möchten wir besonders zu einer Bewerbung ermutigen. Schwerbehinderte Menschen werden bei gleicher Eignung und Qualifikation bevorzugt.
+Wenn wir Ihr Interesse geweckt haben, senden Sie bitte Ihre aussagekräftigen und vollständigen Bewerbungsunterlagen spätestens bis zum 22.07.2026 (im PDF-Format per E-Mail als eine Datei) an bewerbungen@deutsche-kinemathek.de.
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 22.07.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/sachbearbeiterin-verwaltung-m-w-d-5/</guid></item><item><title>Museumsleitung Bauernhofmuseum Jexhof (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/museumsleitung-bauernhofmuseum-jexhof-m-w-d/</link><description>Landratsamt Fürstenfeldbruck, Fürstenfeldbruck Bewerbungsende: 02.08.2026 | Das Landratsamt Fürstenfeldbruck sucht zum nächstmöglichen Zeitpunkt (frühestens ab 01.10.2026) eine Museumsleitung (m/w/d) für das Bauernhofmuseum Jexhof. Geboten wird eine unbefristete Vollzeitstelle (39 Wochenstunden) in Entgeltgruppe E12 TVöD-VKA mit 30 Urlaubstagen, Großraum- und Kinderzulage sowie attraktiven Zusatzleistungen. Führerschein + Fahrzeug erforderlich, da sich der Jexhof außerhalb des ÖPNV-Raums befindet.
+Ihre Aufgaben
+Gesamtverantwortung für Betrieb und wissenschaftliche Integrität
+Strategie &amp; Betrieb: Eigenverantwortliche Standortleitung und -management, Sicherung des Betriebs, Weiterentwicklung von Leitbild und Gesamtkonzept sowie strategische Planung (Sammeln, Bewahren, Forschen, Vermitteln)
+Öffentlichkeitsarbeit &amp; Veranstaltungen: Konzeption und Organisation des Veranstaltungsprogramms in Absprache mit dem Programm des Fördervereins, Zusammenarbeit mit dem Förderverein, Marketing und Social Media, Pressearbeit, Pflege digitaler Kanäle
+Sammlung &amp; Gebäude: Betreuung von Ausstellungen, Weiterentwicklung der Sammlung (Neukonzeption), konservatorische Maßnahmen und fachliche Begleitung von Bauprojekten
+Personal &amp; Verwaltung: Fachliche und disziplinarische Führung des Jexhof-Teams, Budgetverantwortung, Fördermittel- und Auftragsmanagement in Zusammenarbeit mit der Stabsstellenleitung, regelmäßiger Austausch mit der Verwaltung
+Netzwerkarbeit: Pflege von Kooperationspartnern wie Förderverein Jexhof sowie Aus- und Aufbau neuer Netzwerkpartner
+Ihre und unsere Ziele u.a.
+Kurzfristig: Aufrechterhaltung des Betriebs, Öffentlichkeitsarbeit, Neukonzeption der Dauerausstellung
+Mittelfristig: Kontinuierliche Weiterentwicklung des Leitbildes und Gesamtkonzepts für das Museum
+Langfristig: Erhalt als wichtiger regionaler Kulturort und vollständige Umsetzung des Sammlungskonzepts
+Ihr Profil
+Qualifikation: Abgeschlossenes Hochschulstudium z. B. MA Volkskunde/Geschichte/Kulturmanagement, wünschenswert ist mehrjährige Erfahrung im Museums-/Kultur-/Wissenschaftsbereich
+Führerschein und die Bereitschaft, das eigene Fahrzeug zu nutzen (Ausgleich durch km-Pauschale)
+Fachwissen: Fundierte Kenntnisse in Museumsarbeit und Geschichtsvermittlung, Veranstaltungsmanagement, Personal- und Budgetführung, Kenntnisse in Landwirtschaft/Regionalgeschichte/Denkmalpflege
+Persönlichkeit: Strategisches Denken, wertschätzende Führungskompetenz, Kooperationsfähigkeit, Organisationsstärke, Hands-on-Mentalität, Kommunikationsstärke und Flexibilität im Saisonbetrieb, idealerweise ehrenamtliches Engagement
+Besonderheiten der Position: Bereitschaft zu Wochenend-, Abend- und Feiertagseinsätzen; hohe Präsenz vor Ort
+Unser Angebot
+Bezahlung nach Entgeltgruppe E12 TVöD VKA
+Jahressonderzahlungen lt. Tabelle
+Zahlung der Großraum- und (optional) Kinderzulage
+30 Tage Urlaub + 24./31.12, Faschingsdienstag frei
+ein unbefristetes Arbeitsverhältnis in einem einmaligen Umfeld!
+WIR BIETEN ZUSÄTZLICH: umfangreiche Sozialleistungen wie eigene Kinderferienbetreuung, Betriebsrente, mobile Arbeit, wenn möglich, Betriebssport, ÖPNV-Zuschuss
+Ihre Bewerbung
+Wir legen Wert auf Chancengleichheit und Inklusion. Schwerbehinderte Personen und ihnen nach § 2 Abs. 3 SGB IX gleichgestellte Menschen werden bei entsprechender Eignung bevorzugt berücksichtigt (bitte Nachweis beifügen).
+Ihr Ansprechpartner im Fachbereich:
+Frau Magg, Tel. 08141/519-248
+Frau Seiz, Tel. 08141/519-5704
+Bewerbungen bis zum 02.08.2026 bitte ausschließlich über unser digitales Bewerberportal.
+Bei Fragen zur Stelle:
+Jessica Reiner
+Tel. 08141/519-5387
+Referenz-Nr.: 2026/WiR/33
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 02.08.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/museumsleitung-bauernhofmuseum-jexhof-m-w-d/</guid></item><item><title>wissenschaftlicher Projektkoordinator (m/w/d), Projektkoordination</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-projektkoordinator-m-w-d-projektkoordination/</link><description>Stiftung Gedenkstötten Buchenwald und Mittelbau-Dora, Weimar-Buchenwald Bewerbungsende: 16.08.2026 | Bei der Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora ist zum 01.01.2027 eine bis zum 31.12.2028 befristete Stelle einer
+wissenschaftlichen Projektkoordination (m/w/d)
+für das Projekt „Erneuerung der Dauerausstellung zur Geschichte des Sowjetischen Speziallagers Nr. 2“ in der Gedenkstätte Buchenwald zu besetzen.
+Ihre Bewerbung
+Anmerkungen: Bewerbungsschluss ist der 16. August 2026 – Bewerbungen über das Feld “Online Bewerbung” unter “Jobs &amp; Praktika” auf Homepage der Stiftung https://www.buchenwald.de/jobs-praktika
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 16.08.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-projektkoordinator-m-w-d-projektkoordination/</guid></item><item><title>AI Engineer (m/f/d) for Method Development and Digitization for Collection-based Research</title><link>https://www.museumsbund.de/stellenangebote/ai-engineer-m-f-d-for-method-development-and-digitization-for-collection-based-research/</link><description>Senckenberg Gesellschaft für Naturforschung, Jena Bewerbungsende: 02.08.2026 | Senckenberg – Leibniz Institution for Biodiversity and Earth System Research (SGN), headquartered in Frankfurt am Main, is seeking to fill the following position in the Research Group Digital Collectomics at the Senckenberg Institute for Plant Form and Function starting as soon as possible
 AI Engineer (m/f/d) for Method Development and
 Digitization for Collection-based Research
 Location: Jena (Thuringia; Germany)
@@ -550,221 +826,4 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 26.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/kuratorin-2/</guid></item><item><title>Mitarbeiter Bildung &amp; Vermittlung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-bildung-vermittlung-m-w-d/</link><description>Technisches Landesmuseum Mecklenburg-Vorpommern, Wismar Bewerbungsende: 02.08.2026 | Das Technische Landesmuseum Mecklenburg-Vorpommern (TLM) ist mit seinem Ausstellungshaus phanTECHNIKUM in der Hansestadt Wismar auf ca. 3.500 m² eines der größten Museen in Mecklenburg-Vorpommern. Strukturiert nach den vier Elementen Feuer, Wasser, Erde, Luft bieten die Ausstellungen spannende Einblicke in faszinierende Technik- und Industriegeschichten des Bundeslandes. Die erlebnisorientierte Vermittlung der Technikgeschichte genießt dabei besondere Berücksichtigung. In unterschiedlichste MINT-Bildungsbausteine aufgeteilt, will das TLM allen Menschen die Möglichkeit der gesellschaftlichen und kulturellen Teilhabe ermöglichen, wobei wir uns verstärkt für partizipative und inklusive Formate einsetzen. Das TLM ist anerkannter außerschulischer Lernort und entwickelt diesen mit MINT-Partnerschulen und Netzwerken stetig weiter. Zudem sind wir Netzwerkpartner der Bundesinitiative „Stiftung Kinder forschen“, mit der wir uns für die Fortbildung von pädagogischen Fach- und Lehrkräften in den Bereichen MINT und BNE (Bildung für nachhaltige Entwicklung) stark machen.
-Zum 1. Oktober 2026 sucht das Technische Landesmuseum MV, zunächst befristet für zwei Jahre, eine/n
-Mitarbeiter*in
-für
-Bildung und Vermittlung (m/w/d | 100%)
-mit Option auf Verlängerung.
-Ihre Aufgaben
-Strategische Weiterentwicklung des Bildungsbereichs und Stärkung der regionalen Bedeutung als außerschulischer Lernort
-Konzeption und Umsetzung von innovativen Vermittlungsformaten (analog und digital) in enger Abstimmung mit der Direktion und einer teilabgeordneten Lehrkraft
-Mitarbeit, Planung &amp; Organisation von technikorientierten Veranstaltungsprogrammen inklusive Budgetplanung und -kontrolle
-Öffnung aller Museumsbereiche für die Vermittlungsarbeit (Archiv, Bibliothek, Depots)
-Mitarbeit &amp; Koordination von Angeboten der Bundesinitiative „Stiftung Kinder forschen“
-Akquise, Betreuung &amp; Anleitung externer Gästeführer*innen
-Ausbau und Pflege des bestehenden Bildungsnetzwerks, bestehend aus Partnerschulen und lokalen sowie regionalen Bildungsinitiativen (Bildungswerk der Wirtschaft MV e.V.; RAA – Demokratie und Bildung MV e.V.)
-Kontaktpflege zu lokalen sowie regionalen Verbänden und Einrichtungen der Kinder- und Jugendarbeit (Kreisjugendring NWM e.V.; Licht am Horizont e.V.; Jugendmigrationsdienst Wismar)
-Koordinierung und Durchführung von Führungen, Workshops &amp; Kreativangeboten
-Ihr Profil
-Hochschulabschluss (Bachelor, Master oder Diplom) in einem kultur- oder bildungswissenschaftlichen Studiengang, Museumsmanagement oder -pädagogik bzw. gleichwertige Fähigkeiten und Erfahrungen
-nachgewiesene Vermittlungskompetenz für ein heterogenes Publikum
-Interesse an Vermittlung technisch konnotierter Inhalte für heranwachsende Generationen unter Berücksichtigung von BNE und der 17 Ziele für nachhaltige Entwicklung
-Ausgeprägte Team- und Kommunikationsfähigkeit, hohe Belastbarkeit und Flexibilität, Organisationstalent, kreativ-konzeptionelles Denken, Aufgeschlossenheit sowie souveränes Auftreten, Selbständigkeit und Verantwortungsbewusstsein
-sichere Beherrschung der deutschen und englischen Sprache in Wort und Schrift
-routinierter Umgang mit Microsoft Office, Videokonferenz- und Projektmanagementtools
-Erfahrungen in der Konzeption &amp; Umsetzung analoger und digitaler Vermittlungsformate (wünschenswert)
-Wir bieten
-einen interessanten und anspruchsvollen Arbeitsplatz mit entsprechender Vergütung
-eine angenehme Arbeitsatmosphäre in einem sich transformierenden Museum
-Fort- und Weiterbildungsmöglichkeiten
-Gestaltungs- und Entfaltungsmöglichkeiten
-Wir freuen uns über Ihre Bewerbung, unabhängig von Geschlechteridentität, Nationalität, ethnischer und sozialer Herkunft, Religion, Behinderung und Alter. Schwerbehinderte Bewerber*innen werden bei gleicher Eignung besonders berücksichtigt.
-Anfallende Bewerbungskosten können nicht übernommen werden. Für weitere Auskünfte zum Aufgabengebiet wenden Sie sich gerne unter der Rufnummer +49 (0) 3841 30457 17 an.
-Ihre aussagekräftigen Bewerbungen richten Sie bitte unter Angabe Ihrer Gehaltsvorstellungen und Ihres frühestmöglichen Einstiegstermins als ein Dokument (PDF, max. 10 MB) bis zum
-2. August 2026
-elektronisch per E-Mail an:
-geschaeftsfuehrung@phantechnikum.de
-.
-Die Bewerbungsgespräche finden in zweistufigem Auswahlverfahren zunächst online statt.
-Wir weisen darauf hin, dass bei ungeschützter Übersendung Ihrer Bewerbung auf elektronischem Wege von Seiten der TLM MV gGmbH keine Gewähr für die Sicherheit übermittelter persönlicher Daten übernommen werden kann.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 02.08.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiter-bildung-vermittlung-m-w-d/</guid></item><item><title>Depotverwaltung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/depotverwaltung-m-w-d/</link><description>Historische Museen Reutlingen, Reutlingen Bewerbungsende: 19.07.2026 | Die Stadt Reutlingen ist eine vitale, selbstbewusste Stadt, als Oberzentrum Teil der Metropolregion Stuttgart und in unmittelbarer Nachbarschaft zur landschaftlich reizvollen Schwäbischen Alb gelegen. Mit 117.000 Einwohnern ist Reutlingen als ehemalige Freie Reichsstadt ein dynamischer Dienstleistungs-, Handels-, Technologie- und Industriestandort. Daneben bietet Reutlingen eine Vielzahl kultureller, sportlicher und sozialer Einrichtungen sowie mit der Hochschule Reutlingen eine der führenden Hochschulen für eine internationale und unternehmensnahe akademische Ausbildung.
-Wir
-suchen
-für das
-Kulturamt
-,
-Historische Museen
-zum
-01.09.2026
-eine
-Depotverwaltung (m/w/d)
-(Kennziffer
-26/40/05
-)
-unbefristet, mit einem Beschäftigungsumfang von 50 %.
-Die Historischen Museen Reutlingen sind eines der großen stadthistorischen Museen in Baden-Württemberg mit einem umfangreichen Objektbestand. An vier etablierten Standorten bieten wir vielfältige Einblicke und unterschiedliche Zugänge zur Stadtgeschichte. Aktuell laufen die Planungen zur denkmalgerechten Sanierung der historischen Häuser Oberamteistraße 28-32 sowie die Entstehung eines Neubaus mit anschließender Nutzung als neues Zweigmuseum.
-Ihre Aufgaben:
-Betreuung und Verwaltung des Museumsdepots und der Sammlungsbestände (Deponierung, Standortverwaltung, Schädlingsmonitoring, Klimaüberwachung usw.)
-konservatorische Betreuung der Dauerausstellung und der dort ausgestellten Objekte und Umsetzung entsprechender Maßnahmen
-Organisation und Durchführung von Transporten und Leihverkehr mit Zustandsprotokollen
-Mitwirkung beim Aufbau von Ausstellungen (Einbringung von Objekten, Montage von Hilfsmitteln, Verwaltung der Ausstellungshilfsmittel)
-Mitwirkung bei Förderprogrammen
-Kontakt mit Restauratoren (m/w/d) aller Fachrichtunge
-Ihr Profil:
-abgeschlossenes Studium als Diplom-Restaurator (m/w/d) oder Diplom-Museologe (m/w/d) oder eine abgeschlossene restauratorische Berufsausbildung mit entsprechender Zusatzqualifikation und/oder langjähriger Berufserfahrung
-berufliche Erfahrung im musealen Bereich, insbesondere Depot- und Ausstellungsarbeiten
-sehr gute Kenntnisse im Bereich MS Office sowie Museumsdatenbanken
-verantwortungsbewusstes, selbstständiges und sorgfältiges Arbeiten
-hohes Maß an Team- und Kommunikationsfähigkeit
-körperliche Belastbarkeit
-Führerschein Klasse B
-zeitliche Flexibilität sowie die Bereitschaft zu Einsätzen auch außerhalb der regelmäßigen Arbeitszeit
-Wir bieten Ihnen unter anderem:
-die Möglichkeit, auch teilweise im Homeoffice zu arbeiten
-einen sicheren und zukunftsorientierten Arbeitsplatz
-eine zusätzliche betriebliche Altersvorsorge für Beschäftigte
-vielfältige Angebote zur besseren Vereinbarkeit von Beruf und Privatleben
-zahlreiche Möglichkeiten zur beruflichen und persönlichen Fort- und Weiterbildung
-ein umfassendes betriebliches Gesundheitsmanagement
-einen Fahrtkostenzuschuss zum ÖPNV in Höhe von 50%
-attraktive Mitarbeitervorteile über corporate benefits und BusinessBike-Fahrradleasing
-Die Eingruppierung erfolgt bis Entgeltgruppe 9b TVöD.
-Für flexible Arbeitszeitmodelle sind wir offen. Wir begrüßen daher Bewerbungen in Vollzeit, in Teilzeit im Rahmen von Jobsharing sowie als Tandem.
-Wir sind eine moderne Stadtverwaltung, die den Umgang mit gesellschaftlicher Vielfalt im Alltag lebt. Wir pflegen eine Unternehmenskultur, die von gegenseitigem Respekt und Wertschätzung geprägt ist. Die Förderung der Chancengleichheit ist für uns selbstverständlich. Wir begrüßen daher Bewerbungen aus allen Altersgruppen, unabhängig von Geschlecht, kultureller und sozialer Herkunft, Behinderung, Religion, Nationalität, Weltanschauung und sexueller Orientierung.
-Für Rückfragen steht Ihnen gerne Herr Rilling, Tel.-Nr.: 07121 303-2539, zur Verfügung.
-Haben wir Ihr Interesse geweckt?
-Wir freuen uns auf Ihre Bewerbung bis
-19.07.2026
-online über unser Stellenportal unter
-www.reutlingen.de/stellenangebote
-. Weitere Informationen finden Sie unter
-www.reutlingen.de/wir-bieten
-.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 19.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/depotverwaltung-m-w-d/</guid></item><item><title>Mitarbeiter/in für die Bibliothek (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/mitarbeiter-in-fuer-die-bibliothek-m-w-d/</link><description>Bayerische Staatsgemäldesammlungen, München Bewerbungsende: 26.07.2026 | Die Bayerischen Staatsgemäldesammlungen suchen eine/n
-Mitarbeiter/in für die Bibliothek (m/w/d)
-in Vollzeit und unbefristet, Entgeltgruppe 6 TV-L, zum nächstmöglichen Zeitpunkt.
-Im Herzen der Landeshauptstadt Bayerns befinden sich inmitten des Kunstareals die Bayerischen Staatsgemäldesammlungen. Mit den über 30.000 zu betreuenden Objekten des Gemälde- und Kunstbesitzes des Freistaates zählen die Bayerischen Staatsgemäldesammlungen mit ihren fünf Münchner Häusern und den Staatsgalerien an etlichen weiteren Standorten in Bayern zu den bedeutendsten Gemäldesammlungen in Europa.
-Die Bibliothek der Bayerischen Staatsgemäldesammlungen ist eine wissenschaftliche Spezialbibliothek mit einem Gesamtbestand von circa 133 900 Medien, die vorrangig die Forschungsarbeit der Mitarbeitenden der BStGS unterstützt, indem sie Zugang zu wissenschaftlicher Fachliteratur gewährt.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 26.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/mitarbeiter-in-fuer-die-bibliothek-m-w-d/</guid></item><item><title>Direktionsassistenz und Museumsmanagement (d/w/m)</title><link>https://www.museumsbund.de/stellenangebote/direktionsassistenz-und-museumsmanagement-d-w-m/</link><description>Berliner Medizinhistorische Museum (bmm) der Charité, Berlin Bewerbungsende: 17.07.2026 | Arbeiten an der Charité
-Das
-Berliner Medizinhistorische Museum (bmm) der Charité
-ist ein universitäres Museum an der Schnittstelle von Medizin, Wissenschaft und Gesellschaft. Mit seinen vielfältigen Sammlungen, Ausstellungen und Veranstaltungen zur Medizingeschichte verbindet es Forschung, Lehre und öffentliche Vermittlung.
-Das Museum versteht sich als offener Ort für Austausch und gesellschaftlichen Dialog. Es eröffnet unterschiedliche Perspektiven auf Medizin, Wissenschaft, Kunst und Gesellschaft und entwickelt kontinuierlich neue Zugänge zur Medizingeschichte. Interdisziplinäre Zusammenarbeit, zeitgemäße Vermittlungsformate und der Ausbau inklusiver Strukturen stehen im Fokus der strategischen Weiterentwicklung des Museums. Das Museum agiert seit kurzem gemeinsam mit dem Futurium – Haus der Zukünfte, dem Hamburger Bahnhof – Nationalgalerie der Gegenwart und dem Museum für Naturkunde Berlin als Partner der neu gegründeten MuseumsMeileMitte.
-Gesucht wird eine engagierte Persönlichkeit, die die Museumsdirektion und das Museumsteam organisatorisch und administrativ eigenverantwortlich unterstützt. Die Offenheit, sich in neue Aufgabenfelder einzuarbeiten, und die Bereitschaft, die organisatorischen Strukturen, Kommunikationswege und Arbeitsprozesse des Museums weiterzuentwickeln, werden ausdrücklich begrüßt.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 17.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/direktionsassistenz-und-museumsmanagement-d-w-m/</guid></item><item><title>Wissenschaftliche:r Mitarbeiter:in / Kurator:in (w/d/m)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-kuratorin-w-d-m-2/</link><description>Antikensammlung der Staatlichen Museen zu Berlin, Berlin Bewerbungsende: 17.07.2026 | Bei der Antikensammlung der
-Staatlichen Museen zu Berlin (SMB)
-ist eine Stelle als
-Wissenschaftliche:r Mitarbeiter:in / Kurator:in (w/d/m)
-zu besetzen. Die Berliner
-Antikensammlung
-ist das größte Museum griechischer, zyprischer, etruskischer und römischer Kunst in Deutschland. Ihre Bestände werden auf der Museumsinsel präsentiert: Im Alten Museum, im Neuen Museum, im Pergamonmuseum sowie im interimistischen Bau „Pergamonmuseum. Das Panorama“. Der Bestand umfasst rund 100.000 Objekte aller Gattungen antiker Kunst vom 2. Jahrtausend v. Chr. bis ins 5. Jahrhundert n. Chr.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 17.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftlicher-mitarbeiterin-kuratorin-w-d-m-2/</guid></item><item><title>Museumsleitung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/museumsleitung-m-w-d-9/</link><description>Karl-Marx-Haus, Trier Bewerbungsende: 09.07.2026 | Das Museum Karl-Marx-Haus ist ein Lernort mit internationaler Strahlkraft. Im Geburtshaus des Universalgelehrten in Trier bringt die Dauerausstellung den Gästen Leben, Werk und Wirken von Karl-Marx nahe. Sonderausstellungen, Diskussionsveranstaltungen und Buchpräsentationen sorgen für eine breite Sichtbarkeit und verbinden Menschen.
-Das Museum Karl-Marx-Haus befindet sich in Trägerschaft der Friedrich-Ebert-Stiftung (FES). Sie ist eine unabhängige, private und gemeinnützige Stiftung, deren Tätigkeit hauptsächlich aus Zuwendungen der Bundesrepublik Deutschland finanziert wird. Mit ihren Niederlassungen in Bonn, Berlin und fast allen Bundesländern sowie Vertretungen in rund 100 Ländern leistet sie praxisorientierte Forschung, politische Beratung, Dialog- und Bildungsarbeit für Multiplikator_innen und Entscheidungsträger_innen in Politik und Zivilgesellschaft.
-Wir suchen
-zum nächstmöglichen Zeitpunkt in Vollzeit
-eine
-Museumsleitung (m/w/d)
-für das Karl-Marx-Haus des Archivs der sozialen Demokratie in Trier
-Das sind Ihre Aufgaben
-Leitung des Museums in inhaltlicher, personeller und administrativer Hinsicht
-Konzeptionelle Weiterentwicklung der Ausstellung und des Museums als internationalem Lernort und Kompetenzzentrum für Fragen zu Karl Marx, seinen Ideen und ihrer Wirkung bis heute, sowohl mit Blick auf die Bildungs-/Vermittlungsarbeit des Museums als auch für die Positionierung als Ort gesellschaftspolitischer Diskussion
-Weiterentwicklung des Museums mit seinen digitalen Angeboten
-Konzeptionelle Planung der öffentlichkeitswirksamen Aktivitäten
-Vertretung der FES-Interessen im politisch-gesellschaftlichen Umfeld
-Förderung des fachlichen Austausches und der Zusammenarbeit mit relevanten Institutionen
-Das bringen Sie mit
-Abgeschlossenes wissenschaftliches Studium in Geschichte, Politische Wissenschaften, Volkswirtschaftslehre oder Philosophie
-Erfahrung mit musealer Arbeit, Museumsmanagement und der Konzeption und Umsetzung von Ausstellungen
-Fundierte historische Kenntnisse zur Geschichte der Arbeiterbewegung/zu mindestens einem der Themenfelder der Ausstellung
-Ausgeprägte Führungskompetenz und strategische Fähigkeiten
-Ausgeprägte analytische Fähigkeiten
-Hohe Organisations-, Kommunikations- und Verhandlungskompetenz
-Ausgeprägte Team-, Kontakt- und Konfliktfähigkeit
-Gesellschaftspolitisches Engagement
-Gute Kenntnis mehrerer Fremdsprachen
-Darauf dürfen Sie sich freuen
-Im Rahmen der Zeiterfassung können Sie ein Arbeitszeitguthaben aufbauen und Ausgleichstage nehmen.
-Vereinbarkeit:
-Eine gute Vereinbarkeit von Beruf, Privatleben und Familie ist uns wichtig. Daher bieten wir unseren Kolleg*innen Flexibilität bei der Arbeitszeit und -ort Gestaltung und verfügen über weitere Leistungen für Eltern.
-Kollegiales Miteinander:
-Bei uns erwartet Sie eine offene Arbeitsatmosphäre und ein kollegiales Miteinander mit engagierten Kolleg*innen.
-Weiterbildungsmöglichkeiten:
-Wir bieten Ihnen ein umfangreiches Angebot hausinterner Fort- und Weiterbildungen.
-Umfassende soziale Leistungen:
-Wir bezuschussen Ihr Jobticket, verfügen über Angebote des Gesundheitsmanagements und bieten weitere attraktive soziale Leistungen.
-Ihre
-Vergütung
-erfolgt nach dem Tarifvertrag öffentlicher Dienst
-(TVöD) Bund EG 13.
-Die Stelle ist zunächst auf
-zwei Jahre befristet
-.
-Kontakt
-Bitte bewerben Sie sich über unser
-Portal
-(Motivationsschreiben, Lebenslauf, relevante Abschlüsse und Zertifikate)
-Stellenbezeichnung:
-I-47-2026
-Bewerbungsfrist:
-09.07.2026
-Wir freuen uns auf Bewerbungen von Menschen aller Geschlechter.
-Schwerbehinderte Bewerber*innen werden bei gleicher Qualifikation bevorzugt behandelt.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 09.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/museumsleitung-m-w-d-9/</guid></item></channel></rss>
+Bewerbungsende: 26.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/kuratorin-2/</guid></item></channel></rss>
