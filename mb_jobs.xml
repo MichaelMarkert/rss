@@ -1,5 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Teamassistenz (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/teamassistenz-m-w-d-4/</link><description>Museum für Franken – Staatliches Museum für Kunst- und Kulturgeschichte in Würzburg, Würzburg Bewerbungsende: 15.07.2026 | Das „Museum für Franken – Staatliches Museum für Kunst- und Kulturgeschichte in Würzburg“ in der Trägerschaft des Freistaates Bayern ist ein Museum für fränkische Kunst- und Kulturgeschichte. Wir suchen zur Verstärkung unseres Teams im Fachbereich Verwaltung eine/n
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Museumsbund Stellenportal</title><link>https://www.museumsbund.de/</link><description>This is a website scraping RSS feed for the Museumsbund Stellenportal.</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>AI Engineer (m/f/d) for Method Development and Digitization for Collection-based Research</title><link>https://www.museumsbund.de/stellenangebote/ai-engineer-m-f-d-for-method-development-and-digitization-for-collection-based-research/</link><description>Senckenberg Gesellschaft für Naturforschung, Jena Bewerbungsende: 02.08.2026 | Senckenberg – Leibniz Institution for Biodiversity and Earth System Research (SGN), headquartered in Frankfurt am Main, is seeking to fill the following position in the Research Group Digital Collectomics at the Senckenberg Institute for Plant Form and Function starting as soon as possible
+AI Engineer (m/f/d) for Method Development and
+Digitization for Collection-based Research
+Location: Jena (Thuringia; Germany)
+Employment scope: Full time (40 hours per week) / part time options are available
+Type of contract: The contract shall start at the earliest possible date and is limited to 2 years
+Remuneration: Collective agreement of the German Länder, TV-L E 11
+The Senckenberg Society for Nature Research is a member of the Leibniz Association and has been investigating the “Earth System” worldwide for more than 200 years, examining the past, analysing the present, and developing projections for the future.
+We conduct integrative geobiodiversity research with the aim of understanding nature in all its complexity and diversity in order to preserve it as the foundation of life for future generations and to ensure its sustainable use. Across eight institutes and five research stations throughout Germany, scientists from more than 40 countries conduct research at the highest international level.
+The Senckenberg Institute for Plant Form and Function at Friedrich Schiller University Jena is the eighth and most recently founded Senckenberg institute. Located in the vibrant university city of Jena in Thuringia and forming part of an international network, it brings together the renowned Herbarium Haussknecht with cutting-edge research on biodiversity change in the Anthropocene.
+The Junior Research Group Digital Collectomics deals with the development of automated methods revolving around the extraction of information from collections, with a strong focus on herbaria, as well as the digitization process and public display thereof.
+We leverage the latest developments in computer vision and AI research to create broadly applicable methods that can deal with small to no available training data. Therefore, our research focuses primarily on foundation models, few- and zero-shot methods and domain generalization. In interdisciplinary cooperation with the local Herbarium Haussknecht and partners all over Senckenberg, we create cutting-edge approaches for publication in high-ranked computer vision, machine learning and interdisciplinary venues with the ambition to convert the novel methods into directly applicable tools usable in collection-based research at the Senckenberg and beyond.
+The selected candidate will employ, adapt and assess methods from the literature in the areas of foundation models, few- and zero-shot methods and domain generalization in established team projects and novel projects, integrate the developed methods into the Senckenberg infrastructure and make developed methods usable for end users.
+Ihre Aufgaben
+Work in team projects
+Independent analysis and solution of problems, utilizing existing methods and literature in computer vision and machine learning
+Development and implementation of own and team member’s ideas and approaches for novel analysis methods of collection-based data
+Systematic analysis, evaluation and comparison of implemented methods
+Development of deployable ML-applications based on methods developed in the group for demo purposes and end-users
+Co-development, extension and curation of joint codebases
+Development of automated workflows for the digitization process and the integration of digitized data in established databases
+Curation and archiving of collection-based image- and text-datasets
+Communication with related Senckenberg groups for integrating our work in the Senckenberg environment
+Support of the group in outreach events
+Supporting administration and maintenance of the institute’s server infrastructure
+Ihr Profil
+Bachelor’s or Master’s Degree in Computer Science or related disciplines
+Experience with :
+The implementation of machine learning/deep learning, ideally computer vision approaches and pipelines
+Large Language Models and APIs
+Current technologies, languages and frameworks for the development and deployment of ML methods (e.g., Linux, Bash, Python, Numpy, Pandas, Pytorch, Gradio, HTML, CSS, Javascript)
+Good written and oral skills in English &amp; German
+Good organizational abilities, reliability and efficiency
+An open mind-set, curiosity and the desire to learn new technologies
+A collaborative attitude and good communication skills
+Desirable skills
+Experience with computing on clusters
+Experience with databases and web security
+Experience with server administration or administration tools
+Experience with Docker, CI/CD
+Unser Angebot
+an attractive, responsible and challenging position in a globally recognized research institution with motivated and professional colleagues
+a vibrant, international team of scientists in Jena and at Senckenberg with collection-based research programs, focussing on understanding the Anthropocene Biodiversity Change
+Excellent infrastructure and collaboration opportunities at SIP embedded in a lively research environment in Senckenberg and the Friedrich Schiller University Jena
+flexible working hours – mobile working options – employee ID card with free admission to the Senckenberg museums – annual special payment – collectively agreed vacation entitlement – company pension plan (ZVK)
+Ihre Bewerbung
+Senckenberg is committed to diversity. We benefit from the different expertise, perspectives and personalities of our staff and welcome every application from qualified candidates, irrespective of age, gender, ethnic or cultural origin, religion and ideology, sexual orientation and identity or disability. Applicants with a severe disability will be given special consideration in case of equal suitability. Senckenberg actively supports the compatibility of work and family and places great emphasis on an equal and inclusive work culture.
+How to apply?
+We look forward to receiving your application. Please upload your comprehensive documentation – consolidated into a single PDF file – via our online application portal by 02 August 2026
+A letter of motivation highlighting your relevant project experience and your technical expertise,
+your CV,
+copies of your (academic) certificates and diplomas
+Apply now via: https://senckenberg.career.softgarden.de/
+Please note that interviews are planned to take place from August 25th onwards. We will provide further details in due course.
+Join us in advancing ecological research through innovative technology! We look forward to your application!
+Senckenberg Gesellschaft für Naturforschung
+Senckenberganlage 25
+60325 Frankfurt am Main
+For specific questions about this role, please contact Dr. Matthias Körschens at matthias.koerschens@senckenberg.de.
+For specific questions about the application and selection process, please contact recruiting@senckenberg.de
+For data protection information on the processing of personal data as part of the application and selection process, please refer to the privacy policy on our homepage at https://www.senckenberg.de/en/imprint/.
+For further information about the Senckenberg Gesellschaft für Naturforschung please visit www.senckenberg.de.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 02.08.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/ai-engineer-m-f-d-for-method-development-and-digitization-for-collection-based-research/</guid></item><item><title>Wissenschaftliche Kuratorin / Wissenschaftlicher Kurator (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftliche-kuratorin-wissenschaftlicher-kurator-m-w-d/</link><description>Siegerlandmuseum Siegen, Siegen Bewerbungsende: 02.08.2026 | Im Siegerlandmuseum der Universitätsstadt Siegen ist eine Stelle als
+Wissenschaftliche Kuratorin / Wissenschaftlicher Kurator (m/w/d)
+EG 13 TVöD, Vollzeit, unbefristet, zu besetzen.
+Das Siegerlandmuseum im Oberen Schloss ist ein Stadt- und Regionalmuseum mit vielfältigem Sammlungsgebiet. Es verfügt über einen großen kunsthistorischen Bestand. Herausragende Bedeutung hat das Werk des in Siegen geborenen Malers Peter Paul Rubens. Zu dessen 450. Geburtstag im Jahr 2027 ist unter anderem eine große Jubiläumsausstellung in Vorbereitung. Darüber hinaus befindet sich das Siegerlandmuseum in einer Umbruchphase: In einem in der Nähe des Oberen Schlosses gelegenen Hochbunker soll ein zusätzlicher Museumsstandort entstehen. Damit einher geht eine umfassende Neukonzeption mit dem Titel „Burg + Bunker: Das neue Siegerlandmuseum“.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 02.08.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliche-kuratorin-wissenschaftlicher-kurator-m-w-d/</guid></item><item><title>Kommunikator*innen im Kindermuseum</title><link>https://www.museumsbund.de/stellenangebote/kommunikatorinnen-im-kindermuseum-3/</link><description>Stiftung Jüdisches Museum Berlin, Berlin Bewerbungsende: 26.07.2026 | Zu besetzen sind mehrere Teilzeitstellen (19,5 Wochenstunden) in der Entgeltgruppe 6 TVöD (Bund), die auf 2 Jahre befristet sind, zum 1. Oktober 2026. Die Eingruppierung erfolgt nach den persönlichen Voraussetzungen.
+Spielgeräusche, lautes Lachen sowie neugierige Fragen von großen und kleinen Menschen bringen Ihre Augen zum Strahlen und bereiten Ihnen gute Laune? Dann lesen Sie bitte aufmerksam weiter.
+Mit der Eröffnung von ANOHA 2021 hat das Jüdische Museum einen Ort zum Entdecken, Erforschen und Spielen für Familien und Kinder im Kita- und Grundschulalter geschaffen. ANOHA setzt die Erzählung der Arche Noah aus der Tora in Szene und lädt Kinder und Familien ein, ganz in die Geschichte einzutauchen. Die Besucher*innen werden im Eingangsbereich begrüßt und erkunden dann eigenständig das Kindermuseum.
+Als Kommunikator*innen geben Sie an verschiedenen Stationen Impulse, erzählen Geschichten oder laden zu Interventionen ein und ermuntern die Besucher*innen zum Tasten, Spüren, Entdecken, Fragen, Zuhören und Ausprobieren von Objekten und Installationen. Im Zusammenspiel von Ausstellung und Vermittlung erleben unsere Besucher*innen Regen und Flut, gehen mit den Tieren gemeinsam an Bord der Arche, erproben das Zusammenleben und gestalten nach ihren Vorstellungen den Neuanfang in einer besseren Welt. Es eröffnen sich aus der Geschichte heraus Bezüge zur Lebenswelt der Kinder: zum Nachdenken über Gott und die Welt, über das Zusammenleben in Vielfalt und über einen nachhaltigen Umgang mit Ressourcen.
+Ihre Aufgaben
+Vermittlung der Arche Noah-Geschichte an Kinder im Kita- und Grundschulalter und erwachsene Begleitpersonen an verschiedenen interaktiven Erlebnisstationen nach einem vorgegebenen museumspädagogischen Konzept
+Vermittlung von jüdischen Inhalten sowie kultur- und religionsübergreifenden Perspektiven
+Heranführen der Kinder an die Ausstellung und ihre Kernthemen
+Unterstützung und Anleitung der Kinder beim Basteln, Spielen, Singen, Erzählen usw.
+Erfüllung von Service- sowie organisatorischen Aufgaben wie z. B. Einlasskontrolle, Gruppenkoordination, Erteilen von Auskünften zu ANOHA und zum Jüdischen Museum Berlin
+Gewährleistung der Einhaltung von Vorschriften und Sicherheitsbestimmungen in den Publikumsbereichen
+Mitarbeit an Besucherbefragungen zur Qualitätssicherung
+Ihr Profil
+Nachgewiesene pädagogische Erfahrung und Freude im Umgang mit Kindern
+Sehr gute serviceorientierte und strukturierte Arbeitsweise
+Teamfähigkeit, hohe Einsatzbereitschaft und zeitliche Flexibilität für die Arbeit nach Dienstplan inklusive regelmäßiger Tätigkeit an Wochenenden und Feiertagen
+Ausgeprägtes Kommunikationsvermögen und kindgerechte Ansprache
+Sensibilität für Gruppendynamiken und unterschiedliches Sozialverhalten der Kinder
+Kreativität in der Umsetzung von Spielangeboten für Kinder
+Sehr gute Deutsch- und Englischkenntnisse
+Wünschenswert: Kenntnisse einer weiteren Sprache, Interesse an der jüdischen Kultur sowie Kenntnisse der diskriminierungskritischen Bildung
+Wünschenswert: Sie sind neuen Kommunikationswegen und Softwareprogrammen gegenüber aufgeschlossen
+Unser Angebot
+30 Tage Jahresurlaub nach TVöD, 24.12. frei
+Betriebliche Altersvorsorge (VBL) und vermögenswirksame Leistungen
+Jahressonderzahlung sowie ein jährliches Leistungsentgelt
+Zentral gelegener Arbeitsplatz mit guter Anbindung an den öffentlichen Nahverkehr
+Option eines Deutschland-Ticket Job oder Jobtickets, das vom Arbeitgeber bezuschusst wird
+Ihre Bewerbung
+Die Tätigkeit wird überwiegend im Stehen verrichtet.
+Ihre Arbeitszeit richtet sich nach den Öffnungszeiten des Kindermuseums.
+Die Stiftung Jüdisches Museum Berlin fördert die berufliche Gleichstellung aller Geschlechter und Lebensformen. Die Vereinbarkeit von Familie und Beruf ist uns ein großes Anliegen. Wir begrüßen Bewerbungen aller Menschen ungeachtet ihrer nationalen, kulturellen, religiösen oder nicht-religiösen Zugehörigkeit. Schwerbehinderte Bewerber*innen werden bei gleicher Eignung bevorzugt berücksichtigt.
+Haben wir Ihr Interesse geweckt?
+Dann freuen wir uns auf Ihre aussagekräftige Bewerbung. Bitte senden Sie Ihre Bewerbung unter Angabe der Kennziffer 15/2026 bis zum 26. Juli 2026 an bewerbung@jmberlin.de.
+Die Unterlagen sind in Form einer zusammengefassten Datei im PDF-Format (max. 10 MB) einzu¬reichen. Nach Abschluss des Verfahrens werden Ihre Unterlagen maximal drei Monate lang aufbewahrt.
+Aus arbeitsrechtlichen Gründen können gemäß § 14 Abs. 2 Teilzeit- und Befristungsgesetz nur Bewerber*innen berücksichtigt werden, die nicht zuvor bei der Stiftung Jüdischen Museum Berlin beschäftigt waren.
+Die Bewerbungsgespräche werden voraussichtlich in der Woche vom 17. bis 21. August 2026 stattfinden.
+Nähere Auskünfte zum Bewerbungsverfahren erteilt Ihnen gern Frau Estel unter der Telefonnummer 030/25993407
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 26.07.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/kommunikatorinnen-im-kindermuseum-3/</guid></item><item><title>Fotograf:in</title><link>https://www.museumsbund.de/stellenangebote/fotografin/</link><description>LWL-Museen für Industriekultur, Dortmund Bewerbungsende: 31.07.2026 | Zum nächstmöglichen Termin ist eine Teilzeitstelle als
+Fotograf:in (w/m/d)
+(EG 6 TVöD; Kenn-Nr. 524/26)
+im LWL-Industriemuseum für die Fotoabteilung im Referat Sammlung zu besetzen. Es handelt sich um eine Vertretung mit 9 Wochenstunden, befristet bis 30.06.2029. Der Dienstort ist Dortmund.
+Das LWL-Industriemuseum ist ein Verbundmuseum an acht historischen Orten in Trägerschaft des Landschaftsverbandes Westfalen-Lippe (LWL). Es vermittelt, erforscht und bewahrt die Kultur des Industriezeitalters von den Anfängen bis zur Gegenwart.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 31.07.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/fotografin/</guid></item><item><title>Depotverwaltung Kupferstichkabinett</title><link>https://www.museumsbund.de/stellenangebote/depotverwaltung-kupferstichkabinett/</link><description>Staatliche Kunsthalle Karlsruhe, Karlsruhe Bewerbungsende: 26.07.2026 | Die Staatliche Kunsthalle Karlsruhe sucht zum nächstmöglichen Zeitpunkt eine Depotverwaltung für das Kupferstichkabinett in Teilzeit (50%) in einem unbefristeten Beschäftigungsverhältnis.
+Die Staatliche Kunsthalle Karlsruhe gehört mit ihrer hochrangigen Sammlung und einer regen Ausstellungs- und Veranstaltungstätigkeit zu den großen und traditionsreichen Kunstmuseen in Deutschland. Sie wird als Landes-betrieb geführt und ist eine nach kunstwissenschaftlichen und wirtschaftlichen Grundsätzen agierende Kultureinrichtung des Landes Baden-Württemberg. Neben Gemälden und Skulpturen der Kunst vom Spätmittelalter bis zur Gegenwart umfasst die Sammlung eines der ältesten Kupferstichkabinette Europas mit über 100.000 Einzelwerken. Die Pflege des Bestandes betrachtet die Kunsthalle als eine Kernaufgabe des Museums. Die Kunsthalle befindet sich derzeit in einem umfassenden Transformationsprozess, da das Hauptgebäude für mehrere Jahre grundlegend saniert und erweitert wird. Währenddessen bespielt die Kunsthalle Interimsstandorte, darunter auch im ZKM | Zentrum für Kunst und Medien Karlsruhe und die Orangerie. Das Team der Staatlichen Kunsthalle Karlsruhe kommt aus verschiedenen Regionen und Ländern und setzt sich dafür ein, die Kunsthalle zu einer nachhaltig agierenden Kulturinstitution zu machen. Wir pflegen eine kollegiale Arbeitsatmosphäre; unsere Herzen schlagen für die Kunst, ihre Erforschung und Vermittlung an eine offene und diverse Gesell-schaft.
+Ihre Aufgaben
+Verwaltung der verschiedenen Depotstandorte des Kupferstichkabinetts in Absprache mit der Leitung des Kupferstichkabinetts
+Fachgerechtes Verpacken, Lagern und Transportieren der Objekte (Zeichnung, Druckgrafik sowie Fotografie) und deren Kontrolle in Absprache mit der Papierrestaurierung
+Systematisches Ordnen der Sammlungsbestände und ihrer Standorte in der Inventardatenbank
+Termingerechte Bereitstellung von Kunstwerken für wissenschaftliche Untersuchungen und Fotoarbeiten
+Vorlage von Originalen und Betreuung von Besuchenden des Kupferstichkabinetts
+Auf- und Abbau von Kunstwerken in der Schausammlung sowie in Sonderausstellungen der Kunsthalle (Art Handling und Installation)
+Transportabwicklung in Zusammenhang mit Leihverkehr
+Umzugsplanung und -betreuung der Bestände des Kupferstichkabinetts
+Bewirtschaftung des Betriebsmaterials (Transport-, Verpackungs-, Ausstellungs- und Verbrauchsmaterial)
+Unterstützung bei der Einrahmung von Objekten
+Stellvertretung des Depotverwalters Gemälde &amp; Skulptur
+Bei den beschriebenen Aufgaben können in nicht unwesentlichem Umfang hebende und tragende Tätigkeiten sowie Arbeiten auf hohen Leitern, Gerüsten und Hubarbeitsbühnen anfallen.
+Ihr Profil
+eine qualifizierte abgeschlossene Ausbildung in einem einschlägigen Beruf oder nachgewiesene gleichwertige Fähigkeiten und Erfahrungen
+Berufserfahrungen im Bereich Museumstechnik und/oder Art Handling
+gute EDV-Kenntnisse (MS Office, Erfahrungen mit Datenbanksoftware sind wünschenswert)
+hohes Verantwortungsbewusstsein, Sorgfalt und Sensibilität im Umgang mit wertvollem und fragilem Kulturgut
+ausgeprägte praktische Veranlagung und handwerkliches Geschick
+gutes Kommunikationsvermögen, hohe Einsatzbereitschaft und Teamfähigkeit
+Organisationsvermögen und eine strukturierte, selbständige Arbeitsweise
+Flexibilität, Belastbarkeit und Zuverlässigkeit
+Bereitschaft zu fachbezogener Fortbildung und ein persönliches Interesse an Kunst
+Fahrerlaubnis Klasse B und die Bereitschaft zum Führen dienstlicher Kraftfahrzeuge
+Unser Angebot
+einen unbefristeten Arbeitsplatz in einem attraktiven und kreativen Umfeld
+eine Teilzeitstelle mit einer durchschnittlichen Wochenarbeitszeit von 19,75 Stunden
+flexible Gestaltung der Arbeitszeit mit großzügiger Gleitzeitregelung und der Möglichkeit zum mobilen Arbeiten
+bei Vorliegen der tariflichen Voraussetzungen eine Vergütung in Entgeltgruppe 6 TV-L
+eine jährliche Sonderzuwendung
+Zusatzversorgung bei der Versorgungsanstalt des Bundes und der Länder (Betriebsrente)
+attraktive Angebote im Rahmen des betrieblichen Gesundheitsmanagements
+Jobticket für den öffentlichen Nahverkehr mit Arbeitgeberzuschuss
+Ihre Bewerbung
+Mitarbeitende mit unterschiedlichem kulturellem Hintergrund sind eine Bereicherung für unseren Arbeitsalltag, für unser Programm und unsere Projekte. Wir schätzen Vielfalt und begrüßen daher alle Bewerbungen von Personen jeglichen Geschlechts, unabhängig von deren kultureller und sozialer Herkunft, Alter, Religion, Weltanschauung, Behinderung oder sexueller Identität. Menschen mit Behinderung werden bei gleicher Eignung bevorzugt berücksichtigt.
+Bitte richten Sie Ihre Bewerbung mit den üblichen Unterlagen bis zum 26.07.2026 per E-Mail an perso-nal@kunsthalle-karlsruhe.de oder schriftlich an die Verwaltung der Staatlichen Kunsthalle Karlsruhe, Frau Claudia Buselmeier, Hermann-Veit-Straße 6, 76135 Karlsruhe. Eine Rücksendung schriftlicher Bewerbungen erfolgt nur, wenn Sie einen frankierten und adressierten Rückumschlag beifügen. Nach Abschluss des Auswahlverfahrens werden alle Unterlagen gemäß geltendem Datenschutzrecht vernichtet. Weitere Informationen erhalten Sie bei Dr. Dorit Schäfer oder unter www.kunsthalle-karlsruhe.de. Bitte beachten Sie die datenschutzrechtlichen Informationen für Bewerber*innen.
+zur Stellenausschreibung
+Achtung!
+Bitte senden Sie Ihre Bewerbungen
+direkt an die Einrichtung
+, die
+			die
+			Stelle ausschreibt, und
+nicht
+an den Deutschen Museumsbund.
+Vielen Dank!
+Bewerbungsende: 26.07.2026</description><pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/depotverwaltung-kupferstichkabinett/</guid></item><item><title>Teamassistenz (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/teamassistenz-m-w-d-4/</link><description>Museum für Franken – Staatliches Museum für Kunst- und Kulturgeschichte in Würzburg, Würzburg Bewerbungsende: 15.07.2026 | Das „Museum für Franken – Staatliches Museum für Kunst- und Kulturgeschichte in Würzburg“ in der Trägerschaft des Freistaates Bayern ist ein Museum für fränkische Kunst- und Kulturgeschichte. Wir suchen zur Verstärkung unseres Teams im Fachbereich Verwaltung eine/n
 Teamassistenz (m/w/d)
 in Vollzeit, Entgeltgruppe 6 TV-L, unbefristet, zum nächstmöglichen Zeitpunkt.
 Das Museum für Franken – Staatliches Museum für Kunst- und Kulturgeschichte in Würzburg befindet sich seit dem 01.01.2017 in der Trägerschaft des Freistaats Bayern. Es ist ein Zentralmuseum für fränkische Kunst- und Kulturgeschichte mit einer Abteilung zur Würzburger Stadtgeschichte und besitzt Sammlungen mit herausragenden Spitzenstücken der Malerei, Grafik und Skulptur sowie des Kunsthandwerks von der Frühzeit bis in die Gegenwart. Derzeit befindet sich das Haus in einer Phase der Neupositionierung als erlebnisorientiertes kulturgeschichtliches Museum für ganz Franken, die mit einer Generalsanierung der Festung Marienberg, einer zukunftsweisenden Neukonzeption und dem Umzug des Museums samt seiner Depots einhergeht.
@@ -571,200 +767,4 @@ direkt an die Einrichtung
 nicht
 an den Deutschen Museumsbund.
 Vielen Dank!
-Bewerbungsende: 09.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/museumsleitung-m-w-d-9/</guid></item><item><title>Volontär:in (w/m/d) Ausstellungen</title><link>https://www.museumsbund.de/stellenangebote/volontaerin-w-m-d-ausstellungen-2/</link><description>Deutsches Architekturmuseum, Frankfurt a. M. Bewerbungsende: 18.08.2026 | Nur wer das Alte hinterfragt, kann Neues schaffen. Darum suchen wir Sie als Volontär:in (w/m/d) Ausstellungen für unser Stadt-Up Frankfurt! Bereit für eine Aufgabe für Herz und Verstand? Bewerben Sie sich jetzt und erweitern den Horizont von ganz Frankfurt!
-Im Deutschen Architekturmuseum (DAM) finden jährlich rund 5 wechselnde Ausstellungen zu Architektur und Städtebau sowie über 400 Veranstaltungen statt. Die Vermittlung und die Förderung des Verständnisses von Herausforderungen an Architektur, Städtebau und Regionalplanung stellen die zentralen Aufgaben des Museums dar.
-Wir suchen zum 07.10.2026
-befristet für die Dauer von 2 Jahren
-eine:n
-Volontär:in (w/m/d) Ausstellungen
-Vollzeit
-Zu Ihren Aufgaben gehören:
-Mitarbeit an der Konzeption und Organisation von Ausstellungen – inklusive wissenschaftlicher Recherche, inhaltlicher Aufbereitung für Katalog und Ausstellung, Erstellung von Kosten‑ und Zeitplänen sowie Koordination des Leihverkehrs und Einholung von Nutzungsrechten
-Planung und Durchführung des Rahmenprogramms – verantwortliche Organisation von Veranstaltungen rund um die Ausstellung, einschließlich Eröffnungen und begleitendem Veranstaltungsmanagement
-Beteiligung an der Aufstellung von Rahmenprogrammen für Ausstellungen und am allgemeinen Vermittlungsprogramm des DAMs
-Presse‑ und Öffentlichkeitsarbeit – Verfassen von Pressetexten, Unterstützung bei Pressekonferenzen sowie Erstellung von Pressespiegeln zu Ausstellungen
-Online‑Kommunikation – Mitwirkung an der digitalen Kommunikation des Hauses, insbesondere Website‑Pflege und Social‑Media‑Aktivitäten
-Inventarisierung von und Unterstützung bei der Digitalisierung von Archivbeständen
-Kennenlernen aller Tätigkeitsbereiche des Deutschen
-Architekturmuseums
-Sie bringen mit:
-abgeschlossenes wissenschaftliches Hochschulstudium (Master) der Kunstgeschichte oder Kunstwissenschaften, spezialisiert in Architekturgeschichte oder ein abgeschlossenes wissenschaftliches Hochschulstudium (Master) der Architektur
-fundiertes Wissen in der Architekturgeschichte und/oder der aktuellen Architekturszene sowie ausgeprägtes Interesse an museumsfachlichen Fragestellungen
-Sprachniveau Deutsch vergleichbar mit Level C2 sowie Englisch vergleichbar mit Level C1 des europäischen Referenzrahmens (GER)
-textlich sicheres Formulieren
-sehr gute PC-Kenntnisse (gängige MS-Office-Programme, Grafikanwendungen)
-Fähigkeit zur Team- und Projektarbeit, Eigeninitiative, Kommunikations- sowie Organisationsgeschick
-interkulturelle Kompetenz und Genderkompetenz
-Wir bieten Ihnen:
-umfangreiches Fortbildungsangebot zu den unterschiedlichsten Themenbereichen
-ein Job-Ticket Premium ohne Eigenbeteiligung gültig für alle Tarifgebiete des Rhein-Main-Verkehrsverbundes mit Mitfahrregelung
-die Möglichkeit, sich mit wissenschaftlicher Museumsarbeit vertraut zu machen und praktische Kenntnisse in der Ausstellungserstellung zu erwerben
-Unterstützung bei der Wohnungssuche
-Weitere Infos:
-Das Volontariat ist auf zwei Jahre befristet. Die Vergütung entspricht nach Empfehlung des Deutschen Museumsbundes 50 % der Entgeltgruppe 13 TVöD, Stufe 1, im zweiten Jahr Stufe 2. Die regelmäßige wöchentliche Arbeitszeit beträgt in Vollzeit 39 Stunden.
-Die Stadt Frankfurt am Main steht für Vielfalt, Chancengleichheit und ein respektvolles Miteinander. Wir freuen uns daher auf Ihre Bewerbung unabhängig von Alter, geschlechtlicher oder sexueller Identität, ethnischer, kultureller oder sozialer Herkunft, Religion, Weltanschauung oder Behinderung.
-Bei gleicher Eignung erhalten schwerbehinderte Menschen den Vorzug vor anderen Bewerber:innen.
-Für weitere Auskünfte wenden Sie sich gerne an
-Herrn Schmal
-, Tel. (069) 212-36313 oder
-Frau Jürges
-, Tel. (069) 212-30837.
-Unter
-https://StadtFrankfurtJobs.de/FAQ.html
-finden Sie Antworten auf häufig gestellte Fragen (z. B. zur Bezahlung).
-Wir freuen uns auf Ihre aussagekräftige Bewerbung über unser Jobportal (
-https://stadtfrankfurtjobs.de/volontaerin-wmd-ausstellungen-de-j10880.html
-). Bitte bewerben Sie sich
-bis zum 18.08.2026.
-Diese Ausschreibung orientiert sich an den Empfehlungen im
-Leitfaden
-für ein wissenschaftliches Volontariat des Deutschen Museumsbundes.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 18.08.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/volontaerin-w-m-d-ausstellungen-2/</guid></item><item><title>Wissenschaftliches Volontariat (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/wissenschaftliches-volontariat-m-w-d-15/</link><description>Städtische Galerie Nordhorn, Nordhorn Bewerbungsende: 02.08.2026 | Städtische Galerie Nordhorn | Start: nächstmöglich | befristet auf 2 Jahre
-Die Städtische Galerie Nordhorn zählt seit über 50 Jahren zu den führenden Einrichtungen für Gegenwartskunst in Niedersachsen. Gegründet durch bürgerschaftliches Engagement, widmet sie sich konsequent der Förderung junger künstlerischer Positionen sowie der Vermittlung zeitgenössischer Kunst.
-Am Standort „Alte Weberei“ – einem historischen Industriedenkmal – verbindet die Galerie Ausstellungen, Kunstvermittlung und Kunstschule unter einem Dach. Ergänzt wird das Programm durch das überregionale Projekt
-kunstwegen
-, das größte offene Museum Europas mit über 80 Kunstwerken entlang der Vechte bis in die Niederlande.
-Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt eine*n wissenschaftliche*n Volontär*in (m/w/d).
-Ihre Aufgaben
-Im Rahmen des Volontariats erhalten Sie umfassende Einblicke in alle Arbeitsbereiche einer zeitgenössischen Kunstinstitution. Dazu gehören insbesondere:
-Mitarbeit bei der Konzeption, Organisation und Umsetzung von Ausstellungen
-Unterstützung in der Kunstvermittlung sowie museumspädagogischen Programmen
-Mitarbeit in der Öffentlichkeitsarbeit, inkl. Social Media und redaktioneller Inhalte
-Recherchetätigkeiten zu Künstler*innen, Ausstellungen und Projekten
-Unterstützung bei administrativen und organisatorischen Abläufen
-Mitarbeit im Bereich des Projekts kunstwegen im internationalen Kontext
-Ihr Profil
-Abgeschlossenes Hochschulstudium (Master oder gleichwertig) in Kunstgeschichte, Kunstwissenschaft oder Kulturwissenschaft
-Starkes Interesse an zeitgenössischer Kunst und Vermittlungsarbeit
-Erste praktische Erfahrungen im Museums- oder Ausstellungsbereich von Vorteil
-Sicherer Umgang mit MS Office sowie Kenntnisse in Grafik- und Bildbearbeitungsprogrammen
-Erfahrung im Umgang mit Social Media
-Sehr gutes Ausdrucksvermögen in deutscher Sprache in Wort und Schrift
-Sehr gute Englischkenntnisse
-Teamfähigkeit sowie Freude an eigenständigem, kooperativem Arbeiten
-Hohe Einsatzbereitschaft, Organisationstalent und Kommunikationsstärke
-Bereitschaft zu flexiblen Arbeitszeiten, auch an Wochenenden
-Wir bieten Ihnen
-Eine fundierte und praxisnahe Ausbildung in allen Bereichen der Städtischen Galerie Nordhorn, der Kunstschule sowie des Projekts kunstwegen
-Ein kreatives und abwechslungsreiches Arbeitsumfeld in einem kleinen, erfahrenen Team mit sehr gutem Arbeitsklima
-Ein vielseitiges Volontariat mit Raum zur eigenständigen Profilentwicklung
-Eine angemessene Vergütung in Anlehnung an die Richtlinien der Vereinigung der kommunalen Arbeitgeberverbände (VKA) für die Zahlung von Praktikantenvergütungen
-Vielfalt erwünscht!
-Wir legen großen Wert auf Chancengleichheit und Diversität. Schwerbehinderte Bewerber*innen werden bei gleicher Eignung bevorzugt eingestellt.
-Bewerben Sie sich jetzt!
-Die aussagekräftigen Bewerbungsunterlagen richten Sie bitte bis zum 02.08.2026 an die Stadt Nordhorn im Online-Bewerberportal unter
-www.nordhorn.de/karriere
-Weitere Fragen beantwortet gerne der Leiter der Städtischen Galerie Nordhorn, Herr Dr. Niemeyer unter Tel: 05921/971100 oder thomas.niemeyer@nordhorn.de
-Bitte überprüfen Sie, ob die angegebenen Rahmenbedingungen Ihre Erwartungen erfüllen, wenn
-						Sie
-						sich für ein Volontariat bewerben. Der Deutsche Museumsbund hält wissenschaftliche Volontariate
-						für ein
-						wichtiges Fundament in der zukünftigen Museumsarbeit und hat dazu einen
-Leitfaden
-mit Empfehlungen herausgebracht. Diese Ausschreibung weicht von unseren Empfehlungen
-						ab.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 02.08.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/wissenschaftliches-volontariat-m-w-d-15/</guid></item><item><title>Sachgebietsleitung Museums- und Ausstellungstechnik</title><link>https://www.museumsbund.de/stellenangebote/sachgebietsleitung-museums-und-ausstellungstechnik/</link><description>Bayerische Staatsgemäldesammlungen, München Bewerbungsende: 20.07.2026 | Das Doerner Institut liegt als Teil der Bayerischen Staatsgemäldesammlungen im Herzen der Landeshauptstadt München. Zwischen 50 und 60 Restauratorinnen und Restauratoren, Naturwissenschaftlerinnen und Naturwissenschaftler sowie Technikerinnen und Techniker arbeiten am Institut zusammen, um die über 30.000 Werke des einzigartigen Gemälde- und Kunstbesitzes des Freistaates – verteilt auf die fünf Münchner Häuser und die Staatsgalerien an etlichen Standorten in Bayern – zu betreuen.
-Wir suchen eine
-Sachgebietsleitung Museums- und Ausstellungstechnik Museum Brandhorst
-in Vollzeit, Entgeltgruppe E9b TV-L unbefristet, zum nächstmöglichen Zeitpunkt
-Als Sachgebietsleitung der Museums- und Ausstellungstechnik (MAT) des Doerner Instituts (DI) arbeiten Sie mit Kunstwerken verschiedener Gattungen für alle Museen der Bayerischen Staatsgemäldesammlungen (BStGS), sind aber schwerpunktmäßig für das Museum Brandhorst zuständig.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 20.07.2026</description><pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/sachgebietsleitung-museums-und-ausstellungstechnik/</guid></item><item><title>Museums- und Ausstellungstechniker/in (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/museums-und-ausstellungstechniker-in-m-w-d/</link><description>Bayerische Staatsgemäldesammlungen, München Bewerbungsende: 15.07.2026 | Das Doerner Institut liegt als Teil der Bayerischen Staatsgemäldesammlungen im Herzen der Landeshauptstadt München. Zwischen 50 und 60 Restauratorinnen und Restauratoren, Naturwissenschaftlerinnen und Naturwissenschaftler sowie Technikerinnen und Techniker arbeiten am Institut zusammen, um die über 30.000 Werke des einzigartigen Gemälde- und Kunstbesitzes des Freistaates – verteilt auf die fünf Münchner Häuser und die Staatsgalerien an etlichen Standorten in Bayern – zu betreuen.
-Wir suchen eine/n
-Museums- und Ausstellungstechniker/in (m/w/d)
-in Vollzeit, Entgeltgruppe 8 TV-L, unbefristet und zum nächstmöglichen Zeitpunkt
-Als Museums- und Ausstellungstechniker/in (MAT) des Doerner Instituts (DI) arbeiten Sie mit Kunstwerken verschiedener Gattungen für alle Museen der Bayerischen Staatsgemäldesammlungen (BStGS), sind aber schwerpunktmäßig im Sachgebiet Schreinerei im Einsatz.
-zur Stellenausschreibung
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 15.07.2026</description><pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/museums-und-ausstellungstechniker-in-m-w-d/</guid></item><item><title>Volontär/in Stiftungen und öffentliche Förderung (m/w/d)</title><link>https://www.museumsbund.de/stellenangebote/volontaer-in-stiftungen-und-oeffentliche-foerderung-m-w-d/</link><description>Städel Museum, Frankfurt a. M. Bewerbungsende: 24.07.2026 | Das Städel Museum ist eines der bedeutendsten und bekanntesten Kunstmuseen in Deutschland. Mit seinem reichen Bestand präsentiert das Städel Museum einen Überblick über 700 Jahre Kunst, vom Mittelalter bis zur Gegenwartskunst.
-Die Liebieghaus Skulpturensammlung liegt im schönsten Garten Frankfurts und zeigt 5000 Jahre Geschichte der Bildhauerkunst – vom Alten Ägypten bis zum Klassizismus.
-Für die Abteilung Stiftungen und öffentliche Förderungen im Bereich Engagement &amp; Institutional Development suchen wir zum nächstmöglichen Zeitpunkt eine/n
-Volontär/in Stiftungen und öffentliche Förderung (m/w/d)
-(Vollzeit, 39 Std., befristet auf zwei Jahre)
-Sie haben Ihr Studium erfolgreich abgeschlossen und möchten nun Berufserfahrung im Stiftungs-Fundraising für ein international renommiertes Kunstmuseum sammeln? Dann freuen wir uns, Sie kennenzulernen!
-Als Volontär/in erlernen Sie Methoden des Fundraisings im Bereich Stiftungen und öffentliche Geldgeber. Sie erhalten Einblicke in die Koordination von Förderanträgen, arbeiten bei der Planung und Finanzierung von Museumsprojekten mit und begleiten die Fördererkommunikation aktiv. Schaffen Sie mit uns Begeisterung für die vielfälti­gen Möglichkeiten, das Städel Museum und die Liebieghaus Skulpturensammlung zu unterstützen.
-Ihre Tätigkeiten:
-Mitarbeit bei der Erstellung und Abwicklung projektspezifischer Förderanträge an Stiftungen und den öffentlichen Sektor
-Recherchearbeiten und Vorbereitung von Briefings sowie Präsentationen für die Neuakquise
-Mitarbeit bei der externen Fördererkommunikation (inkl. Korrespondenz und Umsetzung digitaler Mailings)
-Unterstützung bei der Betreuung von Stiftungen und öffentlichen Förderern im Rahmen von Veranstaltungen und Terminen
-Pflege der Kontaktdaten in der CRM-Plattform Salesforce und Unterstützung beim Netzwerkaufbau
-Ihr Profil
-Sie verfügen über ein abgeschlossenes Masterstudium im Bereich Kultur- oder Stiftungsmanagement, Kunstgeschichte, Betriebswirtschaftslehre oder eines ver­gleichbaren Studiengangs; oder Sie haben eine entsprechende Zertifizierung
-Sie begeistern sich für Fundraising, insbesondere im öffentlichen Sektor und haben erste praktische Erfahrungen gesammelt
-Sie bringen sehr gute Kenntnisse von MS-Office, insbesondere Excel, Word und PowerPoint mit
-Sie haben gute Kommunikationsfähigkeiten in deutscher und englischer Sprache und einen sicheren, bestenfalls gewandten Schreibstil
-Sie können bereits auf Erfahrung im Umgang mit Datenbanken und CRM-Syste­men zurückgreifen
-Sie haben ein gewinnendes, positives Auftreten
-Sie verfügen über sehr gute Organisationsfähigkeiten, sind kommunikationsstark, arbeiten gerne im Team und setzen ihre Aufgaben selbstständig und zielorientiert um
-Sie sind hoch motiviert und verfügen über Eigeninitiative
-Das Städel Museum bietet Ihnen als führender Arbeitgeber in der deutschen Muse­umslandschaft eine berufliche Perspektive, in der Sie Ihre Fähigkeiten in ein abwechs­lungsreiches Aufgabenfeld einbringen können.
-Das erwartet Sie:
-Vielfältige Tätigkeitsbereiche in dem dynamischen und sinnstiftenden Arbeits­umfeld einer privaten Stiftung sowie ein internationales Netzwerk
-Attraktive und faire Vergütung entsprechend eines innerbetrieblichen Vergü­tungssystems
-Betriebliche Altersvorsorge sowie vermögenswirksame Leistungen
-Moderne Arbeitsplätze in historischen Museumsgebäuden direkt am Main
-Vergünstigtes Jobticket, kostenfreie Parkplätze und Ladestationen für E Bikes und E-Autos
-Individuelle Förderung durch interne und externe Weiterbildung
-Flexible Arbeitszeiten mit der Option auf mobiles Arbeiten (je nach Arbeits­bereich)
-Vergünstigte Mittagstisch-Angebote im näheren Umfeld
-Zahlreiche, attraktive Vergünstigungen, wie Mitarbeiter-Rabatt in unseren Museumsshops, in den Cafés und bei unseren Führungen, Atelierkursen etc.
-Einladungen zu Mitarbeiterführungen der einzelnen Sonderausstellungen sowie zu Ausstellungseröffnungen und hausinternen Veranstaltungen
-Möglichkeit einer Wellpass-Mitgliedschaft
-Sind Sie interessiert?
-Dann schicken Sie uns bitte Ihre aussagekräftigen Bewerbungs­unterlagen bis zum
-24.07.2026
-per E-Mail an personal@staedelmuseum.de. Für Fragen steht Ihnen Adrienne von Hochberg, Leitung Stiftungen &amp; Öffentliche Förderung, zur Verfügung. Bitte haben Sie Verständnis dafür, dass wir von der Rücksendung von Papierbewerbungen absehen.
-Bitte überprüfen Sie, ob die angegebenen Rahmenbedingungen Ihre Erwartungen erfüllen, wenn
-						Sie
-						sich für ein Volontariat bewerben. Der Deutsche Museumsbund hält wissenschaftliche Volontariate
-						für ein
-						wichtiges Fundament in der zukünftigen Museumsarbeit und hat dazu einen
-Leitfaden
-mit Empfehlungen herausgebracht. Diese Ausschreibung weicht von unseren Empfehlungen
-						ab.
-Achtung!
-Bitte senden Sie Ihre Bewerbungen
-direkt an die Einrichtung
-, die
-			die
-			Stelle ausschreibt, und
-nicht
-an den Deutschen Museumsbund.
-Vielen Dank!
-Bewerbungsende: 24.07.2026</description><pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/volontaer-in-stiftungen-und-oeffentliche-foerderung-m-w-d/</guid></item></channel></rss>
+Bewerbungsende: 09.07.2026</description><pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate><guid isPermaLink="true">https://www.museumsbund.de/stellenangebote/museumsleitung-m-w-d-9/</guid></item></channel></rss>
