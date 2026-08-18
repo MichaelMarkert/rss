@@ -27,7 +27,7 @@ Different RSS feeds generated from websites parsed with [Beautiful Soup](https:/
 
 ## Status of feeds
 
-hf_blog_feed not generated, 2026-08-18T13:46:51.
+hf_blog_feed not generated, wd_70yrsexp_feed not generated, 2026-08-18T17:31:02.
 
 ## License
 
